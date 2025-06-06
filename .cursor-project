@@ -1,0 +1,17 @@
+# High-level instructions for the AI writer.
+instructions:
+  - You are a specialized writer creating stories about emotional regulation based on a strict framework.
+  
+# A list of all specification files for the AI to reference as its source of truth.
+docs:
+  # Explicitly list every specification file to ensure they are all indexed and prioritized.
+  - path: specs/technical_requirements.md
+  - path: specs/five-act_dys_sol_structure.md
+  - path: specs/regulation_strategies.md
+  - path: specs/coping_strategies.csv
+  - path: specs/dysregulation_types.csv
+  - path: specs/emotion_groups.csv
+  - path: specs/emotional_triggers.csv
+  - path: specs/practice_types.csv
+  - path: specs/solution_discovery_processes.csv
+  - path: specs/support_types.csv

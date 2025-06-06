@@ -1,0 +1,24 @@
+Name,Emotions,Valence
+Fear / Anxiety,"Scared, Worried, Nervous, Startled, Anxious, Terrified, Panicked, Uneasy, Frightened",Negative
+Happiness / Joy,"Happy, Excited, Cheerful, Delighted, Joyful, Pleased, Content, Thrilled, Elated",Positive
+Sadness / Sorrow,"Sad, Upset, Disappointed, Heartbroken, Gloomy, Miserable, Dejected, Melancholy",Negative
+Anger / Frustration,"Mad, Angry, Frustrated, Annoyed, Furious, Irritated, Grumpy, Outraged, Enraged",Negative
+Surprise / Wonder,"Surprised, Amazed, Astonished, Shocked, Bewildered, Stunned, Curious, Fascinated",Neutral
+Disgust / Dislike,"Disgusted, Grossed out, Repulsed, Sick, Revolted, Appalled, Nauseated",Negative
+Love / Affection,"Loving, Caring, Affectionate, Fond, Adoring, Tender, Devoted, Warm",Positive
+Shame / Guilt,"Ashamed, Guilty, Embarrassed, Regretful, Sorry, Humiliated, Remorseful",Negative
+Pride / Confidence,"Proud, Confident, Accomplished, Satisfied, Self-assured, Triumphant",Positive
+Loneliness / Isolation,"Lonely, Left out, Rejected, Abandoned, Isolated, Excluded, Forgotten",Negative
+Calm / Peace,"Calm, Peaceful, Relaxed, Serene, Tranquil, At ease, Centered, Still",Positive
+Excitement / Energy,"Energetic, Pumped up, Hyper, Restless, Eager, Enthusiastic, Bouncy",Positive
+Confusion / Uncertainty,"Confused, Puzzled, Lost, Uncertain, Perplexed, Baffled, Mixed up",Negative
+Boredom / Disinterest,"Bored, Uninterested, Restless, Tired, Dull, Listless, Indifferent",Negative
+Jealousy / Envy,"Jealous, Envious, Resentful, Covetous, Possessive, Bitter",Negative
+Hope / Optimism,"Hopeful, Optimistic, Encouraged, Expectant, Positive, Uplifted",Positive
+Overwhelm / Stress,"Overwhelmed, Stressed, Pressured, Frazzled, Burned out, Swamped",Negative
+Trust / Security,"Trusting, Safe, Secure, Protected, Comfortable, Reassured, Confident in others",Positive
+Empathy / Compassion,"Sympathetic, Caring for others, Concerned, Compassionate, Understanding, Moved by others",Positive
+Gratitude / Appreciation,"Grateful, Thankful, Appreciative, Blessed, Indebted, Touched by kindness",Positive
+Determination / Perseverance,"Determined, Motivated, Focused, Driven, Persistent, Resolute, Committed",Positive
+Hurt (Emotional),"Hurt, Wounded, Betrayed, Let down, Crushed, Stung, Bruised feelings",Negative
+Helplessness / Powerlessness,"Helpless, Powerless, Stuck, Trapped, Unable, Defeated, Weak, Useless",Negative
