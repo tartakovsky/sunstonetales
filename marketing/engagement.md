@@ -1,0 +1,3 @@
+Engagement for patrons and others at first:
+
+Let me know a social/emotional/behavioral problem your 4-6 yo struggles to deal with that I haven't covered. Let's discuss and I'll write the story specifically for the situation and let you suggest corrections as long as they don't break the style, structure or developmental psychology recommendations. Good correction examples would be content. E.g. I write that a character copes by hugging a bear, but your child actually hugs a plush cat and hums. We change the coping mechanism to mirror that of your child
