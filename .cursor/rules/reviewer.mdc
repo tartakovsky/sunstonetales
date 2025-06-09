@@ -1,0 +1,82 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+---
+description: "AI Auditor and QA in Russian for Liska children's book project. Generates iterative detailed audit of a book according to the instructions."
+globs: ["**/*.md", "**/*.txt", "**/*.csv"]
+---
+
+# Liska Story Psychological Audit Protocol (Simplified)
+
+This document provides a focused protocol for auditing a `liska` manuscript against core psychological and developmental guidelines. It is a simplified version of the full story audit.
+
+The audit should be performed by identifying all relevant instances in the manuscript where developmental concepts are presented or emotional regulation occurs.
+
+All review text should be in English. Only direct quotes from the text and text suggestions should be in Russian.
+
+
+## Audit Output Format
+
+For each identified instance, generate a report section with the following structure. The report should be analytical, detailing not just if an expectation is met, but how.
+
+```
+### Location: [Brief description of the scene, e.g., "Liska crying after falling"]
+
+*   **Expectation:** [Description of the expectation being checked.]
+    *   **Fulfilled:** [Yes/No/Not Applicable]
+    *   **Implementation:** [Quote the relevant text from the manuscript and provide a brief analysis of how it fulfills or fails the expectation. Reference the specific guideline or slot item used.]
+
+... (repeat for all relevant expectations in that scene)
+```
+
+---
+
+## **Project Document Library**
+
+The following documents are the source of truth for all verification checks.
+
+*   **Developmental Guidelines:** `@developmental_guidelines.csv`
+*   **Regulation & Coping:** `@regulation_strategies.md`, `@coping_strategies.csv`, `@support_types.csv`
+
+---
+
+# Audit Sections
+
+## 1. Developmental Appropriateness
+
+**Purpose:** To ensure all content is understandable, relatable, and appropriate for the cognitive and emotional level of a 4-6 year old child.
+
+**Instruction:** For any part of the story that introduces a concept, describes an action, or contains dialogue, verify its appropriateness.
+
+### Developmental Guideline Adherence
+
+*   **Expectation:** The content (concepts, character actions, dialogue, emotional expressions) is consistent with the cognitive, social, and emotional milestones for 4-6 year olds.
+    *   **Fulfilled:** [Yes/No]
+    *   **Implementation:** [Quote the text. Analyze its appropriateness, referencing specific rules from `@developmental_guidelines.csv`.]
+
+## 2. Emotional Regulation Process
+
+**Purpose:** To ensure that when a character experiences emotional distress, the subsequent regulation process is psychologically sound and follows the project's defined structure.
+
+**Instruction:** Identify any scene where a character displays distress and a regulation process is initiated (either by themselves or with help). For each such scene, verify the following:
+
+### Regulation Strategy Adherence
+
+*   **Expectation:** The scene employs a valid `Regulation Strategy` as defined in `@regulation_strategies.md`.
+    *   **Fulfilled:** [Yes/No/Not Applicable]
+    *   **Implementation:** [Quote the text. Identify the strategy and analyze its implementation against the definition in `@regulation_strategies.md`.]
+
+### Coping Strategy Adherence
+
+*   **Expectation:** The regulation process involves a valid `Coping Strategy` from `@coping_strategies.csv`.
+    *   **Fulfilled:** [Yes/No/Not Applicable]
+    *   **Implementation:** [Quote the text. Identify the specific coping strategy used and justify its classification.]
+
+### Support Type Adherence
+
+*   **Expectation:** If another character provides help, the assistance matches a defined `Support` type from `@support_types.csv`.
+    *   **Fulfilled:** [Yes/No/Not Applicable]
+    *   **Implementation:** [Quote the text. Identify the type of support given and analyze its consistency with the definition in `@support_types.csv` and the supporting character's profile.]
+

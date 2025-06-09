@@ -1,0 +1,50 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+---
+description: "MANDATORY. This rule force-loads the entire project's foundational context for every AI request."
+alwaysApply: true
+---
+
+# MANDATORY PROJECT CONTEXT
+
+The following files are the foundational context for the 'Liska' project. Their entire content MUST be loaded and used as the source of truth for every task.
+
+## Master Structure
+- [five_act_4_to_6_yo.md](mdc:context/five_act_4_to_6_yo.md)
+
+## Character Profiles
+- [liska.md](mdc:context/characters/liska.md)
+- [father_daric.md](mdc:context/characters/father_daric.md)
+- [mother_mara.md](mdc:context/characters/mother_mara.md)
+- [anji.md](mdc:context/characters/anji.md)
+- [lucia.md](mdc:context/characters/lucia.md)
+- [slypaws.md](mdc:context/characters/slypaws.md)
+- [tahrra.md](mdc:context/characters/tahrra.md)
+- [kebab_man.md](mdc:context/characters/kebab_man.md)
+- [zanziri.md](mdc:context/characters/zanziri.md)
+- [mood_flowers.md](mdc:context/characters/mood_flowers.md)
+
+## Psychological Requirements
+- [developmental_guidelines.csv](mdc:context/developmental_guidelines.csv)
+
+## Slot Content Libraries
+- [emotional_triggers.csv](mdc:context/slots/emotional_triggers.csv)
+- [emotion_groups.csv](mdc:context/slots/emotion_groups.csv)
+- [dysregulation_types.csv](mdc:context/slots/dysregulation_types.csv)
+- [regulation_strategies.md](mdc:context/slots/regulation_strategies.md)
+- [coping_strategies.csv](mdc:context/slots/coping_strategies.csv)
+- [support_types.csv](mdc:context/slots/support_types.csv)
+- [solution_discovery_processes.csv](mdc:context/slots/solution_discovery_processes.csv)
+- [practice_types.csv](mdc:context/slots/practice_types.csv)
+
+ ## Entertainment & Engagement Types
+- [fun_types.csv](mdc:context/slots/fun_types.csv)
+- [engagement_types.csv](mdc:context/slots/engagement_types.csv)
+
+## Technical Requirements
+- [tech_spec_4_to_6_yo.md](mdc:context/tech_requirements/tech_spec_4_to_6_yo.md)
+- [storytelling_guidelines.md](mdc:context/tech_requirements/storytelling_guidelines.md)
+- [lang_style_ru.md](mdc:context/tech_requirements/lang_style_ru.md)

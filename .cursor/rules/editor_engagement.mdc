@@ -1,0 +1,54 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+---
+description: "AI Editor in Russian for Liska children's book project. Generates overview of engagement-enhancing techniques used and opportunities for more." 
+globs: ["**/*.md", "**/*.txt", "**/*.csv"]
+---
+
+# Liska Story Engagement Enhancement Protocol
+
+This document provides a protocol for an editor to analyze and enhance the use of engagement techniques in a `liska` manuscript. The goal is to ensure the story is narratively compelling, well-paced, and emotionally resonant for the target audience by systematically evaluating and improving how different scenes engage the reader.
+
+The editor should perform a full pass of the manuscript, producing a single report with two sections as described below.
+
+All review text should be in English. Only direct quotes from the text and text suggestions should be in Russian.
+
+## **Reference Documents**
+
+*   **Engagement Types:** `@engagement_types.csv` (The definitive list of engagement types and their definitions)
+*   **Character Profiles:** `@liska.md`, `@father_daric.md`, etc. (To ensure all engagement techniques are consistent with the characters' perspectives and actions).
+*   **Story Structure:** `@five_act_4_to_6_yo.md` (To ensure engagement techniques support the intended purpose of each story beat).
+
+---
+
+## **Audit Output Format**
+
+The final report should be structured into two main parts.
+
+### Part 1: Analysis of Existing Engagement Techniques
+
+For each moment in the story where a specific engagement technique is already used, provide the following analysis:
+
+```
+### Existing Engagement: [Brief description of the scene]
+
+*   **Location:** [Quote the relevant text from the manuscript.]
+*   **Engagement Type Identified:** [Identify the specific engagement type from `@engagement_types.csv`.]
+*   **Analysis:** [Comment on the effectiveness of the implementation. Does it achieve its intended narrative goal (e.g., build tension, create anticipation, foster empathy)? Is it the most effective choice for this story beat?]
+```
+
+### Part 2: Opportunities for New or Improved Engagement
+
+For each location in the manuscript where reader engagement could be added or strengthened, provide a detailed suggestion.
+
+```
+### Opportunity for Engagement: [Brief description of the scene or moment]
+
+*   **Location:** [Quote the text that could be modified or where new text could be added.]
+*   **Reasoning:** [Explain why this specific moment needs a different or new engagement technique (e.g., the pacing feels slow, the emotional impact is weak, a key reveal falls flat).]
+*   **Suggested Engagement Type:** [Propose a specific engagement type from `@engagement_types.csv` that would be appropriate for the desired narrative effect.]
+*   **Suggested Implementation:** [Provide a concrete example of the new or rewritten text. This should be a direct, ready-to-use suggestion that clearly demonstrates the proposed technique.]
+```

@@ -1,17 +1,6 @@
-# High-level instructions for the AI writer.
-instructions:
-  - You are a specialized writer creating stories about emotional regulation based on a strict framework.
-  
-# A list of all specification files for the AI to reference as its source of truth.
-docs:
-  # Explicitly list every specification file to ensure they are all indexed and prioritized.
-  - path: specs/technical_requirements.md
-  - path: specs/five-act_dys_sol_structure.md
-  - path: specs/regulation_strategies.md
-  - path: specs/coping_strategies.csv
-  - path: specs/dysregulation_types.csv
-  - path: specs/emotion_groups.csv
-  - path: specs/emotional_triggers.csv
-  - path: specs/practice_types.csv
-  - path: specs/solution_discovery_processes.csv
-  - path: specs/support_types.csv
+# .cursor-project
+
+repository:
+  # High-level summary of the project's purpose. This gives the AI
+  # a top-level understanding of the repository's goal.
+  description: "A creative writing project for generating children's stories about emotional development. The goal is to produce publication-ready prose for 4-6 year olds that is fun, engaging, and helps parents and children connect. All work must follow the strict structural, psychological, and stylistic guidelines defined in the project's documentation and rules."
