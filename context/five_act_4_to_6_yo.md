@@ -29,7 +29,7 @@ A clear, tangible problem is established with immediate impact.
 - Slot: `Emotional Trigger` from @emotional_triggers.csv
 
 ### 2.4: Fallout
-The child experiences initial dysregulation and a negative emotional reaction to the Core Incident. Might be mild if the emotional inner state of the main character is not the focus of the story.
+The child experiences initial dysregulation and a negative emotional reaction to the Core Incident. Should be mild, the deep low should be reserved for the low point later.
 - Slot: `Engagement` from @engagement_types.csv
 - Slot: `Emotion Group Triggered` from @emotion_groups.csv
 - Slot: `Dysregulation` from @dysregulation_types.csv
