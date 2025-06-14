@@ -45,3 +45,11 @@
 - Use fun.
 fun, humor, physical comedy, whimsical, wonder
 - Simplify the magic systems to be more intuitive and wonder-based
+
+
+## Emotion Metaphors
+- Introduce at least one in each story. 
+- One for main problematic emotion
+- Maybe one for target positive emotion
+- After the metaphor state explicitely what emotion it represents
+- Never more than two, one for problematic emotion and one leading to solution
