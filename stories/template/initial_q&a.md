@@ -5,6 +5,10 @@
 
 ---
 
+- **Q: Is any emotion central to the story, or are they used transitively for the narrative**
+- A: 
+
+---
 - **Q: What is the key emotion the problem triggers**
 - A: Frustration / Anger
 
