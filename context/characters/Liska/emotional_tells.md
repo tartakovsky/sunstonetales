@@ -133,6 +133,17 @@
 - Sound: A sputtering sound
 - Tail: shoots straight up and puffs up (image-only)
 
+**Disappointment**
+- Face Melt: The bright, expectant expression slackens and falls.
+- Short Freeze: Her body momentarily freezes in place, as if processing the shock of the loss.
+- Sound: A sharp, quiet intake of breath
+
+**Temptation**
+- Leaning Forward: Her body leans slightly toward the object of temptation, as if drawn by an invisible force.
+- Fidgety Paws (Reaching Slightly): Her paws twitch and reach slightly toward the object, showing the urge to grab or touch, then pull back as if remembering a rule.
+- Wide, Fixated Eyes: Her eyes lock onto the object with an intense, unblinking stare.
+- Tail Pointing Straight Out with a Bend: Her tail sticks straight out behind her with a sharp, excited bend at the tip, as if it's straining toward the object of desire, capturing eagerness in a funny, exaggerated manner.
+
 ## Positive Emotions
 
 **Happiness / Joy**

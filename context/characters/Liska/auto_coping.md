@@ -74,3 +74,11 @@ This document lists brainstormed automatic (instinctive) coping behaviors for Li
 - **Shaking Off Body**: She shakes head and body to shake off failure. Realistic as physical reset, desirable as playful.
 - **Clenching Paws Briefly**: She clenches paws to gather strength. Realistic as resolve, needs scrutiny for anger confusion.
 - **Nodding to Herself**: She nods once as if to say 'I'll try again.' Realistic as self-encouragement, desirable as positive.
+
+## 15. Disappointment (Transitional Event)
+- **Note**: Disappointment is a brief transitional event leading to Sadness, Anger, or Helplessness. There are no specific instinctive coping behaviors defined for Disappointment itself. The automatic coping response is governed by the resulting emotional state (Sadness, Anger, or Helplessness) as defined in their respective sections.
+
+## 16. Temptation
+- **Step Closer**: She instinctively takes a small step toward the object, drawn by the pull, before catching herself.
+- **Paw Hover**: Her paw hovers near the object, trembling slightly with the urge to take it, showing the internal conflict.
+- **Turn Away Briefly**: She turns her head or body away for a moment, trying to break the fixation, though her eyes keep darting back.

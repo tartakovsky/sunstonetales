@@ -209,4 +209,32 @@ This document outlines the core system of metaphors used to represent emotions i
     *   A sturdy, solid, "I-won't-stay-down" feeling in the body.
 *   **Narrative Example:**
     > Башенка из кубиков снова рухнула. Лиска вздохнула. На миг она почувствовала, что качнулась от неудачи, готовая всё бросить. Но потом она представила себя неваляшкой. Неудача толкнула её, но она, покачавшись, снова выпрямилась.
-    > (The block tower fell again. Liska sighed. For a moment, she felt herself wobble from the setback, ready to give up. But then she imagined herself as a tumbler toy. The failure pushed her, but after wobbling, she stood straight again.) 
+    > (The block tower fell again. Liska sighed. For a moment, she felt herself wobble from the setback, ready to give up. But then she imagined herself as a tumbler toy. The failure pushed her, but after wobbling, she stood straight again.)
+
+---
+
+### 16. Disappointment (Hope Collapse) → Dropping Stone (Упавший Камень)
+
+*   **Causal Link:** Occurs when a tangible, positive expectation is suddenly invalidated. It's the collapse of a specific, anticipated joy. This is a brief transitional event leading to Sadness, Anger, or Helplessness.
+*   **Emotion:** Disappointment. The sharp, sudden collapse of a hope.
+*   **Images & Sensations:**
+    *   A sudden "lurch" in the stomach, as if the ground dropped out.
+    *   A heavy, empty "thud" in the chest, as if a stone has just dropped.
+*   **Narrative Example:**
+    > Лиска представляла, как они пойдут в парк и будут есть мороженое. Это было так реально, что она почти чувствовала сладкий вкус во рту. Но тут мама сказала: "Мы не можем пойти, начался сильный дождь." Внутри у Лиски всё оборвалось, словно тяжёлый камень упал в груди с глухим стуком. 
+    > (Liska imagined going to the park and eating ice cream. It felt so real, she could almost taste the sweetness. But then Mom said, "We can't go, it's started to rain heavily." Something inside Liska lurched, as if a heavy stone dropped in her chest with a hollow thud.)
+
+---
+
+### 17. Temptation (Irresistible Pull) → Magnetic Rock (Магнитный Камень)
+
+*   **Causal Link:** Occurs when an immediate, desirable object or action captures attention, creating a strong pull in conflict with rules or delayed gratification.
+*   **Emotion:** Temptation. The intense, urgent desire to act on an impulse.
+*   **Images & Sensations:**
+    *   A strong, invisible "tug" in the chest or hands, pulling toward the object of desire.
+    *   A restless, tingling excitement in the body, urging action.
+    *   A narrowing focus, where the desired object feels like the only thing in the world.
+    *   A warm, itchy feeling of wanting that grows stronger the longer it's resisted.
+*   **Narrative Example:**
+    > Лиска увидела блестящую игрушку на столе. Её не разрешали трогать, её лапки как магнитом тянуло к игрушке. Ей так хотелось схватить её прямо сейчас, что всё тело зудело от желания.
+    > (Liska saw a shiny toy on the table. She wasn't allowed to touch it, pulling her paws like a magnet toward the toy. She wanted to grab it right now so badly that her whole body itched with desire.) 

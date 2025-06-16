@@ -17,7 +17,7 @@
 ## Sadness
 
 1.  **The Signal (Expression/Output):**
-    *   Liska’s shoulders drooped. A long, quiet sigh puffed out of her lips.
+    *   Liska's shoulders drooped. A long, quiet sigh puffed out of her lips.
 
 2.  **The Description (Internal Feeling):**
     *   Her whole body felt heavy. There was a hollow, empty space in her chest.
@@ -41,3 +41,40 @@
 
 4.  **The Learned Compensation (Learned Behavior):**
     *   She looked at her own paw and slowly touched each finger, counting to five.
+
+## Disappointment
+
+0.  **The Preceding Hope (Anticipation):**
+    *   Liska's body was buzzing with excitement. Her eyes were bright and she was leaning forward, imagining the fun she was about to have.
+
+1.  **The Signal (Expression/Output):**
+    *   Her bright, expectant face melted and slackened. Her body froze for a moment, processing the shock of the loss.
+
+2.  **The Description (Internal Feeling):**
+    *   A sudden, sickening lurch hit her stomach. A heavy, empty thud filled her chest, as if a stone had just dropped.
+
+3.  **Transition to Emotional Pathway:**
+    *   This moment of disappointment, captured by the 'Dropping Stone (Упавший Камень)' metaphor, is a brief transitional event. It immediately leads to one of three emotional states: Sadness, Anger, or Helplessness. All subsequent body language, internal feelings, and coping strategies (both instinctive and learned) are governed by the resulting emotion as defined in project documents.
+
+4.  **Instinctive Comfort Action (Coping, Response, Automatic Compensation):**
+    *   Take from the resulting emotion
+
+5.  **The Learned Compensation (Learned Behavior):**
+    *   Take from the resulting emotion
+
+## Temptation
+
+0.  **The Initial Attraction (Anticipation of Reward):**
+    *   Liska's body buzzed with excitement. Her eyes locked onto the object of desire, imagining the immediate reward.
+
+1.  **The Signal (Expression/Output):**
+    *   Her body leaned slightly toward the object, as if drawn by an invisible force. Her paws twitched and reached slightly, then pulled back. Her eyes fixated intensely, and her breathing became quick and shallow. Her tail tip flicked rapidly with restless energy.
+
+2.  **The Description (Internal Feeling):**
+    *   A strong, invisible tug pulled at her chest and hands, urging her toward the object. A restless, tingling excitement filled her body, narrowing her focus to the temptation. A warm, itchy feeling of wanting grew stronger with each moment she resisted.
+
+3.  **Instinctive Comfort Action (Coping, Response, Automatic Compensation):**
+    *   She took a small step closer to the object, drawn by the pull, before catching herself. Her paw hovered near it, trembling with the urge, or she turned her head away briefly, though her eyes kept darting back.
+
+4.  **The Learned Compensation (Learned Behavior):**
+    *   She repeated a simple self-talk phrase like "Wait, think, ask," to slow her impulse, or counted to five slowly, or took deep breaths to break the fixation and pause the want, as taught by her parents.

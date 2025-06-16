@@ -22,3 +22,20 @@ This document lists the specific coping strategies that Liska has been taught by
 - **Narrative Example**: 
   > Мама объяснила: – Сожми лапки сильно и порычи, а потом отпусти. – Лиска сжала лапки, рыкнула и расслабилась, чувствуя, как Вулканчик стихает.
   > (Mom explained: – Squeeze your paws hard and growl, then let go. – Liska squeezed her paws, growled, and relaxed, feeling the Little Volcano quiet down.)
+
+## 4. Disappointment (Transitional Event)
+- **Note**: Disappointment is a brief transitional event leading to Sadness, Anger, or Helplessness. There are no specific learned coping behaviors defined for Disappointment itself. The learned coping response is governed by the resulting emotional state (Sadness, Anger, or Helplessness) as defined in their respective sections or future updates to this document.
+
+## 5. Temptation
+- **Self-Talk Phrase**: She repeats a simple phrase taught by her parents, like "Wait, think, ask," to slow down her impulse and consider consequences.
+  - **Narrative Example**: 
+    > Мама научила её маленькой хитрости: «Если что-то очень хочется, скажи себе тихонько: подожди, подумай, спроси». И Лиска прошептала эти слова, чтобы её лапки не тянулись к игрушке сами.
+    > (Mom taught her a little trick: "If you want something very much, tell yourself quietly: wait, think, ask." And Liska whispered these words so her paws wouldn't reach for the toy by themselves.)
+- **Counting to Take a Break**: She has learned to count to five slowly to break the fixation and redirect her energy, a strategy taught as a way to "pause the want."
+  - **Narrative Example**: 
+    > «Попробуй сосчитать до пяти, — предложил папа, — это помогает, когда лапки тянутся сами». Лиска послушно начала считать: «Один... два... три...» — и правда, ей стало легче устоять.
+    > ("Try counting to five," suggested Dad, "it helps when your paws reach out on their own." Liska obediently started counting: "One... two... three..." — and indeed, it became easier for her to resist.)
+- **Deep Breathing to Take a Break**: She has learned to take deep breaths to break the fixation and calm her body, another way to "pause the want."
+  - **Narrative Example**: 
+    > «А ещё можно сделать глубокий вдох, — посоветовала мама, — будто ты выдыхаешь само желание». Лиска глубоко вдохнула и медленно выдохнула. Сразу стало легче, будто невидимый магнит её отпустил.
+    > ("You can also take a deep breath," advised Mom, "as if you're breathing out the want itself." Liska took a deep breath and exhaled slowly. It immediately became easier, as if an invisible magnet let her go.)
