@@ -48,8 +48,16 @@ fun, humor, physical comedy, whimsical, wonder
 
 
 ## Emotion Metaphors
-- Introduce at least one in each story. 
+- Introduce at least one, at most two, in each story. 
 - One for main problematic emotion
 - Maybe one for target positive emotion
 - After the metaphor state explicitely what emotion it represents
 - Never more than two, one for problematic emotion and one leading to solution
+- Introduction of the metaphor should either be done explicitely by the parent before the child can use it
+- Or the metaphor should be natural enough to narrate it for the reader, while the character themselves doesn't voice it. 
+- Never the child comes up themselves with the metaphor and says it first
+
+## Coping Strategy Introduction
+- Make sure that before we use a learned coping strategy, it is either
+  - Introduced explicitely by a parent and preferably practiced before the child can apply it by themselves
+  - Or if the child is alone, it is very well justified that they can somehow apply something reasonable while being dysregulated. That would typically require them to just live through emotional spike. Then when they can think it should be something extremely trivial that leads them to a coping strategy / solution.

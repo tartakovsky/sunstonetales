@@ -1,0 +1,95 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Initial Q&A for Story Specification
+
+**Note:** The answers provided below are not final and are intended as examples of the type of information that should be provided for a specific book.
+
+You MUST read every file in the input list before respoding. Load it all into your context.
+
+**Required Input List:**
+- **Universal Input:**
+  - Emotional Metaphors: [emotional_metaphors.md](mdc:context/emotional_metaphors.md)
+  - Emotion Unfolding Sequence: [emotion_unfolding_sequence.md](mdc:context/emotion_unfolding_sequence.md)
+  Strategies: [coping_strategies.csv](mdc:context/slots/coping_strategies.csv)
+- **Character-Specific Input, e.g. for Liska:**
+  - Emotional Tells: [emotional_tells.md](mdc:context/characters/Liska/emotional_tells.md)
+  - Auto-Coping Behaviors: [auto_coping.md](mdc:context/characters/Liska/auto_coping.md)
+  - Learned Coping Strategies: [learned_coping.md](mdc:context/characters/Liska/learned_coping.md)
+
+Your job is to not only sort through what's in the input, but also to correct it and bring it closer to reality. E.g. if the input only mentions the character to be sad, but the actual emotion set would be more complex / different, it is your job to identify the set of actual emotions that would happen in such context. Then when you choose the most important emotions and how they unfold, you must choose from that list of actual emotions, not only from what's written.
+
+---
+
+**1. Who are the main characters in the story?**  
+**A:** [To be filled]
+**Example:** Liska (protagonist), Anji (friend), Mother (supporting character)
+
+---
+
+**2. What is the single problem the story will address?**  
+**A:** [To be filled]  
+**Example:** Liska fixates on losing a game with Anji, ignoring the fun they had earlier.
+
+---
+
+**3. What are the social consequences of this problem?**  
+**A:** Lack of understanding between Anji and Liska  
+**Example:** Anji feels frustrated and confused when Liska refuses to play again due to her focus on the loss.
+
+---
+
+**4. What is the one solution the story will lead to?**  
+**A:** [To be filled] 
+**Example:** Liska learns to remember the laughter and teamwork with Anji before the loss to feel better.
+
+---
+
+**5. What specific skill will the child learn to move toward the solution?**  
+**A:** [To be filled]
+**Example:** Liska practices listing three happy moments from the day when feeling upset.
+
+---
+
+**6. Which emotional sequences are triggered in the raw input?**  
+
+**A:** [To be filled]
+**Example:**
+- Shock -> Indignation: When Anji breaks Liska's boundaries and spills water on her picture.  
+- Disappointment -> Helplessness: When Liska tries something and repeatedly fails.
+
+---
+
+**7. Are any of these emotions central to the story, or are they used transitively for the narrative and the story is not about dealing with emotions?**  
+**A:** [To be filled]
+**Example:** Disappointment is central as the story focuses on Liska learning to manage it by balancing with positive memories.
+
+---
+
+**8. If the story is about emotional learning, what is the key emotion the problem triggers that is the most important to address developmentally?**  
+**A:** Sadness  
+**Example:** Sadness (resulting from Disappointment) - It's critical for 4-6-year-olds to learn to handle sadness to build emotional resilience and prevent prolonged negativity after setbacks.  
+**Comments:** The key emotion must be the one most important to address from a developmental psychology point of view given the situation. Only ONE emotion can be selected. Two best options from the raw input should be discussed, with reasoning for each on why it is developmentally significant in this context. If something else seems more important outside the raw input, suggest it with an explanation. Output your suggestions and reasoning as a comment to this question. Specifically focus why your emotion choice is more important than the other emotions in the raw input.
+
+---
+
+**9. What metaphor will represent the problematic emotion or behavior?**  
+**A:** Anger will be visualized as the "Little Volcano" metaphor.  
+**Example:** Sadness is visualized as a 'Rainy Cloud' (Дождливая Тучка) hanging over Liska, making everything grey and heavy. (Sourced from @emotional_metaphors.md)  
+**Required Input:** Emotional Metaphors from @emotional_metaphors.md  
+**Comment:** Only the metaphor for the selected main emotion can be chosen here. If there is no metaphor in the list, do not invent one. State that there isn't and that it needs to be designed to proceed.
+
+---
+
+**10. Which ONE learned coping behavior are we introducing to help the character recover from the emotion/situation?**  
+**A:** [To be filled]
+**Example:** Liska learns to walk over to her mother and use her words: 'Can I tell you about my feeling?' to express her sadness, seeking comfort. (Sourced from @emotion_unfolding_sequence.md under Sadness)  
+**Comments:** This must use character-specific learned coping strategies. Two best options from the raw input should be discussed, with reasoning for each on why it is developmentally significant to teach in this context. If something else seems more important outside the raw input, suggest it with an explanation. To be sourced from character-specific learned coping file - @learned_coping.md. With supporting information from @coping_strategies.csv  
+**Required Input:** Learned Coping Strategies from @learned_coping.md and Coping Strategies from @coping_strategies.csv
+
+**11. Write a paragraph summarizing the story.**
+**A:** [To be filled]
+
+---

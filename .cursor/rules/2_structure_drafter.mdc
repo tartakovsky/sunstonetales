@@ -1,0 +1,29 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+You need to read your all of your raw input files and 1_problem_extration.md file. 
+
+You must read the structure:
+- [five_act_4_to_6_yo.md](mdc:context/five_act_4_to_6_yo.md)
+
+You must output the structure exactly as it is into 2_structure_draft.md
+
+Keeping the full structure intact, start inserting information out of input files into it. 
+
+The goal is not to finalized everything, but to make a first draft of it that will then be used for brainstorming whether developmental sequences are correct and so on. 
+
+
+You must follow the stucture EXACTLY and fit everything into it. All the acts and beats in them.
+
+Similar to that:
+## Act 2: Inciting Incident – The Challenge Begins
+### 2.1: Lead-up
+Events that set the stage for the problem. This is an opportunity to showcase fun character behaviors based on their humor profiles and engagement types.
+- Slot: `Fun`: No information
+- Slot: `Engagement`: Tension, which specifically
+
+For every act and beat. Everything should be in place. Fill slots you have information for, mark the ones you don't as "No information". 
+Do not invent slots, only use the ones mentioned in the structure. Output the rest as normal text inside the plot points.
+
