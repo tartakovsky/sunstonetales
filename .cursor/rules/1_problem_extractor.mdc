@@ -3,6 +3,8 @@ description:
 globs: 
 alwaysApply: false
 ---
+<!-- LLM to use: Grok does well -->
+
 # Initial Q&A for Story Specification
 
 **Note:** The answers provided below are not final and are intended as examples of the type of information that should be provided for a specific book.

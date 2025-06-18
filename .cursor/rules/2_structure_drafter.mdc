@@ -3,6 +3,8 @@ description:
 globs: 
 alwaysApply: false
 ---
+<!-- LLM to use: Grok does well -->
+
 You need to read your all of your raw input files and 1_problem_extration.md file. 
 
 You must read the structure:

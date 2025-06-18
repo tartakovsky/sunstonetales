@@ -3,6 +3,11 @@ description:
 globs: 
 alwaysApply: false
 ---
+<!-- 
+LLM to use: Gemini does well, Grok doesn't 
+After initial review, discuss and iterate until I get the new fixed structure where both reviewer and I agree
+-->
+
 Output
 - Critical analysis from developmental psychology perspective
 - Beats in the structure for which information is missing
@@ -23,5 +28,9 @@ Required structure:
   - your suggestions what should be done if necessary
 
 Your job is to be absolutely ruthless in your review as long as it makes the story better developmentally. Your output would be the blueprint with which we train the new generation of readers. 
+
+- Prioritize Narrative Tension in Co-Regulation Suggestions: When recommending co-regulation for developmental appropriateness, ensure interventions are minimal or indirect (e.g., a glance or soft word) during high-tension plot points to avoid premature conflict resolution, maintaining the story’s emotional arc.
+- Balance Child Agency with Adult Support: Evaluate and preserve the protagonist’s agency in the climax by ensuring parental support does not overshadow the child’s problem-solving role, proposing delayed or partial co-regulation if full intervention risks undermining narrative stakes.
+- Allow Narrative Adjustments for Developmental Compliance: If developmental guidelines are not met (e.g., lack of co-regulation or emotional validation), suggest small-to-medium plot changes to incorporate necessary elements, ensuring alignment with developmental needs while maintaining story coherence and tension curve.
 
 Comment on everything necessary, but be concise and to the point.

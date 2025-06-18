@@ -3,117 +3,122 @@
 ## Act 1: Introduction
 
 ### 1.1: Introduce setting and atmosphere
-- The family den in early morning, golden light streaming through windows, creating a warm and cozy atmosphere. Shells and family treasures are arranged in a sunny corner, their special spot for togetherness.
+The family den is bathed in early morning golden light streaming through the windows. The air is warm and cozy, with a sunny corner where the family often curls up together, creating a sense of safety and happiness.
 
 ### 1.2: Introduce character(s)
-- **Liska**: A curious and sensitive young fox, arranging her magical shell collection with care in the sunny corner, humming softly, full of innocent joy.
-- **Mother Mara**: Usually warm and attentive, but today curled in a far corner, tail still, looking away.
-- **Father Daric**: Normally playful, but now sitting stiffly at the stone table, eyes distant.
+Liska is a playful and curious young fox, happily arranging her magical shell collection in the sunny corner of the den. Her parents, Mara and Daric Kotichek, are initially in the background, setting a loving family tone before tension arises.
 
 ## Act 2: Inciting Incident – The Challenge Begins
 
 ### 2.1: Lead-up
-- Liska plays with her shells, imagining beach adventures, feeling the morning warmth in their special family spot.
-- **Slot: Fun** - 'Imaginative Play' (from `fun_types.csv`): Liska pretends her shells are magical treasures from a faraway sea.
-- **Slot: Engagement** - 'Exploratory' (from `engagement_types.csv`): Liska is fully absorbed in discovering patterns with her shells.
+Events that set the stage for the problem. Liska is in her happy baseline, playing with shells and imagining beach adventures in their special sunny corner.
+- Slot: `Fun`: Imaginative Play (Liska imagines beach adventures with her shells, showcasing her creativity).
+- Slot: `Engagement`: Warmth (The morning warmth and family spot create a comforting, engaging atmosphere).
 
 ### 2.2: The Catalyst (Misstep / Misjudgment / Accidental Event)
-- Liska enters the main room to share her joy, expecting smiles, but notices her parents' stiff tails and averted gazes.
-- **Slot: Engagement** - 'Expectation' (from `engagement_types.csv`): Liska anticipates a happy reaction but is met with silence.
+Liska enters the main den to find her parents with stiff tails and serious faces, not looking at each other, which is unusual and unsettling for her.
+- Slot: `Engagement`: Tension (The visible tension between her parents creates an uneasy atmosphere).
+- Slot (Optional): `Fun`: No information
 
 ### 2.3: The Core Incident (The External Problem / Challenge)
-- The silent tension between her parents becomes clear; they are not looking at each other, and the family harmony is disrupted.
-- **Slot: Emotional Trigger** - 'Routine Disruption' (from `emotional_triggers.csv`): The usual warmth of family interaction is missing.
-- **Slot: Engagement** - 'Tension' (from `engagement_types.csv`): Liska senses something is wrong, creating unease.
+The clear problem is established: Liska feels confused and sad seeing her parents arguing and not interacting warmly with each other or with her.
+- Slot (Optional): `Fun`: No information
+- Slot: `Engagement`: Tension (The ongoing tension and lack of warmth between her parents directly impact Liska).
+- Slot: `Emotional Trigger`: Routine Disruption (The change in her parents' behavior disrupts the expected family harmony).
 
 ### 2.4: Fallout
-- Liska feels a heavy feeling in her tummy, her tail droops, and confusion sets in as she wonders if they are mad at her.
-- **Slot: Engagement** - 'Emotional' (from `engagement_types.csv`): Liska's focus shifts inward to her growing unease.
-- **Slot: Emotion Group Triggered** - 'Confusion / Uncertainty' (from `emotion_groups.csv`): Liska feels puzzled and lost.
-- **Slot: Dysregulation** - 'Alone - Moderate Distress' (from `dysregulation_types.csv`): Liska softly mutters to herself, trying to understand.
+Liska experiences initial dysregulation and a negative emotional reaction to her parents' distant behavior.
+- Slot: `Engagement`: Tension (The emotional weight of the situation continues to build).
+- Slot: `Emotion Group Triggered`: Sadness / Sorrow (Liska feels sad and disappointed, represented by a 'Rainy Cloud' metaphor).
+- Slot: `Dysregulation`: Alone - Moderate Distress (Liska is upset when alone, softly expressing her sadness and confusion).
 
 ## Act 3: Attempts to Solve / Unravel – Facing the Problem & Inner Turmoil
 
 ### 3.1: Recovery (Optional)
-- Liska takes a deep breath, trying to calm herself before approaching her father.
-- **Slot: Engagement** - 'Self-Soothing' (from `engagement_types.csv`): Liska focuses on her breathing to steady herself.
-- **Slot: Regulation Strategy** - 'Child Alone Self-Regulation' (from `regulation_strategies.md`):
-  - **Slot: Coping Strategy** - 'Simple Self-Talk' (from `coping_strategies.csv`): Liska whispers, 'It's okay, I can ask Papa.'
-  - **Slot: Support** - Not applicable as she is alone at this moment.
+Liska attempts to manage her distress with a simple self-regulation strategy, becoming somewhat calmer.
+- Slot: `Engagement`: Tension (Still feeling the emotional strain but trying to cope).
+- Slot: `Regulation Strategy`: Child Alone Self-Regulation Options
+    - Slot: `Coping Strategy`: Simple Self-Talk (Liska whispers to herself, 'It's okay, they still love me,' to calm down).
+    - Slot (Optional): `Fun`: No information
+    - Slot: `Support`: No information
 
 ### 3.2: Attempt 1 (Initial Reaction / Less Considered Approach)
-- Liska shows her newest shell to Father Daric, hoping to break the silence, but he only gives a distant smile and a brief 'What a nice shell.'
-- **Slot: Support** - 'Calm Presence' (from `support_types.csv`): Father Daric remains physically near but emotionally distant.
+Liska shows her newest shell to her father, Daric, hoping to engage him, but he responds distantly with a brief 'What a nice shell,' leading to failure.
+- Slot (Optional): `Support`: No information
 
 ### 3.3: Attempt 2 (Developing Approach / New Complication)
-- Liska tries a louder approach, performing a silly shell dance with exaggerated jumps to get attention, but Father gently explains they are having an important argument and need to finish it.
-- **Slot: Engagement** - 'Physical' (from `engagement_types.csv`): Liska uses movement to draw attention.
-- **Slot: Fun** - 'Physical Humor' (from `fun_types.csv`): Her dance is exaggerated and playful, though it doesn't work.
+Liska tries a different approach by playing noisily with shells and performing a silly shell dance to get attention, but her father gently explains they need to finish their important talk, resulting in a setback.
+- Slot: `Engagement`: Tension (The attempt increases her awareness of the unresolved tension).
+- Slot (Optional): `Fun`: Physical Humor (Liska's exaggerated jumps and wiggles in her shell dance are endearing but fail to resolve the issue).
 
 ### 3.4: Low Point (Emotional & Practical Setback)
-- Liska peeks in later to see Mother Mara's face-fur damp, turned toward the wall, and Father's tail twitching. She curls into a small ball in the hallway, feeling sad and helpless.
-- **Slot: Engagement** - 'Tension' (from `engagement_types.csv`): The emotional weight of the scene overwhelms her.
-- **Slot: Emotional Trigger** - 'Loss/Separation' (from `emotional_triggers.csv`): Liska feels emotionally disconnected from her parents.
-- **Slot: Emotion Group Triggered** - 'Sadness / Sorrow' (from `emotion_groups.csv`): Liska feels deep sadness.
-- **Slot: Dysregulation** - 'Alone - High Distress' (from `dysregulation_types.csv`): Liska cries softly, hugging herself.
+At her lowest point, Liska peeks in later and sees her mother's wet fur and father's twitching tail, feeling helpless and overwhelmed by sadness.
+- Slot: `Engagement`: Expectation (Liska hoped for a positive change but is met with deeper sadness).
+- Slot: `Emotional Trigger`: Loss/Separation (Seeing her parents' emotional distance feels like a loss of family connection).
+- Slot: `Emotion Group Triggered`: Sadness / Sorrow (Intense sadness as the 'Rainy Cloud' grows heavier).
+- Slot: `Dysregulation`: Alone - High Distress (Liska curls into a small ball in the hallway, overwhelmed by sadness).
 
 ### 3.5: Recovery
-- Liska remembers a family picture she drew of them playing at the beach under sunshine, which gives her a small spark of hope.
-- **Slot: Regulation Strategy** - 'Child Alone Self-Regulation' (from `regulation_strategies.md`):
-  - **Slot: Coping Strategy** - 'My Special Comfort Item' (from `coping_strategies.csv`): Liska holds her drawing close for comfort.
-  - **Slot: Support** - 'Memory Scaffolding' (from `support_types.csv`): Though alone, she draws strength from the memory of family love.
+Liska engages in self-regulation to manage the intense emotions of the Low Point, becoming calm and receptive to new thinking.
+- Slot: `Regulation Strategy`: Child Alone Self-Regulation Options
+    - Slot: `Coping Strategy`: My Cozy Corner (Liska closes her eyes and imagines her sunny corner with her family, calming herself).
+    - Slot: `Support`: No information
 
 ### 3.6: Re-evaluation
-- Liska reflects on the happy memory in the drawing, realizing she needs to remind her parents of their family bond.
-- **Solution Building:**
-  - **Slot: Solution Discovery Process** - 'Remembering & Applying Past Solution' (from `solution_discovery_processes.csv`): Liska recalls how sharing happy memories brought them closer before.
-- **Preparation:**
-  - **Slot: Coping Strategy** - 'Talking About My Feeling' (from `coping_strategies.csv`): Liska prepares to express her need for family togetherness.
-  - **Slot: Support** - 'Confident Reassurance' (from `support_types.csv`): She tells herself, 'I know they love me, I can help.'
-  - **Slot: Practice** - 'Mental Rehearsal' (from `practice_types.csv`): Liska imagines saying, 'We're family, let's be together.'
+Liska reflects on her family bond and remembers a family picture she drew of them playing at the beach under sunshine. A promising approach emerges through a solution discovery process.
+
+Solution Building:
+- Gather info if still necessary: No additional information needed.
+- Slot: `Solution Discovery Process`: Remembering & Applying Past Solution (Liska recalls the happy memory in her drawing, inspiring her to remind her parents of their love).
+- Solution discovered: Liska understands she needs to express her feelings and remind her parents of their family bond.
+
+Preparation, if necessary:
+- Slot: `Coping Strategy`: Simple Self-Talk (Liska tells herself, 'I can tell them how I feel,' to build courage).
+- Slot: `Support`: No information
+- Slot: `Practice`: Mental Rehearsal (Liska mentally practices what she will say to her parents).
 
 ## Act 4: Climax & Solution – Overcoming Externally & Internally
 
 ### 4.1: Final Attempt / Approach (Applying New Understanding / Changed Behaviour)
-- Liska brings the drawing, takes both parents' paws, and says, 'We're family. Remember that we love each other. I love both of you. I want us to be together.'
-- **Slot: Fun** - Not applicable here, focus is on sincerity.
-- **Slot: Engagement** - 'Empathy-Focused' (from `engagement_types.csv`): Liska connects emotionally with her parents.
-- **Slot: Coping Strategy** - 'Talking About My Feeling' (from `coping_strategies.csv`): Liska uses her words to express her emotions.
+Liska implements her solution by bringing the family picture and taking both parents' hands, expressing her love and need for togetherness.
+- Slot (Optional): `Fun`: No information
+- Slot: `Engagement`: Empathy (Liska connects emotionally with her parents through her heartfelt words).
+- Slot: `Coping Strategy`: Talking About My Feeling (Liska uses her words to express her sadness and need for connection).
 
 ### 4.2: Rising Tension / Suspense
-- Liska waits, heart pounding, as her parents look at the drawing and then at each other, their expressions unreadable at first.
-- **Slot: Engagement** - 'Tension' (from `engagement_types.csv`): The uncertainty of their response builds suspense.
+The outcome is uncertain as Liska waits for her parents' response, testing her resolve.
+- Slot: `Engagement`: Tension (The moment is tense as she hopes for a positive reaction).
 
 ### 4.3: The Turning Point / Final Push (Demonstrating Growth in Action)
-- Parents' expressions soften as they remember their love, moved by Liska's heartfelt words, not just the drawing.
-- **Slot: Engagement** - 'Emotional' (from `engagement_types.csv`): A deep emotional shift occurs in the family.
-- **Slot: Fun** - Not applicable, focus remains on emotional resolution.
-- **Slot: Coping Strategy** - 'Hold-Me-Tight' (from `coping_strategies.csv`): Liska instinctively moves closer for reassurance.
+The critical action occurs as Liska's heartfelt words move her parents, who look at each other with softening expressions, remembering their love.
+- Slot: `Engagement`: Empathy (A shared emotional breakthrough happens).
+- Slot (Optional): `Fun`: No information
+- Slot: `Coping Strategy`: Talking About My Feeling (Liska's expression of love is the key to success).
 
 ### 4.4: Success (External Problem Resolved)
-- Parents apologize to each other and to Liska for letting their disagreement come between them, explaining that grown-ups sometimes disagree but never stop loving.
+The Core Incident is resolved as Liska's parents apologize to each other and to her, reconnecting as a family.
 
 ### 4.5: Immediate Reward / Relief (Accomplishment & Positive Emotion)
-- The family shares a special triple-kiss, all three putting their lips together in a triangle of love and unity, and Liska feels warm and safe again.
+Liska experiences a strong positive emotional release as her parents thank her for reminding them to talk together. The family shares a special triple-kiss, symbolizing their unity.
 
 ## Act 5: Resolution & Conclusion – Integrating the Growth
 
 ### 5.1: Relaxation / Immediate Aftermath (Processing the Journey)
-- Tension subsides as they return to the sunny corner where the story began, curling up together with Liska in the middle.
-- **Slot: Fun** - 'Gentle Play' (from `fun_types.csv`): They softly play with the shells together, laughing quietly.
+Tension subsides as the family returns to their sunny corner, curling up together with Liska in the middle, warm and safe again.
+- Slot (Optional): `Fun`: No information
 
 ### 5.2: Reflection & Learning (Internalizing the Lesson & Growth)
-- Liska understands that family dens sometimes rumble, but love is always stronger than arguments.
-- **Slot: Engagement** - 'Calm' (from `engagement_types.csv`): A peaceful moment of understanding.
-- **Slot: Support** - 'Process Praise' (from `support_types.csv`): Parents praise Liska for reminding them of their bond.
+Liska understands that family love endures even through arguments and that expressing feelings can mend emotional rifts.
+- Slot: `Engagement`: Calm (A peaceful moment of understanding).
+- Slot: `Support`: Confident Reassurance (Parents reassure Liska of their love and commitment to family).
 
 ### 5.3: Making it Right / Integration (Acknowledging & Embodying Change)
-- Parents thank Liska for her courage in speaking up, reinforcing that their love for her never wavers, even during disagreements.
-- **Slot: Engagement** - 'Empathy-Focused' (from `engagement_types.csv`): A shared moment of mutual understanding.
-- **Slot: Support** - 'Celebration Readiness' (from `support_types.csv`): Parents celebrate Liska's emotional bravery.
+Since there was no initial mistake by Liska, this section focuses on the family embodying their renewed connection through shared warmth and presence.
+- Slot: `Engagement`: Empathy (The family shows mutual care and understanding).
+- Slot: `Support`: Physical Contact (The family's closeness in the sunny corner reinforces their bond).
 
 ### 5.4: New Status Quo / Harmonious Scene (Character Transformed)
-- The family is closer, with Liska feeling secure in their love, knowing she can speak up when she feels disconnected. The den feels warm and safe again.
+A sense of new normalcy emerges where Liska feels more confident in expressing her emotions, and the family relationship is strengthened through this shared experience.
 
 ### 5.5: Concluding Thought / Wrap-up
-- 'Family dens sometimes rumble, but love is always stronger than arguments,' Liska thinks, smiling as she nestles between her parents.
+'Family dens sometimes rumble, but love is always stronger than arguments,' reinforcing the value of emotional expression and family unity.
