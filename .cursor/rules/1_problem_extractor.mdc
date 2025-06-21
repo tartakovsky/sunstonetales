@@ -81,7 +81,7 @@ Your job is to not only sort through what's in the input, but also to correct it
 **A:** Anger will be visualized as the "Little Volcano" metaphor.  
 **Example:** Sadness is visualized as a 'Rainy Cloud' (Дождливая Тучка) hanging over Liska, making everything grey and heavy. (Sourced from @emotional_metaphors.md)  
 **Required Input:** Emotional Metaphors from @emotional_metaphors.md  
-**Comment:** Only the metaphor for the selected main emotion can be chosen here. If there is no metaphor in the list, do not invent one. State that there isn't and that it needs to be designed to proceed.
+**Comment:** Only the metaphor for the selected main emotion can be chosen here. If there is no metaphor in the list, do not invent one. NEVER use a metaphor that is not EXACTLY from the selected emotion. State that there isn't and that it needs to be designed to proceed.
 
 ---
 
