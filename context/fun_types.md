@@ -558,7 +558,38 @@ Humor must be character-driven, intentional, and executed with brevity.
 - Мягкая лапа судьбы
 
 
+## Constructed fun names
 
+### English Suffixes
+
+- -saurus**: Grumble-saurus
+- -oid**: Fluff-oid
+- -crat**: Sofa-crat
+- -don**: Waddle-don
+- -on**: 
+- -ton**: 
+- -lisk**: Snooze-lisk
+- -belly**: Jiggle-belly
+- -snatcher**: Cookie-snatcher
+- -smasher**: Tower-smasher
+- -shaker**: Floor-shaker
+- -muncher**: Carrot-muncher
+
+### Russian Suffixes
+
+- -завр**: Муркозавр
+- -оид**: Пушистикоид
+- -ище**: Лапища
+- -крат**: Пузократ
+- -дон**: Топотодон
+- -лиск**: Ворчун- лиск
+- -пуз**: Вкуснопуз
+- -хват**: Игрушкохват
+- -лом**: Тишинолом
+- -тряс**: Домотряс
+- -жор**: Сладкожор
+- -он**: Лапкон
+- -тон**: Лапкатон
 
 
 

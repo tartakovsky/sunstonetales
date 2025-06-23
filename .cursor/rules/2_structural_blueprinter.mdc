@@ -29,3 +29,5 @@ Events that set the stage for the problem. This is an opportunity to showcase fu
 For every act and beat. Everything should be in place. Fill slots you have information for, mark the ones you don't as "No information". 
 Do not invent slots, only use the ones mentioned in the structure. Output the rest as normal text inside the plot points.
 
+Output MUST maintain the identical structural format from [five_act_4_to_6_yo.md](mdc:context/five_act_4_to_6_yo.md), including Act and Beat structure, number and names.
+

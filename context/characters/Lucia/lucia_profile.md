@@ -11,9 +11,6 @@
 *   **Brave Bridge-Builder:** Her natural bravery extends to social situations. She is unafraid to approach new people or mediate disagreements, using her simple, direct language ("Friends together?") to cut through complexity and find common ground.
 *   **Simplified Language:** Her speech is a mix of simple, direct phrases ("Me help!", "This good!") and occasional Latin-sounding flourishes ("Friendus!"). She often uses the present tense and mixes up pronouns, creating a distinct and endearing communication style.
 
-## Arcane Ability: Physical Enhancement
-Lucia can augment her physical power. This allows her to run faster, jump higher, and lift objects much heavier than herself. Her ability is a direct expression of her proactive will. When she uses it, her skin gives off a faint, warm red-orange glow that brightens with effort.
-
 ## Lucia's Humor Profile
 
 **1. Benign Physical Comedy**

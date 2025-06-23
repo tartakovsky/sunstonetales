@@ -19,86 +19,48 @@
 *   **Zero Personal Space:** He shows affection and excitement by being physically close—climbing on, leaning against, or bouncing near his friends. This is a frequent source of gentle conflict with Liska, who values her space.
 *   **Emotionally External:** His feelings are 100% on the outside. Joy is a full-body wiggle and a yowl. Frustration is a frantic scramble. He is incapable of hiding how he feels, making him emotionally honest and easy to read.
 
-You are absolutely right. "Unpredictable physical disturbances" is too abstract. A character's abilities need to be defined by concrete, visual examples that can directly fuel story moments and jokes.
+## Humor Profile: The Energetic Realist
 
-Here is a revised section for Anji's arcane ability, focusing on narratively useful manifestations.
+Anji's humor is external, physical, and born from his uncontrolled energy. However, it is grounded in realistic physics and the believable consequences of his impulsive nature. The comedy comes from the small, surprising gaps between his intent and the result, not from cartoonish slapstick. His humor is about enthusiasm, not absurdity. Running too fast and tripping funnily is fine. Running, tripping, rolling three times, farting and winning is NOT.
 
-***
-
-## Arcane Ability: Uncontrolled Energy
-
-Anji's body is a chaotic battery for raw arcane energy. He doesn't use his power; his power *happens* to him and the world around him, especially when he's excited or emotional. This is the in-world source of his physical comedy.
-
-**Narratively Useful Manifestations:**
-
-*   **The Betrayal of Objects:** Everyday items actively rebel against his intentions in funny ways.
-    *   **Example:** He reaches for a cookie. A purple spark jumps from his paw to the cookie, which then leaps into the air, does a flip, and lands just out of his reach.
-    *   **Example:** He tries to sit on a stool. His static charge makes the stool scoot away just as he sits. *THUMP*. He lands on the floor, looking at the stool with utter betrayal.
-
-*   **The Unhelpful Float:** Objects he interacts with can suddenly lose their weight, creating silly problems instead of solving them.
-    *   **Example:** He tries to hand Liska a pretty rock. *Fzzt!* The rock glows purple and floats gently out of his paws, hovering in the air like a confused balloon.
-    *   **Example:** He trips. The apple he was carrying becomes weightless and hangs in the air for a moment before dropping right on his head.
-
-*   **The Sticky Situation:** His static energy makes things cling to him in comical ways.
-    *   **Example:** He runs through a pile of dry leaves. A purple glow envelops him, and the leaves don't just scatter—they stick all over his fur until he looks like a walking, giggling leaf-monster.
-    *   **Example:** After sliding on a rug, every small, light object in the room is gently pulled towards him. Feathers, flower petals, and dust bunnies form a small, orbiting cloud around him.
-
-*   **The Bouncy Effect:** His energy can change an object's properties, turning a normal impact into a slapstick bounce.
-    *   **Example:** He drops a stone. Instead of a *thud*, it hits the ground with a purple flash and bounces back up like a super-ball, bopping him gently on the nose.
-
-*   **The Sensory Glitch:** His emotional state can briefly warp light and sound around him.
-    *   **Example:** He gets very excited and looks at a friend. The air around him shimmers purple, making his friend's head look comically tiny and their paws look huge for a second, like looking through a funhouse mirror.
-
-## Humor Profile Summary
-Anji's humor is external, physical, and born from his uncontrolled energy. His primary styles are:
-*   **The Runaway Action**
-*   **The Big Mess**
-*   **Physical Comedy (Slapstick)**
-*   **The Grand Discovery**
-*   **The Sound Mismatch**
-*   **The Object's Revenge**
-
-## Anji's Humor Profile
-Anji's humor profile is all about explosive energy, unintended consequences, and the comedy of pure, unfiltered impulse. His humor is external and physical, contrasting perfectly with Liska's more internal, character-driven humor.
-
-**1. The Runaway Action**
-*   **Description:** The comedy of a simple action instantly spiraling into unstoppable, chaotic momentum.
+### 1. Momentum Miscalculation
+*   **Description:** The comedy of a simple action having a slightly wrong result due to Anji's poor estimation of physics. He doesn't defy physics; he's just bad at predicting them.
 *   **Examples:**
-    *   He taps one berry on a bush. The whole branch whips back and launches a hundred berries into the air like fruity fireworks.
-    *   He starts spinning in a circle to show Liska. He can't stop. He becomes a furry tornado that drills a small, perfect hole in the ground.
-    *   He pushes a toy boat into the water. A jolt of his energy makes it shoot across the pond like a speedboat, leaving a huge wake.
+    *   He runs to greet a friend but can't stop, sliding past them and tumbling into a soft bush, emerging covered in leaves.
+    *   He shoves a toy boat so hard he overbalances, tumbling into the muddy water with a loud SPLASH.
+    *   Chasing a butterfly, his feet get tangled and he tumbles down a grassy slope, ending up in a dizzy heap.
 
-**2. The Big Mess**
-*   **Description:** His boundless energy inevitably results in a huge, harmless, and hilarious mess that he is often surprised by himself.
+### 2. Awkward Enthusiasm
+*   **Description:** The humor comes from his boundless energy being channeled into actions that require more delicacy than he possesses. It's the comedy of good intentions meeting clumsy execution.
 *   **Examples:**
-    *   He jumps into a pile of leaves. It doesn't just scatter; it explodes. It's raining leaves, and Anji is lost somewhere inside.
-    *   He sneezes near a bag of flour. POOF! The kitchen, the table, and a very wide-eyed Anji are all suddenly white ghosts.
-    *   He tries to drink from a puddle. SPLAT! He trips and lands belly-first, creating a tidal wave of mud that decorates a nearby fence.
+    *   Trying to water one flower, he trips and dumps the entire watering can on it, creating a large mud puddle.
+    *   He excitedly claps his paws around a firefly, then opens them to find he has accidentally squished it.
+    *   He adds a log to the woodpile with too much enthusiasm, causing the entire stack to collapse.
 
-**3. Physical Comedy (Slapstick)**
-*   **Description:** The classic humor of harmless collisions, slides, and bounces that result from him moving too fast for the world around him.
+### 3. Unintended Chain Reaction
+*   **Description:** His energetic actions trigger a small, believable chain of events that leads to a bigger, funnier mess than he intended. The humor comes from the escalating, but still logical, consequences.
 *   **Examples:**
-    *   He runs around a corner and BONK! Right into Papa's soft belly, which wobbles like a giant pudding.
-    *   He tries to stop on a slippery floor. His feet keep going, and he slides on his belly like a penguin, collecting dust bunnies as he goes.
-    *   He and Liska run towards each other. They collide in a soft *thump* and bounce apart, landing in a giggling, tangled pile.
+    *   His wagging tail knocks over a berry basket. He tries to help and ends up stepping on all the berries.
+    *   Shaking himself dry, he dislodges a pillow feather that then sticks comically to his wet nose.
+    *   He jumps into a leaf pile so fast he bursts right through the other side, emerging covered in leaves.
 
-**4. The Grand Discovery**
-*   **Description:** His hyper-enthusiasm for everything means he reacts to mundane things with the awe of a world-shattering breakthrough.
+### 4. The Grand Discovery
+*   **Description:** His hyper-enthusiasm for everything means he reacts to mundane things with the awe of a world-shattering breakthrough. His genuine wonder is infectious and charming.
 *   **Examples:**
     *   He sees a bubble for the first time. "A FLOATING RAINBOW!" he yowls, chasing it until... POP. He looks at his wet nose, utterly bewildered. "It vanished!"
-    *   He speaks into a hollow log and hears his echo. "The log can talk!" he shrieks with delight, then starts having a loud conversation with it.
-    *   He discovers static electricity. He rubs his fur on a rug and touches Liska's nose. *ZAP!* "I have lightning paws!" he declares.
+    *   He spoke into a hollow log and heard his echo. "The log can talk!" he shrieks with delight, then started having a loud conversation with it.
+    *   He found a loose thread on Papa's tunic and pulled it, convinced he had discovered a secret map. The thread just unraveled a little.
 
-**5. The Sound Mismatch**
-*   **Description:** The comedy of his inability to control his volume. His vocalizations are always the wrong size for the situation.
+### 5. The Sound Mismatch
+*   **Description:** The comedy of his inability to control his volume. His vocalizations are always the wrong size for the situation, betraying his inner state.
 *   **Examples:**
-    *   He tries to whisper a secret to Liska. It comes out as a stage-whisper YOWL that makes the leaves on a nearby bush tremble.
-    *   He tries to roar like a big lion to be scary. What comes out is a tiny, delicate "mew."
-    *   He gets the hiccups. Each *HIC!* is so powerful it makes him jump a little off the ground.
+    *   He tried to whisper a secret to Liska. It came out as a stage-whisper YOWL that made the leaves on a nearby bush tremble.
+    *   He was concentrating very hard on stacking blocks. The tip of his tongue was sticking out, and with every block he placed, he let out a tiny, focused "Mew."
+    *   He got the hiccups. Each *HIC!* was so powerful it made him jump a little off the ground.
 
-**6. The Object's Revenge (Anji's Version)**
-*   **Description:** His random arcane energy makes inanimate objects actively betray him in comically unhelpful ways.
+### 6. Invasive Affection
+*   **Description:** His affection and excitement are expressed through a complete lack of understanding for personal space. The humor comes from his well-intentioned but overwhelming physical presence.
 *   **Examples:**
-    *   He reaches for a cookie. A jolt of his energy makes the cookie leap into the air, do a flip, and land perfectly back on the plate.
-    *   He tries to sit on a stool. His static charge makes it scoot away just as he sits. THUMP. He sits on the floor, looking at the stool with betrayal.
-    *   He puts on his cape. His energy makes it flap dramatically in a room with no wind, sometimes smacking him in the face.
+    *   To show his agreement, he didn't just nod; he leaned his entire body against his friend, nearly tipping them over in a furry, affectionate heap.
+    *   He wanted to show Liska something RIGHT NOW, so he grabbed her paw mid-sentence and started pulling her along before he was even finished his thought.
+    *   He gave hugs by essentially running into people and wrapping his paws around them, a full-body expression of joy that was both surprising and sweet.

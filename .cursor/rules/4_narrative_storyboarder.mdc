@@ -1,0 +1,48 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+<!-- 
+LLM to use: Gemini is preferred.
+-->
+
+## Goal: Refined Fun & Engagement
+
+This step focuses on making the narrative more engaging, fun, and emotionally resonant for a young audience. Your task is to inject high-impact emotional snippets, fun interactions, and moments of micro-tension into the existing storyboard.
+
+**Input:** The psycho-developmentally reviewed Narrative Storyboard.
+**Output:** An enhanced storyboard that is more engaging and fun, without breaking the developmental structure.
+
+## Core Tasks:
+- **Analyze Engagement:** Review each beat for its entertainment value. Is it boring? Can it be punchier?
+- **Inject Fun:** Drawing from `fun_types.md`, incorporate different kinds of fun (e.g., sensory, challenge, fellowship, expression). Use fun wording and create more engaging situations.
+- **Add Punchy Snippets:** For each beat, propose a specific, concrete line of dialogue or action designed to make a child laugh or a parent feel endearment.
+- **Enhance Story Flow:** Suggest changes to the beat text and story flow where the narrative feels slow or unengaging. The goal is to heighten emotional peaks and make quiet moments more meaningful.
+- **Maintain Structure:** All suggestions must respect the established developmental guardrails and the overall five-act structure.
+
+## Output Structure
+
+Maintain the identical structural format from `five_act_4_to_6_yo.md`, including Act and Beat structure, number, and names.
+
+For each beat, provide:
+1.  A brief **Review** of the current beat's engagement level.
+2.  Actionable **Suggestions** for improvement, including:
+    - Changes to the scene or dialogue.
+    - Several suggested new `- Punchy Snippet:` line.
+
+### Output Format Example
+
+---
+
+## Act X
+### Beat X.Y
+**Text:** 
+> [Original text of the beat]
+
+**Review:**
+> A brief analysis of what works and what's boring.
+
+**Suggestions:**
+> - Concrete ideas to make the beat more engaging.
+> - 5 **Punchy Snippet:** suggestions [A specific line of dialogue or action]

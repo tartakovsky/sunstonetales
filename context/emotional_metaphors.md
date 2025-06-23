@@ -237,4 +237,19 @@ This document outlines the core system of metaphors used to represent emotions i
     *   A warm, itchy feeling of wanting that grows stronger the longer it's resisted.
 *   **Narrative Example:**
     > Лиска увидела блестящую игрушку на столе. Её не разрешали трогать, её лапки как магнитом тянуло к игрушке. Ей так хотелось схватить её прямо сейчас, что всё тело зудело от желания.
-    > (Liska saw a shiny toy on the table. She wasn't allowed to touch it, pulling her paws like a magnet toward the toy. She wanted to grab it right now so badly that her whole body itched with desire.) 
+    > (Liska saw a shiny toy on the table. She wasn't allowed to touch it, pulling her paws like a magnet toward the toy. She wanted to grab it right now so badly that her whole body itched with desire.)
+
+---
+
+### 18. Envy (Coping by Devaluation) → Sour Grapes (Кислый Виноград)
+
+*   **Causal Link:** Follows seeing someone else have or achieve something you desperately want. It's a coping mechanism for the feeling of envy.
+*   **Emotion:** `Envy`. The process of convincing yourself that something you can't have is actually bad, to make yourself feel better.
+*   **Images & Sensations:**
+    *   A sour, puckering taste in the mouth, like sour grapes.
+    *   A grumpy, tight feeling in the cheeks and jaw.
+    *   An internal voice that starts finding flaws: "It's probably not that great," "I didn't want it anyway," "Mine is better."
+    *   A pouty, cross feeling.
+*   **Narrative Example:**
+    > У Анжи появились новые красные сапожки. Лиске так сильно захотелось такие же, что во рту стало кисло. "Пф-ф," — фыркнула она. — "Наверное, они жмут. Мои лапки и без них быстрее бегают".
+    > (Anji got new red boots. Liska wanted a pair so badly her mouth turned sour. "Pfft," she snorted. "They probably pinch. My own paws can run faster without them.") 

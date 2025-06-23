@@ -23,13 +23,6 @@
 *   **Deep Sense of Responsibility:** When she understands that her actions have caused a problem, she feels a powerful and genuine sense of guilt. This motivates her to try and make things right, demonstrating her underlying good heart despite her social difficulties.
 *   **Impulsive Actions Driven by Desire:** Her impulsivity is tied to immediate wants (the tasty cheburek, a shiny object). She struggles with delayed gratification, a challenge that requires external tools (like the piggy bank) to manage, rather than pure willpower.
 
-## Arcane Ability: Emotional Sparks
-Liska's arcane ability is a direct, uncontrollable manifestation of her inner emotional state, making her internal world visible. Her paws glow and release colored sparks that reflect her feelings.
-
-*   **Function:** The sparks are an undeniable truth-teller. She cannot hide her anger or disappointment, forcing her and others to acknowledge her feelings directly. This often precipitates the story's central conflict or the moment of co-regulation with a parent.
-*   **Colors:** The sparks match the Mood Flower colors—golden for joy, red for anger, blue for sadness.
-*   **Growth (within a story):** As she works through a problem and achieves emotional balance, she can gain temporary, purposeful control over her powers, such as creating a soothing warmth to heal or controlling her sparkles. Her magic grows as her emotional understanding grows for that moment. 
-
 
 ## Liska's Humor Profile
 
