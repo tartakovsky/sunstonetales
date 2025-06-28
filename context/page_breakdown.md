@@ -5,12 +5,13 @@
 
 ## Document & Page Structure
 - **Total Text Length**: 500-800 words.
-- **Page Word Count**: 20-30 words per page.
+- **Page Word Count**: 20-30 words per page/line.
 - **Page Sentence Count**: 2-4 sentences per page.
-- **Format**: Each line of text in the draft represents one page. Do not use page numbers.
+- **Format**: Each line of text in the draft represents one page. Do not use page numbers. Insert empty line between each text line.
 
 ## Sentence & Vocabulary Rules
-- **Sentence Length**: 5-10 words per sentence.
+- **Vary sentence length** to create a natural, rhythmic cadence.
+- **Example:** Instead of "Liska was confused. She tilted her head," write "Liska tilted her head in confusion."
 - **Tense**: 3rd person past tense.
 - **Vocabulary**: Primarily nouns and verbs.
 - **Adjective Rule**: Use only simple, concrete adjectives a 5-year-old understands (e.g., big, red, happy). Avoid abstract or multi-syllabic adjectives.

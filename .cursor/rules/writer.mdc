@@ -20,7 +20,7 @@ Make absolutely sure that the story is cohesive, each part is connected, that pr
 
 When writing dialogues, use the direct speech from a new paragraph style. 
 
-Use the following style. Pay attention to the empty line in between. It is neccessary for markdown to render them on separate lines. Not in code blocks. Do NOT use "" or «».
+Use the following formatting style. Pay attention to the empty line in between. It is neccessary for markdown to render them on separate lines. Not in code blocks. Do NOT use "" or «».
 ```
 — Анжи говорит, я не помню ничего хорошего! Но это неправда!
 

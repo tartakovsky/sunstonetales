@@ -61,8 +61,10 @@ Example of `functional descriptions with implementation placeholders` vs `specif
 
 ---
 
-## Step 5: Refined Fun & Engagement 
-- **Your Process:** Sprinkling in fun, micro-tension, and funny words.
+## Step 5: Narrative Editing
+- **Your Process:** Sprinkling in fun, micro-tension, and funny words. Editing narrative to be tight. Specific events and event sequence should be polished. Psychological sequence validated. Specific steps of each beast described. Which specific parts of co-regulation do we do during each recovery beat. What exactly the character reflects about. How exactly we describe the environment. Through which actions do we introduce the characters. Are all the character traits observed correctly. Is the fun character-specific. Are the images and the metaphors introduced correctly. Is the story tight and good. How exactly do we tell, not show. Also we need to show things that aren't obvious from telling. E.g. her chest got tight and her face hot. That is a good description of anger, but the child won't understand it's anger unless we state it. So we say the description and then: She was angry. 
+- We need to validate that the story is engaging.
+- The output should be the same structured narrative as in step 5, not prose, but refined up to the point we can generate prose from it during the next step.
 - **Promptable Task:** Inject high-impact emotional snippets into the storyboard.
 - **Input:** The Narrative Storyboard from Step 4.
 - **Output:** The same storyboard, but with a new bullet point under each beat: `- Punchy Snippet: [A specific, concrete line of dialogue or action designed to make a child laugh or a parent feel endearment]`.

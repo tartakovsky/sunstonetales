@@ -1,7 +1,7 @@
 ---
 description: 
 globs: 
-alwaysApply: true
+alwaysApply: false
 ---
 ---
 description: "MANDATORY. This rule force-loads the entire project's foundational context for every AI request."
