@@ -5,7 +5,7 @@ alwaysApply: false
 ---
 <!-- LLM to use: Grok does well -->
 
-# Initial Q&A for Story Specification
+# Story Concept Extraction
 
 **Note:** The answers provided below are not final and are intended as examples of the type of information that should be provided for a specific book.
 
@@ -13,45 +13,63 @@ You MUST read every file in the input list before respoding. Load it all into yo
 
 **Required Input List:**
 - **Universal Input:**
-  - Emotional Metaphors: [emotional_metaphors.md](mdc:context/emotional_metaphors.md)
-  - Emotion Unfolding Sequence: [emotion_unfolding_sequence.md](mdc:context/emotion_unfolding_sequence.md)
-  Strategies: [coping_strategies.csv](mdc:context/slots/coping_strategies.csv)
-- **Character-Specific Input, e.g. for Liska:**
-  - Emotional Tells: [emotional_tells.md](mdc:context/characters/Liska/emotional_tells.md)
-  - Auto-Coping Behaviors: [auto_coping.md](mdc:context/characters/Liska/auto_coping.md)
-  - Learned Coping Strategies: [learned_coping.md](mdc:context/characters/Liska/learned_coping.md)
-
-Your job is to not only sort through what's in the input, but also to correct it and bring it closer to reality. E.g. if the input only mentions the character to be sad, but the actual emotion set would be more complex / different, it is your job to identify the set of actual emotions that would happen in such context. Then when you choose the most important emotions and how they unfold, you must choose from that list of actual emotions, not only from what's written.
+  - Emotional Metaphors: @emotional_n Unfolding Sequence: @emotion_unes: @coping_strter-Specific Input, e.g. for Liska:**
+  - Emotional Tells: @emotional_oping Behaviors: @auto_copind Coping Strategies: @learned_cois to not only sort through what's in the input, but also to correct it and bring it closer to reality. E.g. if the input only mentions the character to be sad, but the actual emotion set would be more complex / different, it is your job to identify the set of actual emotions that would happen in such context. Then when you choose the most important emotions and how they unfold, you must choose from that list of actual emotions, not only from what's written.
 
 ---
 
+## Goal of the Story
+
+**Instructions:** Define the story's core purpose from the reader's perspective. Address the following points to create a clear objective for the narrative.
+- **What are we trying to teach the reader?** (e.g., Gently help children move away from a habit like thumb sucking.)
+- **What is the reader's problem we are addressing?** (e.g., The child has a habit that is becoming problematic.)
+- **What solution and approach are we offering?** (e.g., We offer a role model in the main character, showing a possible solution without presenting the reader's own habit as a "problem" or moralizing.)
+- **How and why do we want to present it this way?** (e.g., The key idea is to empower the child and help them find a new, interesting alternative, rather than making them feel bad about their habit.)
+
+**A:** [To be filled]
+
+---
+
+## Synopsis
+
+**Instructions:** Write a two-paragraph summary of the story. It should touch on all the main plot points, including the initial situation, the problem that arises, how the characters react, the proposed solution, and the final resolution where the character internalizes the new skill.
+
+**A:** [To be filled]
+**Example:** Liska has a comforting ritual of sucking her tail before sleep. But when the tip of her tail becomes sore, this habit turns into a source of pain, upsetting her.
+
+Her mother helps her calm down and reframes the habit, suggesting her "paws are just bored" and need something to do. Together, they invent a new game, the "Soothing Drum," and a reward system. By mastering this new skill and teaching it to her toy, Liska demonstrates that the new, healthier habit has become her own.
+
+---
+
+## Detailed Q&A
+
 **1. Who are the main characters in the story?**  
 **A:** [To be filled]
-**Example:** Liska (protagonist), Anji (friend), Mother (supporting character)
+**Example:** Liska (protagonist), Mother (supporting character)
 
 ---
 
 **2. What is the single problem the story will address?**  
 **A:** [To be filled]  
-**Example:** Liska fixates on losing a game with Anji, ignoring the fun they had earlier.
+**Example:** Liska's automatic habit of tail sucking, triggered by boredom, now causes her physical pain.
 
 ---
 
 **3. What are the social consequences of this problem?**  
-**A:** Lack of understanding between Anji and Liska  
-**Example:** Anji feels frustrated and confused when Liska refuses to play again due to her focus on the loss.
+**A:** [To be filled]
+**Example:** The problem is primarily internal, but it causes distress for Liska and requires her mother's intervention to find a solution. It disrupts their bedtime routine.
 
 ---
 
 **4. What is the one solution the story will lead to?**  
 **A:** [To be filled] 
-**Example:** Liska learns to remember the laughter and teamwork with Anji before the loss to feel better.
+**Example:** Liska learns to recognize when her "paws are bored" and consciously replaces the old habit with a new, engaging game.
 
 ---
 
 **5. What specific skill will the child learn to move toward the solution?**  
 **A:** [To be filled]
-**Example:** Liska practices listing three happy moments from the day when feeling upset.
+**Example:** Liska practices a new motor skill (the "Soothing Drum" game) as an alternative behavior and learns to self-monitor for the trigger (boredom).
 
 ---
 
@@ -59,39 +77,39 @@ Your job is to not only sort through what's in the input, but also to correct it
 
 **A:** [To be filled]
 **Example:**
-- Shock -> Indignation: When Anji breaks Liska's boundaries and spills water on her picture.  
-- Disappointment -> Helplessness: When Liska tries something and repeatedly fails.
+- Frustration -> Sadness: When the comforting habit of tail sucking becomes painful.
+- Relief -> Pride: When she successfully uses the new game instead of sucking her tail.
 
 ---
 
 **7. Are any of these emotions central to the story, or are they used transitively for the narrative and the story is not about dealing with emotions?**  
 **A:** [To be filled]
-**Example:** Disappointment is central as the story focuses on Liska learning to manage it by balancing with positive memories.
+**Example:** The emotions (Frustration, Sadness) are transitive. The story is not about processing the emotion itself, but about changing a physical habit that *causes* the emotion.
 
 ---
 
 **8. If the story is about emotional learning, what is the key emotion the problem triggers that is the most important to address developmentally?**  
-**A:** Sadness  
-**Example:** Sadness (resulting from Disappointment) - It's critical for 4-6-year-olds to learn to handle sadness to build emotional resilience and prevent prolonged negativity after setbacks.  
+**A:** [To be filled]
+**Example:** Not applicable. This story is focused on habit formation and behavioral substitution, not emotional regulation as the primary goal.
 **Comments:** The key emotion must be the one most important to address from a developmental psychology point of view given the situation. Only ONE emotion can be selected. Two best options from the raw input should be discussed, with reasoning for each on why it is developmentally significant in this context. If something else seems more important outside the raw input, suggest it with an explanation. Output your suggestions and reasoning as a comment to this question. Specifically focus why your emotion choice is more important than the other emotions in the raw input.
 
 ---
 
 **9. What metaphor will represent the problematic emotion or behavior?**  
-**A:** Anger will be visualized as the "Little Volcano" metaphor.  
-**Example:** Sadness is visualized as a 'Rainy Cloud' (Дождливая Тучка) hanging over Liska, making everything grey and heavy. (Sourced from @emotional_metaphors.md)  
+**A:** [To be filled]
+**Example:** The behavior is reframed using the "Bored Paws" (Скучающие лапки) metaphor, which externalizes the problem and makes it easier for the child to address without self-blame.
 **Required Input:** Emotional Metaphors from @emotional_metaphors.md  
-**Comment:** Only the metaphor for the selected main emotion can be chosen here. If there is no metaphor in the list, do not invent one. NEVER use a metaphor that is not EXACTLY from the selected emotion. State that there isn't and that it needs to be designed to proceed.
+**Comment:** The metaphor can be for a behavior or an emotion. If a behavioral metaphor is used, it may not be in the emotional metaphors list.
 
 ---
 
 **10. Which ONE learned coping behavior are we introducing to help the character recover from the emotion/situation?**  
 **A:** [To be filled]
-**Example:** Liska learns to walk over to her mother and use her words: 'Can I tell you about my feeling?' to express her sadness, seeking comfort. (Sourced from @emotion_unfolding_sequence.md under Sadness)  
+**Example:** Liska learns to use "Behavioral Substitution" by playing the "Soothing Drum" game when she feels the urge to suck her tail.
 **Comments:** This must use character-specific learned coping strategies. Two best options from the raw input should be discussed, with reasoning for each on why it is developmentally significant to teach in this context. If something else seems more important outside the raw input, suggest it with an explanation. To be sourced from character-specific learned coping file - @learned_coping.md. With supporting information from @coping_strategies.csv  
 **Required Input:** Learned Coping Strategies from @learned_coping.md and Coping Strategies from @coping_strategies.csv
 
 **11. Write a paragraph summarizing the story.**
-**A:** [To be filled]
+**A:** [To be filled in the Synopsis section above]
 
 ---
