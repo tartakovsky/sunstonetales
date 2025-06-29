@@ -75,10 +75,11 @@ This document outlines the core system of metaphors used to represent emotions i
 
 ---
 
-### 6. Simmering Offence (The Aftermath of Indignation) → Embers (Угольки)
+### 6. Lingering Resentment → Embers (Угольки)
 
 *   **Causal Link:** After a `Wildfire` of indignation subsides, it leaves behind smoldering `Embers`.
-*   **Emotion:** `Обида`. The lingering, simmering offence that remains after an initial outburst of indignation. It's a persistent, hot, and heavy feeling that can easily be re-ignited into a new `Wildfire` by a similar trigger.
+*   **Distinction from Prickly Hedgehog:** While the Hedgehog is a vulnerable, defensive hurt from a situation, Embers are a hot, directed resentment toward a person.
+*   **Emotion:** `Grudge / Resentment (Обида-Злость)`. The lingering, hot resentment directed at someone for a perceived injustice. It's a persistent feeling that keeps returning to the person who caused the hurt.
 *   **Images & Sensations:**
     *   A persistent, localized heat in the chest.
     *   A feeling of heaviness.
@@ -90,7 +91,21 @@ This document outlines the core system of metaphors used to represent emotions i
 
 ---
 
-### 7. Shame (Internal Self-Blame) → Sticky Mud (Липкая Грязь)
+### 7. Prickly Hedgehog (Колючий Ёжик)
+
+*   **Distinction from Embers:** While `Embers` represent lingering resentment towards another person, the `Prickly Hedgehog` represents the more vulnerable, self-pitying `обида` that comes from situational disappointment (e.g., a toy breaking, a plan being cancelled, a comfort becoming a source of pain). It's a defensive posture against the world's unfairness, not a grudge against a person.
+*   **Emotion:** `Обида` as vulnerable hurt, self-pity.
+*   **Images & Sensations:**
+    *   A tight, prickly, constricted feeling in the chest.
+    *   The feeling of being curled up in a ball for self-protection.
+    *   A desire to be comforted.
+*   **Narrative Example:**
+    > Вместо тёплого мурчания в груди свернулся в клубок колючий, обиженный Ёжик.
+    > (The warm purr disappeared, and instead, a prickly, hurt Hedgehog curled up in her chest.)
+
+---
+
+### 8. Shame (Internal Self-Blame) → Sticky Mud (Липкая Грязь)
 
 *   **Emotion:** Shame, guilt, and the cycle of self-blame.
 *   **Images & Sensations:**
@@ -104,7 +119,7 @@ This document outlines the core system of metaphors used to represent emotions i
 
 ---
 
-### 8. Resolution for Shame → Warm Water (Тёплая Вода)
+### 9. Resolution for Shame → Warm Water (Тёплая Вода)
 
 *   **Action:** The act of being forgiven, comforted, or making amends.
 *   **Emotion:** Relief, cleansing, reconciliation.
@@ -119,7 +134,7 @@ This document outlines the core system of metaphors used to represent emotions i
 
 ---
 
-### 9. Helplessness / Self-doubt (Performance Failure) → Deflating Balloon (Сдувающийся Шарик)
+### 10. Helplessness / Self-doubt (Performance Failure) → Deflating Balloon (Сдувающийся Шарик)
 
 *   **Causal Link:** Follows a `Performance Failure` when trying to accomplish a task.
 *   **Emotion:** `Helplessness / Powerlessness`. The state of self-doubt and defeat; the feeling of "I can't."
@@ -133,7 +148,7 @@ This document outlines the core system of metaphors used to represent emotions i
 
 ---
 
-### 10. Fear (Freeze Response) → Icicle (Сосулька)
+### 11. Fear (Freeze Response) → Icicle (Сосулька)
 
 *   **Emotion:** Paralyzing fear, feeling frozen and brittle from the inside out.
 *   **Images & Sensations:**
@@ -146,7 +161,7 @@ This document outlines the core system of metaphors used to represent emotions i
 
 ---
 
-### 11. Fear (Flight Response) → Little Mouse (Мышонок)
+### 12. Fear (Flight Response) → Little Mouse (Мышонок)
 
 *   **Emotion:** The overwhelming, instinctual urge to flee, shrink, and hide.
 *   **Images & Sensations:**
@@ -160,7 +175,7 @@ This document outlines the core system of metaphors used to represent emotions i
 
 ---
 
-### 12. Fear (Fight Response) → Taut Rope (Натянутая Верёвка)
+### 13. Fear (Fight Response) → Taut Rope (Натянутая Верёвка)
 
 *   **Emotion:** A state of extreme defensive tension, ready to snap back.
 *   **Images & Sensations:**
@@ -174,7 +189,7 @@ This document outlines the core system of metaphors used to represent emotions i
 
 ---
 
-### 13. Confusion → Tangled Yarn (Запутанный Клубок)
+### 14. Confusion → Tangled Yarn (Запутанный Клубок)
 
 *   **Emotion:** The uncomfortable, foggy state of not understanding. It is a state of cognitive disarray that often leads to frustration or anxiety.
 *   **Images & Sensations:**
@@ -187,7 +202,7 @@ This document outlines the core system of metaphors used to represent emotions i
 
 ---
 
-### 14. Curiosity → Scout Bee (Пчёлка-исследовательница)
+### 15. Curiosity → Scout Bee (Пчёлка-исследовательница)
 
 *   **Emotion:** The positive, energized state of wanting to know more. It's an active, exploratory feeling that pulls one toward the new and unknown.
 *   **Images & Sensations:**
@@ -200,7 +215,7 @@ This document outlines the core system of metaphors used to represent emotions i
 
 ---
 
-### 15. Resilience → Tumbler Toy (Неваляшка)
+### 16. Resilience → Tumbler Toy (Неваляшка)
 
 *   **Emotion:** The resilient, self-righting ability to recover after a setback and get back up to try again.
 *   **Images & Sensations:**
@@ -213,7 +228,7 @@ This document outlines the core system of metaphors used to represent emotions i
 
 ---
 
-### 16. Disappointment (Hope Collapse) → Dropping Stone (Упавший Камень)
+### 17. Disappointment (Hope Collapse) → Dropping Stone (Упавший Камень)
 
 *   **Causal Link:** Occurs when a tangible, positive expectation is suddenly invalidated. It's the collapse of a specific, anticipated joy. This is a brief transitional event leading to Sadness, Anger, or Helplessness.
 *   **Emotion:** Disappointment. The sharp, sudden collapse of a hope.
@@ -226,7 +241,7 @@ This document outlines the core system of metaphors used to represent emotions i
 
 ---
 
-### 17. Temptation (Irresistible Pull) → Magnetic Rock (Магнитный Камень)
+### 18. Temptation (Irresistible Pull) → Magnetic Rock (Магнитный Камень)
 
 *   **Causal Link:** Occurs when an immediate, desirable object or action captures attention, creating a strong pull in conflict with rules or delayed gratification.
 *   **Emotion:** Temptation. The intense, urgent desire to act on an impulse.
@@ -241,7 +256,7 @@ This document outlines the core system of metaphors used to represent emotions i
 
 ---
 
-### 18. Envy (Coping by Devaluation) → Sour Grapes (Кислый Виноград)
+### 19. Envy (Coping by Devaluation) → Sour Grapes (Кислый Виноград)
 
 *   **Causal Link:** Follows seeing someone else have or achieve something you desperately want. It's a coping mechanism for the feeling of envy.
 *   **Emotion:** `Envy`. The process of convincing yourself that something you can't have is actually bad, to make yourself feel better.
