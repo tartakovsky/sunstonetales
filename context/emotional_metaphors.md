@@ -18,17 +18,17 @@ This document outlines the core system of metaphors used to represent emotions i
 
 ---
 
-### 2. Joy (Warmth & Clarity) → Sunbeam (Солнечный Зайчик)
+### 2. Joy (Warmth & Contentment) → Purring Kitten (Мурлыкающий Котёнок)
 
-*   **Emotion:** Joy, happiness, delight, positive memories.
+*   **Emotion:** Joy, happiness, contentment, positive memories.
 *   **Images & Sensations:**
     *   Warmth spreading through the chest and body.
-    *   A sense of lightness and ease.
-    *   Brightness behind the eyes; the world seeming clearer and more colorful.
+    *   A sense of lightness, safety, and ease.
+    *   A low, pleasant rumble in the chest.
     *   An involuntary smile.
 *   **Narrative Example:**
-    > И тут Лиска вспомнила смешного краба, и в груди у неё запрыгал тёплый Солнечный Зайчик. Он согрел её изнутри, и губы сами растянулись в улыбке.
-    > (And then Liska remembered the funny crab, and a warm Sunbeam started to dance in her chest. It warmed her from the inside, and her lips stretched into a smile all on their own.)
+    > И тут Лиска вспомнила, как мама её обняла, и в груди у неё замурлыкал тёплый котёнок. Он согрел её изнутри, и губы сами растянулись в улыбке.
+    > (And then Liska remembered how her mom hugged her, and a warm Kitten started to purr in her chest. It warmed her from the inside, and her lips stretched into a smile all on their own.)
 
 ---
 
@@ -47,37 +47,37 @@ This document outlines the core system of metaphors used to represent emotions i
 
 ---
 
-### 4. Hurt (External Impact) → Sharp Stone (Острый Камешек)
+### 4. Hurt (External Impact) → Stinging Wasp (Жалящая Оса)
 
 *   **Emotion:** The initial shock, sting, and pain of an unfair action or comment.
 *   **Images & Sensations:**
-    *   A sudden, sharp sting in the chest, as if physically struck.
+    *   A sudden, sharp sting in the chest, as if pricked by a needle.
     *   A sharp intake of breath.
-    *   A localized point of intense emotional pain.
+    *   A localized point of intense, hot emotional pain.
 *   **Narrative Example:**
-    > Слова Анжи ударили Лиску, как укол Острым Камешком. Она вскрикнула — не громко, а так, внутри — и почувствовала, как в груди стало колко и больно.
-    > (Anji's words prickled Liska like a Sharp Stone. She cried out—not aloud, but inside—and felt a sharp, painful sting in her chest.)
+    > Слова Анжи ужалили Лиску, как оса. Она вскрикнула — не громко, а так, внутри — и почувствовала, как в груди стало колко и больно.
+    > (Anji's words stung Liska like a Wasp. She cried out—not aloud, but inside—and felt a sharp, painful sting in her chest.)
 
 ---
 
-### 5. Indignation (Reaction to Hurt) → Wildfire (Пожар)
+### 5. Indignation (Reaction to Hurt) → Raging Lion (Яростный Лев)
 
-*   **Causal Link:** The `Sharp Stone` strikes the ground, creating a spark that ignites the `Wildfire`.
-*   **Emotion:** Hot, righteous anger reacting to perceived injustice. The initial flare-up.
+*   **Causal Link:** The `Stinging Wasp` awakens the `Raging Lion`.
+*   **Emotion:** Hot, righteous anger reacting to perceived injustice. The initial roar.
 *   **Images & Sensations:**
     *   Heat spreading rapidly through the body.
-    *   A racing heart and energetic protest.
+    *   A racing heart and a powerful urge to roar or shout.
     *   A narrow, intense focus on the injustice.
-    *   A consuming, energetic feeling that demands action.
+    *   A feeling of power and the need to defend one's territory.
 *   **Narrative Example:**
-    > Там, куда ударил Острый Камень, вспыхнула искра и разгорелся Пожар. Лицо у Лиски вспыхнуло, а в голове была только одна горячая мысль: «Это нечестно!»
-    > (Where the Sharp Stone hit, a spark flared up and ignited a Wildfire. Liska's face flushed, and there was only one hot thought in her head: "That's not fair!")
+    > Там, где ужалила оса, проснулся и зарычал яростный лев. Лицо у Лиски вспыхнуло, а в голове была только одна горячая мысль: «Это нечестно!»
+    > (Where the Wasp stung, a Raging Lion awoke and roared. Liska's face flushed, and there was only one hot thought in her head: "That's not fair!")
 
 ---
 
 ### 6. Lingering Resentment → Embers (Угольки)
 
-*   **Causal Link:** After a `Wildfire` of indignation subsides, it leaves behind smoldering `Embers`.
+*   **Causal Link:** After the `Raging Lion`'s roar subsides, it can leave behind smoldering `Embers`.
 *   **Distinction from Prickly Hedgehog:** While the Hedgehog is a vulnerable, defensive hurt from a situation, Embers are a hot, directed resentment toward a person.
 *   **Emotion:** `Grudge / Resentment (Обида-Злость)`. The lingering, hot resentment directed at someone for a perceived injustice. It's a persistent feeling that keeps returning to the person who caused the hurt.
 *   **Images & Sensations:**
@@ -228,16 +228,17 @@ This document outlines the core system of metaphors used to represent emotions i
 
 ---
 
-### 17. Disappointment (Hope Collapse) → Dropping Stone (Упавший Камень)
+### 17. Disappointment (Hope Collapse) → Wilting Flower (Увядающий Цветок)
 
 *   **Causal Link:** Occurs when a tangible, positive expectation is suddenly invalidated. It's the collapse of a specific, anticipated joy. This is a brief transitional event leading to Sadness, Anger, or Helplessness.
 *   **Emotion:** Disappointment. The sharp, sudden collapse of a hope.
 *   **Images & Sensations:**
-    *   A sudden "lurch" in the stomach, as if the ground dropped out.
-    *   A heavy, empty "thud" in the chest, as if a stone has just dropped.
+    *   A sudden loss of energy and vitality.
+    *   A feeling of drooping or sagging, like a plant without water.
+    *   The world losing its color and vibrancy.
 *   **Narrative Example:**
-    > Лиска представляла, как они пойдут в парк и будут есть мороженое. Это было так реально, что она почти чувствовала сладкий вкус во рту. Но тут мама сказала: "Мы не можем пойти, начался сильный дождь." Внутри у Лиски всё оборвалось, словно тяжёлый камень упал в груди с глухим стуком. 
-    > (Liska imagined going to the park and eating ice cream. It felt so real, she could almost taste the sweetness. But then Mom said, "We can't go, it's started to rain heavily." Something inside Liska lurched, as if a heavy stone dropped in her chest with a hollow thud.)
+    > Лиска представляла, как они пойдут в парк. Но тут мама сказала: "Мы не можем пойти, начался сильный дождь." Внутри у Лиски всё поникло, словно красивый цветок, который вдруг завял.
+    > (Liska imagined going to the park. But then Mom said, "We can't go, it's started to rain heavily." Inside Liska, everything drooped, like a beautiful Flower that had suddenly wilted.)
 
 ---
 

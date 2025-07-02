@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node:*)",
+      "Bash(npm --version)",
+      "Bash(nvm install:*)",
+      "Bash(nvm use:*)",
+      "Bash(nvm alias:*)",
+      "Bash(source:*)",
+      "Bash(npm install:*)",
+      "Bash(claude --version)",
+      "Bash(nvm list:*)",
+      "Bash(echo $SHELL)",
+      "Bash(ls:*)"
+    ],
+    "deny": []
+  }
+}
