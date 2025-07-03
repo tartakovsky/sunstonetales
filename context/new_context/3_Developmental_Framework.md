@@ -1,8 +1,111 @@
-# 3. Behavioral Framework
+# 3. Developmental Framework
 
 This document details the cause-and-effect of behavior, from dysregulation to successful problem-solving.
 
 ---
+
+## Developmental Guidelines
+
+These guidelines are based on psychological principles to ensure the stories are beneficial and supportive for a young audience.
+
+---
+
+### **Rule: Process Praise instead of Personal Praise**
+
+*   **Goal:** Fostering Mindset & Competence
+*   **Description:** Focus on effort, strategy, and process, not fixed traits.
+*   **Example:** Instead of writing "You're so smart," write "You found a very good way to solve that."
+
+---
+
+### **Rule: Growth Language instead of Fixed Language**
+
+*   **Goal:** Fostering Mindset & Competence
+*   **Description:** Frame abilities as learnable, not innate.
+*   **Example:** Instead of writing "She can't do it," write "She hasn't learned how to do it yet."
+
+---
+
+### **Rule: Specific Feedback instead of Generic Praise**
+
+*   **Goal:** Fostering Mindset & Competence
+*   **Description:** Pinpoint what the child did well to reinforce positive behaviors.
+*   **Example:** Instead of writing "Good job," write "You were very patient while you waited your turn."
+
+---
+
+### **Rule: Co-regulation instead of Self-regulation**
+
+*   **Goal:** Building Emotional Intelligence
+*   **Description:** Show an adult providing a calm presence before introducing coping tools.
+*   **Example:** Show a parent calmly hugging a child until they are calm, and only then suggest, "Let's take a deep breath together."
+
+---
+
+### **Rule: Emotion Validation instead of Emotion Dismissal**
+
+*   **Goal:** Building Emotional Intelligence
+*   **Description:** Treat all feelings as valid and acceptable.
+*   **Example:** Instead of writing "Don't be sad," write "It's okay to feel sad. It's disappointing when your tower falls."
+
+---
+
+### **Rule: Clear Labels instead of Vague Emotions**
+
+*   **Goal:** Building Emotional Intelligence
+*   **Description:** Help build emotional vocabulary by naming specific feelings.
+*   **Example:** Instead of writing "He felt bad," write "He felt frustrated and a little bit lonely."
+
+---
+
+### **Rule: Child Agency instead of Adult Solutions**
+
+*   **Goal:** Promoting Agency & Problem-Solving
+*   **Description:** Show adults as guides who help children think, not as heroes who fix everything.
+*   **Example:** Instead of writing "Papa fixed the toy for her," write "Papa helped her figure out how the pieces fit together."
+
+---
+
+### **Rule: Child Choice instead of Adult Control**
+
+*   **Goal:** Promoting Agency & Problem-Solving
+*   **Description:** Provide opportunities for the character to make simple, meaningful decisions.
+*   **Example:** Instead of writing "Mama made him wear his red boots," write "He chose to wear his red boots to jump in puddles."
+
+---
+
+### **Rule: Process Focus instead of Magical Solutions**
+
+*   **Goal:** Promoting Agency & Problem-Solving
+*   **Description:** Show the child working through challenges step by step rather than using magic to instantly solve problems.
+*   **Example:** Instead of writing "She waved her wand and fixed everything," write "She tried different ways to stack the blocks until she found one that worked."
+
+---
+
+### **Rule: Natural Consequences instead of Punishment**
+
+*   **Goal:** Developing Social Skills & Empathy
+*   **Description:** Show that outcomes are a direct result of actions.
+*   **Example:** Instead of writing "She got in trouble for yelling," write "When she yelled, her friend felt sad and didn't want to play."
+
+---
+
+### **Rule: Perspective-Taking instead of Missing Empathy**
+
+*   **Goal:** Developing Social Skills & Empathy
+*   **Description:** Explicitly include moments where a character wonders about another's feelings.
+*   **Example:** Add moments like, "Liska wondered why her brother was so quiet. Maybe he was feeling tired?"
+
+---
+
+### **Rule: Learning Frame instead of Shame Language**
+
+*   **Goal:** Developing Social Skills & Empathy
+*   **Description:** Frame mistakes as discoveries, not failures.
+*   **Example:** Instead of writing "That was a big mistake," write "She discovered that putting too much water makes the paint runny."
+
+---
+<br>
 
 ## Dysregulation Types
 

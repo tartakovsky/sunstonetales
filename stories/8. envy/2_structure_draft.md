@@ -3,7 +3,7 @@
 ## Act 1: Introduction
 
 ### 1.1: Introduce setting and atmosphere
-Liska, Anji, Tahrra, and Slypaws meet at the park in Sarabad, where the atmosphere is bright and cheerful, full of excitement for an afternoon of games.
+Liska, Anji, Tahrra, and Slypaws meet at the park in Sunstone, where the atmosphere is bright and cheerful, full of excitement for an afternoon of games.
 
 ### 1.2: Introduce character(s)
 The energetic friends are eager to play, and each suggests a different game.

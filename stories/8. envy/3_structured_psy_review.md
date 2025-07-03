@@ -6,7 +6,7 @@
 
 ### 1.1 & 1.2: Introduce Setting, Atmosphere, and Characters
 Text:
-Liska claims a perfect, sun-drenched patch of moss in Sarabad Park, declaring, "This is my official Sunning Spot. No un-invited paws!" Anji arrives in a chaotic tumble, his cape snagging on a bush and sending a shower of petals into the air. He lands, dizzy and giggling, right at the edge of Liska's spot. Nearby, Tahrra sits perfectly still, her golden eyes tracking the complex flight path of a single bee.
+Liska claims a perfect, sun-drenched patch of moss in Sunstone Park, declaring, "This is my official Sunning Spot. No un-invited paws!" Anji arrives in a chaotic tumble, his cape snagging on a bush and sending a shower of petals into the air. He lands, dizzy and giggling, right at the edge of Liska's spot. Nearby, Tahrra sits perfectly still, her golden eyes tracking the complex flight path of a single bee.
 
 > **Review:** The introduction effectively establishes the setting and characters through dynamic action. It is well-executed and requires no changes.
 

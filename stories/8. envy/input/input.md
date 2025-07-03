@@ -4,7 +4,7 @@ Liska, Anji, Tahrra play together. Who’s the fourth friend? Slypaws? Lucia?
 
 **Beginning (Pages 1-6)**
 
-- Liska meets her friends (FRIEND1, FRIEND2, FRIEND3) at the park in Sarabad
+- Liska meets her friends (FRIEND1, FRIEND2, FRIEND3) at the park in Sunstone
 - Everyone wants to play different games
 - They vote on what to play first
 - Liska's choice (tag) doesn't win - they choose hide-and-seek

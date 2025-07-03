@@ -73,6 +73,6 @@
 ---
 
 **11. Write a paragraph summarizing the story.**  
-**A:** In 'Liska Learns to Play Along,' Liska joins her friends Anji, Tahrra, and Slypaws at the park in Sarabad, excited to play tag, but the group votes for hide-and-seek instead. Feeling disappointed, Liska initially refuses to play, watching sadly as her friends have fun without her. She eventually joins in and discovers the game's joy, but later, during tag, she loses a race and complains, upsetting the group. With gentle encouragement from her friends, Liska takes a deep breath to cool her disappointment and congratulates the winner, learning that playing together and supporting each other makes every game more fun, win or lose.
+**A:** In 'Liska Learns to Play Along,' Liska joins her friends Anji, Tahrra, and Slypaws at the park in Sunstone, excited to play tag, but the group votes for hide-and-seek instead. Feeling disappointed, Liska initially refuses to play, watching sadly as her friends have fun without her. She eventually joins in and discovers the game's joy, but later, during tag, she loses a race and complains, upsetting the group. With gentle encouragement from her friends, Liska takes a deep breath to cool her disappointment and congratulates the winner, learning that playing together and supporting each other makes every game more fun, win or lose.
 
 ---
