@@ -1,0 +1,43 @@
+﻿• Date & Address block
+– Place the date at the very top right (“Lisboa, 4 de Julho de 2025”) to match Portuguese open-letter conventions.
+– List addressees each on a new line and in protocol order:
+Ao Primeiro-Ministro,
+À Ministra da Saúde,
+Ao Ministro dos Assuntos Parlamentares,
+Aos Deputados da Assembleia da República,
+Ao Povo Português.
+• Closing/signatures
+– Create space for individual names, specialities and, if possible, Ordem professional numbers (adds legitimacy).
+– If anonymity is needed, add: “(Lista integral de signatários entregue em confidencialidade aos grupos parlamentares).”
+──────────────────────────────────────── 2. CONTENT & TONE ──────────────────────────────────────── A. Lead anecdote (newborn death)
+✔ Emotional and documented.
+❑ Add explicit acknowledgement that investigation is ongoing to avoid accusação de facto consumado:
+“Uma investigação da IGAS encontra-se em curso; os factos definitivos ainda não foram publicados.”
+B. Data & sources
+– Embed sources parenthetically the first time figures appear:
+“1 644 809 utentes sem médico de família (Portal da Transparência do SNS, Maio 2025)”.
+– Where possible cite Portuguese-language outlets (Expresso, Público) instead of English-language summaries to pre-empt the “dados importados” criticism.
+– Consider adding one line on projected retirements to show the problem will worsen (“Mais de 6 000 médicos atingem idade de reforma até 2030, DGS 2024”).
+C. Argument flow
+1. Tragic case (pathos)
+2. Nationwide numbers (logos)
+3. Role of foreign professionals (ethos/pathos)
+4. Law change & European comparison (logos)
+5. Three concrete demands (solution-oriented)
+6. Direct appeal to citizens / call-to-action (mobilisation)
+D. Language polish
+• Replace “stunned” (“estamos estupefactos”) with a calmer “preocupados” → keeps tone earnest, not confrontational.
+• Use “SNS” consistently; delete English “National Health Service” unless targeting foreign press.
+• Change “foreign-born” to “médicos formados noutros países” — focuses on qualification, not nationality.
+──────────────────────────────────────── 3. CALL-TO-ACTION (critical for persuasion) ──────────────────────────────────────── Add a short, practical section before the signatures:
+O que cada cidadão pode fazer hoje • Assinar a petição pública em www.(link)
+ • Enviar esta carta ao seu deputado (QR-code disponível).
+• Partilhar nas redes sociais usando #SalvemOSNS.
+──────────────────────────────────────── 4. RISK & FACT-CHECK CHECKLIST ──────────────────────────────────────── ☐ All figures have primary Portuguese sources.
+☐ The newborn-death case includes reference + “investigation ongoing” disclaimer.
+☐ Salary figure (€2 863) specified as “brutos” and linked to official recruitment notice.
+☐ EU comparison table verified (Spain 2-year rule for Ibero-American nationals noted).
+☐ No party-political labelling (avoids partisan dismissal).
+──────────────────────────────────────── 5. OPTIONAL ENHANCEMENTS ──────────────────────────────────────── • Add a short quote from Ordem dos Médicos or Ordem dos Enfermeiros to show institutional backing.
+• Embed a simple infographic at the end (Map of EU residency periods) — visual aids increase shareability on social media and WhatsApp groups.
+• Provide a Portuguese audio version (1-minute voice-over) for radio and TikTok reels.
