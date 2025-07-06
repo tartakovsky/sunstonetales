@@ -12,6 +12,8 @@
 *   **2.2: The Catalyst:**
     *   Her mother, Mara, comes in to give her a final goodnight kiss, hanging her heavy traveling coat on a wall peg before leaving the room.
 *   **2.3: The Core Incident:**
+
+    <!-- Coat specifically is kinda lame. Also it's bedroom, pepople don't hang coats there. -->
     *   In the shifting moonlight, the coat's shadow looms large and unfamiliar. It looks to Liska like a hunched monster with a long, reaching arm.
     *   **Slot:** `Emotional Trigger: Scary/Threatening`
 *   **2.4: Fallout:**
@@ -26,6 +28,8 @@
     *   **Slot:** `Regulation Strategy: Parent-Child Co-Regulation`
     *   **Slot:** `Support: Calm Presence`, `Physical Contact`, `Feeling Validation` ("I see you're scared. That's a big feeling.")
 *   **3.2: Attempt 1 (Guided Investigation):**
+    
+    <!-- Should be Liska's choice which toy to take. "Wanna take someone with us?" -->
     *   Mara says, "Let's be brave explorers together. An explorer needs a brave companion. Should we take your sloth?" Liska nods, grabbing the sloth. The three of them—Mara, Liska, and the sloth—go back to the room. Mara lights a candle, revealing the coat. Liska is still wary, but the immediate fear subsides into caution.
 *   **3.3: Attempt 2 (Familiarization through Play):**
     *   The next evening, Mara initiates a game. "Remember our shadow adventure? Let's play with it." With the sloth sitting beside them, they use the candle to make the coat's shadow dance. They give it a silly name. It's fun. The shadow is now associated with safety and play.
@@ -53,6 +57,7 @@
 *   **4.4: Success:**
     *   She scurries across the room and touches the rough fabric of the coat. It's just a coat.
 *   **4.5: Immediate Reward / Relief:**
+    <!-- the fear wouldn't be gone? But other feelings would be stronger. Relief. Exhileration from success? Pride? -->
     *   A wave of calm washes over her. The `Little Mouse` fear is gone. She breathes out, feeling proud and safe. The reward is internal: a deep sense of peace and accomplishment.
 
 ### **Act 5: Resolution & Conclusion – Integrating the Growth**
@@ -65,4 +70,4 @@
 *   **5.4: New Status Quo:**
     *   A few nights later, we see Liska in bed. Before falling asleep, she takes her sloth and makes its shadow dance on the wall for a moment. They are no longer scary; they are her friends.
 *   **5.5: Concluding Thought:**
-    *   Liska learned that some shadows look scary, but a brave explorer with a good friend can always find the light.
+    *   Liska learned that some shadows look scary, but a brave explorer with a good friend can always find the light.`

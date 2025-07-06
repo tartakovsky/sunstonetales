@@ -66,6 +66,33 @@ These guidelines are based on psychological principles to ensure the stories are
 
 ---
 
+Here is the updated `3_Developmental_Framework.md` file with the requested addition.
+
+---
+
+### **Rule: Socratic Guidance instead of Direct Answers**
+
+*   **Goal:** Promoting Agency & Problem-Solving
+*   **Description:** Use a series of simple, logical questions to guide the child's thinking. Instead of giving the answer, help the child connect the dots themselves. The goal is to prompt the child to analyze the components of a problem (e.g., comparing two situations) so the solution becomes their own logical deduction.
+*   **Example:**
+    ```
+    "I will never save money, it's too hard!" Liska exclaimed.
+
+    "Why is it so hard?" her father asked.
+
+    "It's too hard to not spend when I want something!" Liska replied.
+
+    "That feeling like something pulls you, it's called temptation. Do you feel it at home as much?" her father inquired.
+
+    "No..." Liska admitted.
+
+    "I see. So at the market, the beads are for spending. What are they for when they are here, at home?" he continued.
+
+    "They are for saving! They need to stay home! We need a place to hide them!" Liska declared.
+    ```
+
+---
+
 ### **Rule: Child Choice instead of Adult Control**
 
 *   **Goal:** Promoting Agency & Problem-Solving
