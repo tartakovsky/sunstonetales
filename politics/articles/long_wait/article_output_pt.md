@@ -19,6 +19,14 @@ O maior perigo da lei é a sua retroatividade, que viola o princípio da seguran
 
 > Quando o Estado quebra as suas próprias regras, alerta o talento e os investidores globais: o vosso futuro não está seguro aqui.
 
+---
+“O meu título de residência expirou a 2 de janeiro e só consegui submeter o pedido de renovação em junho, quase por sorte. Provavelmente, só receberei o novo título quase um ano depois da validade do anterior.
+
+E temos muitos colaboradores que continuam sem conseguir resolver a situação, sem sequer saber como marcar uma renovação. O mesmo se aplica à emissão de novos títulos. Mesmo tratando-se de profissionais altamente qualificados, e apesar de, há alguns anos, os advogados nos terem dito que esta era uma categoria prioritária e que o país estava interessado em atrair este tipo de talento, neste momento parece o contrário. Começa a parecer que não são realmente bem-vindos”, 
+
+Mikhail Fedorinin, o fundador da Albato.
+---
+
 ### O Custo Humano: Famílias Separadas pela Burocracia
 
 Por detrás dos 400.000 processos pendentes, há histórias de um enorme custo pessoal. Residentes legais que pagam os seus impostos em Portugal estão impedidos de viajar, de visitar familiares doentes ou de planear as suas vidas. Um refugiado político, a residir legalmente em Portugal há cinco anos, acrescenta: "A minha filha de cinco anos não vê os avós há quatro. Viemos para cá a acreditar numa promessa de 5 anos. Com esta nova lei, o meu caminho para a estabilidade pode demorar 16 anos".

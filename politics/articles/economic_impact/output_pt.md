@@ -1,4 +1,4 @@
-# A Questão de 3 Mil Milhões de Euros: Quem Pagará pela Nova Lei da Imigração de Portugal?
+# 3 Mil Milhões de Euros: Quem Pagará pela Nova Lei da Imigração de Portugal?
 
 Uma nova lei ameaça as contribuições de 2,9 mil milhões de euros para a Segurança Social geradas por imigrantes, que financiam os serviços públicos de Portugal, numa altura em que 84% das empresas portuguesas afirmam não conseguir encontrar trabalhadores.
 

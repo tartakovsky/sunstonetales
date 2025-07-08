@@ -19,6 +19,14 @@ The law's retroactivity violates legal certainty (*segurança jurídica*), a cor
 
 > When a state breaks its own rules, it warns global talent and investors: your future is not safe here.
 
+---
+"My residence permit expired on January 2nd, and I only managed to submit the renewal application in June, almost by luck. I will probably only receive the new permit almost a year after the previous one expired.
+
+And we have many employees who still can't resolve their situation, without even knowing how to schedule a renewal. The same applies to issuing new permits. Even for highly qualified professionals, and despite lawyers telling us a few years ago that this was a priority category and that the country was interested in attracting this type of talent, right now it seems the opposite. It's starting to feel like they are not really welcome" 
+
+Mikhail Fedorinin, the founder of Albato.
+---
+
 ### **The Human Cost: Families Separated by Bureaucracy**
 
 Behind the **400,000** pending cases are stories of profound personal cost. Legal residents who pay taxes here are unable to travel, see dying relatives, or plan their lives. **"I missed my own father's funeral because I was waiting for a document,"** states one IT specialist. A political refugee, here for five years, adds, "My daughter hasn't seen her grandparents in four years. We came here believing in a 5-year promise... With this new law, my journey to stability could take 16 years."

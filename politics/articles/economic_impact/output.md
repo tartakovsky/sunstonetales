@@ -1,4 +1,4 @@
-# The €3 Billion Question: Who Will Pay for Portugal’s New Immigration Law?
+# €3 Billion: Who Will Pay for Portugal’s New Immigration Law?
 
 A new law threatens the €2.9 billion immigrant-generated Social Security contributions that fund Portugal's public services, arriving just as 84% of Portuguese companies report they cannot find workers.
 
