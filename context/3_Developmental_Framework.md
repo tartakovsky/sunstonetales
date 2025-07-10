@@ -63,10 +63,8 @@ These guidelines are based on psychological principles to ensure the stories are
 * **Goal**: Building a Core Self-Regulation Loop
 * **Description**: This framework provides a simple, memorable, three-step process for
     self-regulation that can be consistently reinforced across stories. The co-regulators teach the sequence. The narrator explicitly frames the character's actions using the mantra. The character themselves typically just does it without consciously naming the steps.
-    1. Notice: The character identifies an internal sensation ("My heart is fast," "My tummy
-        feels wobbly").
-    2. Pause: The character performs a simple, automatic action to create space, like taking a
-        single deep breath.
+    1. Notice: The character identifies an internal sensation ("My heart is fast," "My tummy feels wobbly").
+    2. Pause: The character performs a simple, automatic action to create space, like taking a  single deep breath.
     3. Help: The character uses a pre-learned coping strategy (e.g., hugging a toy, simple
         self-talk) to manage the feeling.
 * **Example**: Instead of writing: "Liska felt scared, but then she remembered to hug her sloth and

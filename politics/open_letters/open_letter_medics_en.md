@@ -1,30 +1,19 @@
-### An Open Letter to the Government and People of Portugal
+To: The Prime Minister of Portugal, The Minister of Health, The Minister for Parliamentary Affairs, Members of the Assembly of the Republic, The People of Portugal
 
-**From the doctors and nurses of Portugal, united in our commitment to the National Health Service.**
+We, the doctors and nurses of Portugal, address you with concerns about the future of the National Health Service (SNS) in light of the new Lei da Nacionalidade project.
 
-**To:
-The Prime Minister of Portugal
-The Minister of Health
-The Minister for Parliamentary Affairs
-Members of the Assembly of the Republic
-The People of Portugal**
+Our healthcare system faces a serious staffing shortage. As of January 2025, 1.56 million people lack a family doctor — this is a serious negative situation for public health.
 
-We, the doctors and nurses of Portugal, write to you with grave concern for the future of our National Health Service (SNS) under the newly proposed *Lei da Nacionalidade*.
+This gap has been filled by more than 4,000 foreign medical professionals, including doctors and nurses. These are our colleagues who work with us every day. Together we save Portuguese lives. They voluntarily underwent the complex procedure of Reconhecimento Específico — to meet Portuguese standards and demonstrated a high level of Portuguese language proficiency, becoming an integral part of a healthcare service under great strain.
 
-Our healthcare system is in crisis. **1.7 million people** lack a family doctor, and this crisis is deepened by an exodus of our colleagues; in recent years, **3,000 Portuguese doctors** have been forced to seek better conditions abroad.
+These professionals chose Portugal not for high salaries, but for the promise of a stable future for their families. Part of this promise was a clear five-year path to naturalization — Portugal's advantage in the global market for medical talent.
 
-Into this gap have stepped **6,100 international medical professionals**. These are our colleagues who work alongside us every day. They willingly undertook the demanding "Reconhecimento Específico" to meet Portuguese standards and have become an indispensable part of a health service under immense strain.
+Lei da Nacionalidade changes this condition retroactively, creating a legal precedent that deeply concerns our colleagues and creates a state of profound uncertainty for them. This threatens their exodus and strikes a blow to a healthcare system that desperately needs every qualified professional.
 
-These professionals did not choose Portugal for higher salaries — they chose it for the promise of a stable future for their families. That promise was the clear, five-year path to integration. Portugal’s key advantage in a global market for medical talent. *Lei da Nacionalidade changes that* retroactively, introducing a dangerous legal precedent—that legal experts warn, and the President of the Republic has noted, may be unconstitutional.
+We ask for constructive dialogue to establish a clear, predictable and stable path for those who are already here, working and contributing to Portuguese society. We propose maintaining the five-year term for medical workers already integrated into the SNS and providing them with an accelerated naturalization regime in the future. We believe such stability is necessary for the successful integration of international personnel into the SNS system.
 
-The proposal to double this to ten years breaks that promise. This creates profound uncertainty for our colleagues, threatening to drive them away and delivering a critical blow to a healthcare system that desperately needs every qualified professional it can get. 
+We believe in Portugal's ability to find a fair solution that will strengthen both the SNS and trust in Portuguese institutions.
 
-These are not outsiders. Their children attend Portuguese schools, growing up with your children, on Portuguese soil.
-
-This is not a letter of demand, but an appeal for foresight. We humbly ask for a constructive dialogue to establish a clear, predictable, and stable path forward for those who are already here, working and contributing to Portuguese society. We believe that such stability is essential for successful integration and for the long-term prosperity of Portugal itself.
-
-We place our trust in Portugal's enduring wisdom and humanity.
-
-With the deepest respect and hope for our shared future,
+With deepest respect and hope for our shared future,
 
 The doctors and nurses of Portugal.

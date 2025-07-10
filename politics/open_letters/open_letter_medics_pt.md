@@ -1,30 +1,19 @@
-### Carta Aberta ao Governo e ao Povo de Portugal
+Para: Exmo. Senhor Primeiro-Ministro de Portugal, Exma. Senhora Ministra da Saúde, Exmo. Senhor Ministro dos Assuntos Parlamentares, Exmos. Senhores Deputados da Assembleia da República, Povo de Portugal
 
-**Dos médicos e enfermeiros em Portugal, unidos no nosso compromisso com o Serviço Nacional de Saúde.**
+Nós, os médicos e enfermeiros de Portugal, dirigimo-nos a V. Exas. com preocupações sobre o futuro do Serviço Nacional de Saúde (SNS) face ao novo projeto de Lei da Nacionalidade.
 
-**Destinatários:
-O Primeiro-Ministro de Portugal
-A Ministra da Saúde
-O Ministro dos Assuntos Parlamentares
-Os Deputados da Assembleia da República
-O Povo de Portugal**
+O nosso sistema de saúde enfrenta uma grave carência de pessoal. Em janeiro de 2025, 1,56 milhões de pessoas não tinham médico de família — uma situação com um grave impacto negativo na saúde pública.
 
-Nós, médicos e enfermeiros em Portugal, dirigimo-nos a vós com a mais profunda preocupação pelo futuro do nosso Serviço Nacional de Saúde (SNS) perante a nova proposta de alteração à *Lei da Nacionalidade*.
+Esta lacuna tem sido preenchida por mais de 4.000 profissionais de saúde estrangeiros, incluindo médicos e enfermeiros. Estes são os nossos colegas que trabalham connosco todos os dias. Juntos, salvamos vidas portuguesas. Submeteram-se voluntariamente ao complexo processo de Reconhecimento Específico — para cumprir as normas portuguesas — e demonstraram um elevado nível de proficiência em língua portuguesa, tornando-se parte integrante de um serviço de saúde sob enorme pressão.
 
-O nosso sistema de saúde está em crise. **1,7 milhões de pessoas** não têm médico de família, e esta crise é agravada pelo êxodo dos nossos colegas; nos últimos anos, **3.000 médicos portugueses** foram forçados a procurar melhores condições no estrangeiro.
+Estes profissionais escolheram Portugal não pelos salários elevados, mas pela promessa de um futuro estável para as suas famílias. Parte desta promessa era um caminho claro de cinco anos para a naturalização — a vantagem de Portugal no mercado global de talentos médicos.
 
-Para preencher esta lacuna, vieram **6.100 profissionais médicos internacionais**. São os nossos colegas, que trabalham ao nosso lado todos os dias. Submeteram-se voluntariamente ao exigente processo de "Reconhecimento Específico" para cumprir as normas portuguesas e tornaram-se uma parte indispensável de um serviço de saúde sob imensa pressão.
+A Lei da Nacionalidade altera esta condição retroativamente, criando um precedente legal que preocupa profundamente os nossos colegas e gera um estado de profunda incerteza para eles. Isto ameaça o seu êxodo e desfere um golpe num sistema de saúde que necessita desesperadamente de cada profissional qualificado.
 
-Estes profissionais não escolheram Portugal por salários mais elevados, mas sim pela promessa de um futuro estável para as suas famílias. Essa promessa era um percurso de integração claro de cinco anos — a principal vantagem de Portugal num mercado global competitivo por talento médico. A proposta de alteração à *Lei da Nacionalidade* muda esta realidade de forma retroativa, criando um precedente jurídico perigoso que, como alertam os juristas e assinalou o Presidente da República, poderá ser inconstitucional.
+Apelamos a um diálogo construtivo para estabelecer um caminho claro, previsível e estável para aqueles que já cá estão, a trabalhar e a contribuir para a sociedade portuguesa. Propomos a manutenção do prazo de cinco anos para os profissionais de saúde já integrados no SNS e a criação de um regime de naturalização acelerado para eles no futuro. Acreditamos que tal estabilidade é necessária para a integração bem-sucedida de pessoal internacional no sistema SNS.
 
-A proposta de duplicar este prazo para dez anos quebra essa promessa. Isto cria uma profunda incerteza para os nossos colegas, ameaçando afastá-los e desferindo um golpe crítico num sistema de saúde que necessita desesperadamente de todos os profissionais qualificados que conseguir obter.
+Acreditamos na capacidade de Portugal para encontrar uma solução justa que fortaleça tanto o SNS como a confiança nas instituições portuguesas.
 
-Estas pessoas não são estranhas. Os seus filhos frequentam escolas portuguesas, crescendo com os vossos filhos, em solo português.
-
-Esta não é uma carta de exigência, mas um apelo à clarividência. Pedimos humildemente um diálogo construtivo para estabelecer um caminho claro, previsível e estável para aqueles que já aqui estão, a trabalhar e a contribuir para a sociedade portuguesa. Acreditamos que essa estabilidade é essencial para uma integração bem-sucedida e para a prosperidade a longo prazo do próprio país.
-
-Depositamos a nossa confiança na sabedoria e humanidade duradouras de Portugal.
-
-Com o mais profundo respeito e esperança no nosso futuro comum,
+Com o mais profundo respeito e esperança no nosso futuro partilhado,
 
 Os médicos e enfermeiros de Portugal.
