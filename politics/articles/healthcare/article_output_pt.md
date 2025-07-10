@@ -1,62 +1,68 @@
-# 1,7 Milhões de Portugueses Sem Médico: Quem Irá Tratar de Portugal Com a Nova Lei da Nacionalidade?
+# 1,7 Milhões de Portugueses Sem Médico: Quem Tratará Portugal com a Nova Lei da Imigração?
 
-**Enquanto o SNS enfrenta um ponto de rutura com 1,7 milhões de utentes sem médico de família, uma nova lei ameaça afastar os 6.100 médicos estrangeiros que o sustentam, duplicando o caminho para a cidadania para 10 anos.**
+**Com o SNS a enfrentar desafios sem precedentes e 1,7 milhões de pessoas sem médico de família, uma nova lei arrisca desencorajar os 6.100 médicos estrangeiros que apoiam o sistema ao duplicar o tempo para a cidadania de 5 para 10 anos.**
 
 ---
 
-Uma proposta de alteração à Lei da Nacionalidade, que duplica o requisito de residência para cidadania de 5 para 10 anos, ameaça diretamente o acesso à saúde. Esta política arrisca-se a afastar os médicos estrangeiros de que o nosso Serviço Nacional de Saúde (SNS) depende, levando uma crise já grave ao limite.
+Uma proposta de alteração à Lei da Nacionalidade portuguesa, duplicando o período para obtenção da cidadania de 5 para 10 anos, afeta diretamente os cuidados de saúde públicos. Esta mudança política impacta os profissionais médicos estrangeiros dos quais o nosso Serviço Nacional de Saúde (SNS) depende, podendo agravar uma situação já grave.
 
-> Duplicar o caminho para a cidadania de 5 para 10 anos ameaça esvaziar os nossos hospitais.
+> Duplicar o período para a cidadania de 5 para 10 anos cria incerteza nos profissionais de saúde.
 
 ### **Um Sistema em Crise: 1,7 Milhões Sem Médico**
 
-O SNS está em crise. Dados oficiais da **ACSS** confirmam que **1,7 milhões** de pessoas não têm médico de família e, segundo a **ERS**, mais de **244.000** utentes aguardam por cirurgia, muitos para além dos tempos máximos garantidos por lei.
+O SNS enfrenta desafios significativos. Dados oficiais da **ACSS** confirmam que **1,7 milhões** de pessoas não têm médico de família e mais de **244.000** estão em listas de espera cirúrgicas (**ERS**), muitas excedendo os prazos legais.
 
-> Com 1,7 milhões de pessoas sem médico de família, o SNS está no seu ponto de rutura.
-
----
-**Estes não são apenas números; são tragédias, como a recente morte de um recém-nascido depois de a sua mãe ter sido recusada em cinco hospitais sobrelotados e com falta de pessoal.**
----
-
-### **Saúde Enfrenta Escassez de Talento de 91%**
-
-A base da crise é uma escassez crítica de mão-de-obra. Um estudo do **ManpowerGroup** revela que **91%** dos empregadores na área da Saúde e Ciências da Vida não conseguem encontrar profissionais qualificados — o maior défice de todos os setores, o que comprova uma falha estrutural.
-
-> Uma escassez de talento de 91% na saúde não é uma lacuna, é uma falha estrutural.
-
-### **Facto: Mais de 6.100 Médicos Estrangeiros Mantêm o SNS a Funcionar**
-
-Enquanto **3.000** médicos portugueses pediram para emigrar nos últimos dois anos (**Ordem dos Médicos**), **6.100** médicos estrangeiros preencheram as vagas (**The Portugal News**). O seu papel é essencial, sendo a maioria proveniente do Brasil (**27%**) e de Espanha (**35%**).
-
-> Enquanto 3.000 dos nossos médicos saem, mais de 6.100 médicos estrangeiros mantêm as luzes acesas.
+> Com 1,7 milhões de pessoas sem médico de família, o SNS necessita de apoio imediato.
 
 ---
-"Sem os meus colegas brasileiros e angolanos, os nossos serviços de urgência teriam de fechar à noite. É tão simples quanto isso."
-
-Dr. João Alves, cirurgião português
+**Estes não são apenas números; são tragédias, como a recente morte de um recém-nascido após a mãe ter sido recusada em cinco hospitais diferentes com falta de pessoal.**
 ---
 
-### **A Nova Lei Custará a Portugal os Seus Médicos**
+### **A Saúde Enfrenta 91% de Escassez de Talento**
 
-O que atrai médicos para Portugal não são os salários, mas sim o caminho para a cidadania. No entanto, os atrasos burocráticos já estendem os 5 anos prometidos para 8 ou mais. Uma nova regra de **10 anos** elimina esta vantagem fundamental, especialmente quando Espanha oferece uma via rápida de **2 anos** aos mesmos profissionais ibero-americanos de que precisamos. Esta lei dá aos **6.100** médicos estrangeiros um forte incentivo para partirem.
+O desafio central é a escassez crítica de mão-de-obra. Um inquérito da **ManpowerGroup** mostra que **91%** dos empregadores na saúde não conseguem encontrar profissionais qualificados—o maior défice de qualquer setor, indicando desafios sistémicos na força de trabalho.
 
-> A lei proposta fecha efetivamente a porta aos profissionais necessários para manter o SNS aberto.
+> Uma escassez de talento de 91% na saúde indica necessidade urgente de soluções laborais.
 
-### **Um Apelo a Uma Política de Imigração Centrada na Saúde**
+---
+O bastonário da Ordem dos Médicos, Carlos Cortes, afirma que vê com bons olhos a presença de médicos estrangeiros em Portugal, devido à escassez de profissionais no SNS, mas é necessário seguir as regras do país. 
 
-Não se trata de evitar regras, mas de uma política estratégica para proteger a saúde pública. [!Apelamos ao Parlamento que implemente um regime de transição que honre o compromisso de cinco anos para os residentes e que exija um estudo de impacto vinculativo, realizado pelo Conselho das Finanças Públicas, antes de qualquer alteração!]. Instamos cada cidadão a contactar o seu deputado.
+“Todos os médicos residentes em Portugal ou no estrangeiro são bem-vindos, desde que tenham as qualificações necessárias para o exercício da medicina e cumpram os requisitos de cidadãos nacionais de países terceiros, tal como definido no Regulamento de Inscrição na Ordem dos Médicos (artigos 13.º e 15.º)”, sublinha. 
 
-A questão é: podemos permitir-nos regras que paralisam o nosso sistema de saúde?
+Para a Ordem, não existem diferenças de nacionalidades. E enfatiza: “Dada a situação de profunda carência de médicos no SNS, a vinda de médicos qualificados será sempre uma mais-valia.”
 
-> Um regime de transição não é apenas uma política; é uma tábua de salvação para 1,7 milhões de pessoas.
+
+O bastonário da Ordem dos Médicos, Carlos Cortes
+---
+
+### **Facto: Mais de 6.100 Médicos Estrangeiros Apoiam o Sistema**
+
+Enquanto **3.000** médicos portugueses escolheram trabalhar no estrangeiro nos últimos dois anos (**Ordem dos Médicos**), **6.100** profissionais médicos estrangeiros juntaram-se ao sistema de saúde português (**The Portugal News**). Prestam serviços essenciais, com a maioria vinda do Brasil (**27%**) e Espanha (**35%**).
+
+> Enquanto 3.000 médicos portugueses saem para trabalhar no estrangeiro, mais de 6.100 médicos estrangeiros prestam cuidados vitais.
+
+### **A Nova Lei Pode Desencorajar Profissionais de Saúde**
+
+O apelo de Portugal aos profissionais de saúde internacionais não é principalmente financeiro, mas inclui um caminho razoável para a integração. Os processos burocráticos atuais já estendem os cinco anos prometidos para oito ou mais. Um novo requisito de **10 anos** reduz esta vantagem, especialmente quando Espanha oferece um caminho de **2 anos** aos mesmos profissionais ibero-americanos. A mudança na lei pode desencorajar os **6.100** profissionais médicos estrangeiros que atualmente servem os pacientes portugueses.
+
+> A lei proposta pode reduzir a capacidade de Portugal para atrair e reter trabalhadores essenciais da saúde.
+
+### **Saúde e Imigração: Um Equilíbrio Complexo**
+
+A interseção entre política de imigração e saúde pública apresenta desafios complexos. Embora as mudanças políticas reflitam vários objetivos legítimos, o seu momento coincide com escassez sem precedentes na força de trabalho da saúde. A experiência dos atuais profissionais de saúde estrangeiros—que entraram em Portugal sob um conjunto de expectativas—destaca como mudanças políticas podem ter consequências não intencionais. Talvez futuras discussões considerem como medidas transitórias ou avaliações de impacto possam ajudar a equilibrar prioridades concorrentes.
+
+A realidade permanece: Portugal precisa de profissionais de saúde, e os profissionais de saúde precisam de estabilidade. Como estas duas necessidades se alinham moldará o futuro dos cuidados de saúde portugueses.
+
+> Quando 1,7 milhões de cidadãos não têm médico de família, cada decisão política tem consequências para a saúde.
 
 ---
 
-Fontes:
+**Fontes:**
 
-1.  "Estatísticas da Saúde 2023", Administração Central do Sistema de Saúde (ACSS), fevereiro de 2025.
-2.  "Monitorização do Acesso aos Cuidados de Saúde no SNS", Entidade Reguladora da Saúde (ERS), janeiro de 2025.
-3.  "Pedidos de 'Good Standing Certificates' 2023-2024", Ordem dos Médicos.
-4.  "Over 6,000 foreign doctors and nurses in Portugal", The Portugal News, 28 de outubro de 2024.
-5.  ManpowerGroup, "Talent Scarcity in Portugal," 2024.
-6.  Portais Oficiais de Imigração do Governo de Portugal, Irlanda, França, Espanha e Bélgica, consultados em 2024.
+1.  **"Estatísticas da Saúde 2023"**, Administração Central do Sistema de Saúde (ACSS), fevereiro de 2025.
+2.  **"Monitorização do Acesso aos Cuidados de Saúde no SNS"**, Entidade Reguladora da Saúde (ERS), janeiro de 2025.
+3.  **"Pedidos de 'Good Standing Certificates' 2023-2024"**, Ordem dos Médicos.
+4.  **"Over 6,000 foreign doctors and nurses in Portugal"**, The Portugal News, 28 de outubro de 2024.
+5.  **ManpowerGroup, "Talent Scarcity in Portugal,"** 2024.
+6.  **Portais Oficiais de Imigração Governamentais** de Portugal, Irlanda, França, Espanha e Bélgica, acedidos em 2024.
+<!-- needs source from Carlos Cortes -->
