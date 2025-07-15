@@ -16,7 +16,7 @@ We are not temporary residents; we are building legacies. Our children attend Po
 
 Long-term investment and job creation depend on a stable and predictable legal environment. The recent uncertainty surrounding residency laws creates significant risk, not just for us, but for the thousands of Portuguese citizens we employ and for the future investments we plan to make.
 
-This is not a letter of demand, but an appeal for dialogue. We humbly ask you to consider the economic impact of newly proposed Lei de Nacionalidade on foreign entrepreneurs who created jobs, and contributed to Portugal's fiscal health. It creates uncertainty for us, and predictability is the bedrock of investment.
+This is not a letter of demand, but an appeal for constructive dialogue. We humbly ask you to consider the message this sends to the global investment community. Let us find a balanced solution that honours the contributions of those already building their lives here and reinforces Portugal’s reputation for fairness and foresight—qualities that make this nation a trusted destination for investment.
 
 We believe in a future we can build together. We put our trust in Portugal's tradition of wisdom and foresight to secure our shared prosperity.
 

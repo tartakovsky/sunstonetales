@@ -11,7 +11,8 @@
       "Bash(claude --version)",
       "Bash(nvm list:*)",
       "Bash(echo $SHELL)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "WebFetch(domain:docs.anthropic.com)"
     ],
     "deny": []
   }

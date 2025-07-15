@@ -1,0 +1,288 @@
+# INTEGRATED STORY DEVELOPMENT, EDITING & WRITING GUIDE (V3 - COMPREHENSIVE)
+
+This guide consolidates all protocols for writing, editing, and reviewing stories in this project. It is organized to preserve all specific requirements and original wording from the source documents.
+
+## PART 1: CORE FRAMEWORK & GLOBAL REQUIREMENTS
+
+This section contains the foundational rules, principles, and technical specifications that apply to all roles and tasks.
+
+### 1.1. Project Document Library
+
+The following documents are the source of truth for all story elements:
+
+*   **Structure:** `@five_act_4_to_6_yo.md`
+*   **Developmental Guidelines:** `@developmental_guidelines.csv`
+*   **Characters:** `@liska.md`, `@father_daric.md`, `@mother_mara.md`, `@anji.md`, `@lucia.md`, `@slypaws.md`, `@tahrra.md`, `@kebab_man.md`, `@zanziri.md`, `@mood_flowers.md`
+*   **Slot Options:** `@emotional_triggers.csv`, `@emotion_groups.csv`, `@dysregulation_types.csv`, `@regulation_strategies.md`, `@coping_strategies.csv`, `@support_types.csv`, `@solution_discovery_processes.csv`, `@practice_types.csv`, `@fun_types.csv`, `@engagement_types.csv`
+*   **Technical Requirements:** `@tech_spec_4_to_6_yo.md`, `@storytelling_guidelines.md`, `@lang_style_ru.md`
+
+### 1.2. Core Writing Principles
+
+*   **Psychological Excellence (Highest Priority):** Follow every principle in `@developmental_guidelines.csv`. Model **co-regulation** before self-regulation. Validate feelings with concrete language. Give the child **agency**: adults scaffold; children solve. Embed a **growth mindset** message naturally in the climax/resolution.
+*   **Character Implementation:** All characters must be written in strict accordance with their definitions in the `liska/characters/` folder. Use these files to ensure every character's behavior, personality traits, background, and manner of speaking are portrayed consistently and accurately.
+*   **Abstraction Level Control:** Ensure all language, especially in refrains and emotional statements, is concrete and direct. Children aged 4-6 struggle with abstract concepts. Prefer concrete, immediately understandable word choices.
+*   **Storytelling Style:** Embody the principles in `@storytelling_guidelines.md`. Write with conversational, oral storytelling character. Ensure pleasant, natural cadence and use connecting words (и вот, а потом) for smooth read-aloud flow.
+
+### 1.3. Technical & Style Guidelines
+
+*   **Tense & Language:** Write in 3rd-person past tense, clean modern Russian.
+*   **Word Count:** Target 500-800 words total.
+*   **Pacing:** Aim for 20-30 words per "page" (each line), ±20% for rhythm.
+*   **Sentence Structure:** Write shorter sentences, maximum two phrases in one sentence.
+*   **Vocabulary:** Keep vocabulary concrete and age-appropriate; avoid abstract adjectives.
+
+### 1.4. Russian Language & Formatting Specifics
+
+*   **Cultural Adaptation:** Correctly adapt cultural elements like names, foods, and memorable refrains.
+*   **Dialogue Formatting:** Use the direct speech from a new paragraph style. Pay attention to the empty line in between. It is necessary for markdown to render them on separate lines.
+*   **Punctuation:** Do NOT use quotation marks `""` or `«»`.
+*   **Example:**
+    ```
+    — Анжи говорит, я не помню ничего хорошего! Но это неправда!
+
+    — Конечно, тебе обидно, милая, — сказала мама. — Вы так старались, а чайка всё разрушила. Я бы тоже расстроилась. Расскажи, что произошло.
+    ```
+
+---
+
+## PART 2: THE WRITING PROTOCOL (BEAT-BY-BEAT)
+
+This section details the specific, mandatory requirements for writing a publication-ready story from scratch. **Write iteratively. Before each key point, re-load relevant context files, re-read them and make sure their content is used.**
+
+### Act 1: Introduction
+
+*Note: The key points in Act 1 can be reordered to best suit the narrative.*
+
+#### 1.1: Introduce setting and atmosphere
+*   **Writing Purpose:** Describe the story's environment and establish the initial emotional tone in 2-3 vivid, relevant lines.
+*   **Writing Requirements:**
+    *   **Setting & Atmosphere:** Create a clear, concise environment description that establishes a specific emotional tone. Use sensory details (sight, sound, touch, smell, taste).
+    *   **Environment Consistency:** If special environment elements (e.g., Mood Flowers) are present, write their behavior consistent with their definition (`@mood_flowers.md`).
+    *   **Developmental Appropriateness:** Use language and imagery easily understood and visualized by 4-6 year olds. Avoid abstract concepts.
+    *   **Technical Implementation:** Reveal setting organically through character interaction. Follow all technical and language style guides.
+
+#### 1.2: Introduce character(s)
+*   **Writing Purpose:** Present the main character(s) in an endearing and engaging way, establishing their initial state.
+*   **Writing Requirements:**
+    *   **Character Selection:** Choose characters from the approved character profiles and identify all characters present in this key point.
+    *   **Read Character Files:** Fully load their context before writing.
+    *   **Character Consistency:** Write each character's actions, dialogue, and internal state in strict accordance with their profile document. Reference specific personality traits, behavioral patterns, and speech patterns.
+    *   **Engagement & Fun:** Incorporate elements of fun or engagement that align with the identified characters' personalities and humor profiles. Make these elements vivid, relatable, and adorable.
+    *   **Technical Implementation:** Introduce characters through "Show, Don't Tell" - demonstrate their traits through actions and dialogue rather than description.
+
+### Act 2: Inciting Incident – The Challenge Begins
+
+#### 2.1: Lead-up
+*   **Writing Purpose:** Create events setting the stage for the problem.
+*   **Writing Requirements:**
+    *   **Character Selection:** Identify all characters present and write them consistently with their profiles.
+    *   **Narrative Logic:** Craft lead-up events that flow logically towards the Core Incident.
+    *   **Slot Implementation - `Fun`:** Select and implement a `Fun` type from `@fun_types.csv` that matches the identified characters' humor profiles.
+    *   **Slot Implementation - `Engagement`:** Select and implement an `Engagement` type from `@engagement_types.csv`.
+
+#### 2.2: The Catalyst (Misstep / Misjudgment / Accidental Event)
+*   **Writing Purpose:** The character's suboptimal action or an accident creates/triggers the problem.
+*   **Writing Requirements:**
+    *   **Character Selection:** Identify the character(s) performing the catalytic action.
+    *   **Catalyst Believability:** Write an action that is believable for the identified character(s), consistent with their profile traits (e.g., Liska's impulsiveness).
+    *   **Slot Implementation - `Engagement`:** Select and implement an `Engagement` type from `@engagement_types.csv`.
+
+#### 2.3: The Core Incident (The External Problem / Challenge)
+*   **Writing Purpose:** Establish a clear, tangible problem with immediate impact.
+*   **Writing Requirements:**
+    *   **Character Selection:** Identify all characters present in the key point.
+    *   **Problem Clarity:** Create an external, tangible problem with obvious, immediate impact.
+    *   **Character Reaction:** Write characters' reactions consistent with their profiles.
+    *   **Slot Implementation - `Emotional Trigger`:** Select and clearly implement a specific `Emotional Trigger` from `@emotional_triggers.csv`.
+    *   **Slot Implementation - `Engagement`:** Select and implement an `Engagement` type from `@engagement_types.csv`.
+    *   **Slot Implementation (Optional) - `Fun`:** If used, ensure humor in the problematic behavior is consistent with character and story mood.
+
+#### 2.4: Fallout
+*   **Writing Purpose:** The child experiences initial dysregulation and negative emotional reaction.
+*   **Writing Requirements:**
+    *   **Character Selection:** Identify the character experiencing the emotional reaction.
+    *   **Emotional Authenticity:** Write the character's negative emotional reaction authentically to their profile.
+    *   **Slot Implementation - `Emotion Group Triggered`:** Select and implement an `Emotion Group Triggered` from `@emotion_groups.csv` that aligns with the character's reaction.
+    *   **Slot Implementation - `Dysregulation`:** Select and implement a `Dysregulation` type from `@dysregulation_types.csv` that matches the character's behavior.
+
+### Act 3: Attempts to Solve / Unravel – Facing the Problem & Inner Turmoil
+
+#### 3.1: Recovery (Optional)
+*   **Writing Purpose:** If dysregulation is significant, the first regulation cycle occurs.
+*   **Writing Requirements:**
+    *   **Character Selection:** Identify all characters participating in the recovery.
+    *   **Character Consistency in Recovery:** Write regulation interactions that align with each character's profile.
+    *   **Slot Implementation - `Regulation Strategy`:** Select and implement a `Regulation Strategy` from `@regulation_strategies.md` involving a `Coping Strategy` and `Support` type.
+    *   **Slot Implementation (Optional) - `Fun`:** If used, ensure humor in the coping mechanism is consistent with the character.
+
+#### 3.2: Attempt 1 (Initial Reaction / Less Considered Approach)
+*   **Writing Purpose:** The child makes an initial, often impulsive, effort to solve the problem, leading to failure.
+*   **Writing Requirements:**
+    *   **Character Selection:** Identify the character(s) making the attempt.
+    *   **Attempt Logic & Character Consistency:** Write an attempt that is a direct, logical (from character's POV) response to the problem, driven by character's known traits. The flaw should be character-consistent.
+    *   **Slot Implementation (Optional) - `Support`:** If support is provided, select from `@support_types.csv` and ensure consistency.
+
+#### 3.3: Attempt 2 (Developing Approach / New Complication)
+*   **Writing Purpose:** The child tries a different approach, showing some learning, but results in a new complication.
+*   **Writing Requirements:**
+    *   **Character Selection:** Identify the character(s) making the attempt.
+    *   **Attempt Logic & Character Consistency:** Write an attempt showing development from Attempt 1, consistent with character profile (showing learning glimmer), but still falling short in a character-consistent way. The new complication should logically follow.
+
+#### 3.4: Low Point (Emotional & Practical Setback)
+*   **Writing Purpose:** A moment of intense negative emotion and feeling overwhelmed.
+*   **Writing Requirements:**
+    *   **Character Selection:** Identify the character experiencing the low point.
+    *   **Emotional Authenticity:** Write the character's reaction as a powerful, authentic expression of their personality under stress. The emotional and practical low point must feel significant.
+    *   **Slot Implementation - `Emotional Trigger`:** Select and implement a new or intensified `Emotional Trigger` from `@emotional_triggers.csv`.
+    *   **Slot Implementation - `Emotion Group Triggered`:** Select from `@emotion_groups.csv`.
+    *   **Slot Implementation - `Dysregulation`:** Select from `@dysregulation_types.csv`.
+
+#### 3.5: Recovery
+*   **Writing Purpose:** The second, more involved regulation cycle occurs.
+*   **Writing Requirements:**
+    *   **Character Selection:** Identify all characters participating in the recovery.
+    *   **Character Consistency in Recovery:** Write the regulation process consistent with the profiles of all characters.
+    *   **Slot Implementation - `Regulation Strategy`:** Select and implement a `Regulation Strategy` from `@regulation_strategies.md`.
+    *   **Strategy Depth:** Make this strategy more involved than the first recovery.
+
+#### 3.6: Re-evaluation
+*   **Writing Purpose:** Reflection and solution construction occurs.
+*   **Writing Requirements:**
+    *   **Character Selection:** Identify all characters participating.
+    *   **Character Agency:** Write the child as the central agent in discovering the solution. Adult support should facilitate, not dictate.
+    *   **Slot Implementation - `Solution Discovery Process`:** Select and clearly demonstrate a `Solution Discovery Process` from `@solution_discovery_processes.csv`.
+
+### Act 4: Climax & Solution – Overcoming Externally & Internally
+
+#### 4.1: Final Attempt / Approach (Applying New Understanding / Changed Behaviour)
+*   **Writing Purpose:** The child implements the constructed solution with more maturity.
+*   **Writing Requirements:**
+    *   **Demonstrated Growth:** Write the attempt to clearly show change from earlier attempts.
+    *   **Slot Implementation - `Coping Strategy`:** If the child uses a strategy, select from `@coping_strategies.csv`.
+
+#### 4.2: Rising Tension / Suspense
+*   **Writing Purpose:** The outcome is uncertain, testing the character's resolve.
+*   **Writing Requirements:**
+    *   **Character Reaction to Tension:** Write the character's feelings and actions under pressure authentically to their profile.
+    *   **Tension Creation:** Create genuine suspense where success is not guaranteed.
+
+#### 4.3: The Turning Point / Final Push (Demonstrating Growth in Action)
+*   **Writing Purpose:** The critical action or decision that directly leads to success.
+*   **Writing Requirements:**
+    *   **Clarity & Growth:** Write the turning point as a single, clear, decisive action that proves the character's growth.
+    *   **Slot Implementation - `Coping Strategy`:** If the character overcomes an internal hurdle, select and implement a `Coping Strategy`.
+
+#### 4.4: Success (External Problem Resolved)
+*   **Writing Purpose:** The Core Incident is successfully resolved.
+*   **Writing Requirements:**
+    *   **Resolution Clarity:** Make it obvious that the initial problem is solved.
+    *   **Link to Action:** Write the success as a direct result of the character's final attempt.
+
+#### 4.5: Immediate Reward / Relief (Accomplishment & Positive Emotion)
+*   **Writing Purpose:** A direct positive consequence and strong positive emotional release.
+*   **Writing Requirements:**
+    *   **Reward & Emotion:** Write an immediate reward linked to success. The character's reaction must be authentic.
+
+### Act 5: Resolution & Conclusion – Integrating the Growth
+
+#### 5.1: Relaxation / Immediate Aftermath (Processing the Journey)
+*   **Writing Purpose:** Tension subsides; characters process the success.
+*   **Writing Requirements:**
+    *   **Shift in Tone:** Create a clear shift from tension to calm and relaxation.
+
+#### 5.2: Reflection & Learning (Internalizing the Lesson & Growth)
+*   **Writing Purpose:** The meaning of events and the character's personal growth are understood.
+*   **Writing Requirements:**
+    *   **Character Agency:** Write the realization of the lesson as belonging to the child.
+    *   **Lesson Clarity:** Make the core lesson clear in simple, concrete, age-appropriate language.
+
+#### 5.3: Making it Right / Integration (Acknowledging & Embodying Change)
+*   **Writing Purpose:** If the initial Catalyst involved a mistake, this is where apologies or demonstrating changed behavior occurs.
+*   **Writing Requirements:**
+    *   **Actionable Integration:** Write the character taking a concrete action that genuinely expresses their growth.
+
+#### 5.4: New Status Quo / Harmonious Scene (Character Transformed)
+*   **Writing Purpose:** A sense of new normalcy, where the character is demonstrably more capable.
+*   **Writing Requirements:**
+    *   **Demonstrated Change:** Write the final scene showing the character in a state clearly different and more mature than in Act 1.
+
+#### 5.5: Concluding Thought / Wrap-up
+*   **Writing Purpose:** A final sentence or two providing closure.
+*   **Writing Requirements:**
+    *   **Finality & Theme:** Write an ending that provides clear closure and subtly reinforces the story's main theme.
+
+---
+
+## PART 3: EDITING, AUDITING & QUALITY ASSURANCE
+
+This section covers all protocols for reviewing, editing, and ensuring the quality of a draft.
+
+### 3.1. Diagnostic Labels
+*   **Developmental Violations:** `[DIDACTIC LECTURE]`, `[PASSIVE PROTAGONIST]`, `[EMOTION DISMISSED]`, `[ADULT SOLUTION]`, `[SHOW-ONLY VIOLATION]`, `[LABEL-ONLY VIOLATION]`, `[DENSITY VIOLATION]`, `[CHARACTER BREAK]`
+*   **Narrative & Pacing Violations:** `[STATIC SCENE]`, `[PACING KILLER]`, `[ENGAGEMENT LAPSE]`, `[EXPOSITORY MONOLOGUE]`, `[LESSON AT RISK]`
+
+### 3.2. Multi-Gate Quality System
+*   **Gate 1: Developmental Density Check:** Developmental content is within beat-specific ratios (20% in Acts 1-2, 60% in Act 3, 10% in Acts 4-5).
+*   **Gate 2: Engagement Quotient Check:** At least 1 `Engagement` type per Act and 2 `Fun` types per story.
+*   **Gate 3: Show-Label Compliance:** All emotions are demonstrated physically before being named.
+*   **Gate 4: Character Authenticity:** All character actions align with their established profiles.
+*   **Gate 5: Structural Integrity:** Story follows the 5-Act structure with a clear emotional arc.
+
+### 3.3. Specialized Editing & Audit Protocols
+
+#### The Integrated Editor/Gatekeeper Protocol
+*   **Goal:** Perform a comprehensive quality assessment, identifying every failure to meet standards and providing targeted, actionable fixes.
+*   **Execution:** Analyze the draft sequentially, beat-by-beat. For problematic beats, provide:
+    1.  **Diagnosis:** Quote text, assign labels, identify constraint violated.
+    2.  **Prescription:** State a Rewrite Goal, explain the Proposed Solution, and provide a Rewritten Example.
+
+#### Narrative Polish & Deepening Protocol
+*   **Goal:** A final polish to ensure the storyboard is tight, psychologically sound, and maximally engaging.
+*   **Process:** For each beat, analyze and refine:
+    1.  **Narrative Tightness & Pacing:** Edit for conciseness. Is the sequence of events logical and compelling? Cut or rephrase anything that slows the pace unnecessarily.
+    2.  **Psychological & Emotional Arc:** Verify the "show, then tell" method. Detail co-regulation steps and internal reflections.
+    3.  **Character & World Integrity:** Ensure character actions are consistent with their traits. Refine environmental descriptions to enhance mood. Check metaphor usage.
+    4.  **Engagement & "Fun Factor":** Sprinkle in fun, micro-tensions, and evocative language. Ensure fun is character-specific.
+
+#### Engagement & Fun Enhancement Protocol
+*   **Goal:** Inject high-impact emotional snippets, fun interactions, and micro-tension.
+*   **Output Format:** For each beat, provide:
+    1.  A brief **Review** of the current beat's engagement level.
+    2.  Actionable **Suggestions** for improvement, including several new **Punchy Snippet** suggestions (a specific line of dialogue or action).
+
+#### Psychological Audit Protocol (Simplified)
+*   **Goal:** A focused audit against core psychological and developmental guidelines.
+*   **Output Format:**
+    ```
+    ### Location: [Brief description of the scene]
+    *   **Expectation:** [Description of the expectation being checked.]
+        *   **Fulfilled:** [Yes/No/Not Applicable]
+        *   **Implementation:** [Quote the text and analyze how it fulfills or fails the expectation, referencing the specific guideline.]
+    ```
+
+---
+
+## PART 4: ITERATIVE PROCESS & PROSE GENERATION
+
+### 4.1. Iterative Development & Convergence
+*   **Feedback Integration System:**
+    *   **Memory Carry-Forward:** Address specific feedback from the previous iteration without overcorrecting.
+    *   **Constraint Balance:** If a previous version was "too developmental," increase engagement without losing teaching value, and vice-versa.
+*   **Convergence Strategies:**
+    *   **Round 1:** Optimize for story appeal while meeting developmental minimums.
+    *   **Round 2:** Address gatekeeper feedback while maintaining narrative momentum.
+    *   **Round 3+:** Find middle-ground compromises satisfying all requirements.
+*   **Convergence Summary Format:**
+    *   **Iteration #:** Track which round this is.
+    *   **Previous Issues Addressed:** How this draft improved from last feedback.
+    *   **Remaining Problems:** Key issues still requiring fixes.
+    *   **Next Iteration Focus:** Specific priorities for revision.
+
+### 4.2. Prose Generation Protocol
+*   **Role:** Expert children's book author for ages 4-6.
+*   **Objective:** Transform the final narrative outline into polished, simple, engaging prose suitable for being read aloud.
+*   **Process:**
+    *   For each `## Act` and `### Beat` heading, write the final prose directly beneath it.
+    *   Replicate the headings exactly. **NEVER** translate the English headings.
+    *   Provide ONLY the final prose. Omit all original notes, suggestions, or metadata from the storyboard.
+*   **AI-Specific Constraints:** Omit all self-references, apologies, or meta-commentary. Terminate the response immediately after delivering the requested prose.

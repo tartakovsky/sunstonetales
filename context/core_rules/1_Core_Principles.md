@@ -23,7 +23,7 @@ These are the general narrative rules for creating stories.
 ### **Plot structures/tension**
 
 - Simple problem-solution arcs
-- Tension should be mild - lost items, minor conflicts, misunderstandings
+- Tension should be mild - lost items, minor conflicts, misunderstandings, minor external dangers
 - No life-threatening situations generally
 - Physical humor and silly situations work well
 - Moments of mild suspense followed quickly by relief
@@ -46,8 +46,8 @@ These are the general narrative rules for creating stories.
 - Small cliffhangers between story segments
 - Clear resolution for each story problem
 - End on a positive, comforting note
-- Consider including small illustrations
 
+<!-- the story that was most praised for it's metaphors is the most boring story I wrote. Do we even want the metaphors?  -->
 ### **Emotion Metaphors**
 - Introduce at least one, at most two, in each story.
 - One for main problematic emotion
@@ -62,3 +62,4 @@ These are the general narrative rules for creating stories.
 - Make sure that before we use a learned coping strategy, it is either
   - Introduced explicitely by a parent and preferably practiced before the child can apply it by themselves
   - Or if the child is alone, it is very well justified that they can somehow apply something reasonable while being dysregulated. That would typically require them to just live through emotional spike. Then when they can think it should be something extremely trivial that leads them to a coping strategy / solution.
+

@@ -25,9 +25,11 @@ Our stories are diverse, but our commitment is shared.
 
 Our greatest hope is to give our children the one thing many of us never had: the certainty of a stable and peaceful future. We want them to grow up with Portuguese friends, to celebrate São João and Santo António, and to feel, deep in their hearts, that this land is their land.
 
-It is with this spirit of shared commitment and deep respect that we wish to voice a concern that has cast a shadow of anxiety over our families. The recent discussions and uncertainty surrounding immigration laws have created a sense of unpredictability that is unsettling for those of us who have staked our entire futures on the promise of Portuguese stability.
+It is with this spirit of shared commitment that we wish to voice a concern. The legal uncertainty created by proposed changes to the Lei da Nacionalidade risks undermining the goals of the **Action Plan for Digital Transition** and **INCoDe.2030**. A predictable and stable legal framework is essential to attract and retain the international talent that fuels this transition.
 
-We appeal for a constructive dialogue to establish a clear, predictable, and stable path forward for those who are already here, working and contributing to Portuguese society. We believe that such stability is essential for successful integration and for the long-term prosperity of Portugal itself.
+Legal stability is not an abstract issue; it is a critical factor for innovation, investment, and job creation in Portugal. It directly impacts our ability to commit long-term, grow businesses, and integrate fully into society.
+
+We therefore appeal for a constructive dialogue to establish a clear and stable path forward, particularly for those who are already here contributing to Portugal’s technology ecosystem. Such a measure would strengthen not only our communities but also Portugal’s position as a leading European technology hub.
 
 This is not a letter of demand, but an appeal for dialogue and understanding. We are not asking for special treatment, only for the chance to continue building our lives and contributing to the future of a country we have come to love.
 

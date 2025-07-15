@@ -6,103 +6,52 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a children's therapeutic story creation project called "Seberiada" that develops structured narratives for ages 4-6. The project combines developmental psychology with storytelling to create emotionally supportive stories featuring the character Liska (a snow leopard cub) and friends.
 
-## Story Development Workflow
+## Auto-Read Instructions
 
-### 6-Step Story Creation Process
+**Before working on ANY story-related task, automatically read these core rule files:**
 
-Stories follow a standardized development pipeline in `stories/` subdirectories:
+1. `context/core_rules/1_Core_Principles.md` - Foundational storytelling and developmental principles
+2. `context/core_rules/2_Emotional_Framework.md` - Emotional regulation and metaphor guidelines
+3. `context/core_rules/3_Developmental_Framework.md` - Age-appropriate developmental considerations
+4. `context/core_rules/4_Structure_And_Style.md` - Story structure and prose formatting rules
+5. `context/core_rules/5_Humor_And_Engagement.md` - Engagement and humor guidelines
+6. `context/core_rules/6_Setting.md` - World-building and setting rules
 
-1. **1_concept_extraction.md** - Extract core problem and developmental goals from input
-2. **2_structural_blueprint.md** - Apply 5-act structure with emotional regulation beats
-3. **3_psy_review.md** - Psychological review ensuring age-appropriate emotional content
-4. **4_narrative_storyboard.md** - Scene-by-scene story breakdown
-5. **5_pre_prose_narrative.md** - Narrative flow preparation
-6. **6_prose_draft.md** - Final prose following strict formatting rules
-
-### Story Structure Requirements
-
-All stories follow the **5-Act + Dysregulation + Solution Discovery** structure defined in `context/five_act_4_to_6_yo.md`:
-- Act 1: Introduction (setting, character)
-- Act 2: Inciting Incident (challenge begins)
-- Act 3: Attempts to Solve (facing problem & inner turmoil)
-- Act 4: Climax & Solution (overcoming externally & internally)
-- Act 5: Resolution & Conclusion (integrating growth)
-
-## Prose Style Guidelines
-
-### Critical Formatting Rules (context/prose_style.md)
-
-- **Target**: Ages 4-6, 500-800 total words
-- **Page Format**: Each paragraph = one page/illustration, 15-30 words per page
-- **Tense**: 3rd person, past tense exclusively
-- **Language**: Simple vocabulary, show don't tell, conversational tone
-- **Dialogue**:
-  - English: Double quotes with punctuation inside
-  - Russian: Em-dash (—) format, no quotation marks
-
-### Character and Content Guidelines
-
-- **Characters**: Simple, identifiable animal characters with clear emotions
-- **Tension**: Mild problems only (lost items, misunderstandings, fears)
-- **Morals**: Clear but not preachy lessons about emotions, friendship, courage
-- **Emotion Metaphors**: Maximum 2 per story, explicitly explained
-- **Coping Strategies**: Must be introduced by adults before children can use them
+**For character-specific work, also read:**
+- `context/characters/Liska/liska_profile.md` - Main character profile
+- Relevant character files from `context/characters/[CHARACTER]/` as needed
 
 ## Project Architecture
 
-### Core Context Files
-
-- `context/storytelling_guidelines.md` - Character and plot requirements
-- `context/prose_style.md` - Writing and formatting rules
-- `context/five_act_4_to_6_yo.md` - Story structure template
-- `context/emotional_metaphors.md` - Approved metaphor patterns
-- `context/regulation_strategies.md` - Child emotional regulation approaches
+### Core Rules (context/core_rules/)
+All fundamental project guidelines are consolidated in numbered files:
+- Core principles, emotional frameworks, developmental guidelines
+- Structure, style, humor, and setting rules
+- **Always read these files before story work**
 
 ### Character System
-
 Character profiles in `context/characters/[NAME]/`:
 - `[name]_profile.md` - Basic character information
 - `[name]_arcane.md` - Detailed psychological profile
-- Special files for Liska: `auto_coping.md`, `learned_coping.md`, `emotional_tells.md`
-
-### Data Files (CSV format)
-
-Located in `context/`:
-- `coping_strategies.csv` - Age-appropriate coping mechanisms
-- `emotion_groups.csv` - Categorized emotional states
-- `emotional_triggers.csv` - Common childhood emotional triggers
-- `dysregulation_types.csv` - Types of emotional dysregulation
-- `regulation_strategies.csv` - Strategies for emotional regulation
-- And more specialized data files
-
-## Development Commands
-
-No build system detected. This appears to be a content creation project using markdown files.
+- Special files for Liska: emotion regulation and coping strategy files
 
 ## File Organization
 
 - `stories/[N]. [story_name]/` - Individual story development folders
 - `stories/template_steps/` - Empty template files for new stories
-- `context/` - All reference materials and guidelines
+- `context/core_rules/` - **Primary rules and guidelines**
+- `context/characters/` - Character profiles and archetypes
 - `marketing/` - Project marketing and branding materials
-- `backups/` - Historical versions of content
-
-## Python Utilities
-
-- `symlink_creator.py` - Creates symbolic links for file organization
-- `fix_symlinks.py` - Repairs broken symbolic links
-- `final_symlink_creator.py` - Final symlink organization
 
 ## Working with Stories
 
 When creating or editing stories:
 
-1. Always reference `context/prose_style.md` for formatting requirements
+1. **FIRST**: Read all 6 core_rules files automatically
 2. Follow the 6-step development process in order
-3. Ensure emotional content aligns with age 4-6 developmental needs
-4. Use character profiles from `context/characters/` for consistency
-5. Apply the 5-act structure from `context/five_act_4_to_6_yo.md`
-6. Validate against storytelling guidelines before finalizing
+3. Use character profiles for consistency
+4. Ensure all content aligns with core principles and developmental framework
+5. Apply proper structure and style guidelines
 
 ## Language Support
 

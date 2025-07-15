@@ -8,7 +8,7 @@ This gap has been filled by more than 4,000 foreign medical professionals, inclu
 
 These professionals chose Portugal not for high salaries, but for the promise of a stable future for their families. Part of this promise was a clear five-year path to naturalization — Portugal's advantage in the global market for medical talent.
 
-Lei da Nacionalidade changes this condition retroactively, creating a legal precedent that deeply concerns our colleagues and creates a state of profound uncertainty for them. This threatens their exodus and strikes a blow to a healthcare system that desperately needs every qualified professional.
+Lei da Nacionalidade changes this condition retroactively, creating a legal precedent that deeply concerns our colleagues and creates a state of profound uncertainty for them. This strains a healthcare system that desperately needs every qualified professional at their best.
 
 We ask for constructive dialogue to establish a clear, predictable and stable path for those who are already here, working and contributing to Portuguese society. We propose maintaining the five-year term for medical workers already integrated into the SNS and providing them with an accelerated naturalization regime in the future. We believe such stability is necessary for the successful integration of international personnel into the SNS system.
 
