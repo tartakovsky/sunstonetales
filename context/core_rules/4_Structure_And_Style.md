@@ -9,7 +9,7 @@ This document consolidates all rules related to the story's plot structure, pros
 These universal principles govern all stories and must be applied throughout the narrative:
 
 *   **Show *and* Label**: Mandatory sequence for all emotions and concepts. First demonstrate through physical action, expression, or sensation, then provide the correct emotional vocabulary. Never name an emotion before showing it.
-*   **Protagonist Agency**: Th`e child character must be the primary driver of their own discovery and solutions. Adults guide through questions, modeling, and minimal support—they never provide answers or solve problems.
+*   **Protagonist Agency**: The child character must be the primary driver of their own discovery and solutions. Adults guide through questions, modeling, and minimal support—they never provide answers or solve problems.
 *   **Narrative Economy**: Every word must serve both the plot and the developmental lesson. No static scenes, didactic lectures, or extraneous descriptions. Maximum impact in minimum space.
 *   **Action as Default**: Convert all inert dialogue into dynamic, physical interactions. Ground conversations in movement, environment, and sensory detail.
 *   **Character Psychology as Engine**: Character traits (humor profiles, emotional tells, coping strategies) should generate both the story's fun moments and its developmental content. All actions must be consistent with established character profiles.
