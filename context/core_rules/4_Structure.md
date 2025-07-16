@@ -1,486 +1,299 @@
 # 4. Five-Act Story Structure
 
-This document defines the story structure for ages 4-5 with clear, grouped requirements for each beat.
+This document defines the story structure for ages 4-5 with clear requirements for each beat.
+
+---
+
+## Core Principles of Application
+
+- **Narrative Flow (Time & Scene):** Transitions between beats can include time jumps (e.g., "The next day...") or scene changes (e.g., "Back at home...") to serve the story's logic. This is especially crucial for narratives about habit formation or those spanning multiple locations.
+- **Story Archetypes:** The structure is designed to be flexible for different narrative types, including external problem-solving, internal/behavioral challenges (e.g., fear, habits), and goal-achievement (e.g., saving up for something). Adapt the emotional intensity and nature of the "problem" accordingly.
 
 ---
 
 ## Act 1: Introduction
 
 ### Beat 1.1: Introduce Setting and Atmosphere
-**FOCUS:** Create an evocative environment that establishes initial emotional tone and draws readers in immediately.
-<!-- Must start as a storytelling intro. "That day Liska", "One day", "That morning in Sunstone", etc. This is not the specific list but for the vibes. -->
 
+Create an evocative environment that establishes initial emotional tone and draws readers in immediately. Show the world through 1-2 vivid sensory details (sight, sound, touch, smell, taste) using only concrete descriptions. Must start as a storytelling intro like "That day Liska", "One day", "That morning in Sunstone", etc.
 
-**SHOW/TELL/LABEL:**
-- Show: Environment through 1-2 vivid sensory details (sight, sound, touch, smell, taste)
-- Tell: Nothing abstract—only concrete descriptions
-- Label: No emotion labeling allowed
+**Psychology:** None of the developmental rules apply here. This is pure world-building only. Focus on creating immediate sensory engagement without emotional labeling.
 
-**ENGAGEMENT:** Must create immediate "aww", "ooh", or laugh response
-**FUN:**
-- Examples of what might work, not final list. 
-- **Sensory Discovery:** Rich, simple sensory details that make familiar things feel new
-- **Scale:** Contrasting child's world with something immense or minuscule
-- **Transformation:** Simple visual transformations that feel magical, but aren't
-**DEV PSYCHOLOGY:** None of the developmental rules apply—pure world-building only
-**LENGTH:** 1-2 lines maximum
+**Engagement:** Must create immediate "aww", "ooh", or laugh response. The goal is to make the familiar world feel fresh and engaging through a child's perspective. Think about how sensory details can surprise and delight, how scale can create wonder, or how simple transformations of everyday things can feel extraordinary.
+
+**Length:** 1-2 lines maximum
 
 ### Beat 1.2: Introduce Character(s)
-**FOCUS:** Present main character(s) in their initial state through endearing, engaging actions.
 
-**SHOW/TELL/LABEL:**
-- Show: Character traits through specific actions and behaviors
-<!-- Physical manifestations of positive emotions? -->
-- Tell: Nothing—use "show, don't tell" exclusively
-- Label: No emotion labeling allowed
+Present main character(s) and their interpersonal dynamics in their initial state through endearing, engaging actions and/or dialogue. Show character traits through specific actions and behaviors. Use "show, don't tell" exclusively. Establish personality without emotional labeling.
 
-**ENGAGEMENT:** Must create immediate "aww", "wow" or laugh response through character/action appeal
-**FUN:** 
-- Examples of what might work, not final list. 
-- **Adorable Effort:** Puffed cheeks, all-body wiggle, mighty lift attempts
-- **Body Awareness:** Awkward grace, endearing clumsiness
-- **Cute Incompetence:** Terrible hiding, grown-up mimicry
-- **Character-specific humor:** Based on established personality profiles
-**DEV PSYCHOLOGY:** None of the developmental rules apply—establish personality only
-**AGENCY:** Character drives their own actions
-**LENGTH:** 2-3 lines maximum
+**Psychology:** None of the developmental rules apply. Establish personality only. Character must drive their own actions (agency).
+
+**Engagement:** Must create immediate "aww", "wow" or laugh response through character appeal. The character should be doing something that reveals their personality while being utterly endearing. Think about how children put their whole body into efforts, their clumsy grace, or how they approach the world with complete earnestness. The action should make readers instantly care about this character.
+
+**Length:** 2-4 lines maximum
 
 ---
 
 ## Act 2: The Challenge Begins
 
 ### Beat 2.1: Lead-up
-**FOCUS:** Set the stage for the problem while showcasing character-specific behaviors and humor.
+Set the stage for the core challenge. This can be through character-specific actions, a vivid environmental setup that builds anticipation, or the establishment of a familiar routine (like getting ready for bed). The goal is to show a scene which leads toward natural progression toward the main incident.
 
-**SHOW/TELL/LABEL:**
-- Show: Character actions that will naturally lead toward the incident
-<!-- Physical manifestations of positive emotions? -->
-- Tell: Minimal—only what's needed for clarity
-- Label: No emotion labeling
+**Psychology:** None of the developmental rules apply. Pure character/plot setup. Character acts according to their nature (agency).
 
-**ENGAGEMENT:** High—build anticipation
-**FUN:** Required—aligned with character humor profiles
-- **Adorable Effort:** Character putting full effort into setup actions
-- **Cognitive Humor:** Naive logic, creative but flawed solutions
-- **Social Behavior:** Fierce ownership
-- **Character-specific humor:** Actions that naturally lead toward incident
-- **Dual-Layer Humor:** Relatable moments for adults
-- cuteness
-<!-- offer your own things, don't just blindly copy what I have. What can be extremely fun for the child that's not in the list? What's not fun? Serious formality I think is not fun. -->
-**DEV PSYCHOLOGY:** None of the developmental rules apply—pure character/plot setup
-**AGENCY:** Character acts according to their nature
-**LENGTH:** 2-3 lines
+**Engagement:** High anticipation building. The character should be fully absorbed in their activity, showing the kind of total engagement children have when focused on something important to them. Or the environment should be drawing the reader in and creating anticipation.
+
+**Length:** 2-3 lines
 
 ### Beat 2.2: The Catalyst
-**FOCUS:** Character's action or accident that triggers the core problem—must be believable for their profile.
+The character's action or a situational event that serves as the direct trigger for the core problem. This is the cause, not the effect. It can be an external accident, an internal choice (e.g., impulsiveness), or a seemingly innocent behavior (e.g., a comforting habit). The action must be believable for the character.
 
-**SHOW/TELL/LABEL:**
-- Show: The specific action that creates the problem
-- Tell: Only immediate consequences
-- Label: No emotion labeling
+**Psychology:** Focus on the character's agentic action that triggers the subsequent problem. The event should stem from the character's established nature or location, even if accidental.
 
-**ENGAGEMENT:** High—critical moment
-<!-- Not necessarity critical, might be a mild cute situation, but directly responsible for the next. -->
-**FUN:** 
-- **Adorable Effort:** Character's earnest attempt that goes wrong
-- **Physical Comedy:** Harmless collision, slippery slide
-- **Cognitive Humor:** Creative but flawed solutions backfiring
-- **Surprise & Absurdity:** Unexpected outcomes from simple actions
-- **Character-specific mishaps:** Consistent with personality traits
-**DEV PSYCHOLOGY:** None of the developmental rules apply—focus on incident creation
-**AGENCY:** Character's autonomous action or external incident creates the problem
-**LENGTH:** 2-3 lines
+**Engagement:** This is the pivot point. The catalytic event should feel both surprising and inevitable, creating a sense of "uh oh" that builds anticipation for the coming problem. Its tone can range from high-energy and comedic to quiet and foreboding.
+
+**Length:** 2-4 lines
 
 ### Beat 2.3: The Core Incident
-**FOCUS:** Establish a clear, tangible problem with immediate and obvious impact. We must root fot the character here or otherwise get strongly engaged with their emotions.
+The direct consequence of the catalyst; the problem is now tangible and manifest. Show its immediate, obvious physical or emotional impact on the character, making the stakes clear. We must root for the character here or otherwise get strongly engaged with their emotions.
 
-**SHOW/TELL/LABEL:**
-- Show: The problem's physical manifestation and immediate effects
-- Tell: Only what's necessary to clarify the stakes
-- Label: No emotion labeling yet
+**Psychology:** None of the developmental rules apply. Focus on establishing the problem. Not applicable for agency as problem happens to character.
 
-**ENGAGEMENT:** High—this is a critical beat
-**FUN:** 
-- **Character Humor:** Dramatic overreaction to situation
-- **Absurd Simile:** Describing situation with nonsensical comparisons
-- **The Big Mess:** If problem involves harmless chaos
-- **Dual-Layer Humor:** Dry understatement of chaotic situation
-- **Must align with story mood:** Humor should enhance, not diminish, problem stakes
-**DEV PSYCHOLOGY:** None of the developmental rules apply—focus on establishing the problem
-**AGENCY:** Not applicable—problem happens to character
-**LENGTH:** 2-4 lines
-<!-- here sentences might not be a good measurement? E.g. in a good book I haave 7 lines here, but 4 of them are very short dialogue phrases. How to express it? -->
+**Engagement:** This is a critical beat that must deeply engage readers with the character's situation. The problem should be presented in a way that makes readers feel for the character, whether through dramatic character reactions, vivid descriptions, or the sheer relatability of the predicament. The presentation can be humorous but must not diminish the real stakes for the character.
+
+**Length:** 3-6 lines
 
 ### Beat 2.4: Fallout
-**FOCUS:** Child's initial emotional reaction to the problem—mild dysregulation only.
+Child's initial emotional reaction to the problem with mild dysregulation only. Show physical manifestation of negative emotions (tears, clenched fists, etc.) with minimal telling. The use of a simple, evocative emotional metaphor (e.g., "prickly hedgehog," "turning into an icicle") is allowed. One brief emotion label allowed after showing.
 
-**SHOW/TELL/LABEL:**
-- Show: Physical manifestation of negative emotions (tears, clenched fists, etc.)
-- Tell: Minimal—let actions speak
-- Label: One brief emotion label allowed after showing
+**Psychology:** 
+- Show mild dysregulation (With Parent/Peers/Alone - Moderate to High Distress)
+- One brief emotion label required after showing physical manifestation; can be supplemented with an emotional metaphor
+- Character's authentic emotional response (agency)
 
-**ENGAGEMENT:** Maintain tension through authentic reaction. Should make readers commiserate, engage with characters emotions. Go "aww", "ooh", "oh poor thing".
-**FUN:** 
-- **Emotional Expression:** Micro-drama, theatrical reaction to minor setback
-- **Exaggerated Motion:** Full-body shiver, dramatic reactions
-- **Absurd Simile:** "Flopped like a furry noodle," "stared with grumpy intensity"
-- **Endearing dysregulation:** Show distress in character-specific, touching way
-<!-- Can be fun in terms of how character expresses it -->
-**DEV PSYCHOLOGY:** 
-- **Dysregulation Types:** Show mild dysregulation (With Parent/Peers/Alone - Moderate to High Distress)
-- **Clear Labels:** One brief emotion label required after showing physical manifestation
-- **Show and Label:** Mandatory sequence - physical first, then label
-**AGENCY:** Character's authentic emotional response
-**LENGTH:** 1-3 lines
+**Engagement:** Maintain tension through authentic reaction that makes readers empathize deeply. Readers should feel that "aww", "ooh", or "oh poor thing" response. The way the character expresses their distress—whether through direct physical tells or a vivid metaphor—should be both touching and true to their personality.
+
+**Length:** 1-3 lines
 
 ---
 
 ## Act 3: Attempts to Solve – Facing the Problem & Inner Turmoil
 
 ### Beat 3.1: Recovery (Optional)
-**FOCUS:** First regulation cycle if dysregulation was significant—can be physical or emotional recovery.
+A regulation cycle to process the initial fallout. The intensity can range from full co-regulation with a caregiver for significant emotional distress to brief self-soothing or peer comfort for milder problems. Show physical calming actions first. Brief emotion acknowledgment allowed.
 
-**SHOW/TELL/LABEL:**
-- Show: Physical calming actions first (deep breath, unclenching, etc.)
-- Tell: Minimal verbal processing
-- Label: Brief emotion acknowledgment allowed
+**Psychology:**
+- Co-regulation (can be partial or full), or self-regulation.
+- Support Types: Calm Presence, Physical Contact, Intentional Connection, Feeling Validation
+- Child may use simple coping strategies from "Calming Our Bodies" or "Calming Our Minds"
+- Very minor solution scaffolding through questions allowed if needed for attempt 1
+- May shortly introduce "Notice, Pause, Help" sequence
+- Child participates in their own calming (agency)
 
-**ENGAGEMENT:** Lower tempo but maintain interest
-**FUN:** 
-- **Adorable Effort:** Earnest attempts at coping strategies
-- **Cute Incompetence:** Endearing attempts at grown-up coping
-- **Physical Comedy:** Gentle, calming actions with sweet results
-**DEV PSYCHOLOGY:** 
-- **Co-regulation:** Partial co-regulation allowed (max 3 exchanges, physical-first)
-- **Support Types:** Calm Presence, Physical Contact, Intentional Connection, Feeling Validation
-- **Coping Strategies:** Child may use simple strategies from "Calming Our Bodies" or "Calming Our Minds"
-- **Socratic Guidance:** Very minor solution scaffolding through questions allowed, only if needed logically for attempt 1
-**AGENCY:** Child participates in their own calming
-**LENGTH:** 1-3 lines maximum (can be just few words if emotions aren't focus)
-- **Notice, Pause, Help:** May shortly introduce this sequence
-<!-- Minor solution scaffolding might happen by adult to lead child to solution attempts. -->
+**Engagement:** Lower tempo but maintain interest. Show the earnest ways children try to calm themselves or accept comfort. For deeper co-regulation, the scene should create a feeling of safety and care. For self-soothing, it should feel genuine and touching. Use vivid endearing sensory details.
+
+**Length:** 1-4 lines maximum (can be just few words if emotions aren't focus)
 
 ### Beat 3.2: Attempt 1 (Initial Reaction)
-**FOCUS:** Child's first, impulsive attempt to solve the problem—logical from their POV but flawed.
+Child's first, impulsive attempt to solve the problem, which may consist of a single action or a cluster of related, rapid-fire reactions. Logical from their POV but flawed. Show the attempt(s) and why they fail with only clarity-needed telling.
 
-**SHOW/TELL/LABEL:**
-- Show: The attempt and why it fails
-- Tell: Only what's needed for clarity
-- Label: No emotion labeling
+**Psychology:**
+- Child must drive the attempt (agency, not adult solutions)
+- Support Types: Minimal - Tool/Resource Offering, Gentle Guidance Questions, Signal Readiness
+- Socratic Guidance: Questions/hints only to redirect from adult dependency
+- Process Focus: Show working through challenge step by step, very shortly
 
-**ENGAGEMENT:** Action-focused
-**FUN:** Optional based on character
-**DEV PSYCHOLOGY:** 
-- **Child Agency:** Child must drive the attempt (not adult solutions)
-- **Support Types:** Minimal - Tool/Resource Offering, Gentle Guidance Questions, Signal Readiness
-- **Socratic Guidance:** Questions/hints only to redirect from adult dependency
-- **Process Focus:** Show working through challenge step by step, very shortly.
-**AGENCY:** Child must drive the attempt
-**LENGTH:** 2-5 lines
-<!-- Can be short if first attempt is e.g. ask adult to solve it for them, which they should redirect towards child-led solution  -->
+**Engagement:** Action-focused. The attempt should reflect how children really approach problems with their unique logic and limited experience. Whether endearing in its earnestness or revealing in its naivety, it should feel authentic to how this particular character would first try to solve their problem.
+
+**Length:** 2-7 lines (can be short if first attempt is asking adult to solve it, which they redirect)
 
 ### Beat 3.3: Attempt 2 (Developing Approach)
-**FOCUS:** Different approach showing some learning, but results in bigger setback or new complication.
+A different approach showing learning from the first attempt. This may result in a setback, a new complication, or show incremental progress that isn't yet a full solution (e.g., successfully saving some beads, but not enough). The difference from the first attempt should be obvious through action.
 
-**SHOW/TELL/LABEL:**
-- Show: The new attempt and its failure
-- Tell: How this differs from first attempt
-<!-- no, we don't explain it, it should be obvious as a difference action -->
-- Label: No emotion labeling
+**Psychology:**
+- Child initiates new approach showing some learning from previous attempt (agency)
+- If attempt is complex: Show working through challenge step by step, child observes result and adjusts
 
-**ENGAGEMENT:** Build toward Low Point
-**FUN:** 
-- **Cognitive Humor:** More sophisticated but still flawed attempt
-- **Adorable Effort:** Increased determination and effort
-- **Physical Comedy:** Harmless mishaps during attempt
-- **Must align with building tension:** Humor should enhance, not diminish, mounting stakes
-**DEV PSYCHOLOGY:** 
-- **Child Agency:** Child initiates new approach showing some learning from previous attempt
-- **If the attempt is more comlpex than one action: Show working through challenge step by step, very shortly, if there is a process to work through. Child observes result and adjusts approach.
-**AGENCY:** Child initiates new approach
-**LENGTH:** 2-5 lines
+**Engagement:** Build narrative momentum. Rather than strictly building to a low point, this beat shows the character's developing process. The attempt can create mounting tension, show determination, or even offer a glimpse of success that makes the final resolution more satisfying.
+<!-- No, this bead builds tension up towards low point. It raises the stakes, shows progress or a new approach but in the last line always fails, leading to low point. -->
+
+**Length:** 3-7 lines
 
 ### Beat 3.4: Low Point (Emotional & Practical Setback)
-**FOCUS:** Intense negative emotions as character confronts their limitations—the emotional nadir.
+The character confronts their limitations, resulting in a moment of emotional nadir. This can be a full breakdown, a brief but vivid expression of despair (e.g., becoming a "furry noodle"), or a behavioral relapse (e.g., giving in to temptation). Show strong physical manifestation and the practical failure. One key emotion label required.
 
-**SHOW/TELL/LABEL:**
-- Show: Strong physical manifestation of overwhelm (sobbing, curling up, etc.)
-- Tell: The practical failure
-- Label: One key emotion label required after showing
+**Psychology:**
+- Dysregulation shown (can be with parent/peers or alone). The intensity can range from high distress to a quieter, potent expression of helplessness.
+- Natural Consequences: Character confronts limitations and consequences of failures, possibly with a caregiver present to witness or support.
+- Character's authentic breakdown or relapse.
 
-**ENGAGEMENT:** High—critical emotional beat
-**FUN:** 
-- **Absurd Simile:** "Flopped in despair like a furry noodle"
-- **Emotional Expression:** Theatrical, dramatic reactions to overwhelm
-- **Exaggerated Motion:** Full-body expressions of defeat
-- **Endearing overwhelm:** Show intense emotion in character-specific, touching way
-<!-- No, fun can be in every beat, the dysregulation itself might be shown in a fun way, e.g. flopped in despair like a furry noodle -->
-**DEV PSYCHOLOGY:** 
-- **Dysregulation Types:** Full dysregulation shown (With Parent/Peers/Alone - High Distress)
-- **Natural Consequences:** Character confronts limitations and consequences of failures
-**AGENCY:** Character's authentic breakdown
-<!-- is that agency? -->
-**LENGTH:** 2-4 lines
+**Engagement:** High emotional intensity. This is where readers should feel the character's despair, frustration, or helplessness most acutely. The expression of overwhelm should be dramatic and endearing, staying true to the character's unique way of experiencing big feelings.
+
+**Length:** 3-7 lines
+
+---
 
 ### Beat 3.5: Recovery
-**FOCUS:** Deep regulation cycle to manage intense emotions and become receptive to new thinking.
+A deep regulation cycle to manage intense emotions and become receptive to new thinking. The approach varies by story: it can be a full co-regulation sequence with a caregiver or a more subtle interaction. Show positioning, touch, and validation in a concise, endearing way.
 
-**SHOW/TELL/LABEL:**
-- Show: Full co-regulation first. Positioning, touch, attention, state/label emotion, validate it. Done in a concise, ideally very endearing and vivid way, e.g. "Mom smelled like cinnamon and safety."
-- Tell: 1-2 lines of verbal processing max
-- Label: 1 emotion label and/or metaphor allowed (adult introduces)
+**Psychology:**
+- Full co-regulation sequence (max 3 exchanges, embedded in action)
+- Support Types: Calm Presence, Physical Contact, Intentional Connection, Feeling Validation, Emotional Labeling Support
+- Child may use strategies from "Calming Our Bodies," "Calming Our Minds," (e.g., co-breathing exercises) or "We're a Team!"
+- 1 emotion label and/or metaphor allowed (adult introduces)
+- May introduce or reinforce "Notice, Pause, Help" sequence
+- Child actively participates in regulation (agency)
 
-**ENGAGEMENT:** Quiet but emotionally rich
-**FUN:** 
-- **Heart-warming moments:** "Mom smelled like cinnamon and safety"
-- **Adorable Effort:** Earnest participation in calming
-- **Physical Comedy:** Gentle, endearing co-regulation actions
-**DEV PSYCHOLOGY:** 
-- **Co-regulation:** Full co-regulation sequence (max 3 exchanges, embedded in action)
-- **Support Types:** Calm Presence, Physical Contact, Intentional Connection, Feeling Validation, Emotional Labeling Support
-- **Coping Strategies:** Child may use strategies from "Calming Our Bodies," "Calming Our Minds," or "We're a Team!"
-- **Clear Labels:** 1 emotion label and/or metaphor allowed (adult introduces)
-- **Notice, Pause, Help:** May introduce or reinforce this sequence
-**AGENCY:** Child actively participates in regulation
-**LENGTH:** 3-6 lines maximum
+**Engagement:** Quiet but emotionally rich. This beat should create warmth and safety through the co-regulation process. The physical and emotional comfort should be palpable, with details that make readers feel the security and care being provided. The child's participation in their own calming adds authenticity. Use vivid and endearing sensory details (e.g., "Mom smelled like cinnamon and safety")
+
+**Length:** 3-6 lines maximum
+
+---
 
 ### Beat 3.6: Re-evaluation
-**FOCUS:** Child processes failures and discovers solution on their own or through adult scaffolding.
+Child processes failures and discovers a solution. This can happen independently or through adult scaffolding, which may involve socratic questions for complex issues like habit formation. Show the "aha" moment and the new understanding.
 
-**SHOW/TELL/LABEL:**
-- Show: Solution discovery process
-- Tell: New understanding
-- Label: Strategy/approach can be named
+**Psychology:**
+- Solution Discovery Processes: Guided Discovery/Scaffolding (can be extensive), Trial/Error/Reflection, Collaborative Brainstorming, Remembering Past Solutions
+- Socratic Guidance: Questions to help child think through problem and connect dots.
+- Support Types: Gentle Guidance Questions, Choice Offering, Memory Scaffolding, Complexity Breaking
+- Practice Types: Mental Rehearsal, Toy/Pretend Practice, Coping Strategy Rehearsal, Words Practice
+- Child must be central agent in discovering solution, even with support/motivation.
 
-**ENGAGEMENT:** Cognitive but active
-**FUN:** 
-- **Cognitive Humor:** "Aha!" moments with character-specific logic
-- **Adorable Effort:** Exaggerated concentration and thinking
-- **The Grand Discovery:** Treating solution like world-changing revelation
-**DEV PSYCHOLOGY:** 
-- **Solution Discovery Processes:** Guided Discovery/Scaffolding, Trial/Error/Reflection, Collaborative Brainstorming, Remembering Past Solutions
-- **Socratic Guidance:** Questions to help child think through problem and connect dots
-- **Support Types:** Gentle Guidance Questions, Choice Offering, Memory Scaffolding, Complexity Breaking
-- **Practice Types:** Mental Rehearsal, Toy/Pretend Practice, Coping Strategy Rehearsal, Words Practice
-- **Child Agency:** Child must be central agent in discovering solution
-**AGENCY:** Child must participate significantly in solution discovery
-**LENGTH:** 3-7 lines
+**Engagement:** Cognitive but active. The "aha" moment should feel earned, showing how children process information to arrive at understanding. This can be a moment of quiet insight, excited discovery, or a serious realization. The discovery can also be a creative, non-linear process.
+
+**Length:** 3-8 lines
 
 ---
 
 ## Act 4: Climax & Solution – Overcoming Externally & Internally
 
 ### Beat 4.1: Final Attempt
-**FOCUS:** Child implements solution with visible growth in approach and emotional control.
+Child implements the solution. This beat may depict the direct execution of the plan or the necessary preparation that demonstrates commitment to it (e.g., building a piggy bank). Show changed behavior demonstrating growth through action narration only.
 
-**SHOW/TELL/LABEL:**
-- Show: Changed behavior demonstrating growth
-- Tell: Only action narration
-- Label: No emotion labeling
+**Psychology:**
+- Child demonstrates learned coping strategies in action
+- Show visible growth in approach and emotional control
+- If attempt is complex: Show working through challenge step by step with new maturity
+- Child initiates attempt independently (agency)
 
-**ENGAGEMENT:** High—building to climax
-**FUN:** 
-- **Adorable Effort:** Visible growth shown through earnest effort
-- **Body Awareness:** New grace or competence in actions
-- **Character-specific growth:** Humor that shows development
-**DEV PSYCHOLOGY:** 
-- **Coping Strategies:** Child demonstrates learned strategies in action
-- **Growth Language:** Show visible growth in approach and emotional control
-- **Process Focus:** If the attempt is more than one action, show working through challenge step by step with new maturity
-- **Child Agency:** Child initiates attempt independently
-**AGENCY:** Child executes solution independently
-**LENGTH:** 2-4 lines
+**Engagement:** High energy building to climax for external problems, or quiet determination for internal challenges (like bedtime routines). The growth should be visible, showing new competence or grace where there was struggle before, creating a sense of impending triumph.
+<!-- does not seem to be very engaging, needs better rules -->
+
+**Length:** 2-5 lines
+
+---
 
 ### Beat 4.2: Rising Tension
-**FOCUS:** Create genuine suspense as outcome remains uncertain.
+Create genuine suspense as the outcome remains uncertain. This can be pure action-based tension, a moment of psychological doubt (e.g., resisting temptation), or an opportunity for empathy where the character's focus shifts to helping another. Show physical tension, effort, stakes, and uncertainty.
 
-**SHOW/TELL/LABEL:**
-- Show: Physical tension and effort
-- Tell: Stakes and uncertainty
-- Label: None
+**Psychology:** None of the developmental rules apply. Pure action and suspense, or a test of internal resolve/empathy. Character pushes through difficulty (agency).
 
-**ENGAGEMENT:** Maximum—peak tension
-**FUN:** 
-- **Pure suspense:** No humor that would diminish tension
-- **Physical tension:** Show effort and strain in endearing way
-- **Exaggerated Motion:** Character's full-body effort under pressure
-**DEV PSYCHOLOGY:** None of the developmental rules apply—pure action and suspense
-**AGENCY:** Character pushes through difficulty
-**LENGTH:** 2-3 lines
+**Engagement:** Maximum tension for the story's context. For action stories, this is the breath-holding moment. For behavioral stories, it can be a gentle uncertainty or an internal struggle. For stories about empathy, the tension comes from whether the character will successfully help someone else.
+
+**Length:** 2-5 lines
+
+---
 
 ### Beat 4.3: The Turning Point
-**FOCUS:** Single decisive action that proves character's growth and leads to success.
+The decisive moment that proves character's growth and leads to success. This may be a single action, an application of learned behavior, a demonstration of sustained choice (e.g., resisting temptation), a decision to help another, or otherwise character being an agent in making a crucial step forward.
 
-**SHOW/TELL/LABEL:**
-- Show: The specific action that changes everything
-- Tell: Only immediate result
-- Label: None
+**Psychology:**
+- Coping strategies used if overcoming internal hurdle
+- Child solves problem themselves or in partnership (agency is key, but can be shared)
+- Support Types: Partnership Language or Success Setup can be used, but priority is on agency and self-sufficiency.
+- Decisive action, choice, or partnership proves character's growth.
 
-**ENGAGEMENT:** Peak moment—highest engagement
-**FUN:** 
-- **The Turning Point:** Triumphant moment of breakthrough
-- **Adorable Effort:** Final push with character-specific determination
-- **Character Victory:** Success shown in personality-consistent way
-- **Must enhance triumph:** Humor should amplify, not diminish, success
-**DEV PSYCHOLOGY:** 
-- **Coping Strategies:** Used if overcoming internal hurdle
-- **Child Agency:** Child solves problem themselves (paramount)
-- **Support Types:** Minimal - Partnership Language or Success Setup if absolutely necessary
-- **Process Focus:** Single decisive action proving character's growth
-**AGENCY:** PARAMOUNT—child solves problem themselves
-<!-- In one of the good stories it was good to do "let's do it together" support by adult -->
-**LENGTH:** 1-4 lines
+**Engagement:** Peak moment of highest engagement. This is the triumphant breakthrough. The action should feel both surprising and inevitable, showing the character's growth. For co-regulation stories, the partnership should feel warm and empowering. For empathy stories, the act of helping should be the true victory.
+
+**Length:** 3-6 lines
 
 ### Beat 4.4: Success
-**FOCUS:** External problem clearly resolved as direct result of child's action.
+The problem is clearly resolved as a direct result of the child's action, choice, or partnership. For behavioral or habit-based stories, success is the new, desired state (e.g., falling asleep peacefully). For goal-oriented stories, it's achieving the target. Show the resolution and the facts of success.
 
-**SHOW/TELL/LABEL:**
-- Show: The resolution
-- Tell: Only facts of success
-- Label: None
+**Psychology:** None of the developmental rules apply. Focus on triumph. Success belongs to the child (agency), even if achieved with support.
 
-**ENGAGEMENT:** Release of tension
-**FUN:** 
-- **The Reveal:** Clear resolution moment
-- **Triumphant simplicity:** Success shown in character-specific way
-- **Natural consequences:** Positive outcomes naturally following action
-- **Character-specific success:** Victory consistent with personality
-**DEV PSYCHOLOGY:** None of the developmental rules apply—focus on triumph
-**AGENCY:** Success belongs to the child
-**LENGTH:** 1-3 lines
+**Engagement:** Release of tension. The resolution should be clear and satisfying. For goal-achievement stories, this is the moment of attaining the long-awaited prize. For behavioral stories, it's a feeling of peace or accomplishment.
+
+**Length:** 2-5 lines
+
+---
 
 ### Beat 4.5: Immediate Reward/Relief
-**FOCUS:** Positive emotional release and immediate positive consequences.
+Positive emotional release and immediate positive consequences. The "reward" can be the direct outcome of the success, a tangible item, or praise. It should be immediate in terms of reader experience, next page after success. Show physical joy/relief first, then the consequence.
 
-**SHOW/TELL/LABEL:**
-- Show: Physical joy/relief first (jumping, laughing, etc.)
-- Tell: The reward/consequence
-- Label: Brief positive emotion label allowed after showing
+**Psychology:**
+- Physical joy/relief first, then brief positive emotion label allowed
+- Direct positive consequence experienced
+- If praise given, use specific process praise
+- Character drives and enjoys their success (agency)
 
-**ENGAGEMENT:** Emotional payoff
-**FUN:** 
-- **Celebration:** Joyful, exuberant expressions of success
-- **Exaggerated Motion:** Full-body expressions of joy and relief
-- **Character-specific celebration:** Victory expressed through personality
-- **Physical Comedy:** Harmless, joyful celebration mishaps
-**DEV PSYCHOLOGY:** 
-- **Show and Label:** Physical joy/relief first, then brief positive emotion label allowed
-- **Natural Consequences:** Direct positive consequence experienced
-<!-- if praise, then specific process praise -->
-**AGENCY:** Character drives and enjoys their success
-**LENGTH:** 2-3 lines
+**Engagement:** Emotional payoff. The celebration should be as full-bodied and genuine as children's joy really is. Whether through exuberant physical expression or character-specific ways of showing happiness, readers should feel the emotional release and satisfaction along with the character.
+
+**Length:** 2-4 lines
 
 ---
 
 ## Act 5: Resolution & Conclusion – Integrating the Growth
 
 ### Beat 5.1: Catharsis/Immediate Aftermath
-**FOCUS:** Tension fully subsides as characters process the success.
+Tension fully subsides as characters process the success. Show satisfaction, physical relaxation, catarthic immediate aftermath.
 
-**SHOW/TELL/LABEL:**
-- Show: Physical relaxation and calm
-- Tell: Immediate aftermath
-- Label: None
+**Psychology:** None of the developmental rules apply. Just relief and aftermath. If praise given, use specific process praise. Natural response to success.
 
-**ENGAGEMENT:** Warm, calming
-**FUN:** 
-- **Gentle relaxation:** Peaceful, calming moments
-- **Physical Comedy:** Gentle, post-success clumsiness
-- **Dual-Layer Humor:** Relatable parenting moments
-- **Character-specific wind-down:** Calming actions consistent with personality
-<!-- not specific enough. It needs to suggest what kind of fun / engagement might work here -->
-**DEV PSYCHOLOGY:** None of the developmental rules apply—just relief and aftermath
-<!-- if praise, then specific process praise -->
+**Engagement:** Warm, calming feeling. The wind-down should feel natural and earned, showing how the character uniquely expresses relief and contentment. This might include gentle physical comedy from exhaustion, quiet moments of satisfaction, or the particular way this character settles after excitement.
 
-**AGENCY:** Natural response to success
-**LENGTH:** 2-3 lines
+**Length:** 2-3 lines
 
 ### Beat 5.2: Reflection & Learning
-**FOCUS:** Child realizes the meaning of their experience in concrete, simple terms.
+Child realizes the meaning of their experience in concrete, simple terms. Show understanding through expression or action with simple, concrete lesson. Learning can be named simply.
 
-**SHOW/TELL/LABEL:**
-- Show: Understanding through expression or action
-- Tell: Simple, concrete lesson
-- Label: Learning can be named simply
+**Psychology:**
+- Child owns the realization and understanding (agency)
+- Support Types: Brief - Active Listening, Gentle Guidance Questions, Process Praise
+- Frame learning as development, not fixed traits
+- Present understanding as discovery, not lecture
 
-**ENGAGEMENT:** Quiet satisfaction
-**FUN:** 
-- **Cognitive Humor:** Character's simple, concrete understanding
-- **Serious Formality:** Treating learning with grave importance
-- **Dual-Layer Humor:** Sophisticated insights from small character
-- **Character-specific realization:** Learning expressed through personality
-<!-- not specific enough again -->
-**DEV PSYCHOLOGY:** 
-- **Child Agency:** Child owns the realization and understanding
-- **Support Types:** Brief - Active Listening, Gentle Guidance Questions, Process Praise
-- **Growth Language:** Frame learning as development, not fixed traits
-- **Learning Frame:** Present understanding as discovery, not lecture
-**AGENCY:** Child owns the realization
-**LENGTH:** 2-3 lines—keep brief
+**Engagement:** Quiet satisfaction. The child's understanding should be expressed in their unique way, whether through serious pronouncements, simple observations, or childlike profundity. The realization should feel authentic to how children really process and express what they've learned.
 
-### Beat 5.3: Making it Right/Integration
-**FOCUS:** If needed, child takes concrete action showing their growth (apology, changed behavior, making skill their own, teaching others, etc)
-
-**SHOW/TELL/LABEL:**
-- Show: Specific action scene demonstrating change
-- Tell: Only what's needed
-- Label: None
-
-**ENGAGEMENT:** Emotionally satisfying
-**FUN:** 
-- **Heart-warming actions:** Genuine expressions of growth
-- **Serious Formality:** Approaching integration with sincere importance
-- **Social Behavior:** Character taking responsibility in their own way
-- **Character-specific integration:** Growth shown through personality
-**DEV PSYCHOLOGY:** 
-- **Child Agency:** Child initiates concrete action showing growth
-- **Support Types:** Minimal - only if scene implausible without it
-- **Natural Consequences:** Show changed behavior having positive impact
-- **Learning Frame:** Present integration as natural development
-**AGENCY:** Child initiates
-**LENGTH:** 2-4 lines
-
-### Beat 5.4: New Status Quo
-**FOCUS:** Show character transformed—more capable and confident than in Act 1.
-<!-- not necessarily character transformed, it can be new situation where everything is good, new order established, new group formed, new social situation achieved, etc -->
-
-**SHOW/TELL/LABEL:**
-- Show: Changed behavior/capability
-- Tell: New state of being
-- Label: None
-
-**ENGAGEMENT:** Satisfying contrast to opening
-**FUN:** 
-- **Character-specific humor:** Return to natural personality-based humor
-- **Competence humor:** Character now succeeding at previously difficult tasks
-- **Confident actions:** Character operating from new place of capability
-- **Transformation contrast:** Show change through humor comparison to Act 1
-**DEV PSYCHOLOGY:** 
-- **Growth Language:** Show transformation as development, not fixed change
-- **Show and Label:** Show changed behavior/capability, don't explain it
-- **Natural Consequences:** Demonstrate positive new state as result of growth
-**AGENCY:** Character embodies growth
-**LENGTH:** 2-3 sentences
-
-### Beat 5.5: Concluding Thought
-**FOCUS:** Brief punchy emotional closure that resonates very deeply without being didactic.
-
-**SHOW/TELL/LABEL:**
-- Show: Final image or action
-- Tell: Minimal—let image speak
-- Label: None
-
-**ENGAGEMENT:** Warm ending
-**FUN:** 
-- **Final charm:** Last endearing moment with character
-- **Emotional resonance:** Moment that stays with reader
-- **Character-specific closure:** Ending that feels true to personality
-- **Gentle surprise:** Unexpected final delight or sweetness
-**DEV PSYCHOLOGY:** None of the developmental rules apply—pure emotional closure
-**AGENCY:** Not applicable
-**LENGTH:** 1-2 sentences maximum
+**Length:** 1-3 lines
 
 ---
 
-<!-- fun sections here are a lazy copy-paste and refraiming from fun doc, mostly useless and a wall of text. Needs to be shorter, less formulaic, descriptive recommentations instead of labels.
- -->
+### Beat 5.3: Making it Right/Integration
+If needed, child takes a concrete action that demonstrates their growth is now integrated. This is not always an apology. It can be teaching the new skill to a toy, helping someone else with a similar problem, or confidently using their new ability. Show the specific action scene.
+
+**Psychology:**
+- Child initiates concrete action showing growth (agency)
+- Support Types: Minimal - only if scene implausible without it
+- Show changed behavior having positive impact
+- Present integration as natural development
+
+**Engagement:** Emotionally satisfying resolution. The concrete action should demonstrate growth in a heartwarming way that feels true to the character. Whether it's a sincere gesture, taking responsibility, or showing newfound capability, it should feel like a natural expression of what they've learned.
+
+**Length:** 2-4 lines
+
+---
+
+### Beat 5.4: New Status Quo
+Show how the situation has transformed. The character is more capable, a new order is established, or a goal has been achieved, which becomes the new baseline. Show the changed behavior, new situation, new capability, or the earned reward as the new reality. The positive outcome can also be demonstrated through its impact on others (e.g., seeing a friend who was helped now playing confidently).
+
+**Psychology:**
+- Show transformation as development, not fixed change
+- Show changed behavior/capability, don't explain it
+- Demonstrate positive new state as result of growth
+- Character embodies growth
+
+**Engagement:** Satisfying contrast to opening. The transformation should be evident through the character's natural behavior, showing evolution while maintaining their essential personality. The new capability or confidence should shine through ordinary actions, creating a sense of genuine growth and change.
+
+**Length:** 2-4 lines
+
+### Beat 5.5: Concluding Thought
+Brief, punchy emotional closure that resonates deeply without being didactic. Let the final image, action, or concise, profound thought speak for itself. It can look forward, showing the skill has been truly internalized.
+
+**Psychology:** None of the developmental rules apply. Pure emotional closure.
+
+**Engagement:** Warm ending that lingers. The final moment should capture something essential about the character or their journey. A simple statement, a characteristic gesture, or a forward-looking question can provide a perfect, satisfying end note.
+
+**Length:** 1-3 lines

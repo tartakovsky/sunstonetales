@@ -1,49 +1,5 @@
 # INTEGRATED STORY DEVELOPMENT, EDITING & WRITING GUIDE (V3 - COMPREHENSIVE)
 
-This guide consolidates all protocols for writing, editing, and reviewing stories in this project. It is organized to preserve all specific requirements and original wording from the source documents.
-
-## PART 1: CORE FRAMEWORK & GLOBAL REQUIREMENTS
-
-This section contains the foundational rules, principles, and technical specifications that apply to all roles and tasks.
-
-### 1.1. Project Document Library
-
-The following documents are the source of truth for all story elements:
-
-*   **Structure:** `@five_act_4_to_6_yo.md`
-*   **Developmental Guidelines:** `@developmental_guidelines.csv`
-*   **Characters:** `@liska.md`, `@father_daric.md`, `@mother_mara.md`, `@anji.md`, `@lucia.md`, `@slypaws.md`, `@tahrra.md`, `@kebab_man.md`, `@zanziri.md`, `@mood_flowers.md`
-*   **Slot Options:** `@emotional_triggers.csv`, `@emotion_groups.csv`, `@dysregulation_types.csv`, `@regulation_strategies.md`, `@coping_strategies.csv`, `@support_types.csv`, `@solution_discovery_processes.csv`, `@practice_types.csv`, `@fun_types.csv`, `@engagement_types.csv`
-*   **Technical Requirements:** `@tech_spec_4_to_6_yo.md`, `@storytelling_guidelines.md`, `@lang_style_ru.md`
-
-### 1.2. Core Writing Principles
-
-*   **Psychological Excellence (Highest Priority):** Follow every principle in `@developmental_guidelines.csv`. Model **co-regulation** before self-regulation. Validate feelings with concrete language. Give the child **agency**: adults scaffold; children solve. Embed a **growth mindset** message naturally in the climax/resolution.
-*   **Character Implementation:** All characters must be written in strict accordance with their definitions in the `liska/characters/` folder. Use these files to ensure every character's behavior, personality traits, background, and manner of speaking are portrayed consistently and accurately.
-*   **Abstraction Level Control:** Ensure all language, especially in refrains and emotional statements, is concrete and direct. Children aged 4-6 struggle with abstract concepts. Prefer concrete, immediately understandable word choices.
-*   **Storytelling Style:** Embody the principles in `@storytelling_guidelines.md`. Write with conversational, oral storytelling character. Ensure pleasant, natural cadence and use connecting words (и вот, а потом) for smooth read-aloud flow.
-
-### 1.3. Technical & Style Guidelines
-
-*   **Tense & Language:** Write in 3rd-person past tense, clean modern Russian.
-*   **Word Count:** Target 500-800 words total.
-*   **Pacing:** Aim for 20-30 words per "page" (each line), ±20% for rhythm.
-*   **Sentence Structure:** Write shorter sentences, maximum two phrases in one sentence.
-*   **Vocabulary:** Keep vocabulary concrete and age-appropriate; avoid abstract adjectives.
-
-### 1.4. Russian Language & Formatting Specifics
-
-*   **Cultural Adaptation:** Correctly adapt cultural elements like names, foods, and memorable refrains.
-*   **Dialogue Formatting:** Use the direct speech from a new paragraph style. Pay attention to the empty line in between. It is necessary for markdown to render them on separate lines.
-*   **Punctuation:** Do NOT use quotation marks `""` or `«»`.
-*   **Example:**
-    ```
-    — Анжи говорит, я не помню ничего хорошего! Но это неправда!
-
-    — Конечно, тебе обидно, милая, — сказала мама. — Вы так старались, а чайка всё разрушила. Я бы тоже расстроилась. Расскажи, что произошло.
-    ```
-
----
 
 ## PART 2: THE WRITING PROTOCOL (BEAT-BY-BEAT)
 
