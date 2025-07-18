@@ -28,11 +28,6 @@ This storyboard enhances the psycho-developmentally reviewed structure by inject
 > This clearly establishes Liska's goal and the object's importance. It's a great opportunity to inject some `Adorable Effort` humor.
 
 **Suggestions:**
-> - Show, don't just tell, her intense focus through physical comedy.
-> - Emphasize the wobbly, imperfect nature of her creation, making it more charming.
-> - **Punchy Snippet:** "Her tongue poked out the corner of her mouth, a tiny pink flag of concentration."
-> - **Punchy Snippet:** "She pulled the last strand tight with a mighty *grunt*. The braid wiggled like a happy worm."
-> - **Punchy Snippet:** "She held it up. It wasn't a perfect belt. It was a lumpy, bumpy, wobbly, wonderful *her* belt."
 > - **Punchy Snippet:** (Whispering to the belt) "There. Now you are all safe together."
 
 ---
@@ -50,8 +45,6 @@ This storyboard enhances the psycho-developmentally reviewed structure by inject
 > - Show her pride through an action, like a little happy dance or a puff of her chest.
 > - Use `Awkward Grace` as she tries to show off her creation.
 > - **Punchy Snippet:** "The happy bubble made her wiggle. She did a little spin, holding the belt out. 'Ta-da!'"
-> - **Punchy Snippet:** "She puffed out her chest, trying to look very official and important with her new belt."
-> - **Punchy Snippet:** "She practiced her 'look what I made' face in a puddle's reflection."
 
 ### Beat 2.2: The Catalyst
 **Text:**
