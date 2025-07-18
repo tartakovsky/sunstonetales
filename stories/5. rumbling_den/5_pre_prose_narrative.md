@@ -1,3 +1,14 @@
+<!-- Comment on the whole "rumble" theme
+
+opportunity to build the child's emotional vocabulary? A 4-year-old can understand "angry," "sad," or "frustrated." Does labeling the emotion as "rumbly" obscure the reality of the situation and hinder the child's ability to identify and name these feelings in themselves and others later on?
+
+
+Accountability: The phrasing "we have big, rumbly feelings" presents the emotion as an external force that happens to the parents, similar to weather. Does this subtly absolve the parents of responsibility for their behavior? Compare it to, "Mama and I are feeling very angry, and we are not handling it well." The latter takes more ownership.
+
+we probably want to drop it.
+
+ -->
+
 ## Act 1: Introduction
 
 ### Beat 1.1: Introduce setting and atmosphere
@@ -20,10 +31,10 @@ Special sunny corner in the back garden. Safety and happiness atmosphere.
 
 ### Beat 1.2: Introduce character(s)
 <!-- What's important in the beat:
-Brain. She's in the sunny corner from beat 1. The treasures should be specifically these and extremely emotionally resonant.
+Braid. She's in the sunny corner from beat 1. The treasures should be specifically these and extremely emotionally resonant.
  -->
 
-Liska sat in the sunny corner, focused intently on finishing a small, thick belt. It was made of three braided strands. Woven into it were her greatest treasures: a small, rainbow 'courage stone' her father had given her. A tuft of her own white baby-fur that her mother had saved and tied with a silver thread. And a tiny, hardened clay tablet bearing her own first paw-print.
+Liska sat in the sunny corner, focused intently on finishing a small, thick belt. It was made of three braided strands. Woven into it were her greatest treasures: a small, rainbow 'courage stone' her father had given her. A tuft of her own white baby-fur that her mother had saved and tied with a silver thread. And a tiny, hardened clay tablet bearing her own first paw-print. Her very first mark on the world. "There," she whispered. "Now you're all safe together."
 
 **Suggestions:**
 > - **Punchy Snippet:** (Whispering to the belt) "There. Now you are all safe together."
@@ -51,7 +62,7 @@ Her treasure-braid was finally done, tied snug around her waist. It felt like a 
 Parents tense, tense pre-conflict atmosphere
  -->
 
-Liska entered the main room to find her parents with stiff tails and serious faces, not looking at each other. The air felt still and sharp. This was unusual and unsettling for her.
+Liska bounded into the main room and stopped. Papa stood by the window, tail stiff. Mama sat far away, face turned to the wall. Tension between them. This was unusual and unsettling for her.
 
 **CRITICAL ISSUES:**
 > - **ADULT PERSPECTIVE**: "serious faces" is adult interpretation
@@ -88,6 +99,8 @@ Liska hesitated, then heard her father's voice, a low rumble, "I just don't unde
 Liska's initial dysregulation, not heavy yet, more confusion, a bit of saddness and fear. Emotions shown. Not sure we need rainy cloud specifically, just a simile might be okay  -->
 
 Liska experienced initial dysregulation. Confusion and sadness began to form over her.
+
+<!-- like the world had lost its colors. She felt confused and a little scared. -->
 
 **Suggestions:**
 > - Describe the internal sensation physically. Use "how it feels" section from the emotional framework for corresponding emotion.
@@ -139,49 +152,15 @@ Feeling a bit more stable after the brief contact with her mother, Liska approac
 
 ### Beat 3.3: Attempt 2
 
-<!-- What's important in the beat:
-Determination after first failure. 
-"No, Papa, *look*," she 
-insisted, her voice trembling slightly. "It's you, and Mama, and me. It's 
-us." – this exact phrase.
-
-Father notices her now, but still can't get out of the argument. Tells her not right now, no reassurance. That dysregulates Liska fully and she runs away.
--->
-
-Unwilling to give up, Liska tried again, this time with more urgency. She stepped in front of him and held the belt out. "No, Papa, *look*," she insisted, her voice trembling slightly. "It's you, and Mama, and me. It's us." The directness of her plea, her attempt to force him to see the symbol, was too much for his frayed state. He gently stopped her: "Liska, sweetie, not right now. Mama and I need a quiet moment." He set a boundary but offered no reassurance. This dismissal of her precious symbol was what truly broke her heart and sent her into her emotional low point.
-
-
-**Suggestions:**
+Unwilling to give up, Liska stepped right in front of Papa, lifting the braid higher. "No, Papa, *look*," she insisted, her voice trembling slightly. "It's you, and Mama, and me. It's us." Papa finally looked at her, but his eyes were still stormy. He put his paw gently over hers. "Liska, sweetie, not right now. Mama and I need a quiet moment." No reassurance, just the soft push away. Liska's heart crumbled.
+<!-- **Suggestions:**
 > - Add a physical gesture from Liska, like tapping his hand with the belt.
-> - The father's boundary-setting can be framed gently but firmly, which is what makes it so heartbreakingly final for her.
-> - **Punchy Snippet:** (Liska's voice) "'It's our family,' she whispered, her voice full of hope and wobble."
-> - **Punchy Snippet:** (Father's action) "He gently put his paw over hers, stopping her. A soft wall."
-> - **Punchy Snippet:** (Internal) "His words didn't just stop her hands. They stopped her heart."
-> - **Punchy Snippet:** (Liska, pleading) "'But... it's the together-part.'"
+> - The father's boundary-setting can be framed gently but firmly, which is 
+what makes it so heartbreakingly final for her. -->
 
 ### Beat 3.4: Low Point
-<!-- What's important in the beat:
 
-No Rainy Cloud. Should be pure, raw, emotional low point, fully showing her dysregulation. Curling on the floor, sobbing ball of fur are good. 
--->
-
-She ran out, started crying and curled down on the floor into a little sobbing ball of fur. Overwhelmed as her 'Rainy Cloud' became a heavy storm.
-
-**Review:**
-> Clear, but we can make the emotional storm more visceral and sensory.
-
-**Suggestions:**
-> - Describe the feeling of her body curling up—the need to be small and disappear.
-> - Add sounds—the specific type of sobs.
-> - **Punchy Snippet:** "She ran until the 'right now' was gone and curled up into the smallest possible ball of sad."
-> - **Punchy Snippet:** "Her body shook with little hiccup-sobs that had no words."
-> - **Punchy Snippet:** (Metaphor) "The Rainy Cloud wasn't drizzling anymore. It was a big, thumpy, splashy storm, and she was all wet inside."
-
-**CRITICAL ISSUES:**
-> - **METAPHOR INTRODUCTION**: 'Rainy Cloud' appears without proper introduction
-> - **GENERIC DESCRIPTION**: "little sobbing ball of fur" - needs specific Liska details
-> - **LENGTH**: Too short for emotional nadir (needs 3-7 lines)
-> - **MISSING PRACTICAL FAILURE**: What's the practical setback beyond crying?
+Liska ran to the hallway and collapsed into the tiniest ball she could make. Her whole body shook with big, gulpy sobs that came from deep in her belly. She pressed her face into her paws, treasure-braid clutched tight against her chest. She wanted to disappear into the floor, to become invisible, to stop feeling this terrible hurt.
 
 ### Beat 3.5: Recovery
 <!-- What's important in the beat:
@@ -193,8 +172,7 @@ Her dysregulation is noticed by her father one way or another, in a way that mak
 
 Her father, Daric, saw her curled into a tight, trembling ball in the hallway. The sight pierced his own upset. He walked over, sat on the floor beside her, and placed a heavy, warm paw on her back. He waited until her trembling subsided, then said softly, "Mama and I... we have big, rumbly feelings sometimes. But our love for you, Liska, is never part of the rumble. We love you very much." He gave her a gentle squeeze, then added, "We just need to finish talking. Can you wait for us?" He then got up and returned to the main room.
 
-**Review:**
-> This is a stellar example of high-quality co-regulation. The dialogue is perfect. "Rumbly feelings" is a fantastic, child-friendly term.
+<!-- I'm not sure I like the whole "rumbly feelings" image. Is it clear for 4yo? Is it a vivid image? Is it natural for native english speakers? Doesn't sound natural for me -->
 
 **Suggestions:**
 > - Emphasize the father's silent presence first, before he speaks. The waiting is part of the support.
@@ -210,10 +188,12 @@ Her father, Daric, saw her curled into a tight, trembling ball in the hallway. T
 <!-- What's important in the beat:
 
 Liska calms down a bit. Still miffed. Find further support in the braid, looks at the treasures. They remind her of family unity. She remembers the paw pile and gets determined to make parents do it.
+
+should be a bridge from touching the braid "together" to remembering paw pile "together" and wanting to bring them "together"
 -->
 
 
-Grounded by her father's words, Liska's thoughts turned to what their love *felt* like. She clutched her little braid, feeling the stone, the fur, and the clay tablet. The solution wasn't showing them the braid; it was making them *become* the braid. The idea of a "Paw Pile" formed in her mind.
+Alone again, Liska clutched her braid tight. The stone felt solid like Papa. The fur felt soft like Mama. The clay felt warm like home. She thought about their family paw pile - how they'd stack all their paws together and laugh. Her tears stopped. Her eyes got bright with determination. She knew exactly what to do!
 
 
 **Suggestions:**
@@ -231,80 +211,37 @@ Grounded by her father's words, Liska's thoughts turned to what their love *felt
 
 ## Act 4: Climax & Solution – Overcoming Externally & Internally
 
-### Beat 4.1-4.3: Final Attempt, Rising Tension, and Turning Point
-<!-- What's important in the beat:
+### Beat 4.1: Final Attempt
 
-She goes back in. 
-She declares exact phrase: "LOOK! It's us! The stone is Papa! The tuft is Mama! And the paw print is me!"
+Liska marched back into the room, braid clutched in one paw. She planted herself between her parents and declared: "LOOK! It's us! The stone is Papa! The tuft is Mama! And the paw print is me!"
 
-Forces their paws together. Commands paw pile. When they put down paws together:
-She pressed on them and said "Together" in small but stubborn voice.
+### Beat 4.2: Rising Tension
 
-Might be good to split it back into three beats
-1) back in, look it's us
-2) small one sentence tension where the parents don't immediately react
-3) turning point where she forces them together and commands paw pile
--->
+Her parents just stared. The room went so quiet Liska could hear her own heartbeat thumping like tiny rabbit feet.
 
-Liska uncurled, her braid clutched in one paw. She marched into the room and declared, "LOOK! It's us! The stone is Papa! The tuft is Mama! And the paw print is me!"
+### Beat 4.3: The Turning Point
 
-Before they could react, she walked to her mother and took her paw. She went to her father and took his. She brought their paws together, commanded "Paw pile," and placed her own paw on top of theirs. She pressed the pile down firmly, then let it spring back up, punctuating the point.
-
-"Together," she said, her voice small but full of power.
+Before they could speak, Liska grabbed Mama's paw. Then Papa's paw. She pulled them together with all her might and placed her own small paw on top. "Paw pile," she commanded. She pressed down firmly, then let the pile spring back up. "Us. Together," she said, her voice small but stubborn.
 
 ### Beat 4.4: Success
-<!-- What's important in the beat:
-more or less it. [The rumbly quitet] phrase is very weak. 
-Invisible wall is too adult metaphor. 
-Her parents looked at their paws, then at each other, and then down at her. In a rush of warm fur, they both knelt and pulled her into a tight, safe hug, right in the middle. - keep as is
-"We're sorry we worried you," her mother whispered into her fur. - keep as is
--->
 
-The rumbly quiet broke. Her parents looked at their paws, then at each other, and then down at her. In a rush of warm fur, they both knelt and pulled her into a tight, safe hug, right in the middle. The big, invisible wall was gone. "We're sorry we worried you," her mother whispered into her fur.
+Her parents looked at their paws, then at each other, and then down at her. Something melted in their eyes. In a rush of warm fur, they both knelt and pulled her into a tight, safe hug, right in the middle. "We're sorry we worried you," her mother whispered into her fur.
 
-### Beat 4.5: Immediate Reward / Relief
-<!-- What's important in the beat:
+### Beat 4.5: Immediate Reward/Relief
 
-As narrated, but with show not tell and sensory detail
- -->
-
-Liska experienced a strong positive emotional release. They sealed their reunion with their special "Triple Kiss"—all three of them touching noses and kissing each other simultaneously in a triangle of love.
-
-
-**Suggestions:**
-> - Describe the release of tension in Liska's body.
-> - Make the "Triple Kiss" a multi-sensory moment of warmth, soft fur, and gentle sound.
-> - **Punchy Snippet:** "A big, happy sigh she didn't know she was holding whooshed out of her."
+A huge, happy sigh whooshed out of Liska. They sealed their hug with their special Triple Kiss - all three noses touching in the middle, making a perfect triangle of love. Warm breath, soft whiskers, and the feeling of everything being right again.
 
 ---
 
 ## Act 5: Resolution & Conclusion – Integrating the Growth
 
-### Beat 5.1: Catharsis / Immediate Aftermath
+### Beat 5.1: Catharsis/Immediate Aftermath
 
-<!-- What's important in the beat:
+They sat together in a heap in the sunny corner, Liska the warm filling in a purring parent sandwich. 
 
+<!-- can be better
 
-They sat together in a heap in the sunny corner, Liska the warm filling in a purring parent sandwich. – write exactly as is
-
-Maybe some other punchy sensory detail
-
-
- -->
-
-
-Tension subsided as the family sat together in the sunny corner in the garden, with Liska curled up safely between them.
-
-**Suggestions:**
-> - Reinforce the return of the positive sensory details from the beginning.
-> - Show their physical closeness—not just sitting together, but curled up and connected.
-> - **Punchy Snippet:** "Liska was the filling in a warm, purring parent sandwich."
-
-**CRITICAL ISSUES:**
-> - **TELLING**: "Tension subsided" - show don't tell
-> - **GENERIC**: Needs specific sensory details unique to this family
-> - **TOO SHORT**: Beat 5.1 needs 2-3 lines
-> - **MISSING PHYSICAL RELAXATION**: Show bodies unwinding, not just sitting
+Papa's chest rumbled with contented purrs. Mama's breathing was slow and peaceful again. -->
 
 ### Beat 5.2: Reflection & Learning
 
@@ -316,6 +253,9 @@ Developmentally, it should be something along the lines "I can try and make thin
 
 Liska looked at their paws, still a pile. "Paw pile fixes rumbles," she announced with satisfaction. Father squeezed her gently. "Yes, it does," he said. "You remembered the most important thing."
 
+<!-- Another option that I still don't like much
+Liska looked down at their paws, still stacked together. "I made us remember," she said quietly, feeling proud. Papa nuzzled her ear. "Yes, little one. You helped us remember what matters most." -->
+
 ### Beat 5.3: Making it Right/Integration
 <!-- What's important in the beat:
 Liska seeing/hearing parents making up, not *for* her, but between each other when they don't notice she's looking. 
@@ -326,23 +266,18 @@ That covers making it right.
 What would cover integration? She learned some lesson, how can she show it?
  -->
 
-Later, Liska was half-dozing in the sunny corner when she heard her parents talking softly. "I'm sorry I was so prickly," said Father. Mother's voice was warm. "And I'm sorry I went so quiet." There was a soft touch of paws. Liska, without opening her eyes, felt the rumbles finally settle for good.
+Later, Liska was half-dozing in the sunny corner when she heard her parents talking softly. "I'm sorry I was so prickly," said Father. Mother's voice was warm. "And I'm sorry I went so quiet.". Liska, without opening her eyes, felt the rumbles finally settle for good.
+
+<!-- weak. Drop rumbles. Rewrite. -->
 
 ### Beat 5.4: New Status Quo
-<!-- What's important in the beat:
 
-More or less it, new sense of normality where parents like each other again, notice Liska and smile to each other.
--->
+The next morning, Liska saw Papa bring Mama her favorite tea. He touched her shoulder gently as he set it down. Mama looked up with crinkly, happy eyes. The air smelled like cinnamon and felt warm again. Liska bounced between them, her treasure-braid swinging.
 
-The next morning, Liska saw her father bring her mother a cup of tea. He touched her shoulder gently as he set it down. She looked up at him, and her eyes crinkled in a real smile. The air felt warm and smelled of cinnamon again.
+<!-- Conceptually correct, but not touching enough -->
 
 ### Beat 5.5: Concluding Thought
-<!-- What's important in the beat:
-
-Pretty much it. Must end with together. Maybe braid, not belt. Maybe not patted, something more endearing. 
-
-Must keep: 
-- The stone, the fur, and the clay
-- Together.
--->
-Liska patted her treasure-belt. The stone, the fur, and the clay were all still there. She gave it a little squeeze. Together.
+<!-- gentle pat is not endearing enough
+conceptually right, but falls flat
+ -->
+Liska gave her treasure-braid a gentle pat. The stone, the fur, and the clay - all there. Together.
