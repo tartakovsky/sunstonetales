@@ -80,3 +80,30 @@ This is the Communal Green. It is not a manicured public park, but a semi-wild m
 *   **Boundaries:** It is bordered on one side by the sandstone garden walls of several homes and on the other by the edge of the jungle. It is semi-enclosed and feels safe.
 *   **Atmosphere:** A feeling of intimate freedom. It's a personal slice of the wild, safe enough for a child to play alone. The warm, golden light of sunset is particularly important here.
 *   **Ownership:** It is a semi-private space, belonging to a small community of neighbors. This reinforces the communal values of the culture.
+
+
+### **The Yard**
+
+**1. Core Concept:**
+The Saar is a self-contained, secure micro-community. It functions as a "safe container" for its residents, particularly the children. It is the transitional space between the private safety of the home and the public world outside its gates. Narratively, it is the stage for Liska's first steps toward independence.
+
+**2. Physical Layout:**
+*   **Structure:** A ring of 10-12 multi-story houses arranged in a rough, many-sided circle. The houses face inward, their doors and windows opening onto the central Yard.
+*   **The Yard:** The large, communal space at the center. It is primarily covered in grass, with a network of worn stone paths connecting the houses and the gates. Several large, broad-leafed trees provide significant shade, creating a cool, dappled environment.
+*   **Liska's Home:** Positioned on the eastern side of the Saar, between the Jungle Gate and the Sea Gate.
+*   **The Gates:** Three distinct, archway-style gates serve as the only exits. They are landmarks and sensory anchors:
+    *   **Market Gate (West):** Faces the main settlement and its bustling market. It is the source of noise, crowds, and the smells of commerce and cooked food.
+    *   **Jungle Gate (Northeast):** Faces a meadow that leads to the dense jungle. It carries the scent of grass and wildflowers, and the deeper, rustling sounds of the forest.
+    *   **Sea Gate (Southeast):** Faces the beach and the open water. It is the source of sea spray, the sound of waves, and the smell of salt.
+
+**3. Atmosphere & Sensory Palette:**
+*   **Feeling:** Sheltered, communal, and safe. There is a constant, low-level hum of community life: children playing, neighbors calling to one another, the sounds of crafts or chores.
+*   **Light & Temperature:** The dense tree canopy creates a cool, shaded interior, offering respite from the external heat. Light is often dappled and soft.
+*   **Sounds:** A mix of internal community sounds layered with the distinct sounds carried through each gate: the chatter of commerce from the Market Gate, the hum of insects from the Jungle Gate, and the rhythmic wash of waves from the Sea Gate.
+*   **Smells:** The air is a blend of cooking food and spices (Market Gate), damp earth and vegetation (Jungle Gate), and sea salt (Sea Gate), all mixed with the internal smells of the shaded Yard.
+
+**4. Narrative Function:**
+*   **Controlled Environment:** The Saar's enclosed nature makes it a believable setting for a young child to undertake a "solo" journey. The writer can emphasize that Liska is never truly in danger, only psychologically challenged.
+*   **Passive Supervision:** The inward-facing houses create a sense of collective watchfulness. Any event in the Yard is implicitly witnessed by the community, reassuring the parent reader of the child's safety.
+*   **Scalable World:** For an adult, the Yard is a small space. For Liska, the journey from her doorstep to the center of the Yard is an epic expedition. The writer can use familiar landmarks (a specific tree, a neighbor's porch, a bend in the path) as significant obstacles in Liska's emotional journey.
+*   **Staging Area:** The Yard is the perfect location for the "evening fete" scenario. A bonfire or puppet show can be set up in the center. Liska's "safe zone" with Mara could be near their home on the eastern side, while the "curiosity zone" with her friends could be set up closer to the Market Gate, creating a clear east-to-west journey across the Yard.

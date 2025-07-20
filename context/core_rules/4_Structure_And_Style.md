@@ -304,7 +304,7 @@ Brief, punchy emotional closure that resonates deeply without being didactic. Le
 
 ## Prose Style & Formatting Guide
 
-This guide provides unified style and formatting rules for writing children's stories for 4-6 year olds in both English and Russian.
+This guide provides unified style and formatting rules for writing children's stories for 4-5 year olds in both English and Russian.
 
 ### **1. Core Principles**
 
@@ -320,7 +320,7 @@ This guide provides unified style and formatting rules for writing children's st
 
 ### **2. Document & Page Structure**
 
-*   **Target Audience**: 4-6 year old children (language complexity for 5-year-olds).
+*   **Target Audience**: 4-5 year old children (language complexity for 5-year-olds).
 *   **Total Text Length**: 500-700 words maximum.
 *   **Page/Line Word Count**: 15-30 words.
 *   **Page/Line Sentence Count**: 2-4 sentences.

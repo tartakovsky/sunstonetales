@@ -10,7 +10,7 @@ These are the general narrative rules for creating stories.
 
 ---
 
-### **Characters for 5-year-olds**
+### **Characters for 4-5-year-olds**
 
 - Child-like characters or small creatures they can identify with
 - Characters with very distinct visual and personality traits
