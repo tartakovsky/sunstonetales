@@ -1,39 +1,3 @@
-# 4. Five-Act Story Structure
-
-This document defines the story structure for ages 4-5 with clear requirements for each beat.
-
----
-
-## Core Principles of Application
-
-- **Narrative Flow (Time & Scene):** Transitions between beats can include time jumps (e.g., "The next day...") or scene changes (e.g., "Back at home...") to serve the story's logic. This is especially crucial for narratives about habit formation or those spanning multiple locations.
-- **Story Archetypes:** The structure is designed to be flexible for different narrative types, including external problem-solving, internal/behavioral challenges (e.g., fear, habits), and goal-achievement (e.g., saving up for something). Adapt the emotional intensity and nature of the "problem" accordingly.
-
-### Child-Perspective Design
-
-Use child viewpoint to make stories engaging. Problems come from how kids see the world - small things feel huge.
-
-This makes obstacles real and fun. Like a puddle feeling like an ocean.
-
-Key Ideas:
-1. Real Kid-View Problems: Things big from a childs eyes, like high shelves.
-2. One Sense Per Problem: Focus on one thing, like a yummy smell.
-3. Short Steps: 2-3 steps to solve.
-4. Kid Wants It: Solve for their own fun first, then help others.
-
-Examples:
-- High-Up Snack: Fruit smells good but too high. Jump, stool, stack cushions.
-- Stuck Ball: Hear it under furniture. Reach, stick, broom.
-- Puzzle Path: Hear kids but cant see. Wrong path, notice flowers, follow.
-
-Avoid:
-- Fantasy mixes like adding magic or pretend monsters that blur real and pretend.
-- Too many details.
-- Hard thinking.
-- Adult fixes.
-
----
-
 ## Act 1: Introduction
 
 ### Beat 1.1: Introduce Characters, Setting and Atmosphere
@@ -64,7 +28,8 @@ The direct trigger (cause, not effect) of the core problem. Can be an external a
 
 **Psychology:** The trigger is an agentic action from the character's established nature or location, even if accidental.
 
-**Engagement:** The pivot point. The event must feel surprising yet inevitable, creating an "uh oh" sense of anticipation, or establishing a normalized routine that leads to the problem. Tone can be high-energy, comedic, foreboding, or calm and soothing, such as demonstrating an undesirable character's habit we're dealing with in a cute and warm way if it is pleasant to them, without problematizing it.
+**Engagement:** The pivot point. The event must feel surprising yet inevitable, creating an "uh oh" sense of anticipation. Tone can be high-energy, comedic, or foreboding.
+<!-- That is not exactly true, or rather not complete. What you said is good, but for example in one of the Falling Asleep stories the catalyst was a very calm and soothing habit of a character sucking her own tail. So there was nothing high-energy comedic or foreboding, it was a cute and warm scene, demonstrating their desirable habit in a normalized way. -->
 
 **Length:** 2-4 lines
 
@@ -116,6 +81,8 @@ A deep regulation cycle to manage intense emotions and prepare for new thinking.
 - **Support Types:** Calm Presence, Physical Contact, Intentional Connection, Feeling Validation, Emotional Labeling Support.
 - "Notice, Pause, Help." might be introduced or remembered.
 - **Child's Role:** May use "Calming Our Bodies/Minds" or "We're a Team!" strategies. Must actively participate in regulation (agency).
+
+- 
 
 **Engagement:** Quiet but emotionally rich, creating warmth and safety. Palpable comfort and care should be conveyed through vivid endearing sensory details (e. g., "Mom smelled like cinnamon and safety"). The child's participation in their own calming adds authenticity.
 
@@ -223,7 +190,8 @@ The character's situation is transformed. This is shown through an integrated ac
 - The child initiates the action, showing agency and embodied growth.
 - Support should be minimal and only if necessary.
 - Show the positive impact of the changed behavior, do not explain it.
-- Depict the integration and transformation as a natural progression in the character's development.
+<!-- what does line below even mean? -->
+- Present integration and transformation as natural development.
 
 **Engagement:** A satisfying resolution that contrasts with the opening. The integrated action is heartwarming, and the character's new confidence shines through their ordinary actions, showing genuine growth.
 
@@ -240,162 +208,3 @@ statement, a characteristic gesture, or a forward-looking question can
 provide a perfect, satisfying end note.
 
 **Length:** 1-3 lines
-
----
-
-
-## Prose Style & Formatting Guide
-
-This guide provides unified style and formatting rules for writing children's stories for 4-5 year olds in both English and Russian.
-
-### **1. Core Principles**
-
-*   **Show, Don't Tell**: Describe actions to imply emotion.
-    *   **Instead of**: "Liska was curious."
-    *   **Write**: "Liska tilted her head. Her ears twitched."
-*   **Conversational character**: Write as if a person is telling the story orally.
-*   **Use age-approptiate language** for 5-6 year olds that parents speaking to children, or children speaking to each other, would use. Do not use awkward phrases, make it flow.
-*   **Include connecting words** that facilitate smooth spoken delivery.
-*   **Natural storytelling flow**: Use transitions and phrases that sound natural when spoken aloud.
-*   **Rhythmic quality**: Ensure sentences have a pleasant cadence for parent-child reading sessions.
-*   **Tense & Person**: Write exclusively in the 3rd person, past tense.
-
-### **2. Document & Page Structure**
-
-*   **Target Audience**: 4-5 year old children (language complexity for 5-year-olds).
-*   **Total Text Length**: 500-700 words maximum.
-*   **Page/Line Word Count**: 15-30 words.
-*   **Page/Line Sentence Count**: 2-4 sentences.
-*   **Format**: Each line of text in the draft represents one page. Do not use page numbers. Insert an empty line between each line/page.
-
-#### **Example (Line Split Format)**
-
-This shows how to correctly split output into multiple lines. Each line represents a "page" in a picture book.
-
-**CORRECT:**
-> Tonight, Liska was hunting a moonbeam. She pressed low to the ground. Her bottom gave a little wiggle and...
->
-> She pounced like a tiny predator! But her paw only patted the floor with a little *fump*. Liska furrowed her brows in confusion.
-
-**INCORRECT:**
-> Tonight, Liska was hunting a moonbeam.
-> She pressed low to the ground.
-> Her bottom gave a little wiggle and...
-> She pounced like a tiny predator!
-> But her paw only patted the floor with a little *fump*.
-> Liska furrowed her brows in confusion.
-
-### **2.1 Forbidden Tropes**
-
-Never include these elements in any story:
-
-*   **Adult lectures or "teaching conversations"**: No scenes where adults explain emotions, concepts, or lessons for more than 1-2 sentences.
-*   **Magic solutions or instant emotional fixes**: All emotional regulation must be realistic and require effort from the child.
-*   **Passive protagonists**: The child must never simply be told the lesson or have problems solved for them by adults.
-*   **Static scenes**: Every scene must advance the plot or develop character—no pauses for pure exposition.
-*   **Didactic dialogue**: Characters should never speak primarily to convey a lesson to the reader.
-*   **Premature problem resolution**: Avoid resolving emotional tension too quickly with adult intervention.
-
-### **3. Sentence & Vocabulary**
-
-*   **Age-Appropriate Language**: All vocabulary must be simple and common for 4-5 year olds. When a complex concept is necessary, it must be explained through simple actions or dialogue. Avoid abstract nouns and complex sentence structures.
-*   **Rhythmic Flow**: Vary sentence length to create a natural, pleasant cadence. Avoid choppy sentences.
-    *   **Instead of**: "Liska was confused. She tilted her head."
-    *   **Write**: "Liska tilted her head in confusion."
-*   **Connecting Words**: Use simple connectors (e.g., "And," "But," "So," "Then") to create a smooth, flowing narrative.
-*   **Simple Vocabulary**: Prioritize common nouns and verbs that a 5-year-old can easily understand.
-*   **Adjective Rule**: Use only simple, concrete adjectives. Avoid abstract or multi-syllabic words.
-    *   **Use**: `big`, `soft`, `happy`, `little`, `red`, `warm`.
-    *   **Avoid**: `tremendous`, `ethereal`, `melancholy`, `minuscule`, `crimson`, `tepid`.
-*   **Pacing Rule**: Maximum 2 consecutive paragraphs without tension, humor, or character action. Edit for conciseness, cut anything that slows the pace.
-
-### **4. Literary Devices**
-
-*   **Story Titles**: Must be descriptive, specific, and memorable. They should convey both meaning and a specific situation.
-    *   **EN Example**:
-        *   Good: "Liska Saves for a Kebab"
-        *   Bad: "Liska Learns To Save Money"
-    *   **RU Example**:
-        *   Good: "Лиска копит на шашлычок"
-        *   Bad: "Лиска учится копить деньги"
-*   **Metaphors and Images**: Must be simple, visual, and immediately understandable. They must be adapted to maintain emotional impact and cultural resonance for each target language.
-*   **Refrains and Repeated Phrases**: Must be memorable, emotionally resonant, and easy for a child to chant.
-    *   **EN Example**: "Afraid, but trying."
-    *   **RU Example**: "Боюсь, но пробую"
-
-### **5. Cultural Adaptation**
-*   **Names and Cultural Elements**: Adapt concepts to natural Russian equivalents (e.g., "Meat pastry" → "чебурек").
-*   **Refrains and Repeated Phrases**: Adapt refrains to be memorable and emotionally evocative in Russian (e.g., "From Purr to Growl" → "Мурчалки-рычалки").
-
-### **5.1 Emotion Metaphors & Co-regulation Rules**
-
-*   **Metaphor Limits**: Stories must contain exactly 1-2 emotion metaphors maximum.
-    *   Metaphors must be introduced by adult characters first
-    *   They should be simple, visual, and immediately understandable to a 5-year-old
-    *   Integrate metaphors into action, not as explanatory tools
-*   **Co-regulation Constraints**:
-    *   Maximum 3 exchanges between child and adult during any co-regulation moment
-    *   Must be physical-first (hugs, positioning, touch) before verbal
-    *   Embedded in action—no stopping the plot for emotional processing
-    *   During high-tension moments, co-regulation must be minimal (a glance, a soft word) to avoid premature conflict resolution
-*   **Emotion Sequencing**: Always follow "Show and Label" principle
-    *   First: Physical manifestation (tears, clenched fists, tight shoulders)
-    *   Then: Brief labeling if needed ("That's frustration making your body tight")
-    *   Never reverse this order
-
-### **6. Dialogue Formatting**
-
-#### **English**
-
-*   Enclose dialogue in double quotation marks (`"`).
-*   Place punctuation like commas, periods, and question marks **inside** the closing quotation mark.
-*   **Correct Example**:
-    ```
-    "Let's build a fort," said Liska.
-
-    "Okay!" squeaked Anji. "I'll get the blankets."
-    ```
-
-#### **Russian**
-
-*   Use an em-dash (`—`) to introduce dialogue. Do not use quotation marks (`«»` or `""`).
-*   **Correct Example**:
-    ```
-    — Давай построим форт, — сказал Лиска.
-
-    — Хорошо! — пискнула Анжи. — Я принесу одеяла.
-    ```
-
-### **7. Flagging for Review**
-
-**Mark in bold** any passages that are difficult to write while adhering to all rules. This allows for an editorial decision. Flag passages that involve:
-
-*   Cultural concepts that may not be universally understood or easily translated.
-*   Wordplay or puns that are difficult to execute with simple language.
-*   Complex emotional states that are hard to convey through simple actions ("show, don't tell").
-*   Abstract concepts that resist simplification.
-
-<br>
-
----
-
-## Page Breakdown Structure
-
-This section defines the technical page structure for a standard picture book.
-
-*   **Front matter**
-    *   Front Cover
-    *   [L] Inside Front Cover = Front Endpaper
-    *   [R] Page 1 - Half-Title. Only the name of the book
-    *   [L] Page 2 - Copyright, ISBN, etc
-    *   [R] Page 3 - Full title. Author name, illustration, publisher logo, etc
-
-*   **Content: 14 spreads = 28 pages for story and illustrations**
-    *   [L] Page 4 - Story starts
-    *   … Story pages
-    *   [R] Page 31 - Last page of the story
-
-*   **End matter**
-    *   [L] Page 32 - End page, ‘Котец’ in my case
-    *   [R] Inside Back Cover = Back Endpaper
-    *   Back Cover

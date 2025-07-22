@@ -1,1 +1,0 @@
-/Users/tartakovsky/Projects/1_Seberiada/stories/context/emotional_metaphors.md/Users/tartakovsky/Projects/1_Seberiada/stories/symlinks/emotional_metaphors.md

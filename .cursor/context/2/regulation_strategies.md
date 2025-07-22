@@ -1,1 +1,0 @@
-/Users/tartakovsky/Projects/1_Seberiada/stories/context/regulation_strategies.md

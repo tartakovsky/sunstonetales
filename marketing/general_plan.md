@@ -36,3 +36,21 @@
 - **Website**: Optional Russian section on `sunstonetales.com/ru` if feasible, linking to Amazon and YouTube content. Keep minimal.
 - **Promotion**: No direct promotion; rely on word-of-mouth via personal diaspora networks (friends, community groups on Facebook/Telegram outside Russia). Optimize metadata (e.g., “Русские детские сказки”) for organic search.
 - **Monetization**: Passive via Amazon sales (USD/EUR only) if diaspora purchase. No active monetization push.
+
+
+captivate for podcasts when have content
+
+---
+for reels distribution
+
+1. Vista Social - Only platform that supports trending audio for Reels/TikToks
+
+Cross-posts to Instagram Reels, TikTok, YouTube Shorts, Facebook Reels
+Includes trending audio library
+Auto-publishing capabilities
+
+2. OneUp - Comprehensive cross-posting
+
+Posts to Instagram Reels, Facebook Reels, TikTok, YouTube Shorts, Twitter, LinkedIn, Pinterest, Snapchat
+Custom thumbnails for each platform
+Scheduling and draft options
