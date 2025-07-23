@@ -21,12 +21,19 @@ the story then becomes about fear of the unknown. So now then, our story is abou
 ## Act 1: Introduction
 
 ### Beat 1.1: Introduce Setting and Atmosphere
-The Saar's central yard, a place Liska knows intimately from daily play, is transformed for the annual "Night of Twinkling Lights." It's twilight. Garlands of purple and orange lamps hang between the houses, casting a magical, festive glow that mixes with the dappled light from the yard's large trees. The air smells of sweet honey cakes and fresh night blooms. Near the large tree on the far side of the yard, a special guest, the Glow Beetle Man, is beginning his performance. A large, round blanket is spread on the grass where all the other cubs and kittens are gathering. While most attendees are neighbors, a few unfamiliar faces are scattered amongst them.
+The Saar's central yard, a place Liska knows intimately from daily play, is transformed for the annual "Night of Twinkling Lights." 
+
+It's twilight. Garlands of purple and orange lamps hang between the houses, casting a magical, festive glow that mixes with the dappled light from the yard's large trees. 
+
+The air smells of sweet honey cakes and fresh night blooms. Near the large tree on the far side of the yard, a special guest, the Glow Beetle Man, is beginning his performance. 
+
+A large, round blanket is spread on the grass where all the other cubs and kittens are gathering. 
+
+While most attendees are neighbors, a few unfamiliar faces are scattered amongst them.
 
 ### Beat 1.2: Introduce Character(s)
 Liska is with her mother, Mara, feeling the happy buzz of the party but staying close to her "anchor." The familiar yard feels different tonight. 
 
-<!-- far too much information is crammed into the first act right now we need to figure out maybe a short outline where to put what
  -->
 Liska pressed herself against her mother's leg, one paw gripping the soft fabric of Mara's skirt. The yard she raced through every morning had transformed into something else entirely. The familiar climbing tree now cast dancing shadows that looked like reaching fingers. The stone paths she knew by heart disappeared into pools of orange lamplight and purple darkness. Even the neighbors' faces looked different painted in festival colors. She wanted to see everything, especially the glowing beetles everyone whispered about, but her paws felt stuck to the safe circle of ground beside Mama.
 
