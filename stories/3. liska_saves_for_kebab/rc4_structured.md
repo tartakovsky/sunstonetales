@@ -35,7 +35,7 @@
 
 Она с предвкушением впилась в чебурек. М-м-м!
 
-Чебурек просто таял во рту. 
+Чебурек просто таял во рту.
 
 <!-- Сочный мясной сок – tautology. Needs to be rephrased to be fun -->
 Сочный мясной сок стекал по усам. 
@@ -43,28 +43,25 @@
 ### 2.3: The Core Incident (The External Problem / Challenge)
 Позже она почувствовала другой знакомый запах. Ах! Шипящие рыбные шашлычки! Её любимая еда на рынке!
 
-<!-- boring, needs fun image -->
-Рот сразу наполнился слюной.
+<!-- can be a bit more fun-->
+Она так сильно захотела шашлычок, что даже облизала кончик носа.
 
-<!-- (A bit illogical, she didn't have the money and didn't know the price? He should've answered?). Something about her wanting to run there but realizing she has to beads? -->
-Лиска подбежала к Шашлычнику.
-— Один шашлычок, пожалуйста! — радостно закричала она.
+<!-- a bit clumsy sequence. Almost running first, getting bead during almost running... -->
+Лиска уже побежала было к Шашлычнику, потянулась за бусиной...
 
-Потянулась в карман за бусиной..
+Но ее лапка была пуста. Не было там тёплой бусины.
 
-Но карман был пуст. Не было там тёплой бусины. 
 
-<!-- тихо обняла is weird -->
-Ушки Лиски грустно опустились. Она тихо обняла себя лапками и крепко прижала к груди свой пушистый хвост.
+Ушки Лиски грустно опустились. Она обхватила себя лапками и спрятала нос в пушистый хвост.
 
 ## Act 3: Attempts to Solve / Unravel – Facing the Problem & Inner Turmoil
 
 ### 3.1: Unskilled Attempts
 На следующий рыночный день Лиска не выпускала бусину из лапки.
 
-Запах чебуреков манил ее в палатку пекаря.
+Запах чебуреков так и тянул её к палатке пекаря.
 
-<!-- bad phrasing -->
+<!-- bad phrasing, boring. Message correct, she overcomes with determination and passes through, but needs to be shown in a fun way-->
 Но она решительно помотала головой и сохранила бусину.
 
 У палатки Шашлычника она гордо показала eë.
@@ -73,25 +70,21 @@
 
 — Три бусины, — добродушно ответил он.
 
-У Лиски открылся рот. Целых три бусины?! 
+<!-- REVIEW: Changed the body language to avoid overusing ears, as requested. -->
+Её носик сморщился от разочарования. Так много! "Эх," - вздохнула она. - "Попробую на следующей неделе".
 
-<!-- we need some wrap up here leading to next day attempt. -->
+На следующий рыночный день в лапках Лиски грелись две бусины!
 
-<!-- Second unskilled attempt, shows a bit of improvement -->
-
-<!-- These two lines need to say next day and two beads, otherwise rewrite them -->
-Следующий рыночный день принёс ещё одну бусину.
-Теперь у Лиски было две! Она почувствовала гордость.
-
+Она взяла их с собой на рынок.
 
 Когда она проходила мимо палатки с чебуреками, ее желудок громко заурчал. Они так вкусно пахли!
 
 – Всего один маленький чебурек, – пробормотала она.
 
-<!-- fun opportunity here like sitting on her paws, but maybe something different. The message is correct, she overcomes temptation. -->
-Но заставила себя быстро пройти мимо.
+<!-- not bad, maybe some other fun childish way to deal with temptation -->
+Она зажмурилась, заткнула нос и побежала, натыкаясь на прохожих. 'Извините! Я спасаюсь от чебуреков!
 
-Но на шашлычок двух бусин все еще не хватило.
+Она подошла к Шашлычнику. "Может быть, сегодня шашлычок стоит две бусины?" - с надеждой подумала она. Но нет, цена не изменилась.
 
 <!-- Correct, lead in into relapse and dysregulation, but плечи опустились is a bit boring. -->
 Плечи Лиски снова опустились. 
@@ -100,12 +93,12 @@
 ### 3.2: Low Point (Emotional & Practical Setback)
 От расстройства, вместо шашлычка она купила сразу ДВА чебурека.
 
-<!-- the child didn't understand why 3 bites -->
+<!-- the child didn't understand why 3 bites and why disappointment -->
 Они были вкусными... первые три укуса.
 <!-- too much tell not show. Bland. Opportunity for endearing phrasing -->
 Потом ей стало ещё хуже.
 
-<!-- current option is 
+<!-- current option is
 Чебуреки были очень вкусными, но совсем не такими вкусными как ее любимый шашлычок.
 
 but it's too much tell and boring.
@@ -115,19 +108,28 @@ but it's too much tell and boring.
 
 Снова нет бусин!
 
-<!-- Too long, too much tell not show -->
-Она чувствовала себя такой беспомощной. Будто ничего не могла сделать правильно. 
+<!-- not bad, maybe can be done a bit better. What are we going for here? Heavy disappointment, performance failure, helplessness. -->
+— Не получается, — прошептала она своим лапкам. — Совсем не получается.
 
-<!-- Good, but how many body tells did we use so far? We need to limit them to 2-3 per emotion. Now the emotion is helplessness -->
-Она тяжело села на пол и уставилась в одну точку.
+Она легла на пол и свернулась в маленький комочек печали.
 
 ### 3.3: Recovery
-Папа нашёл её грустно сидящей на полу.
-— Что не так, котёнок? — спросил он.
+<!-- needs something vivid and endearing in [] -->
+Папа нашёл её на полую Он сел рядом и осторожно взял комочек к себе на руки.
+
+— Что случилось, котёнок? — спросил он.
 
 — Я так никогда не накоплю на шашлычок! — завыла Лиска. — Это слишком трудно!
 
-<!-- now that's the time for proper co-regulation. Full co-regulation, short but with each step. -->
+— Ох, как обидно, — сказал он. — Тебе так хотелось шашлычок.
+
+<!-- better sensory details. no sweaters -->
+Лиска всхлипнула и уткнулась в папу.
+
+— Копить правда трудно, — погладил папа её по спинке. — Особенно когда вокруг столько всего вкусного.
+
+<!-- too bland, make endearing -->
+Лиска вздохнула поглубже. Стало легче.
 
 ### 3.4: Re-evaluation
 <!-- Here she's calmer and father starts scaffolding through socratic questioning. Liska keeps agency and figures it out. Outline is kinda like that, but shorter, less didactic and fun
@@ -143,7 +145,7 @@ Then change to socratic prompting
 
  -->
 
- <!-- Don't just fucking write directly what I said. It's a plan, not prose. Make engaging prose out of it. -->
+ <!-- Don't just fucking write directly what I said. It's a plan, not prose. Make engaging prose out of it, you do not need to go and write every line I wrote, that's an idea, not text. Make it short, punchy. 2 questions maximum. Don't lecture. Last insight should be Liska's-->
 
 
 <!-- — Может, подумаем, как нам накопить на шашлычок? — предложил папа.
@@ -162,16 +164,20 @@ Then change to socratic prompting
 
 ### 4.1: Skilled Attempt
 
-Тогда папа с Лиской сделали красивую копилку из коробки.
+Тогда Лиска с папой решили сделать копилку из коробки.
 
-<!-- boring -->
-Лиска сама раскрасила её в яркие цвета.
+<!-- fun, but why worm -->
+Лиска нарисовала на ней солнце, три цветка и одного очень важного червяка.
 
-<!-- maybe adjust, slightly boring, but correct event-wise -->
-Она бросила свою бусину в новую копилку Дзынь! На рынке её лапки были пустыми.
+Она бросила свою бусину в новую копилку. Дзынь! 
 
-<!-- no light fucking heart, I deleted it for a reason. -->
+<!-- REVIEW: Adjusted phrasing to show her internal state more actively. -->
+На рынке её лапки были пусты. 
 
+<!-- Maybe, not bad -->
+Она то и дело проверяла их по привычке. Странно, но спокойно.
+
+<!-- keep that as is -->
 Её бусина была в безопасности!
 
 ### 4.2: Minor Setback / Challenge
@@ -187,7 +193,7 @@ Then change to socratic prompting
 
 Она взяла копилку. Потом поставила обратно. Потом снова взяла.
 
-– А вдруг я снова всё потрачу? Нет! Буду копить на шашлычок! – решила она. — Оставлю копилку дома. 
+– А вдруг я снова всё потрачу? Нет! Буду копить на шашлычок! – решила она. — Оставлю копилку дома.
 
 <!-- a good place for a visceral simile -->
 А на рынке запах чебуреков был особенно сильным.
@@ -196,17 +202,11 @@ Then change to socratic prompting
 
 Но вспомнила, что бусины остались дома.
 
-<!--  и важно прошла мимо a bit boring. Важно is not fun for kids -->
-— Не сегодня, чебурек, — сказала Лиска и важно прошла мимо.
+— Не сегодня, чебурек, — сказала Лиска, высунула ему язык и пробежала мимо.
 
-Папа улыбнулся.
+Папа, который шёл за ней, улыбнулся.
 
-<!-- 
-Maybe that instead, but we don't stay which choise. Confusing.
-
-— Ты сделала трудный выбор, пушистик. Я тобой горжусь.
- -->
-— Хорошо, что ты оставила копилку дома. Да, пушистик?
+— Так сложно было оставить бусины дома, да? — Спросил папа. — Я тобой очень горжусь.
 
 ### 4.4: Success
 И наконец настал тот самый рыночный день!
@@ -214,7 +214,7 @@ Maybe that instead, but we don't stay which choise. Confusing.
 Лапы Лиски дрожали, когда она бросала в копилку последнюю бусину. Дзынь!
 
 <!-- a bit clumsy -->
-Все три места в копилке были заполнены!
+Копилка приятно потяжелела. Все три бусины были внутри!
 
 — ШАШЛЫЧНЫЙ ДЕНЬ! — закричала Лиска.
 
@@ -228,10 +228,13 @@ Maybe that instead, but we don't stay which choise. Confusing.
 -->
 Она закружилась в танце и смешно споткнулась и покатилась, как маленький неуклюжий снежок.
 
+<!-- извиваясь от смеха, как счастливый червячок.
+
+fun simile, maybe use somewhere -->
+
 ### 4.5: Reward -> Relief
 На рынке Лиска побежала прямо к Шашлычнику.
 
-<!-- a bit weak? maybe okay-->
 Она гордо трясла копилкой над головой.
 
 — Три бусины за шашлычок! — объявила она.
@@ -246,27 +249,30 @@ Maybe that instead, but we don't stay which choise. Confusing.
 
 ### 5.1: Reflection & Learning
 
-— Спасибо, что помог мне, папа, — сказала Лиска, доев шашлычок. 
+<!-- not bad, review later for punchiness -->
+Лиска доела последний кусочек и вздохнула. — Папа, а почему этот шашлычок такой... особенный?
 
-<!-- A bit meh direct lesson statement, but maybe okay -->
-— Я научилась копить!
+Папа улыбнулся. — А как ты думаешь?
 
-<!-- Pure didactic tell, boring -->
-Она поняла, что иногда нужно подождать, чтобы получить что-то по-настоящему особенное.
+— Наверное, потому что я его так долго ждала!
 
 ### 5.2: Making it Right / Integration / New Status Quo
-<!-- Weak beat. Needs full rewrite to show (not tell) integration.
+<!-- and decorated it somehow -->
+На следующий день Лиска нашла старую баночку.
 
-Something about how she was doing something that shows the new saving + temptation resisting behavior that would lead into the next beat.
- -->
-Лиска улыбнулась.
-Она была так рада, что она справилась.
+— Это будет копилка для Анжи! — решила она. — Научу его копить на гигантскую [вяленую] рыбину!
 
-Теперь она знала, что может накопить на всё, что захочет.
-Нужно только немного терпения.
+Она уже представляла, как они вместе будут класть бусины: дзынь! дзынь!
 
 ### 5.3: Concluding Thought
 — Интересно, на что я буду копить в следующий раз? — подумала она.
 
 <!-- Maybe good. An opportunity for fun exaggeration -->
 Может быть, на целую гору шашлычков? 
+
+<!-- 
+an option, offer more
+
+Может, на целую ГОРУ шашлычков? Или... На ОКЕАН шашлычков?
+
+"В следующий раз," - решила она. - "Я накоплю на самый большой шашлычок в мире!" -->
