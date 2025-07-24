@@ -14,19 +14,18 @@
 
 ---
 
-## Act 1: Introduction – Normal Life
+## Act 1: Introduction
 
-### Beat 1.1: Introduce setting and atmosphere
+### Beat 1.1: Introduce Characters, Setting and Atmosphere
 Liska bounced around her room, singing her new camp song. "Swimming, climbing, friends all day! Camp explorers love to play!" 
 In between verses, she would run to her favorite sleeping rug, jump and roll on it. It smelled just like home. Then she'd jump up and sing some more.
 
-### Beat 1.2: Introduce character(s)
 Mara tucked her in, smoothing the soft fur between Liska's ears. "Sleep well, my little explorer. Tomorrow is your big day."
 Liska wiggled under her blanket. "I'm going to climb the tallest tree! And swim to the middle of the lake! And-" she yawned mid-sentence, her tail giving one last excited flick.
 "And right now you're going to close those sleepy eyes," Mara said gently, giving her the special goodnight scratch behind the ears.
 Liska fell asleep dreaming of splashing and climbing and all the fun waiting for her.
 
-## Act 2: Inciting Incident – The Challenge Begins
+## Act 2: The Challenge Begins
 
 ### Beat 2.1: Lead-up
 Morning came quickly. Time to pack! Liska's overnight bag sat open on the floor.
@@ -41,24 +40,64 @@ Mara entered and saw Liska sitting very still, clutching her sloth, her little s
 She sat down beside her daughter. "What is it, kitten?"
 Liska's body went stiff. Her voice came out tiny and wobbly: "The 'overnight' part... does that mean... sleeping there? All night? Without you?"
 
-
 ### Beat 2.3: The Core Incident
-For a moment, Liska froze completely still, her eyes wide as moons. Then her face crumpled. "I don't want to go without you!" She threw herself into her mother's arms, her whole little body shaking.
+<!-- 
 
-### Beat 2.4: Fallout
-Liska's shoulders shook with big, gulping sobs. Her paws clutched at her mother's fur. "I want you to come with me!" she cried between breaths.
+A bit weak and disconnected from the previous beat, but yeah 
 
-Mara wrapped her arms around her daughter, holding her tight and steady. She rocked slowly, staying quiet and calm, letting Liska cry. "I'm right here, kitten," she murmured. "I'm right here."
+also that's more of a fallout than incident. We don't need that much fallout and don't need co-regulation yet. Mother shows support and understanding, Liska goes directly to unskilled attempts. 
+-->
+Liska's eyes went wide as moons. Her bottom lip stuck out. "But... but I don't want to sleep without you," she said, her voice getting smaller with each word. She pressed the sloth tight against her chest and her shoulders hunched up to her ears.
 
-## Act 3: Attempts to Solve
+"That's a big feeling, isn't it?" Mara said gently, pulling Liska into a quick hug. "Missing someone we love is hard."
 
-### Beat 3.1: Recovery
-Mara kept rocking until the biggest sobs turned into smaller sniffles. Finally, Liska's breathing started to slow down, though her paws still gripped tight.
-"That big lonely feeling hurts so much doesn't it?" Mara said softly. "It's okay to feel scared about being away from someone you love."
+## Act 3: Attempts to Solve - Facing the Problem & Inner Turmoil
 
-Liska nodded against Mara's fur, then pulled back slightly to look at her mother's face.
+### Beat 3.1: Unskilled Attempt(s)
 
-"I have something special that might help," Mara said. "Would you like to see?" Liska gave a tiny nod. Mara opened her special drawer and brought out a small tuft of white fur on a string.
+Liska pulled back from the hug, wiping her nose with the back of her paw. "Maybe... maybe I could just go for the day part? And come home for sleeping?"
+
+"Camp is too far away for that, kitten," Mara said softly.
+
+Liska thought hard, her tail twitching. "What if I take ALL my stuffed animals? Then it would be like home!" She jumped up and started grabbing toys from her shelf - her sloth, three bears, a floppy rabbit, and her special cushion.
+
+The bag wouldn't close. Toys kept falling out. "They don't fit!" Liska's voice rose in frustration. She tried sitting on the bag, bouncing up and down. A bear popped out one side. The rabbit escaped from the other.
+
+"It's not working!" She threw the sloth down. "Nothing works! I can't make it like home!"
+
+### Beat 3.2: Low Point (Emotional & Practical Setback)
+<!-- it's enough to state she wants mom two times, three is too much -->
+Liska's face crumpled. She dropped to the floor next to the scattered toys, curling into herself. "I don't want to go anymore," she cried, her shoulders shaking. "I just want to stay here with you."
+
+Big tears rolled down her fuzzy cheeks. She grabbed her tail and held it tight, rocking back and forth. "Why does camp have to be overnight? Why can't you come with me?"
+
+The excitement from yesterday was completely gone. All that was left was a heavy, lonely feeling in her chest.
+
+### Beat 3.3: Recovery
+
+Mara sat down on the floor beside Liska, gently pulling her into her lap. She rocked slowly, letting Liska cry into her fur. "I know, kitten. I know it hurts."
+
+When the biggest sobs turned to sniffles, Mara wiped Liska's tears with her paw. "That lonely feeling is so big, isn't it?"
+
+Liska nodded, hiccupping.
+
+"It's okay to feel scared about being away from someone you love," Mara said softly, still rocking.
+
+### Beat 3.4: Re-evaluation
+<!-- what's important in the beat
+
+tuft intro exactly as is
+
+needs more agency from Liska
+
+practice might be simplified
+
+ -->
+ 
+
+"I have something special that might help," Mara said. "Would you like to see?" 
+
+Liska gave a tiny nod. Mara opened her special drawer and brought out a small tuft of white fur on a string.
 
 "Do you know what this is?" Mara asked gently.
 
@@ -70,174 +109,115 @@ Liska touched it with one paw. It was the softest thing she'd ever felt. It felt
 
 "This tuft can hold all my love," Mara continued. "I think it might help you when that big lonely feeling comes. Want to try?"
 
-<!-- 
-
-Liska looked up, listening.
-
-"First, hold the tuft and whisper, 'Mama loves me.' That's our secret signal. It will send my love right to your heart."
-
-"Second, I want you to find the moon. No matter where we are, we can both see the same moon. When you see it, know that I am looking at it too, and I'm sending my goodnight wave right to you." -->
-
-### Beat 3.2: Attempt 1 (Initial Reaction / Less Considered Approach)
-
 "First," Mara said, tying the tuft gently around Liska's neck, "when you feel lonely, hold this tuft tight. Then whisper our special words: 'Mama loves me.' Let's practice together."
+
 Liska held the tuft. "Mama loves me," she whispered.
+
 "How did that feel?" Mara asked.
+
 "Still sad," Liska said honestly.
-"That's okay. It only needs to help a little. And there's a second part." Mara pointed to the window. "See the moon last night?"
+
+<!-- Still sad / help a little must be kept -->
+"That's okay. It only needs to help a little. And there's a second part." Mara pointed to the window. "Remember how we always wave at the moon at bedtime?"
+
 Liska nodded.
-"No matter where you are, we can both see the same moon. So when you're lonely, after you hold your tuft, look at the moon. I'll be looking at it too, sending you my love."
-<!-- instead of that they should just wave at the moon together as usual and then mom can say "wave at the moon when you see it, I'll be waving right back to you. -->
-"But what if I can't see it?" Liska's voice got worried again.
-"Then you imagine it," Mara said. "Let's practice that too. Close your eyes."
+
+"No matter where you are, we can both see the same moon. So when you're lonely at camp, after you hold your tuft, look for the moon and wave. I'll be waving right back to you."
+
 Liska closed her eyes. Mara guided her: "Picture the big, round moon. Now wave to it. I'm waving too."
+
 Liska gave a tiny wave, then opened her eyes. "I still don't want to go," she said, but her voice was steadier.
-<!-- No brave and scared anywhere, we're dealing with loneliness and anxiety, not fear -->
-<!--  -->
 
-She stands up and grabs her bag. Her legs feel shaky. She takes two steps, but her body turns back all by itself and she runs to hug her mother's leg.
-Mara kneels down. "We can be sad and still walk." 
-Together, holding paws, they walk to the door. This time, Liska's other paw is clutching the tuft.
+Liska stood up slowly, still holding the tuft. Maybe she could try camp. Just try.
 
- -->
+## Act 4: Climax & Solution - Overcoming Externally & Internally
 
-### Beat 3.3: Attempt 2
-At camp, Liska had fun! She really did. She splashed in the lake with other cubs and sang silly songs. She won a snail race and ate two whole kebabs for dinner.
+### Beat 4.1: Skilled Attempt
+<!-- general idea is right, needs significant rewrite to be punchy, engaging, fun. That's the part where the child should laugh histerically, be maximally engaged and relate the most -->
+At camp, Liska threw herself into every activity. During swimming, when a pang of homesickness hit, she touched the tuft under her camp shirt. "Mama loves me," she whispered to herself, then dove back in.
 
-But as the sun painted the sky orange and pink, a counselor started the goodnight song: 
+At lunch, when everyone talked about their families, she held it again. The lonely feeling got smaller each time, just like Mama said.
+
+By afternoon, she was laughing with new friends, the tuft bouncing against her chest as she ran. She was doing it! She was being a camp explorer!
+
+But as the sun painted the sky orange and pink, the counselor started the goodnight song:
 "When the day is done, and the stars come out,
-We think of home, and the ones we love...
+We think of home, and the ones we love..."
 
-The words hit Liska like cold water. Her chest got tight. Her tummy felt hollow. That big lonely feeling crashed over her like a wave.
+The words hit Liska like cold water. Her chest got tight. Her tummy felt hollow.
 
-### Beat 3.4: Low Point
-Bedtime. The tent smelled wrong - like other cubs and strange blankets. Her camp blanket was scratchy, not soft like home. The pillow was flat. No gentle scratch behind her ears. No papa telling bedtime stories about brave little animals. No goodnight wave to the moon together.
+### Beat 4.2: Minor Setback
+<!-- here we need to consider whether it needs to be that heavy. Draw a curve of emotion valence over text. What kind of curve is okay for 4-5yo? -->
+Bedtime. The tent smelled wrong - like other cubs and strange blankets. The blanket was scratchy, not soft like home. The pillow was flat. No bedtime stories. No goodnight scratch behind the ears. No mama.
 
-Her throat felt hot and tight. Tears started rolling down her face. She tried to be quiet but little whimpers escaped. She pulled the scratchy blanket over her head and curled into the tightest, saddest ball she could make.
+The lonely feeling didn't creep up this time - it crashed over her like a huge wave. Bigger than this morning. Bigger than anything. Because now it was real. She was really, truly alone in the dark.
 
-"Mama," she whispered into her flat pillow. "I want my mama."
+Tears rolled down her face as she curled into a tight ball. "I want my mama," she whimpered into the flat pillow.
 
-### Beat 3.5: Recovery
+### Beat 4.3: Resolve Tested → Learned Skill → Persistence
 
-Her paw, wet with tears, brushed against something at her neck. Something soft.
+Through her tears, Liska's paw found the tuft. She clutched it so tight her paw hurt. 
 
-The tuft.
+"M-mama loves me," she gasped between sobs. The words barely made it out. "Mama l-loves me."
 
-She grabbed it and squeezed tight. Through her tears, she could barely remember what Mama said. What were the words? She squeezed harder, trying to think through the lonely fog in her head.
+She kept saying it, over and over, still crying but trying so hard. The tuft felt soft between her paws, just like Mama said. Then through the tent flap, she saw it - the moon, bright and round.
 
-"Mama..." she started, then remembered. "Mama loves me." The words came out shaky and full of tears. 
-
-The big lonely feeling was still there, heavy in her chest. But... but saying the words made her remember Mama's face. Mama's warm paws. Mama's soft voice. 
-
-"Mama loves me," she whispered again, still crying but breathing a tiny bit better. "Mama loves me. I will see her tomorrow." She kept squeezing the tuft, feeling how soft it was, just like Mama's fur.
-
-
-### Beat 3.6: Re-evaluation
-
-**Narrative Text:**
-The crying had made her so tired. She lay there, still curled up but not quite so tight anymore, just holding the tuft.
-Through a small gap in the tent flap, she saw something bright.
-The moon. 
-
-She and mama always said goodnight to the moon. Every single night, Mama would hold her up to the window and they'd wave.
-A tiny, simple thought came to her: The moon... Mama said... look for the moon! She can see the moon, too. It's the same moon.
-
-## Act 4: Climax & Solution
-
-### Beat 4.1: Final Attempt / Approach
-
-**Narrative Text:**
-Very slowly, like a snail from the race, Liska uncurled from her ball. Everything felt heavy and tired from crying. Her legs wobbled as she sat up.
-
-She clutched her tuft in one paw and grabbed her camp blanket with the other. Inch by inch, she crept toward the tent flap.
-
-### Beat 4.2: Rising Tension / Suspense
-
-**Narrative Text:**
-She reached for the tent flap, then froze. Outside was dark. Outside was unknown. The lonely feeling rushed up again, trying to push her back to her sleeping bag.
-
-It would be so much easier to curl up again. To hide until morning. To just cry until she fell asleep.
-
-Her paw holding the tuft started to shake. 
-
-Then she heard it - a tiny sniffle from somewhere outside. Someone else was crying too.
-
-> **Suggestions:**
-> - **Psychology:** Internal conflict between safety and connection
-> - **Pacing:** Pause at the threshold builds suspense
-> - **Engagement:** Another crying child creates immediate hook
-> - **Character:** Physical manifestation of fear (shaking paw)
-
-### Beat 4.3: Turning Point / Final Push
-
-**Narrative Text:**
-Liska squeezed her tuft so very tight. "Mama loves me," she whispered fiercely. "Mama loves. I will see her soon."
-
-With her heart thumping like a rabbit's, she pushed open the tent flap.
-
+With every bit of strength she had left, Liska sat up. She had to see it better. She had to wave. Even though everything in her wanted to stay curled up and cry.
 
 ### Beat 4.4: Success
-There it was. The big, bright moon, hanging in the sky just like at home.
 
-She sat down right outside the tent, wrapping the blanket around her shoulders. She held up her tuft toward it and waved. "Hi mama," she whispered. "I see the moon. Do you see it too?" A tiny smile touched her wet face.
+She pushed through the tent flap and sat outside, tears still on her cheeks but breathing steadier now. There it was - their moon.
 
-### Beat 4.5: Immediate Reward / Relief
-"I see it."
+Liska held up her tuft and waved with her whole arm, just like at bedtime. "Hi Mama," she whispered. "I see the moon. Are you waving too?"
 
-Another cub sat nearby, also wrapped in a blanket, also looking up with a tear-streaked face.
+The lonely feeling was still there, but now it had to share space with something else. Connection. Love. The bridge Mama talked about.
+
+### Beat 4.5: Reward → Relief
+
+"I see it too."
+
+Another cub sat nearby, also wrapped in a blanket, also with wet cheeks. 
 
 "I miss my mama," the cub said quietly.
 
-"Me too," Liska said, her voice wobbly. And suddenly, she didn't feel quite so alone. "Want to sit with me?"
+"Me too," Liska said, and suddenly she wasn't alone in her sadness. The huge lonely feeling loosened its grip. "Want to sit with me?"
 
-## Act 5: Resolution
-
-### Beat 5.1: Catharsis
-They sat together, two small, blanket-wrapped shapes under the big moon. The other cub pointed with his nose. "My papa showed me the star that never moves."
-
-Liska looked up. The giant lonely feeling in her chest was getting smaller and smaller, making room for something else. "My papa shows me stars, too."
-
-<!-- 
-> i liked that "normalizing crying" sequence.
-
-"I cried a lot."
-
-"Me too," the cub said. "Grandma says crying is just feelings leaking out when there's too many inside."
-
-Liska thought about that. She had a lot of feelings inside. "Want to sit together until we feel better?"
-
-"Yes," the cub said, scooting closer. "And tomorrow, want to build a secret fort? I saw the perfect mossy sticks by the creek."
-
-"Yes!" For the first time all evening, Liska felt a tiny bubble of excitement mix with the sadness. -->
+They sat together under the stars, two small cubs who missed home but found each other. The night didn't feel quite so big and scary anymore.
 
 "Want to build a secret fort tomorrow?" the cub asked. "I know where the best mossy sticks are."
 
-"Yes!" For the first time since the sun went down, Liska felt a tiny bubble of excitement.
+"Yes!" For the first time since the sun went down, Liska felt a tiny bubble of excitement mix with the sadness.
 
-### Beat 5.2: Reflection & Learning
-The next morning, Liska woke up feeling surprised. She had made it through the whole night.
+## Act 5: Resolution & Conclusion - Integrating the Growth
 
-At breakfast, when another camper said, "I cried last night," Liska hugged her sloth and said, "Me too. My tuft helped." She touched it under her chin, her own special secret.
+### Beat 5.1: Reflection & Learning
 
-The cub from yesterday smiled at her from across the table. They had a fort to build.
+The next morning, Liska woke up with crusty eyes from crying but also... proud. She had made it through the hardest night.
 
-### Beat 5.3: Integration
-The next evening, Liska ran into her mother's arms, burying her face in her fur. "MAMA! I missed you SO SO SO MUCH!" she said. "And I cried! But I held my tuft! You love me! And I saw the moon! And I made a friend!"
+At breakfast, when another camper said, "I cried last night," 
+Liska hugged her sloth and said, "Me too. My tuft helped." She 
+touched it under her chin, her own special secret.
 
-<!-- which hard things specifically. Remember the rule that the praise needs to be process and specific. -->
-Mara held her tight, rocking her. "You felt sad AND you did 
-hard things. I'm so proud of you."
-Needs:
-> - **Psychology:** Specific process praise for using tools while distressed
-> - **Developmental:** Acknowledges helping others while struggling
+The cub from yesterday smiled at her from across the table. They 
+had a fort to build.
 
+### Beat 5.2: Making it Right / Integration / New Status Quo
 
-### Beat 5.4: New Status Quo / Harmonious Scene
-That night, safe in her own bed with her soft quilt and right-smelling pillow, Liska carefully placed the tuft on her special shelf next to a mossy stick from her fort with Finn.
+The next evening, Liska ran into her mother's arms, burying her 
+face in her fur. "MAMA! I missed you SO SO SO MUCH!" she said. 
+"And I cried! But I held my tuft! You love me! And I saw the moon! 
+And I made a friend!"
+
+Mara held her tight. "You kept using your tools even when the feeling was huge. That's really hard to do. I'm so proud of how you took care of yourself."
+
+That night, safe in her own bed with her soft quilt and 
+right-smelling pillow, Liska carefully placed the tuft on her 
+special shelf next to a mossy stick from her fort with the cub.
 
 "Mama?" she said as Mara gave her the bedtime scratch.
 "Yes, kitten?"
-She snuggled under her heavy quilt and smiled. "Camp was fun."
+"Camp was fun AND hard. But I did it."
 
-### Beat 5.5: Concluding Thought / Wrap-up
+### Beat 5.3: Concluding Thought
+
 As sleep pulled her under like a warm wave, Liska touched her tuft one more time. The big lonely feeling will come back. But now she knew: she could hold Mama's love with her, even when Mama wasn't there. And sometimes, when you're brave enough to look for the moon, you find a friend looking too.
