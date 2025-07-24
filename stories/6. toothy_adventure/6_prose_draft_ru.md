@@ -2,25 +2,24 @@
 
 ## Act 1: Introduction
 
-### Beat 1.1: Introduce setting and atmosphere
+### Beat 1.1: Introduce Characters, Setting and Atmosphere
 Сегодня Лиска и Тарра играли на пляже. Мимо них пробежал крабик и помахал им клешнёй.
 
-### Beat 1.2: Introduce character(s)
 Лиска забралась на высокое-высокое дерево. Её усы дрожали от волнения — вдруг море стало ещё больше?
 
-## Act 2: Inciting Incident – The Challenge Begins
+## Act 2: The Challenge Begins
 
 ### Beat 2.1: Lead-up
 — А давай прыгать с дерева на дерево, как акробаты? — предложила Тарра.
 
 — Да! Я — летающий барсёнок! — заявила Лиска. Она замахала лапками так быстро, что стала похожа на усатого шмеля. Бз-з-з.
 
-### Beat 2.2: The Catalyst (Misstep / Misjudgment / Accidental Event)
+### Beat 2.2: The Catalyst
 Лиска выбрала ветку покрепче, разбежалась и… прыгнула!
 
 Но ветка на другом дереве оказалась выше, чем она думала. Ба-бах! Барсёнок шмякнулась мордочкой прямо о ствол.
 
-### Beat 2.3: The Core Incident (The External Problem / Challenge)
+### Beat 2.3: The Core Incident
 — Ой-ой-ой! — пискнула Лиска, трогая рот лапой. Внутри что-то было не так.
 
 Тарра подбежала к ней.
@@ -29,32 +28,24 @@
 Лиска открыла ротик.
 — У тебя зубик треснул. Нужно к зубному!
 
-### Beat 2.4: Fallout
-Внутри у Лиски всё похолодело, будто она превратилась в ледяную сосульку. Зубной врач! Это же так страшно!
+<!-- that was fallout that we removed. Moment needs to be emotional, but short and she should recover on her own and proceed to unskilled attempts -->
+Внутри у Лиски всё похолодело, будто она превратилась в ледяную сосульку. Зубной врач! Это же так страшно! Она обвила себя хвостом и захотела спрятаться в песок, чтобы её никто не нашёл.
 
-Она обвила себя хвостом и захотела спрятаться в песок, чтобы её никто не нашёл.
+## Act 3: Attempts to Solve - Facing the Problem & Inner Turmoil
 
-## Act 3: Attempts to Solve / Unravel – Facing the Problem & Inner Turmoil
-
-### Beat 3.1: Recovery (Optional)
-Тарра села рядом и тихонько обняла Лиску за плечи.
-
-### Beat 3.2: Attempt 1 (Initial Reaction / Less Considered Approach)
+### Beat 3.1: Unskilled Attempt(s)
 Дома Лиска решила никому не говорить про зуб. Она старалась жевать только одной стороной рта и говорила очень тихо.
 
 Она надеялась, что всё пройдёт само. Но ничего не проходило.
 
 К вечеру боль не дала Лиске съесть даже любимую рыбную котлетку. Она ковыряла её лапой, но ротик так и не открылся.
 
-### Beat 3.3: Attempt 2 (Developing Approach / New Complication)
 Мама заметила, что Лиска совсем не ест.
 — Что случилось, котенок? — спросила она.
 
 Лиска опустила голову и показала маме треснувший зубик.
 
-Ей сразу стало немного легче. Зубного врача она всё ещё боялась, но теперь она была не одна.
-
-### Beat 3.4: Low Point (Emotional & Practical Setback)
+### Beat 3.2: Low Point (Emotional & Practical Setback)
 Папа с мамой посмотрели на зубик.
 — Тут нужно к зубному врачу, — сказал папа.
 
@@ -64,7 +55,7 @@
 
 — Они же страшные! Они делают больно! — всхлипывала она.
 
-### Beat 3.5: Recovery (Co-Regulation)
+### Beat 3.3: Recovery
 Папа сел рядом и заглянул ей в глаза.
 
 — Понимаю, ты боишься, — сказал он.
@@ -77,7 +68,7 @@
 
 — Давай поможем нашему мышонку стать храбрее, — добавила она.
 
-### Beat 3.6: Re-evaluation (Solution Building)
+### Beat 3.4: Re-evaluation
 — А как? — спросила Лиска.
 
 — Пойдём к морю, — сказал папа.
@@ -92,21 +83,22 @@
 
 — Держи. Теперь это — камень храбрости. Когда станет страшно, сжимай его и говори наши особые слова: «Боюсь, но пробую!»
 
-## Act 4: Climax & Solution – Overcoming Externally & Internally
+## Act 4: Climax & Solution - Overcoming Externally & Internally
 
-### Beat 4.1: Final Attempt / Approach (Applying New Understanding / Changed Behaviour)
+### Beat 4.1: Skilled Attempt
 Утром Лиска вспомнила про врача. Она сжала в лапке камень храбрости и прошептала: «Боюсь, но пробую!». Её усы перестали дрожать.
 
 — Я готова, — сказала Лиска, взяла маму за лапу, и вместе они пошли к врачу.
 
-### Beat 4.2: Rising Tension / Suspense
+### Beat 4.2: Minor Setback
+<!-- doesn't feel like set back. Maybe a few words that in the clinic she herself was scared, but then the lynx boy story -->
 В приёмной врача сидел маленький рысёнок. Он прятался за цветком, выглядывал одним ушком, и громко плакал. Лиске стало его так жалко.
 
 — Пожалуйста, сходи первая, — попросил он дрожащим голосом.
 
 Тут Лиска поняла: храброй можно быть не только для себя.
 
-### Beat 4.3: The Turning Point / Final Push (Demonstrating Growth in Action)
+### Beat 4.3: Resolve Tested -> Learned Skill -> Persistence
 Она сделала глубокий вдох, ещё крепче сжала свой камень и громко сказала:
 
 — Боюсь, но пробую!
@@ -115,43 +107,40 @@
 
 — Я пойду первая и покажу, что там не страшно!
 
-### Beat 4.4: Success (External Problem Resolved)
+### Beat 4.4: Success
 И правда — зубной врач оказался очень добрым. Он показал Лиске свои инструменты и объяснил, зачем они нужны.
 
 А зубик лечить оказалось совсем не больно — только немножко щекотно!
 
-### Beat 4.5: Immediate Reward / Relief (Accomplishment & Positive Emotion)
+### Beat 4.5: Reward -> Relief
 — Ты так спокойно сидела! — похвалил её врач. — И даже инструменты ни разу не куснула!
 
 Он подарил Лиске плюшевого снежного барса. Она обняла его так крепко, что у него сплющился нос.
 
 Лиска выдохнула с облегчением. Зуб больше не болел. У неё получилось!
 
-## Act 5: Resolution & Conclusion – Integrating the Growth
+## Act 5: Resolution & Conclusion - Integrating the Growth
 
-### Beat 5.1: Relaxation / Immediate Aftermath (Processing the Journey)
+### Beat 5.1: Reflection & Learning
 Когда Лиска вышла, рысёнок всё ещё тихонько дрожал.
 
 — Видишь? Я же говорила — не страшно! — сказала она. Но малыш всё равно боялся.
 
-### Beat 5.2: Reflection & Learning (Internalizing the Lesson & Growth)
 И тут Лиска поняла: камень храбрости только помогал ей справиться со страхом. Настоящая смелость всё время была у неё внутри.
-
 А смелее всего она себя чувствовала, когда помогала другим.
 
-### Beat 5.3: Making it Right / Integration (Acknowledging & Embodying Change)
+### Beat 5.2: Making it Right / Integration / New Status Quo
 Лиска подошла к рысёнку и протянула ему барса.
 
 — Держи, это — барс храбрости. Он поможет тебе, как мне помог мой камешек.
 
 Рысёнок взял игрушку и впервые за всё утро улыбнулся.
 
-### Beat 5.4: New Status Quo / Harmonious Scene (Character Transformed)
 Через неделю Лиска встретила рысёнка на площадке. Он катался с горки и рычал, как маленький лев.
 
 — Спасибо! — крикнул он и улыбнулся, показав свой здоровый зубик.
 
-### Beat 5.5: Concluding Thought / Wrap-up
+### Beat 5.3: Concluding Thought
 С тех пор, когда Лиске было страшно, она брала в лапку свой камешек, делала глубокий вдох и говорила: «Боюсь, но пробую!».
 
 Она знала, что храбрость — это не когда ты не боишься. Ведь самые храбрые барсы — это те, кто боится, но всё равно пробует!
