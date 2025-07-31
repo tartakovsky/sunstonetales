@@ -1,92 +1,137 @@
 ## Act 1: Introduction
-### Beat 1.1: Setting and Atmosphere
-Earlier that day, Liska had helped Mara move a big, leafy plant into her room. It had wide leaves with funny holes in them (big monstera plant), and they'd decided it looked like a friendly jungle monster. The room feels cheerful and green.
 
-### Beat 1.2: Character Introduction
-Now, it's night. Liska, a little snow leopard, is curled up in her bed, her breathing soft and even. Her sloth, a soft, floppy toy, is tucked under her arm. A tiny, happy purr rumbles in her chest.
+### Beat 1.1: Introduce Characters, Setting and Atmosphere
+
+Earlier that day, Liska had helped Mara move a big, leafy plant into her room. It had wide leaves with funny holes in them (big monstera plant), and they'd decided it looked like a friendly jungle monster. The room feels cheerful and green. 
+
+In the morning sun, the plant cast soft, friendly shadows on the wall - like gentle hands waving hello. At lunch, the bright sun made the shadows sharp and clear, like paper cutouts dancing. During dinner, candlelight made the shadows flicker and sway.
+
+Now, it's night. Liska, a little snow leopard, is curled up in her bed, clutching her favorite sloth toy. Her breathing is soft and even. A tiny, happy purr rumbles in her chest.
 
 ---
-## Act 2: Inciting Incident – The Challenge Begins
+
+## Act 2: The Challenge Begins
+
+### Beat 2.1: Lead-up
+
+Her mother, Mara, comes in to give her a final goodnight kiss. The room is bathed in soft moonlight filtering through the window. 
+<!-- we incorporate moon waving ritual and special ear scratch before sleep into each goodnight story -->
+
+The plant's shadow is different now - longer, shifting mysteriously with the breeze outside.
 
 ### Beat 2.2: The Catalyst
-Her mother, Mara, comes in to give her a final goodnight kiss and leaves the room.
+
+Mara kisses Liska's forehead and leaves the room, closing the door softly behind her.
 
 ### Beat 2.3: The Core Incident
-In the shifting moonlight, the plant's shadow looms large and unfamiliar. The leaves become spiky fingers, and the stems look like long, wobbly legs.
-**Slot:** `Emotional Trigger: Scary/Threatening`
 
-### Beat 2.4: Fallout
-Liska’s heart thumps. She feels like a **`Little Mouse`**, tiny and scared. She scrambles from her bed and runs to her mother.
-**Slot:** `Emotion Group: Fear / Anxiety`
-**Slot:** `Dysregulation: With Parent - High Distress`
+In the shifting moonlight, the plant's shadow looms large and unfamiliar. The leaves become spiky fingers, and the stems look like long, wobbly legs. Liska knows it's just her plant - she helped move it today! But knowing doesn't stop her heart from thumping. She feels like a tiny mouse, tiny and scared.
 
 ---
-## Act 3: Attempts to Solve / Unravel – Facing the Problem
 
-### Beat 3.1: Recovery
-Mara meets her with a hug, holding her close and rocking her gently until Liska’s thumping heart begins to slow. "It's big and it has arms!" Liska whispers into her shoulder. Mara holds her for another moment, then says softly, "I see you're scared. That's a big feeling, and it's okay. 
+## Act 3: Attempts to Solve - Facing the Problem & Inner Turmoil
 
-<!-- co-regulation first and the signal that the child calmed down, then brave words. -->
-Let's try our brave words: *I am safe. This is my room.*"
+### Beat 3.1: Unskilled Attempt(s)
 
-**Slot:** `Regulation Strategy: Parent-Child Co-Regulation`
-**Slot:** `Support: Calm Presence`, `Physical Contact`, `Intentional Connection`, `Feeling Validation`, `Simple Self-Talk` (Introduction)
+Liska scrambles from her bed, clutching her sloth tight, and runs to her mother. Mara meets her with a hug, holding her close. "It's big and it has arms!" Liska whispers. Mara holds her for another moment, then says softly, "I see you're scared. That's okay. Let's go look together." 
 
-### Beat 3.2: Attempt 1 (Guided Investigation & Tool Introduction)
-<!-- where did the explorer come from? Mother didn't offer to explore yet. -->
+They walk back to the room. Mara lights a candle, revealing the familiar plant. The candlelight makes new dancing shadows. "See? It's just our plant friend making shadow puppets," Mara says, wiggling her fingers to make a shadow on the wall. Liska nods, still wary, but interested in the finger shadows. Mara stays with her, rubbing her back until Liska's breathing slows. "You're safe now, my brave girl. It's your room. You're home" she whispers, tucking her in once more. She waits until Liska seems calm before quietly leaving.
 
-Mara says, "An explorer often needs a brave companion. Would you like to take someone with you?" Liska nods, grabbing the sloth. As they walk back, Mara adds, "And explorers have a plan. Remember our Brave Explorer Plan? First, we **notice** what our body feels. Then, we **pause** to take a breath. Then, we find a way to **help**." Back in the room, Mara lights a candle, revealing the familiar plant in its pot. Liska is still wary, but the immediate fear subsides.
+### Beat 3.2: Low Point (Emotional & Practical Setback)
+<!-- here it's debatable whether we want it to be the same day. Maybe Mara actually puts her to bed and the problem repeats next day. -->
+Minutes later, alone again, the shadow returns with the shifting moonlight. Wind ruffles the leaves and the plant becomes even scarier than before. Though she *knows* it's just the plant, the `Little Mouse` feeling crashes back, stronger. 
 
-### Beat 3.3: Attempt 2 (Familiarization through Play)
-The next evening, Liska tugs on Mara's sleeve. "Mama... I'm still a little scared of the shadow." Mara smiles. "Then let's play with it." With the sloth beside them, they use a candle to make the plant's shadow dance. They give the shadows silly names. The shadow becomes a playmate.
-**Slot:** `Solution Discovery Process: Creative Re-framing`
-**Slot:** `Practice: Safe Trial Run`
+She whispers, "I'm home. It's my room. I'm safe."
 
-### Beat 3.4: Low Point (Confronting Fear Alone)
-The following night, Mara tucks her in and leaves. Liska is alone with the sloth. The familiar, silent shadow of the plant looms in the corner. Wind ruffles the leaves and the plant becomes even scarier. Though she *knows* it's just the plant, the `Little Mouse` feeling creeps back in. She feels overwhelmed and alone.
-**Slot:** `Dysregulation: Alone - Moderate Distress`
+Mara's words, looking together and shadow play helped, but it's not enough. She feels overwhelmed and helpless.
 
-### Beat 3.5: Recovery (Self-Regulation)
-She pulls the covers up, her heart beating fast. She remembers her mother's words. She whispers, "I'm home. It's my room. I'm safe."
+She scrambles from bed again, sloth pressed to her chest, and runs to her mother, this time crying harder. "I'm still scared! The shadow is still scary!"
 
-**Slot:** `Coping Strategy: Simple Self-Talk`
-**Slot:** `Coping Strategy: My Special Comfort Item` (She hugs her sloth tightly.)
+### Beat 3.3: Recovery
 
-### Beat 3.6: Re-evaluation (The Click)
-Hugging the sloth triggers the memory of being a brave explorer with her mother. She remembers the shadow-dancing game. The feeling shifts from fear to a flicker of determination. She decides she needs to see for herself, one last time.
-**Slot:** `Solution Discovery Process: Memory Scaffolding`
+Mara meets her with a deeper hug this time, holding her close and rocking her gently until Liska's sobs slow to hiccups. "Oh sweetie, I see you're really scared. That's such a big feeling, and it's okay."
+
+Mara carries her to the living room couch, away from the scary room. She holds Liska on her lap, letting her fully calm down. "The looking together wasn't enough, was it?" Liska shakes her head against her mother's shoulder. "Then let's find better tools for when you're alone."
+
+### Beat 3.4: Solution Discovery
+
+"Let's try something different. Look - the moon is shining here too." 
+
+In the living room, moonbeams stream through the window, creating gentle shadows on the wall. Mara sits in the light and makes a butterfly with her hands.
+
+"A moon butterfly!"
+
+Liska watches, still clutching her sloth. She's interested but her body is tense. The couch makes a simple shadow on the wall - nothing scary, just a soft rectangle.
+
+"Want to try? First, let's check - how does your body feel?"
+
+Liska touches her chest. "Fast. Like little drums."
+
+"That's your body being careful. Can you hug your sloth tight and take a slow breath with me?" 
+
+They breathe together slowly. Liska's shoulders relax a little.
+
+"Better?"
+
+"A little bit."
+
+"Good. Now watch." Mara makes her hand shadow dance near the couch's shadow. "My butterfly says shadows are just blocked light - they can't hurt us."
+
+Liska tentatively raises one hand. Her small shadow appears, trembling slightly. She makes it wave at Mara's butterfly. Then, feeling braver, she makes her shadow touch the couch's shadow. Just overlapping shapes.
+
+"They're dancing!" Liska giggles softly.
+
+They play with different shadows - the lamp, a chair, Liska's sloth. Each time something feels scary, Liska notices her fast heartbeat, hugs her sloth, breathes, then explores. By the end, she's making shadow stories with ordinary living room objects.
+
+"I can check my body, hug sloth, breathe, and then play," Liska says, proud of her discovery.
 
 ---
-## Act 4: Climax & Solution – Overcoming Internally
 
-### Beat 4.1: Final Attempt
-Clutching her sloth, Liska swings her legs out of bed.
+## Act 4: Climax & Solution - Overcoming Externally & Internally
 
-### Beat 4.2: Rising Tension
-She stands, hesitating. Her paws feel frozen to the floor. They wouldn't move. The shadow seems to grow bigger in the quiet room.
+### Beat 4.1: Skilled Attempt
 
-### Beat 4.3: The Turning Point (Notice, Pause, Help)
-She remembered the Brave Explorer Plan. *My heart is beating like a little mouse,* she noticed. She paused and took a shaky breath. "I need help," she thought. She looked down at the sloth in her arms, its button eyes looking back at her. She hugged it, a small, fierce hug. The soft, familiar toy made her feel safer. "I'm safe. I'm brave. We already did that before," she whispered. This gave her the final push.
+The following night, after Mara leaves, Liska lies in bed. The shadow appears again. This time, she clutches her sloth. "My heart is like little drums again," she notices. She hugs her sloth tight and takes a breath like she practiced. She swings her legs out of bed.
+<!-- too easy -->
+
+### Beat 4.2: Minor Setback
+
+She stands, hesitating. Her feet feel frozen to the floor. The plant shadow seems to grow bigger in the quiet room. "What if it grabs me?" she whispers.
+
+### Beat 4.3: Resolve Tested → Learned Skill → Persistence
+
+She noticed her heart beating faster. She squeezed her sloth and took another shaky breath. "Shadows can't hurt," she whispered, remembering Mara's butterfly. "They're just blocked light."
+
+She raised one trembling hand into the moonbeam. Her hand shadow appeared on the wall. Small. Safe. She wiggled her fingers - the shadow wiggled too. "You're mine," she told it.
+
+Slowly, carefully, she made her hand shadow creep closer to the plant shadow. Closer... closer...
 
 ### Beat 4.4: Success
-She scurries across the room, hugging her sloth. She stands in front of the plant. She takes her sloth, stretches its paw toward the plant and touches the shadow with its paw. It's a broad, smooth leaf. It's just the plant.
 
-### Beat 4.5: Immediate Reward / Relief
-A wave of relief and pride washes over her. The `Little Mouse` feeling was still there, but a bigger, warmer feeling of accomplishment took its place.
-**Slot:** `Emotion Group: Pride / Confidence`
+Her hand shadow touched the plant shadow. Nothing grabbed her. Nothing hurt. The shadows just... overlapped. Like in the living room. She giggled nervously and made her hand shadow dance with the plant's leaves. "Dance with me, Mr. Wiggly!"
+
+### Beat 4.5: Reward → Relief
+
+A wave of relief and pride washes over her. The `Little Mouse` feeling was still there, but a bigger, warmer feeling of "I did it!" took over. She made more shadows dance together - her sloth's shadow joined the party. She felt tired but proud and safe.
 
 ---
-## Act 5: Resolution & Conclusion – Integrating the Growth
 
-### Beat 5.1: Relaxation / Immediate Aftermath
-She gives the plant's leaf a little pat, then scurries back to bed, hugging her sloth. She feels tired, but proud and safe.
+## Act 5: Resolution & Conclusion - Integrating the Growth
 
-### Beat 5.2: Reflection & Learning
-The next morning, she tells Mara, "I was a brave explorer last night. The sloth and I went on an adventure." Mara smiles. "You felt scared, and you still went to look. That's what brave explorers do."
-**Slot:** `Support: Process Praise`
+### Beat 5.1: Reflection & Learning
 
-### Beat 5.4: New Status Quo
-A few nights later, we see Liska in bed. Before falling asleep, she takes her sloth and makes its shadow dance on the wall for a moment. They are no longer scary; they are her playmates.
+She scurries back to bed, hugging her sloth. "We were brave shadow explorers," she whispers. "I noticed my drums, hugged you, breathed, and then we played."
 
-### Beat 5.5: Concluding Thought
-And Liska knew that even when shadows danced in her room, she and her sloth could always play together with them.
+### Beat 5.2: Making it Right / Integration / New Status Quo
+
+The next morning, sunlight streams through the window. The plant casts a completely different shadow - soft and golden. Liska notices it and feels a tiny flutter in her chest. She holds her sloth, takes a breath, then carefully raises one hand. Her shadow appears in the morning light.
+
+"Good morning, shadow friends," she whispers, making a small wave. The shadows dance gently in the breeze.
+
+That evening, she tells Mara, "I played with the morning shadows too. My body was just a little bit drums, so I hugged sloth and breathed, then we danced."
+
+Mara smiles. "You found your own way to feel brave."
+
+### Beat 5.3: Concluding Thought
+
+And Liska knew that shadows might still feel scared sometimes, but she had her sloth, her breath, and her brave hands to help her dance with them.

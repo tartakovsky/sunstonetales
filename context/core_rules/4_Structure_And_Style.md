@@ -121,7 +121,7 @@ A deep regulation cycle to manage intense emotions and prepare for new thinking.
 
 **Length:** 3-6 lines maximum
 
-### Beat 3.4: Re-evaluation
+### Beat 3.4: Solution Discovery
 
 The child processes failures and discovers a solution, either independently or with adult scaffolding (e.g., socratic questions). Show the "aha" moment and new understanding.
 
@@ -160,7 +160,7 @@ The attempt is almost successful when a minor, non-catastrophic problem occurs (
 
 **Length:** 2-5 lines
 
-### Beat 4.3: Resolve Tested -> Learned Skill -> Persistence
+### Beat 4.3: Persistence
 
 Facing the setback, the character feels old negative emotion rise, but consciously uses the learned skill (e.g., takes a deep breath) to self-regulate. Then performs the small, careful action required to 
 fix the setback.
