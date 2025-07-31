@@ -1,24 +1,37 @@
-# A Communal Daycare Space
+# The Playground
 
 ## Visual Description (for Image Generation)
 
-**Setting:** Late medieval informal childcare area, upscale neighborhood
+**Setting:** Late medieval playground, 15x15 meters, within residential courtyard
 
-**Main Elements:**
-- Shaded neighborhood courtyard
-- Mixed-age group of young, cat-like children (kits)
-- Scene of organized chaos with volunteer caregiver
-- Storytelling circle or game area
-- Open, airy space with natural lighting
+**Layout:**
+- Bordered by two house walls (back corners) and low garden wall (center back)
+- Open to inner courtyard (front, no barriers)
+- Play structures bunched together in one area
+- Large open grass space for running and free play
+- 2-3 large broad-leafed trees providing shade
 
-**Visual Style:** Informal community space with children engaged in play and learning
+**Equipment:**
+- Two swings on single wooden frame
+- Seesaw
+- Small fort structure with:
+  - Two simple towers
+  - One slide
+  - Rope ladders
+  - Normal wooden ladder
+  - Normal wooden staircase
+- Rock climbing board with rope ladder
+
+**Visual Style:** Simple wooden construction without decorations, functional design
 
 ## Narrative Description (for Writers)
 
-This is an informal, lively childcare space, located either in a shaded neighborhood courtyard or a large, open-walled room on the ground floor of a residential building. It is a scene of organized chaos, where a volunteer caregiver oversees a mixed-age group of young, cat-like kits. The air is filled with the sounds of storytelling, with older children teaching younger ones simple songs or observational games. Learning happens through play and peer-to-peer sharing, not formal lessons, creating an atmosphere that is energetic, chaotic, but safe.
+**Atmosphere:** Organized chaos with mixed-age cat-like children (kits) playing freely under volunteer supervision. Energetic but safe environment where learning happens through play and peer interaction.
 
-**Key Details to Include:**
-- **Setting:** Informal and communal courtyard
-- **Activity:** Mixed-age children learning from each other through storytelling, songs, and games
-- **Atmosphere:** Energetic, chaotic but safe, supervised by a respected community volunteer
-- **Population:** Young, cat-like children ("kits") of various ages interacting together
+**Sounds:** Children's laughter, creaking wood, older kits teaching younger ones songs and games
+
+**Key Elements for Writers:**
+- **Supervision:** Respected community volunteer overseeing, not formal instruction
+- **Social Dynamic:** Older children naturally mentor younger ones
+- **Safety:** Enclosed feeling from surrounding walls while open to Yard community
+- **Activity:** Storytelling circles, observational games, physical play blending together

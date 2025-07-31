@@ -2,18 +2,18 @@
 
 ## Visual Description (for Image Generation)
 
-**Layout:** Walled garden with carved wooden entrance door, central stone-lined pond, corner sunning area with woven mat and cushions, low flat stone surface for eating
+**Layout:** Walled garden with carved wooden entrance door, central stone-lined pond, corner sunning area with thick woven mat and cushions, low flat stone platform for dining
 
-**Materials:** Golden sandstone walls, smooth river stones, thick textile mat, flat stone platform
+**Structure:** Wooden pergola covering half the space with climbing flowering vines, golden sandstone walls
 
-**Vegetation:** Broad-leafed tropical plants, flowering vines climbing walls
+**Vegetation:** Broad-leafed tropical plants, flowering vines on pergola and walls
 
-**Lighting:** Warm afternoon sunlight on corner area, dappled light around central pond
+**Lighting:** Dappled light through pergola vines, warm direct sunlight in uncovered corner
 
 ## Narrative Description (for Writers)
 
-**Atmosphere:** Private family sanctuary centered around reflecting pond. Fragrant flowering vines, warm stone walls, gentle sound of water.
+**Atmosphere:** Private family sanctuary with gentle sound of water, scent of tropical flowers mixing with fresh pond water
 
-**Function:** Central pond as gathering focal point. Corner sunning/picnic area where family curls up for grooming, napping, and sharing meals on low stone surface - prepared cultural space for bonding and peaceful activity.
+**Function:** Central pond as visual focal point, corner sunning/dining area where family gathers for grooming, napping, and sharing meals - prepared cultural space for intimate bonding
 
-**Sensory:** Cool stone and water at center, warm sunlit corner. Scent of tropical flowers mixing with fresh pond water.
+**Sensory:** Cool stone and water contrast with warm sunlit corner, fragrant flowering vines overhead
