@@ -21,13 +21,6 @@
     *   She arranged three bottle caps. "This is my royal treasure," she whispered. "The red one is dragon's gold."
     *   She holds up a particularly pretty leaf she plans to tear later. "This is my angry leaf," she might explain with total seriousness. "It is waiting for an emergency."
 
-**4. Serious Formality**
-*   **Description:** Her attempt to manage the chaos of play by imposing hilariously rigid, grown-up rules and manners.
-*   **Examples:**
-    *   She hosts a tea party, asking her toy, "Mr. Bear, would you care for another pretend biscuit? Please use your napkin."
-    *   A butterfly lands on her paw. She looks at it gravely and says, "A pleasure to make your acquaintance."
-    *   When playing with Tahrra, she might declare, "First, we will build the tower. Then, we will have a meeting to decide its color. Please prepare your ideas."
-
 **5. Naive Logic**
 *   **Description:** Her flawless but incorrect reasoning that makes perfect sense from her limited, self-contained perspective.
 *   **Examples:**

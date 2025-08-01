@@ -325,14 +325,6 @@ Examples:
 
 ---
 
-### Type: Grown-Up Mimicry
-A child copying an adult's complex actions with adorable clumsiness and seriousness.
-
-Examples:
-- "He adjusted spectacles (without lenses) before diagnosing the teddy with 'severe fluffiness.'"
-
----
-
 ### Type: The Micro-Drama
 A character has an immense, theatrical emotional reaction to a very minor event.
 
