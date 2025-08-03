@@ -3,10 +3,18 @@
 ### Beat 1.1: Introduce Characters, Setting and Atmosphere
 <!-- PLOT: A new, oversized plant changes Liska's familiar room. -->
 
-One evening, something ENORMOUS tried to squeeze through Liska's bedroom door. The little snow leopard cub grabbed a giant leaf while Mama wrestled the rest. "Oof!" went Mama. "Poof!" went Liska. Finally—THUMP!—in came their new monstera plant, its leaves full of holes like swiss cheese and taller than Papa!
+One evening, Mama and Liska squeezed something enormous through the bedroom door. 
+
+"Just... a... little... more!" Mama grunted, pushing the heavy pot.
+
+Liska anchored her little feet, grabbed a giant leaf, and pulled with a mighty little "Hnngh!".
+<!-- старательным крошечным «Хнннгх!» -->
+
+With a final push — SKWEEEAK! — in came their new monstera plant, its leaves full of holes, just like Swiss cheese.
+
 
 <!-- Do not touch pink nose, it's cute. Maybe a funnier simile -->
-"It's a friendly cheese monster! I name it Mr. Cheesy!" Liska declared. Her pink nose poked through a leaf-hole like a curious button.
+"It's a friendly cheese monster! I name it Mr. Cheesy!" Liska declared. Her pink nose poked through a leaf-hole like a tiny curious button.
 
 ---
 
@@ -15,19 +23,19 @@ One evening, something ENORMOUS tried to squeeze through Liska's bedroom door. T
 ### Beat 2.1: Lead-up
 <!-- PLOT: The plant is initially a fun, dynamic playmate. -->
 
-<!-- shorten -->
+<!-- shorten. Sun-fairies are weird. The whole thing is kinda meh, only ants in pants are fun. The rest can be rewritten in ful, given that it fulfills the plot point.  -->
 All day, Mr. Cheesy's shadow was a fun playmate. In the morning, it made dancing sun-fairies on the wall. At lunch, his shadow was a lumpy monster trying to eat her carrots. By evening, candlelight made the shadows bow and wiggle like fancy dancers with ants in their pants.
 
 ### Beat 2.2: The Catalyst
 <!-- PLOT: At night, the shadow's movement becomes ambiguous and unsettling. -->
 
+<!-- Drop goodnight to the moon or scratch? Braistorm whether I want to thread the moon waving thing across stories so it hits in tuft. Definitely drop scratch. Keep kiss as universal experience? -->
 As night fell, Mama lifted Liska to wave goodnight to the moon, then tucked her in tight as a cinnamon roll with a special ear scratch and kiss. A gust of wind rattled the window, and the plant's shadow stretched and swayed with the branches outside.
 
 ### Beat 2.3: The Core Incident
 <!-- PLOT: Liska's perception shifts: the ambiguous shadow becomes a definite threat. -->
 
-<!-- no eyes, unify shadow description with what she fights in the end -->
-The shadow changed. Those friendly leaf-hands became long, reaching fingers; the holes turned into watchful eyes. The shadow loomed like a multi-armed creeper itching to tickle her toes—or worse!
+The friendly leaves grew longer... and longer... until they didn't look like leaves anymore. Now they looked like claws! The shadow loomed over Liska like a multi-armed monster itching to tickle her toes—or worse!
 
 ---
 
@@ -36,8 +44,11 @@ The shadow changed. Those friendly leaf-hands became long, reaching fingers; the
 ### Beat 3.1: Unskilled Attempt(s)
 <!-- PLOT: Liska's first coping mechanism is ineffective avoidance (hiding). -->
 
-<!-- Do not touch BA-DUM, it needs to be 4 times. -->
-Liska's eyes widened like saucers. *It's just Mr. Cheesy, my friendly monster.* But in the moonlight, Mr. Cheesy looked HUNGRY. Her heart started to beat very fast: BA-DUM, BA-DUM. BA-DUM, BA-DUM. She pulled the blanket over her head. "Go 'way," she whispered. "You're just a plant."
+<!-- Do not touch BA-DUM, it needs to be 4 times. 
+
+Like saucers needs testing, not sure it's fun for the child
+-->
+Liska's eyes widened <!--like saucers-->. *It's just Mr. Cheesy, my friendly monster.* But in the moonlight, Mr. Cheesy looked HUNGRY. Her heart started to beat very fast: BA-DUM, BA-DUM. BA-DUM, BA-DUM. She pulled the blanket over her head. "Go 'way," she whispered. "You're just a plant."
 
 ### Beat 3.2: Low Point (Emotional & Practical Setback)
 <!-- PLOT: Avoidance backfires, amplifying fear and forcing her to seek help. -->
@@ -48,37 +59,39 @@ But under the blanket was worse. What if the shadow crept across the floor? What
 ### Beat 3.3: Recovery
 <!-- PLOT: A parent's co-regulation provides safety and reframes the threat by introducing shadow play. -->
 
-<!-- Do not change the fucking plot, shadow dance intro must stay -->
 Mama scooped her up. "Oh, that twisty shadow does look mighty fierce," she murmured, rocking Liska on the soft cushions. Liska nodded, leaving a wet patch of tears and maybe a little snot on Mama's nightgown. 
 
-<!-- Bird flying -->
-They rocked until the sobs became hiccups. As Mama tucked her back in, her paw drifted into the moonlight, making a shadow butterfly that danced with the leaves. Liska watched, her eyes wide. The shadows were... silly? Not scary? Her mother sat beside her, gently scratching her back until Liska fell asleep.
+<!-- can be shortened -->
+They rocked until the sobs became hiccups. As Mama tucked her back in, her paws moved into the moonlight A shadow butterfly appeared on the wall, its wings gently flapping. It flew closer to the plant's shadow and began to circle a leafy claw. Liska watched, her eyes wide. The butterfly was... beautiful? Not scary? 
+
+"It's like they're dancing," she whispered. 
+
+Mama smiled, and sat beside her, gently scratching her back until Liska fell asleep.
 
 ### Beat 3.4: Solution Discovery
 <!-- PLOT: Liska asks for help and learns concrete coping skills (breathing, shadow play). -->
-
 
 The next evening, Liska asked, "Ma-am, I'm still scared of the shadow. Can you help me?"
 
 "Of course, kitten," her mother said softly. "First, let's notice. How does your body feel?"
 
-<!-- do we need fun simile here? -->
-"My heart is going thump-thump-thump"
+"My heart is going thump-thump, thump-thump"
 
 <!-- can we make it more fun? -->
 "I see," said her mother. "Then we need to help it calm down. Let's do our special breath. Smell a big flower... Liska took a slow *sniff* in... and now cool down the hot soup... and a long *whoooosh* out."
 
-<!-- Keep it -->
 "Mama," Liska said, "remember the bird yesterday? I wanna do it too."
 
-<!-- This shadow story should be shorter and more fun. Needs to be an exciting micro-narrative leading somewhere -->
 "Of course!" Mama made a bird with her paws and landed it on the wall. 
 
 Mama pointed to the watering-can shadow. "Look, a grumpy elephant." she whispered, "I bet his trunk is ticklish. Do you think your shadow could sneak up and tickle it?"
 
-Liska raised her finger. It flattened into a super-sneaky ninja shadow. It crept silently across the wall, hid for a second behind a crack, and then leaped out to bop the elephant right on the tip of its snoot!
+Liska raised her finger. It flattened into a super-sneaky shadow-spy. He crept silently across the wall, hid for a second behind a crack, and then leaped out to bop the elephant right on the tip of its snoot!
 
-<!-- Laughter -->
+<!-- Maybe ok, but probably can be much more fun -->
+Liska giggled. The grumpy elephant didn't seem so grumpy anymore.
+
+<!-- The candle flickered and the spy and the elephant started dancing together? -->
 
 
 ---
@@ -150,7 +163,7 @@ The monster was gone. It became a bed in which a brave little hero slept peacefu
 
 ### Beat 5.2: Making it Right / Integration / New Status Quo
 
-Mama, watching from the doorway, smiled. "I see we have a brave new shadow dancer in here."
+Mama, watching from the doorway, smiled. "I see we have brave new shadow dancers in here."
 
 Liska watched the scene she had created, a small, proud smile on her face. 
 
