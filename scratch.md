@@ -1,157 +1,67 @@
-# Лиска и Зубастое Приключение
+One evening, something ENORMOUS tried to squeeze through Liska's bedroom door. The little snow leopard cub grabbed a giant leaf while Mama wrestled the rest. "Oof!" went Mama. "Poof!" went Liska. Finally—THUMP!—in came their new monstera plant, its leaves full of holes like swiss cheese and taller than Papa!
 
-## Act 1: Introduction
+"It's a friendly cheese monster! I name it Mr. Cheesy!" Liska declared. Her pink nose poked through a leaf-hole like a curious button.
 
-### Beat 1.1: Introduce setting and atmosphere
-Сегодня Лиска и Тарра играли на пляже. Мимо них пробежал крабик и помахал им клешнёй.
+All day, Mr. Cheesy's shadow was a fun playmate. In the morning, it made dancing sun-fairies on the wall. At lunch, his shadow was a lumpy monster trying to eat her carrots. By evening, candlelight made the shadows bow and wiggle like fancy dancers with ants in their pants.
 
-### Beat 1.2: Introduce character(s)
-Лиска забралась на высокое-высокое дерево. Её усы дрожали от волнения — вдруг море стало ещё больше?
+As night fell, Mama lifted Liska to wave goodnight to the moon, then tucked her in tight as a cinnamon roll with a special ear scratch and kiss. A gust of wind rattled the window, and the plant's shadow stretched and swayed with the branches outside.
 
-## Act 2: Inciting Incident – The Challenge Begins
+The shadow changed. Those friendly leaf-hands became long, reaching fingers; the holes turned into watchful eyes. The shadow loomed like a multi-armed creeper itching to tickle her toes—or worse!
 
-### Beat 2.1: Lead-up
-— А давай прыгать с дерева на дерево, как акробаты? — предложила Тарра.
+Liska's eyes widened like saucers. *It's just Mr. Cheesy, my friendly monster.* But in the moonlight, Mr. Cheesy looked HUNGRY. Her heart started to beat very fast: BA-DUM, BA-DUM. BA-DUM, BA-DUM. She pulled the blanket over her head. "Go 'way," she whispered. "You're just a plant."
 
-— Да! Я — летающий барсёнок! — заявила Лиска. Она замахала лапками так быстро, что стала похожа на усатого шмеля. Бз-з-з.
+But under the blanket was worse. What if the shadow crept across the floor? What if it touched her blanket? What if— She threw the blanket off. The shadow's arms stretched long, grasping at the walls, grasping... for HER! Liska scrambled out of bed, flew down the hall, and crashed into her mother's legs. "MAMA!" she sobbed. "The plant has ARMS and it wants to EAT ME!"
 
-### Beat 2.2: The Catalyst (Misstep / Misjudgment / Accidental Event)
-Лиска выбрала ветку покрепче, разбежалась и… прыгнула!
+Mama scooped her up. "Oh, that twisty shadow does look mighty fierce," she murmured, rocking Liska on the soft cushions. Liska nodded, leaving a wet patch of tears and maybe a little snot on Mama's nightgown. They rocked until the sobs became hiccups. As Mama tucked her back in, her paw drifted into the moonlight, making a shadow butterfly that danced with the leaves. Liska watched, her eyes wide. The shadows were... silly? Not scary? Her mother sat beside her, gently scratching her back until Liska fell asleep.
 
-Но ветка на другом дереве оказалась выше, чем она думала. Ба-бах! Барсёнок шмякнулась мордочкой прямо о ствол.
+The next evening, Liska whispered, "Ma-am, I'm still scared of the shadow. Can you help me?"
 
-### Beat 2.3: The Core Incident (The External Problem / Challenge)
-— Ой-ой-ой! — пискнула Лиска, трогая рот лапой. Внутри что-то было не так.
+"Of course, kitten," her mother said softly. "First, let's notice. How does your body feel?"
 
-Тарра подбежала к ней.
-— Скажи «а-а-а»! — скомандовала она.
+"My heart is going thump-thump-thump, like [something fun]."
 
-Лиска открыла ротик.
-— У тебя зубик треснул. Нужно к зубному!
+"I see," said her mother. "Then we need to help it calm down. Let's do our special breath. Smell a big flower... Liska took a slow *sniff* in... and now cool down the hot soup... and a long *whoooosh* out."
 
-### Beat 2.4: Fallout
-Внутри у Лиски всё похолодело, будто она превратилась в ледяную сосульку. Зубной врач! Это же так страшно!
+"Mama," Liska whispered, "remember the bird yesterday? Can you teach me?"
 
-Она обвила себя хвостом и захотела спрятаться в песок, чтобы её никто не нашёл.
+"Of course!" Mama made a bird with her paws and landed it on the wall. 
 
-## Act 3: Attempts to Solve / Unravel – Facing the Problem & Inner Turmoil
+Mama pointed to the watering-can shadow. "Look, a grumpy elephant." she whispered, "I bet his trunk is ticklish. Do you think your shadow could sneak up and tickle it?"
 
-### Beat 3.1: Recovery (Optional)
-Тарра села рядом и тихонько обняла Лиску за плечи.
+Liska raised her finger. It flattened into a super-sneaky ninja shadow. It crept silently across the wall, hid for a second behind a crack, and then leaped out to bop the elephant right on the tip of its snoot!
 
-### Beat 3.2: Attempt 1 (Initial Reaction / Less Considered Approach)
-Дома Лиска решила никому не говорить про зуб. Она старалась жевать только одной стороной рта и говорила очень тихо.
+That night, after their moon-waving and ear-scratching, after her mother's goodnight kiss, Liska found herself alone with Mr. Cheesy again.
 
-Она надеялась, что всё пройдёт само. Но ничего не проходило.
+The shadow started its creeping dance across the wall.
 
-К вечеру боль не дала Лиске съесть даже любимую рыбную котлетку. Она ковыряла её лапой, но ротик так и не открылся.
+Her heart went thump-thump-thump. But this time, Liska clutched her sloth, remembering Mama's words. She took a slow *sniff* in, and a long *whoooosh* out. Her sloth's fur tickled her nose.
 
-### Beat 3.3: Attempt 2 (Developing Approach / New Complication)
-Мама заметила, что Лиска совсем не ест.
-— Что случилось, котенок? — спросила она.
+Slowly, like a brave little snail, she pushed back her blanket and stood up. She crept toward the wall, lifting one shaky paw.
 
-Лиска опустила голову и показала маме треснувший зубик.
+Her shadow appeared on the wall—small and wobbly, but THERE. Almost touching the plant's shadow. Her heart thumped wildly and her paw froze. 
 
-Ей сразу стало немного легче. Зубного врача она всё ещё боялась, но теперь она была не одна.
+"Come on, shadow paw," she whispered. "You're mine. Be brave. We're shadow dancers."
 
-### Beat 3.4: Low Point (Emotional & Practical Setback)
-Папа с мамой посмотрели на зубик.
-— Тут нужно к зубному врачу, — сказал папа.
+Squeezing her sloth until she worried his stuffing might pop, she stubbornly pushed her paw forward. 
 
-— Он вылечит зубик, чтобы он больше не болел, — добавила мама.
+Her shadow touched the plant shadow, and...
 
-При словах «зубной врач» Лиска расплакалась. Ее усы дрожали, а голос стал тонким, как у мышонка.
+Nothing happened. No grabbing, no eating. Just her shadow-paw on the shadow-leaf.
 
-— Они же страшные! Они делают больно! — всхлипывала она.
+"Oh!" Liska breathed. She wiggled her fingers, making the shadows dance together. "You're not scary," she told the shadow. "You're just... you're just a shadow! You can't DO anything!"
 
-### Beat 3.5: Recovery (Co-Regulation)
-Папа сел рядом и заглянул ей в глаза.
+A warm, sparkly feeling bloomed in Liska's chest like a purring kitten. She'd done it! She'd been scared but she'd stayed.
 
-— Понимаю, ты боишься, — сказал он.
+Then Liska noticed Slothy hiding under her armpit. "Oh, Slothy," she whispered, pulling him out. "Are you scared of the shadow?" It's okay". She hugged him. 
 
-Мама крепко обняла её и начала тихо мурлыкать. Лиска прижалась к ней, и её всхлипы постепенно затихли.
+"Let's smell the flower... and cool the soup. Phew, better, right? Now LET'S FIGHT THIS SHADOW CHEESE MONSTER!"
 
-Когда Лиска успокоилась, мама сказала:
+She raised Slothy and his shadow appeared on the wall. Step by step, he started climbing Mr. Cheesy's shadow-claws, one after another, higher and higher. 
 
-— Страх — это чувство, с которым можно справиться. Иногда мы чувствуем себя как ма-аленький мышонок, которому хочется спрятаться. Это нормально.
+Finally, the sloth reached the very top of the monster. It found a comfortable spot between two leafy "horns," gave a big, slow shadow-yawn, curled into a ball, and fell asleep.
 
-— Давай поможем нашему мышонку стать храбрее, — добавила она.
+The monster was gone. In its place, a brave little hero slept peacefully. Liska watched the scene she had created, a small, proud smile on her face. 
 
-### Beat 3.6: Re-evaluation (Solution Building)
-— А как? — спросила Лиска.
+Mama, watching from the doorway, smiled. "I see we have a brave new shadow dancer in here." Liska beamed, hugging Slothy tight.
 
-— Пойдём к морю, — сказал папа.
-
-На пляже он предложил Лиске:
-
-— Найди себе самый красивый камешек.
-
-Лиска рылась в песке, нюхала и даже спросила совета у краба, пока не нашла радужный камешек-сердечко.
-
-Папа погрел его в своих лапах и протянул ей.
-
-— Держи. Теперь это — камень храбрости. Когда станет страшно, сжимай его и говори наши особые слова: «Боюсь, но пробую!»
-
-## Act 4: Climax & Solution – Overcoming Externally & Internally
-
-### Beat 4.1: Final Attempt / Approach (Applying New Understanding / Changed Behaviour)
-Утром Лиска вспомнила про врача. Она сжала в лапке камень храбрости и прошептала: «Боюсь, но пробую!». Её усы перестали дрожать.
-
-— Я готова, — сказала Лиска, взяла маму за лапу, и вместе они пошли к врачу.
-
-### Beat 4.2: Rising Tension / Suspense
-В приёмной врача сидел маленький рысёнок. Он прятался за цветком, выглядывал одним ушком, и громко плакал. Лиске стало его так жалко.
-
-— Пожалуйста, сходи первая, — попросил он дрожащим голосом.
-
-Тут Лиска поняла: храброй можно быть не только для себя.
-
-### Beat 4.3: The Turning Point / Final Push (Demonstrating Growth in Action)
-Она сделала глубокий вдох, ещё крепче сжала свой камень и громко сказала:
-
-— Боюсь, но пробую!
-
-А потом пообещала рысёнку:
-
-— Я пойду первая и покажу, что там не страшно!
-
-### Beat 4.4: Success (External Problem Resolved)
-И правда — зубной врач оказался очень добрым. Он показал Лиске свои инструменты и объяснил, зачем они нужны.
-
-А зубик лечить оказалось совсем не больно — только немножко щекотно!
-
-### Beat 4.5: Immediate Reward / Relief (Accomplishment & Positive Emotion)
-— Ты так спокойно сидела! — похвалил её врач. — И даже инструменты ни разу не куснула!
-
-Он подарил Лиске плюшевого снежного барса. Она обняла его так крепко, что у него сплющился нос.
-
-Лиска выдохнула с облегчением. Зуб больше не болел. У неё получилось!
-
-## Act 5: Resolution & Conclusion – Integrating the Growth
-
-### Beat 5.1: Relaxation / Immediate Aftermath (Processing the Journey)
-Когда Лиска вышла, рысёнок всё ещё тихонько дрожал.
-
-— Видишь? Я же говорила — не страшно! — сказала она. Но малыш всё равно боялся.
-
-### Beat 5.2: Reflection & Learning (Internalizing the Lesson & Growth)
-И тут Лиска поняла: камень храбрости только помогал ей справиться со страхом. Настоящая смелость всё время была у неё внутри.
-
-А смелее всего она себя чувствовала, когда помогала другим.
-
-### Beat 5.3: Making it Right / Integration (Acknowledging & Embodying Change)
-Лиска подошла к рысёнку и протянула ему барса.
-
-— Держи, это — барс храбрости. Он поможет тебе, как мне помог мой камешек.
-
-Рысёнок взял игрушку и впервые за всё утро улыбнулся.
-
-### Beat 5.4: New Status Quo / Harmonious Scene (Character Transformed)
-Через неделю Лиска встретила рысёнка на площадке. Он катался с горки и рычал, как маленький лев.
-
-— Спасибо! — крикнул он и улыбнулся, показав свой здоровый зубик.
-
-### Beat 5.5: Concluding Thought / Wrap-up
-С тех пор, когда Лиске было страшно, она брала в лапку свой камешек, делала глубокий вдох и говорила: «Боюсь, но пробую!».
-
-Она знала, что храбрость — это не когда ты не боишься. Ведь самые храбрые барсы — это те, кто боится, но всё равно пробует!
+Next night, when the shadows grew long, Liska snuggled with Slothy. She was ready. "Come on, Mr. Cheesy," she whispered. "Let's dance."
