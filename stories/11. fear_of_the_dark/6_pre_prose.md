@@ -84,21 +84,20 @@ The next evening, Liska asked, "Ma-am, I'm still scared of the shadow. Can you h
 "My heart is going thump-thump, thump-thump"
 
 <!-- can we make it more fun? -->
-"I see," said her mother. "Then we need to help it calm down. Let's do a special breath. Smell a big flower... Liska took a slow *sniff* in... and now cool down the hot soup... and a long *whoooosh* out."
+"I see," said her mother. "Then we need to help it calm down. Breath in like you smell a big flower... Liska took a slow *sniff* in... and breathe out like you cool down the hot soup... and a long *whoooosh* out."
 
-<!-- Can we drop the next two lines without liska asking to teach and without mama making her own shadow? -->
-"Mama," Liska said, "remember the bird you did? I wanna do it too."
+"Mama," Liska said, "remember the butterfly you made? I wanna do it too."
 
-"Of course!" Mama made a bird with her paws and landed it on the wall. 
-<!--  -->
+Mama helped her fold her paws, and a wobbly butterfly appeared on the wall.
 
+Mama pointed to the watering-can shadow wiggling in the lamplight. "Looks like a grumpy elephant," she whispered. "I bet his trunk is ticklish!"
 
-She pointed to the watering-can shadow. "Look, it's like a grumpy elephant." she whispered, "I bet his trunk is ticklish. Do you think your shadow could sneak up and tickle it?"
+Liska made her butterfly circle the trunk once... twice... and... zipped in to bop it on the snoot!
 
-Liska raised her finger, and its shadow became a sneaky spy. She made it creep across the wall, hide for a second behind a crack, and then... leaped out to bop the elephant right on the tip of its snoot!
+<!-- и из Лиски вырвался маленький *фырк* -->
+The trunk-shadow wobbled, and a tiny *snort* escaped Liska. The trunk looked like it wanted to dance.
 
-<!-- Maybe ok, but probably can be much more fun. We also don't state why. The idea was that it's an oil lamp or a candle that drops the shadow and the flame flickers, but we don't say it anywhere -->
-The elephant shadow wiggled its trunk. Liska giggled. The grumpy elephant didn't seem so grumpy anymore. A new thought sparked inside her: I'm making them dance.
+A new thought sparked inside her: *Ooh! I can make them dance!*
 
 ---
 
@@ -107,28 +106,19 @@ The elephant shadow wiggled its trunk. Liska giggled. The grumpy elephant didn't
 ### Beat 4.1: Skilled Attempt
 <!-- PLOT: Liska independently uses a learned skill to manage fear. -->
 
-The night came, and Mr. Cheesy’s shadow again crept across the wall. Liska’s heart thumped nervously. But this time was different. Clutching her sloth until she worried his stuffing might pop, she took a slow *sniff* in and a long *whoooosh* out. 
+The night came, and Mr. Cheesy’s shadow again crept across the wall. Liska’s heart began to thump. But this time was different. Clutching her sloth until she worried his stuffing might pop, she smelled the flower, *SNIIIFF*, and cooled the soup, *WHOOOOSH*. 
 
-<!-- this line is optinal is we can't fit it -->
-Slowly, like a brave little snail, she stood up and crept toward the wall, lifting one shaky paw.
-
-<!-- Alternative would be something like: 
-
-She raised her shaking paw and it's shadow appeared on the wall, almost touching the shadow claws. Her heart thumped wildly and her paw froze. 
- -->
+Slowly, like a brave little snail, she stood up. She lifted one shaky paw and it's shadow appeared on the wall. Small and wobbly, but THERE. 
 
 ### Beat 4.2: Minor Setback
 <!-- PLOT: Facing the fear is hard; it requires persistence and self-encouragement. -->
 
-<!-- this line is optional if we can't fit it -->
-Her shadow appeared on the wall—small and wobbly, but THERE. Almost touching the plant's shadow. Her heart thumped again and her paw froze. 
-
+It was almost touching the shadow claws. Liska's heart thumped again and her paw froze. 
 
 ### Beat 4.3: Resolve Tested → Learned Skill → Persistence
 <!-- PLOT: She persists through fear, applying her skill to confront the source. -->
 
-<!-- We did establish that the butterfly and leaf danced. We did establish that spy and elephant danced. But we never connected that to Liska being a shadow dancer. Probably needs to be done during the elephant scene -->
-"Come on, shadow paw," she whispered. "You're mine. Be brave. We're shadow dancers."
+"Come on, shadow paw," she whispered. "You're mine. Be brave."
 
 She stubbornly pushed her paw forward. Her shadow touched the plant shadow, and...
 
