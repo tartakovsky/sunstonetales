@@ -23,7 +23,7 @@ With a final push — SKWEEEAK! — in came their new monstera plant, its leaves
 ### Beat 2.1: Lead-up
 <!-- PLOT: The plant is initially a fun, dynamic playmate. -->
 
-That afternoon, Liska made the shadow her new playmate. "High-five!" she giggled, slapping her palm against a big leaf-shadow on the wall. The wind moved the plant's leaves, and the shadow danced away. Liska went *SQUEEEE*, ready to chase it down for another high-five.
+That afternoon, Liska made the shadow her new playmate. "High-five!" she giggled, slapping her palm against a big leaf-shadow on the wall. The wind moved the plant's leaves, and the shadow moved away. Liska went *SQUEEEE* and chased it down for another high-five.
 
 ### Beat 2.2: The Catalyst
 <!-- PLOT: At night, the shadow's movement becomes ambiguous and unsettling. -->
@@ -33,7 +33,7 @@ As night fell, Mama tucked Liska in tight as a cinnamon roll. A gust of wind mad
 ### Beat 2.3: The Core Incident
 <!-- PLOT: Liska's perception shifts: the ambiguous shadow becomes a definite threat. -->
 
-The friendly leaves grew longer... and longer... until they didn't look like leaves anymore. Now they looked like claws!
+The leaf-shadows grew longer... and longer... until they didn't look like leaves anymore. Now they looked like claws!
 
 ---
 
@@ -51,7 +51,7 @@ But under the blanket her imagination took over. What if the shadow crept across
 
 Her heart started to beat very fast: BA-DUM, BA-DUM. BA-DUM, BA-DUM.
 
-She threw the blanket off. The shadow's arms stretched long against the wall. It looked as if they were grasping... grasping for HER!
+She threw the blanket off. The shadow claws stretched long against the wall. It looked as if they were grasping... grasping for HER!
 
 Liska scrambled out of bed, flew down the hall, and crashed into her mother's legs. "MAMA!" she sobbed. "The shadow has CLAWS and it wants to GRAB ME!"
 
@@ -106,14 +106,14 @@ A new thought sparked inside her: *Ooh! I can make them dance!*
 ### Beat 4.1: Skilled Attempt
 <!-- PLOT: Liska independently uses a learned skill to manage fear. -->
 
-The night came, and Mr. Cheesy’s shadow again crept across the wall. Liska’s heart began to thump. But this time was different. Clutching her sloth until she worried his stuffing might pop, she smelled the flower, *SNIIIFF*, and cooled the soup, *WHOOOOSH*. 
+The night came, and Mr. Cheesy’s shadow again stretched across the wall. Liska’s heart began to thump. But this time was different. Clutching her sloth until she worried his stuffing might pop, she smelled the flower, *SNIIIFF*, and cooled the soup, *WHOOOOSH*. 
 
 Slowly, like a brave little snail, she stood up. She lifted one shaky paw and it's shadow appeared on the wall. Small and wobbly, but THERE. 
 
 ### Beat 4.2: Minor Setback
 <!-- PLOT: Facing the fear is hard; it requires persistence and self-encouragement. -->
 
-It was almost touching the shadow claws. Liska's heart thumped again and her paw froze. 
+It was almost touching the shadow claws. Liska's heart thumped faster and her paw froze. 
 
 ### Beat 4.3: Resolve Tested → Learned Skill → Persistence
 <!-- PLOT: She persists through fear, applying her skill to confront the source. -->
@@ -143,17 +143,18 @@ Then Liska noticed Slothy hiding under her arm. "Oh, you're scared too?" she whi
 She made Slothy's shadow climb up the shadows's leafy claws. Higher and higher, until it reached the very top leaf.
 
 <!-- Liska made Slothy do a tiny shadow dance, in just a few words. Then it yawned. -->
-There, it found a comfortable spot and gave a big, slow shadow-yawn.
+There, it found a comfortable spot, curled up, and gave a big, slow shadow-yawn.
 
-The monster was gone. It became a bed in which a brave little hero slept peacefully. They won.
+There was no monster. The shadow became a bed in which a brave little hero slept peacefully.
 
 ### Beat 5.2: Making it Right / Integration / New Status Quo
 
 Mama, watching from the doorway, smiled. "I see we have brave new shadow dancers in here."
 
-Liska watched the scene she had created with a small, proud smile on her face. 
+Liska watched the scene she had created with a small, proud smile on her face. She won.
 
 
 ### Beat 5.3: Concluding Thought
 <!-- PLOT: The goal isn't eliminating fear, but gaining confidence to manage it. -->
+
 Next night, when the shadows grew long again, Liska snuggled with Slothy. She was ready. "Come on, Mr. Cheesy," she whispered. "Let's dance."
