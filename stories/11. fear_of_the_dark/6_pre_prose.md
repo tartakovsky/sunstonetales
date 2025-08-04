@@ -7,10 +7,10 @@ One morning, Mama and Liska squeezed something HUGE through the bedroom door.
 
 "Just... a... little... more!" Mama grunted, pushing the heavy pot.
 
-Liska planted her little feet, grabbed a giant leaf, and pulled with a mighty little "Hnngh!".
+Liska planted her little feet, grabbed a giant leaf, and tugged with a mighty little "Hnngh!".
 <!-- старательным крошечным «Хнннгх!» -->
 
-With a final push — SKWEEEAK! — in came their new monstera plant, its leaves full of holes, just like Swiss cheese.
+With a final push — SKREEECH! — in came their new monstera plant, its leaves full of holes, just like Swiss cheese.
 
 
 <!-- Do not touch pink nose, it's cute. Maybe a funnier simile -->
@@ -23,17 +23,17 @@ With a final push — SKWEEEAK! — in came their new monstera plant, its leaves
 ### Beat 2.1: Lead-up
 <!-- PLOT: The plant is initially a fun, dynamic playmate. -->
 
-That afternoon, Liska made the shadow her new playmate. "High-five!" she giggled, slapping her palm against a big leaf-shadow. The wind moved the plant's leaves, and the shadow moved away. Liska went *SQUEEEE* and chased it down for another high-five.
+That afternoon, Liska made the shadow her new playmate. "High-five!" she giggled, slapping her palm against a big leaf-shadow on the wall. The wind moved the plant's leaves, and the shadow moved away. Liska went *SQUEEEE* and chased it down for another high-five.
 
 ### Beat 2.2: The Catalyst
 <!-- PLOT: At night, the shadow's movement becomes ambiguous and unsettling. -->
 
-As night fell, Mama tucked Liska in tight as a cinnamon roll, Slothy snuggled under her arm. A *WHOOSH* of wind made Mr. Cheesy's shadow stretch and swing.
-
+As night fell, Mama tucked Liska in tight as a cinnamon roll, her stuffed sloth, Slothy, snuggled under her arm. A *WHOOSH* of wind made Mr. Cheesy's shadow stretch and swing.
+1
 ### Beat 2.3: The Core Incident
 <!-- PLOT: Liska's perception shifts: the ambiguous shadow becomes a definite threat. -->
 
-The leaf-shadows grew longer... and sharper... until they didn't look like leaves anymore. Now they looked like claws!
+Suddenly, the leaf-shadows grew longer... and sharper... until they didn't look like leaves anymore. Now they looked like claws!
 
 ---
 
@@ -47,13 +47,13 @@ Liska's eyes widened. *It's just Mr. Cheesy.* She hugged Slothy and pulled the b
 ### Beat 3.2: Low Point (Emotional & Practical Setback)
 <!-- PLOT: Avoidance backfires, amplifying fear and forcing her to seek help. -->
 
-But under the blanket, she started imagining scary things. What if the shadow crept closer? What if it touched her? What if— 
+But under the blanket, the darkness was full of scratchy sounds and scary thoughts. What if the shadow crept closer? What if it touched her? What if— 
 
 Her heart started to beat very fast: BA-DUM, BA-DUM. BA-DUM, BA-DUM.
 
 She threw the blanket off. The shadow claws stretched long. It looked as if they were reaching... reaching for HER!
 
-Liska rushed out of bed, flew down the hall, and crashed into her mother's legs. "MAMA!" she cried. "The shadow has CLAWS and it wants to GRAB ME!"
+Liska tumbled out of bed, scampered out of the room, and crashed into her mother's legs. "MAMA!" she cried. "The shadow has CLAWS and it wants to GRAB ME!"
 
 ### Beat 3.3: Recovery
 <!-- PLOT: A parent's co-regulation provides safety and reframes the threat by introducing shadow play. -->
@@ -69,7 +69,7 @@ Liska nodded, leaving tears and maybe a little snot on Mama's nightgown.
 
 As Mama tucked Liska back into bed, she held up her paws in the moonlight, shaping them until their shadow became a butterfly on the wall.
 
-She made it fly closer to the plant's shadow. Then around it's leafy claw. 
+She made it fly closer to the plant's shadow. Then around its leafy claw. 
 
 Liska watched, her eyes wide. The shadow butterfly was... beautiful? Not scary? 
 
@@ -88,9 +88,9 @@ The next evening, Liska asked, "Maamaa, I'm still scared of the shadow. Can you 
 
 "Mama," Liska said, "remember the butterfly you made? I wanna do it too."
 
-Mama helped her fold her paws, and a wobbly butterfly appeared on the wall.
+Mama helped her link her thumbs together, and a wobbly butterfly appeared on the wall.
 
-Mama pointed to the watering-can on the table. It's shadow was wiggling in the lamplight. "Looks like a grumpy elephant," she whispered. "I bet his trunk is ticklish!"
+Mama looked around. "Look," she whispered, pointing. "The shadow from your little watering can looks like a grumpy elephant. I bet his trunk is ticklish!"
 
 Liska made her butterfly circle the trunk once... twice... and... zipped in to bop it on the snoot!
 
@@ -106,7 +106,7 @@ A new thought sparked inside her: *Ooh! I can make them dance!*
 ### Beat 4.1: Skilled Attempt
 <!-- PLOT: Liska independently uses a learned skill to manage fear. -->
 
-The night came, and Mr. Cheesy’s shadow again stretched across the wall. Liska’s heart began to thump. But this time was different. She squeezed her sloth so hard his fluff almost came out. She smelled the flower, *SNIIIFF*, and cooled the soup, *WHOOOOSH*. 
+The night came, and Mr. Cheesy’s shadow again stretched across the wall. Liska’s heart began to thump. But this time was different. She squeezed Slothy so hard, she imagined his fluff might come out. She smelled the flower, *SNIIIFF*, and cooled the soup, *WHOOOOSH*. 
 
 Then, slowly, like a brave little snail, she stood up. She lifted one shaky paw and its shadow appeared on the wall. Small and wobbly, but THERE. 
 
@@ -125,7 +125,7 @@ She bravely pushed her paw forward. Her shadow touched the plant shadow, and...
 ### Beat 4.4: Success
 <!-- PLOT: The confrontation leads to a realization: the threat was never real. -->
 
-Nothing happened. No grabbing. Just her shadow-paw on the shadow-leaf.
+Nothing happened. No grabbing. Just her shadow-paw on the shadow-leaf. Her own paw was safe.
 
 ### Beat 4.5: Reward → Relief
 <!-- PLOT: Needs deep vivid satisfaction -->
@@ -136,11 +136,16 @@ Nothing happened. No grabbing. Just her shadow-paw on the shadow-leaf.
 
 ### Beat 5.1: Reflection & Learning
 
-Then Liska noticed Slothy hiding under her arm. "Oh, you're scared too?" she whispered, hugging him. "It's okay. We just do the flower-soup breath. In... and out."
+<!-- OR 
+
+Liska held Slothy in front of her. "See, Slothy? It's okay. We just do the flower-soup breath." 
+-->
+
+Then Liska looked down at Slothy, tucked under her arm. "Oh, you're scared too?" she whispered, hugging him. "It's okay. We just do the flower-soup breath. In... and out."
 
 "And now LET'S FIGHT THE SHADOW CHEESE MONSTER!"
 
-She pointed Slothy's shadow at the tip of a leafy claw. She moved it closer... closer... and suddenly gave the shadow claw a giant high-five! *TAP.*
+She held Slothy up and brought his shadow right up to the leafy claw. She moved it closer... closer... and suddenly gave the shadow claw a little high-five! *pat.*
 
 There was no monster. Just her friend, Mr. Cheesy, wiggling in the wind.
 
