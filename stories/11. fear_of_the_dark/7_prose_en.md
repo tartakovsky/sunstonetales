@@ -1,3 +1,5 @@
+# Liska and the Shadow Game
+
 ## Act 1: Introduction
 
 ### Beat 1.1: Introduce Characters, Setting and Atmosphere
@@ -6,8 +8,7 @@ One morning, Mama and Liska squeezed something HUGE through the bedroom door.
 
 "Just... a... little... more!" Mama grunted, pushing the heavy pot.
 
-Liska planted her little feet, grabbed a giant leaf, and tugged with a mighty little "Hnngh!".
-<!-- старательным крошечным «Хнннгх!» -->
+Liska planted her feet, grabbed a giant leaf, and tugged with a mighty little "Hnngh!".
 
 With a final push — SKREEECH! — in came their new monstera plant, its leaves full of holes, just like Swiss cheese.
 
@@ -25,7 +26,7 @@ That afternoon, Liska played with Mr. Cheesy's shadow.
 
 "High-five!" she giggled, slapping her palm against a leaf-shadow on the wall. 
 
-The wind from the open window moved the plant's leaves, and the shadow moved away. A happy *SQUEEEE!* burst from Liska as she chased it down for another high-five.
+The wind moved the plant's leaves, and the shadow moved away. A happy *SQUEEEE!* burst from Liska as she chased it for another high-five.
 
 ### Beat 2.2: The Catalyst
 
@@ -45,7 +46,7 @@ Liska's eyes widened. *It's just Mr. Cheesy.* She hugged Slothy and pulled the b
 
 ### Beat 3.2: Low Point (Emotional & Practical Setback)
 
-But under the blanket, her head filled with scary thoughts. What if the shadow crept closer? What if it touched her? What if— 
+But under the blanket, her head filled with scary thoughts: What if the shadow crept closer? What if it touched her? What if— 
 
 A quick, loud thumping started in her chest: BA-DUM, BA-DUM. BA-DUM, BA-DUM.
 
@@ -67,21 +68,21 @@ Liska nodded, leaving tears and maybe a little snot on Mama's nightgown.
 
 As Mama tucked Liska back into bed, she held up her paws in the moonlight, folding them until their shadow became a butterfly on the wall.
 
-She made it fly closer to the plant's shadow. Then around its leafy claw. 
+She made it fly closer to the plant. Then around its claw-shaped shadow. 
 
 Liska watched, her eyes wide. The shadow butterfly was... beautiful? Not scary? 
 
-"It's like they're dancing," she whispered. 
+"It's like they're playing," she whispered. 
 
 ### Beat 3.4: Solution Discovery
 
 The next evening, Liska asked, "Maamaa, I'm scared of that shadow. Help me?"
 
-"Of course, kitten," her mother answered. "How does your body feel?"
+"Of course, kitten. How does your body feel?"
 
-"My heart is going thump-thump, thump-thump."
+"My heart is going thump-thump, thump-thump," Liska said.
 
-"Then let's help it calm down," her mother said. "Breathe in like you smell a flower, and breathe out like you cool down hot soup. Liska did a slow *SNIFF* in... and a long *WHOOOSH* out."
+"Then let's help it calm down. Breathe in like you smell a flower, and breathe out like you cool down hot soup." Liska did a slow *SNIFF* in... and a long *WHOOOSH* out.
 
 "Mama," she said, "remember the butterfly you made? I wanna do it too."
 
@@ -89,13 +90,13 @@ Mama helped her link her thumbs together, and a wobbly butterfly appeared on the
 
 Mama looked around.
 
-"Look," she whispered, pointing. "The shadow from your little watering can looks like an elephant. I bet his trunk is ticklish! Wanna tickle it?"
+"Look, the shadow from your watering can looks like an elephant. I bet his trunk is ticklish! Wanna tickle it?"
 
 Liska made her butterfly circle the trunk once... twice... and... zipped in to bop it on the snoot!
 
-The trunk-shadow wobbled, and a tiny *SNORT* came out of Liska. The trunk looked like it wanted to dance.
+The trunk-shadow shook with what looked like giggles, and a tiny *SNORT* came out of Liska. It looked like it wanted to play.
 
-A new thought sparked inside her: *Ooh! I can make them DANCE!*
+Suddenly, a new thought sparked inside her: *Ooh! I can PLAY with them!*
 
 ---
 
@@ -115,11 +116,11 @@ It was almost touching the shadow claws. Liska's heart thumped faster and her pa
 
 "Come on, shadow paw," she whispered. "You're mine. Be brave."
 
-She pushed her paw forward until her shadow-paw softly touched the plant shadow, and...
+She pushed her paw forward until her shadow paw softly touched the plant shadow, and...
 
 ### Beat 4.4: Success
 
-Nothing happened. No grabbing. Just her shadow-paw on the shadow-leaf. Her own paw was safe.
+Nothing happened. No grabbing. Just her shadow paw on the shadow leaf. Her own paw was safe.
 
 ### Beat 4.5: Reward → Relief
 
@@ -128,25 +129,27 @@ Nothing happened. No grabbing. Just her shadow-paw on the shadow-leaf. Her own p
 ## Act 5: Resolution & Conclusion - Integrating the Growth
 
 ### Beat 5.1: Reflection & Learning
+<!-- is this beat making it too long? Developmentally it serves the purpose, to show mastery of the skill. But I'm not sure whether it just feels repetitive and makes the story boring. -->
+Then Liska looked down at Slothy. "Oh, you're scared too?" she whispered, hugging him. "It's okay. We just do the flower-soup breath. In... and out."
 
-Then Liska looked down at Slothy, tucked under her arm. "Oh, you're scared too?" she whispered, hugging him. "It's okay. We just do the flower-soup breath. In... and out."
+"And now let's play!"
 
-<!-- the cheese monster comes a bit out of nowhere, we never framed it as a cheese monster. The idea was that she names it so because she is afraid of it, but still -->
-"And now LET'S MAKE THIS SCARY CLAWY THING DANCE!"
+She held Slothy up and brought his shadow right up to the claw-shaped shadow. She moved it closer... closer... and suddenly gave the shadow claw a little high-five! *pat*!
 
-She held Slothy up and brought his shadow right up to the leafy claw. She moved it closer... closer... and suddenly gave the shadow claw a little high-five! *pat*!
-
-There was no monster. Just her friend, Mr. Cheesy, wiggling in the wind.
+And there wasn't a claw after all. Just a shadow of her friend, Mr. Cheesy, wiggling in the wind.
 
 ### Beat 5.2: Making it Right / Integration / New Status Quo
 
 Mama, watching from the doorway, smiled.
 
-"Look at you, my brave little shadow dancer!"
+"Wow, you were so afraid of that spiky shadow, but you still found a way to play with it!"
 
-Liska snuggled into her mother’s paw and purred softly: "I did it."
-
+Liska snuggled into her mother’s paw and purred softly: "I love you, mom"
 
 ### Beat 5.3: Concluding Thought
 
-She looked at the shadows, now just familiar shapes on the wall. "Good night, Mr. Cheesy," she whispered. "Tomorrow, we'll dance again."
+She turned back to the shadows. 
+
+"Good night, Mr. Cheesy," she whispered. "Tomorrow, we'll play again."
+
+
