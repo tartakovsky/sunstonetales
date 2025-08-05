@@ -12,9 +12,10 @@ Liska planted her little feet, grabbed a giant leaf, and tugged with a mighty li
 
 With a final push — SKREEECH! — in came their new monstera plant, its leaves full of holes, just like Swiss cheese.
 
+"A cheese plant! - Liska said - I name you Mr. Cheesy!" 
 
 <!-- Do not touch pink nose, it's cute. Maybe a funnier simile -->
-"It's a friendly cheese plant! - Liska said - I name it Mr. Cheesy!" Her pink nose poked through a leaf-hole like a tiny curious button.
+Her pink nose poked through a leaf-hole like a tiny curious button.
 
 ---
 
@@ -23,7 +24,11 @@ With a final push — SKREEECH! — in came their new monstera plant, its leaves
 ### Beat 2.1: Lead-up
 <!-- PLOT: The plant is initially a fun, dynamic playmate. -->
 
-That afternoon, Liska made the shadow her new playmate. "High-five!" she giggled, slapping her palm against a big leaf-shadow on the wall. The wind from the open window moved the plant's leaves, and the shadow moved away. Liska went *SQUEEEE* and chased it down for another high-five.
+That afternoon, Liska played with the plant's shadow. 
+
+"High-five!" she giggled, slapping her palm against a leaf-shadow on the wall. 
+
+The wind from the open window moved the plant's leaves, and the shadow moved away. Liska went *SQUEEEE* and chased it down for another high-five.
 
 ### Beat 2.2: The Catalyst
 <!-- PLOT: At night, the shadow's movement becomes ambiguous and unsettling. -->
@@ -52,9 +57,9 @@ But under the blanket, her head filled with scary thoughts. What if the shadow c
 
 A quick, loud thumping started in her chest: BA-DUM, BA-DUM. BA-DUM, BA-DUM.
 
-She threw the blanket off. The shadow claws stretched long. It looked as if they were reaching... reaching for HER!
+She threw the blanket off, tumbled out of be and scampered out of the room. 
 
-Liska tumbled out of bed, scampered out of the room, and crashed into her mother's legs. "MAMA!" she cried. "The shadow has CLAWS and it wants to GRAB ME!"
+"MAMA!" she cried. "The shadow has CLAWS and it wants to GRAB ME!"
 
 ### Beat 3.3: Recovery
 <!-- PLOT: A parent's co-regulation provides safety and reframes the threat by introducing shadow play. -->
@@ -67,7 +72,6 @@ She carried her back to the bedroom and they peeked inside.
 
 Liska nodded, leaving tears and maybe a little snot on Mama's nightgown. 
 
-
 As Mama tucked Liska back into bed, she held up her paws in the moonlight, folding them until their shadow became a butterfly on the wall.
 
 She made it fly closer to the plant's shadow. Then around its leafy claw. 
@@ -79,26 +83,26 @@ Liska watched, her eyes wide. The shadow butterfly was... beautiful? Not scary?
 ### Beat 3.4: Solution Discovery
 <!-- PLOT: Liska asks for help and learns concrete coping skills (breathing, shadow play). -->
 
-The next evening, Liska asked, "Maamaa, I'm still scared of the shadow. Can you help me?"
+The next evening, Liska asked, "Maamaa, I'm scared of that shadow. Help me?"
 
 "Of course, kitten," her mother answered. "How does your body feel?"
 
 "My heart is going thump-thump, thump-thump"
 
-"Then let's help it calm down," her mother said. "Breathe in like you smell a big flower... Liska took a slow *sniff* in... and breathe out like you cool down the hot soup... and a long *whoooosh* out."
+"Then let's help it calm down," her mother said. "Breathe in like you smell a flower... and breathe out like you cool down a hot soup... A slow *SNIFF* in... and a long *WHOOOSH* out."
 
 "Mama," Liska said, "remember the butterfly you made? I wanna do it too."
 
 Mama helped her link her thumbs together, and a wobbly butterfly appeared on the wall.
 
-Mama looked around. "Look," she whispered, pointing. "The shadow from your little watering can looks like an elephant with a long trunk. I bet his trunk is ticklish!"
+Mama looked around. "Look," she whispered, pointing. "The shadow from your little watering can looks like an elephant. I bet his trunk is ticklish!"
 
 Liska made her butterfly circle the trunk once... twice... and... zipped in to bop it on the snoot!
 
 <!-- и из Лиски вырвался маленький *фырк* -->
 The trunk-shadow wobbled, and a tiny *SNORT* came out of Liska. The trunk looked like it wanted to dance.
 
-A new thought sparked inside her: *Ooh! I can make them dance!*
+A new thought sparked inside her: *Ooh! I can make them DANCE!*
 
 ---
 
