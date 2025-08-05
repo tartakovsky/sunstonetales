@@ -21,7 +21,7 @@ Her tiny pink nose poked through a leaf-hole.
 
 ### Beat 2.1: Lead-up
 
-That afternoon, Liska played with the plant's shadow. 
+That afternoon, Liska played with Mr. Cheesy's shadow. 
 
 "High-five!" she giggled, slapping her palm against a leaf-shadow on the wall. 
 
@@ -81,19 +81,18 @@ The next evening, Liska asked, "Maamaa, I'm scared of that shadow. Help me?"
 
 "My heart is going thump-thump, thump-thump."
 
-"Then let's help it calm down," her mother said. "Breathe in like you smell a flower, and breathe out like you cool down hot soup. A slow *SNIFF* in... and a long *WHOOOSH* out."
+"Then let's help it calm down," her mother said. "Breathe in like you smell a flower, and breathe out like you cool down hot soup. Liska did a slow *SNIFF* in... and a long *WHOOOSH* out."
 
-"Mama," Liska said, "remember the butterfly you made? I wanna do it too."
+"Mama," she said, "remember the butterfly you made? I wanna do it too."
 
 Mama helped her link her thumbs together, and a wobbly butterfly appeared on the wall.
 
 Mama looked around.
 
-"Look," she whispered, pointing. "The shadow from your little watering can looks like an elephant. I bet his trunk is ticklish!"
+"Look," she whispered, pointing. "The shadow from your little watering can looks like an elephant. I bet his trunk is ticklish! Wanna tickle it?"
 
 Liska made her butterfly circle the trunk once... twice... and... zipped in to bop it on the snoot!
 
-<!-- и из Лиски вырвался маленький *фырк* -->
 The trunk-shadow wobbled, and a tiny *SNORT* came out of Liska. The trunk looked like it wanted to dance.
 
 A new thought sparked inside her: *Ooh! I can make them DANCE!*
@@ -132,7 +131,8 @@ Nothing happened. No grabbing. Just her shadow-paw on the shadow-leaf. Her own p
 
 Then Liska looked down at Slothy, tucked under her arm. "Oh, you're scared too?" she whispered, hugging him. "It's okay. We just do the flower-soup breath. In... and out."
 
-"And now LET'S PLAY WITH THE SHADOW CHEESE MONSTER!"
+<!-- the cheese monster comes a bit out of nowhere, we never framed it as a cheese monster. The idea was that she names it so because she is afraid of it, but still -->
+"And now LET'S MAKE THIS SCARY CLAWY THING DANCE!"
 
 She held Slothy up and brought his shadow right up to the leafy claw. She moved it closer... closer... and suddenly gave the shadow claw a little high-five! *pat*!
 
@@ -144,8 +144,6 @@ Mama, watching from the doorway, smiled.
 
 "Look at you, my brave little shadow dancer!"
 
-<!-- Лиска ткнулась носиком в мамину ладонь и тихо мурлыкнула: "...".
- -->
 Liska snuggled into her mother’s paw and purred softly: "I did it."
 
 
