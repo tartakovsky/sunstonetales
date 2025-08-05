@@ -2,18 +2,17 @@
 
 ### Beat 1.1: Introduce Characters, Setting and Atmosphere
 
-One morning, Mama and Liska squeezed something HUGE through the bedroom door. 
+Однажды утром Мама и Лиска вносили в ее спальню что-то ОГРОМНОЕ.
 
-"Just... a... little... more!" Mama grunted, pushing the heavy pot.
+— Ещё... чуть-чуть... — пыхтела Мама, толкая тяжёлый горшок.
 
-Liska planted her little feet, grabbed a giant leaf, and tugged with a mighty little "Hnngh!".
-<!-- старательным крошечным «Хнннгх!» -->
+Лиска упёрлась лапками в пол, схватилась за гигантский лист и потянула со старательным крошечным «Хнннгх!»
 
-With a final push — SKREEECH! — in came their new monstera plant, its leaves full of holes, just like Swiss cheese.
+С последним толчком — СКРИИИП! — в комнату въехал их новый цветок – огромная монстера. Её листья все были в дырках, прямо как швейцарский сыр.
 
-Her tiny pink nose poked through a leaf-hole.
+Крошечный розовый носик Лиски просунулся в одну из дырочек.
 
-"A cheese plant!" Liska said. "I name you Mr. Cheesy!" 
+— Сырный цветок! — воскликнула Лиска. — Я назову тебя Мистер Сырник!
 
 ---
 
@@ -21,19 +20,21 @@ Her tiny pink nose poked through a leaf-hole.
 
 ### Beat 2.1: Lead-up
 
-That afternoon, Liska played with the plant's shadow. 
+Днём Лиска играла с тенью монстеры.
 
-"High-five!" she giggled, slapping her palm against a leaf-shadow on the wall. 
+— Дай пять! — хихикнула она и шлёпнула ладошкой по тени листа на стене.
 
-The wind from the open window moved the plant's leaves, and the shadow moved away. A happy *SQUEEEE!* burst from Liska as she chased it down for another high-five.
+Ветер из открытого окна пошевелил листья, и тень убежала. Лиска радостно взвизгнула, — УИИИИИ! — и бросилась за ней вдогонку.
 
 ### Beat 2.2: The Catalyst
 
-As night fell, Mama tucked Liska in tight as a cinnamon roll, her stuffed sloth, Slothy, snuggled under her arm. A *WHOOSH* of wind made Mr. Cheesy's shadow stretch and swing.
+Перед сном, Мама закутала Лиску, как булочку с коричей. Её плюшевый ленивчик уютно устроился у неё под боком. 
+
+Порыв ветра качнул листья Мистера Сырника, и его тень вытянулась и закачалась.
 
 ### Beat 2.3: The Core Incident
 
-Suddenly, the leaf-shadows grew longer... and sharper... until they didn't look like leaves anymore. Now they looked like claws!
+Внезапно тени листьев стали длиннее... и острее... и совсем перестали походить на листья. Теперь они были похожи на когти!
 
 ---
 
@@ -41,62 +42,63 @@ Suddenly, the leaf-shadows grew longer... and sharper... until they didn't look 
 
 ### Beat 3.1: Unskilled Attempt(s)
 
-Liska's eyes widened. *It's just Mr. Cheesy.* She hugged Slothy and pulled the blanket over her head. "Go away," she whispered. "You're just a plant."
+Глаза Лиски расширились. *Это же просто Мистер Сырник.* Она обняла Ленивчика и натянула одеяло на голову. 
+
+— Уходи, — прошептала она. — Ты просто цветок.
 
 ### Beat 3.2: Low Point (Emotional & Practical Setback)
+Но под одеялом её голову наполнили страшные мысли. *Что, если тень подкрадётся ближе? Что, если она дотронется до меня? Что, если...*
 
-But under the blanket, her head filled with scary thoughts. What if the shadow crept closer? What if it touched her? What if— 
+В груди быстро и громко застучало: ТУДУМ-ТУДУМ. ТУДУМ-ТУДУМ.
 
-A quick, loud thumping started in her chest: BA-DUM, BA-DUM. BA-DUM, BA-DUM.
+Она сбросила одеяло, выкатилась из кровати и выскочила из комнаты.
 
-She threw the blanket off, tumbled out of bed and scampered out of the room. 
-
-"MAMA!" she cried. "The shadow has CLAWS and it wants to GRAB ME!"
+— МАМА! — закричала она. — У тени КОГТИ, и она хочет меня СХВАТИТЬ!
 
 ### Beat 3.3: Recovery
+Мама подхватила её на руки.
 
-Mama scooped her up.
+— Ох, мой котенок, ты так напугана, — тихо сказала она.
 
-"Oh, sweet kitten, you're so scared," she said softly.
+Она отнесла её обратно в спальню, и они заглянули внутрь.
 
-She carried her back to the bedroom and they peeked inside.
+— Ты права, — сказала Мама. — Эта тень и правда немного колючая.
 
-"You're right," Mama said. "That shadow does look a little spiky."
+Лиска кивнула, оставляя слёзы и, может быть, немного соплей на маминой ночнушке.
 
-Liska nodded, leaving tears and maybe a little snot on Mama's nightgown. 
+Укладывая Лиску обратно в постель, Мама подняла лапы в луч лунного свете и сложила их так, чтобы на стене появилась тень бабочки.
 
-As Mama tucked Liska back into bed, she held up her paws in the moonlight, folding them until their shadow became a butterfly on the wall.
+Она подвинула лапы и тень-бабочка подлетела поближе к тени растения. А потом облетела вокруг её когтистой тени-листа.
 
-She made it fly closer to the plant's shadow. Then around its leafy claw. 
+Лиска смотрела во все глаза. Тень-бабочка была... красивой? Не страшной?
 
-Liska watched, her eyes wide. The shadow butterfly was... beautiful? Not scary? 
-
-"It's like they're dancing," she whispered. 
+— Они как будто танцуют, — прошептала Лиска.
 
 ### Beat 3.4: Solution Discovery
 
-The next evening, Liska asked, "Maamaa, I'm scared of that shadow. Help me?"
+На следующий вечер Лиска попросила:
+— Ма-ам, я все еще боюсь эту тень. Помоги мне?
 
-"Of course, kitten," her mother answered. "How does your body feel?"
+— Конечно, котёнок, — ответила мама. — Как ты себя чувствуешь?
 
-"My heart is going thump-thump, thump-thump."
+— Сердце стучит. Тук-тук, тук-тук.
 
-"Then let's help it calm down," her mother said. "Breathe in like you smell a flower, and breathe out like you cool down hot soup. A slow *SNIFF* in... and a long *WHOOOSH* out."
+— Тогда давай поможем ему успокоиться, — сказала мама. — Вдохни, как будто нюхаешь цветок. И выдохни, как будто остужаешь горячий суп. Медленный *вдооох*... и долгий *выыыдох*.
 
-"Mama," Liska said, "remember the butterfly you made? I wanna do it too."
+— Мам, — сказала Лиска, — помнишь бабочку, которую ты делала? Я тоже так хочу.
 
-Mama helped her link her thumbs together, and a wobbly butterfly appeared on the wall.
+Мама помогла ей соединить большие пальцы так, чтобы на стене появилась тень-бабочка.
 
-Mama looked around.
+Мама огляделась.
 
-"Look," she whispered, pointing. "The shadow from your little watering can looks like an elephant. I bet his trunk is ticklish!"
+— Смотри, — прошептала она. — Тень от твоей леечки похожа на слоника с длинным хоботом. Думаю, он боится щекотки!
 
-Liska made her butterfly circle the trunk once... twice... and... zipped in to bop it on the snoot!
+Лиска задвигала лапками и её тень-бабочка облетела хобот раз... другой... и... тюкнула его по носу!
 
-<!-- и из Лиски вырвался маленький *фырк* -->
-The trunk-shadow wobbled, and a tiny *SNORT* came out of Liska. The trunk looked like it wanted to dance.
+Тень-хобот покачнулась, и из Лиски вырвался маленький *фырк*. Хобот, казалось, хотел танцевать.
 
-A new thought sparked inside her: *Ooh! I can make them DANCE!*
+<!-- заставить is weird -->
+В голове у неё появилась новая мысль: *Точно! Я могу заставить их ТАНЦЕВАТЬ!*
 
 ---
 
@@ -104,52 +106,55 @@ A new thought sparked inside her: *Ooh! I can make them DANCE!*
 
 ### Beat 4.1: Skilled Attempt
 
-Later that night, Mr. Cheesy’s shadow again stretched across the wall. Liska’s heart began to thump, but this time she knew what to do. She squeezed Slothy so hard, she imagined his fluff might come out. She smelled the flower, *SNIIIFF*, and cooled the soup, *WHOOOOSH*. 
+Позже ночью тень Мистера Сырника снова вытянулась через всю стену. Сердце Лиски забилось, но на этот раз она знала, что делать. Она так крепко сжала Ленивчика, что, казалось, из него вылезет вся набивка. Она понюхала цветок, *ВДОООХ*, и остудила суп, *ВЫЫЫДОХ*.
 
-Then, slowly, like a brave little snail, she stood up. She lifted one shaky paw and its shadow appeared on the wall. Small and wobbly, but THERE. 
+Затем, медленно, как храбрая улиточка, она встала с кровати. Она подняла дрожащую лапку, и её тень появилась на стене. Маленькая и неуверенная, но появилась!
 
 ### Beat 4.2: Minor Setback
 
-It was almost touching the shadow claws. Liska's heart thumped faster and her paw froze. 
+Тень-лапка почти касалась когтистой тени-листа. Сердце Лиски застучало быстрее, и её лапка замерла.
 
 ### Beat 4.3: Resolve Tested → Learned Skill → Persistence
 
-"Come on, shadow paw," she whispered. "You're mine. Be brave."
+— Давай, тень-лапка, — прошептала она. — Не бойся. Ты сможешь.
 
-She pushed her paw forward until her shadow-paw gently touched the plant shadow, and...
+Она двигала лапку вперёд, пока её тень-лапка не коснулась тени растения, и...
 
 ### Beat 4.4: Success
 
-Nothing happened. No grabbing. Just her shadow-paw on the shadow-leaf. Her own paw was safe.
+Ничего не произошло. Никто её не схватил. Просто её тень-лапка на тени-листе. Её собственная лапка была в безопасности.
 
 ### Beat 4.5: Reward → Relief
 
-"You're not scary," she said. "You're just... another shadow! You can't DO anything!" 
+— Ты не страшная, — сказала она. — Ты просто... еще одна тень! А сделать ты ничего не можешь!
 
 ## Act 5: Resolution & Conclusion - Integrating the Growth
 
 ### Beat 5.1: Reflection & Learning
 
-Then Liska looked down at Slothy, tucked under her arm. "Oh, you're scared too?" she whispered, hugging him. "It's okay. We just do the flower-soup breath. In... and out."
+Потом Лиска посмотрела на Ленивчика у себя подмышкой.
 
-"And now LET'S PLAY WITH THE SHADOW CHEESE MONSTER!"
+— Ох, ты тоже боишься? — прошептала она, обнимая его. — Всё в порядке. Мы просто понюхаем цветок и остудим суп. Вдох... и выдох.
 
-She held Slothy up and brought his shadow right up to the leafy claw. She moved it closer... closer... and suddenly gave the shadow claw a little high-five! *pat*!
+<!-- the cheese monster comes a bit out of nowhere, we never framed it as a cheese monster. The idea was that she names it so because she is afraid of it, but still -->
+— А теперь ДАВАЙ ИГРАТЬ С ТЕНЬЮ СЫРНОГО МОНСТРА!
 
-There was no monster. Just her friend, Mr. Cheesy, wiggling in the wind.
+Она подняла Ленивчика и пододвинула его тень прямо к когтистой тени-листу. Она двигала его всё ближе... ближе... и вдруг *шлёп*! Дала ей небольшую пятюню! 
+
+Не было там никакого монстра. Просто её друг, Мистер Сырник, качался на ветру.
+
 
 ### Beat 5.2: Making it Right / Integration / New Status Quo
 
-Mama, watching from the doorway, smiled.
+Мама, наблюдавшая из дверного проёма, улыбнулась.
 
-"Look at you, my brave little shadow dancer!"
+— Смотри какой у меня храбрый танцор теней!
 
-<!-- Лиска ткнулась носиком в мамину ладонь и тихо мурлыкнула: "...".
- -->
-Liska snuggled into her mother’s paw and purred softly: "I did it."
+Лиска ткнулась носом в мамину ладонь и тихо промурлыкала:
 
+— Я справилась.
 
 ### Beat 5.3: Concluding Thought
 
-She looked at the shadows, now just familiar shapes on the wall. "Good night, Mr. Cheesy," she whispered. "Tomorrow, we'll dance again."
-She looked at the shadows, now just familiar shapes on the wall. "Good night, Mr. Cheesy," she whispered. "Tomorrow, we'll dance again."
+Она посмотрела на тени вокруг, теперь просто знакомые фигуры на стене.
+— Спокойной ночи, Мистер Сырник, — сказала она. — Завтра мы снова потанцуем.

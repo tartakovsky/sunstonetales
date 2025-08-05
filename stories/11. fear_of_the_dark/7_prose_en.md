@@ -116,7 +116,7 @@ It was almost touching the shadow claws. Liska's heart thumped faster and her pa
 
 "Come on, shadow paw," she whispered. "You're mine. Be brave."
 
-She pushed her paw forward until her shadow-paw gently touched the plant shadow, and...
+She pushed her paw forward until her shadow-paw softly touched the plant shadow, and...
 
 ### Beat 4.4: Success
 
@@ -151,5 +151,4 @@ Liska snuggled into her mother’s paw and purred softly: "I did it."
 
 ### Beat 5.3: Concluding Thought
 
-She looked at the shadows, now just familiar shapes on the wall. "Good night, Mr. Cheesy," she whispered. "Tomorrow, we'll dance again."
 She looked at the shadows, now just familiar shapes on the wall. "Good night, Mr. Cheesy," she whispered. "Tomorrow, we'll dance again."
