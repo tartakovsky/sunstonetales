@@ -17,7 +17,7 @@ the story then becomes about fear of the unknown. So now then, our story is abou
 
 ### Beat 1.1: Introduce Characters, Setting and Atmosphere
 
-The Saar's central yard, a place Liska knows intimately from daily play, is transformed for the annual "Night of Twinkling Lights." festival
+The Saar's central yard, a place Liska knows intimately from daily play, is transformed for the "Night of Twinkling Lights." festival
 
 It's twilight. Garlands of purple and orange lamps hang between the houses, casting a magical, festive glow that mixes with the dappled light from the yard's large trees. 
 
@@ -34,73 +34,83 @@ Liska pressed herself against her mother's leg, one paw gripping the soft fabric
 ## Act 2: The Challenge Begins
 
 ### Beat 2.1: Lead-up
+
 As twilight deepens, the yard starts to change with more lamps casting unusual shadows and a few unfamiliar guests arriving, making the once-known paths feel a bit strange to Liska even as her friend Anji waves excitedly from the performance blanket.
 
 "Liska! Over here!" Her friend Anji waved from the big blanket spread beneath the performance tree. All the neighborhood cubs had claimed the best spots, their tails swishing with anticipation. The Glow Beetle Man lifted his carved whistle to his lips, and the first low, haunting note made everyone fall silent.
 
 ### Beat 2.2: The Catalyst
 
-From his basket emerged a living constellation. Deep violet and emerald beetles swirled upward, their lights pulsing in rhythm with the whistle's melody. The Glow Beetle Man waved his hands gracefully, directing the beetles in beautiful waves and spirals above the enchanted cubs. Then, with a gentle trill, the man coaxed forward a single beetle that glowed like a tiny sun - brilliant orange and twice as bright as the others. It floated down to perch on a kitten's (lynx cub from toothy adventure) outstretched paw, bathing his face in warm light. The kitten's eyes went wide with wonder, and Liska's heart beat so fast with wanting to touch it that her paws moved on their own. One step, then two...
+From his basket emerged a living constellation. Deep violet and emerald beetles swirled upward, their lights pulsing in rhythm with the whistle's melody. The Glow Beetle Man waved his hands gracefully, directing the beetles in beautiful waves and spirals above the enchanted cubs. Then, with a gentle trill, the man coaxed forward a single beetle that glowed like a tiny sun - brilliant orange and twice as bright as the others. It floated down to perch on a kitten's (lynx cub from toothy adventure) outstretched paw, bathing his face in warm light. The kitten's eyes went wide with wonder.
 
-<!-- Weird af metaphor. 4-5yolds are literal. They think her heart is pulling her
-
-[heart pulled so hard] 
-
-Also we lost somewhere the idea that he was moving his hands to direct the beetles in beautiful waves
--->
+Liska's heart beat so fast with wanting to touch the beetle that her paws moved on their own. She took one step, then another, her eyes locked on the tiny, glowing sun.
 
 ### Beat 2.3: The Core Incident
 
-<!-- For maximum impact in making the yard feel unknown, you should prioritize disrupting **Hearing** and **Sight**. These are the senses Liska uses to understand and navigate her world. A sudden, loud sound or a path that looks like it's covered in wiggling snakes is a direct and concrete threat to a 4-year-old's sense of order. The loss of comforting touch and smells then reinforces the emotional consequence of that threat: feeling alone and vulnerable. -->
-A wave of fear of the unknown overwhelms her powerful curiosity. The need for her safe anchor *in the presence of these unknowns* is stronger than the pull of the glowing beetle.
+<!-- For maximum impact in making the yard feel unknown, you should 
+prioritize disrupting **Hearing** and **Sight**. These are the senses 
+Liska uses to understand and navigate her world. A sudden, loud sound 
+or a path that looks like it's covered in wiggling snakes is a direct 
+and concrete threat to a 4-year-old's sense of order. The loss of 
+comforting touch and smells then reinforces the emotional consequence 
+of that threat: feeling alone and vulnerable. -->
 
-<!-- That was "Fallout" in the old structure which we no longer have. Before running back to mother she should try a couple of small attempts how to deal with it on her own, then fail, get overwhelmed and run back -->
-Liska scrambled backward, nearly tripping over her own tail in her rush to return to safety. She buried her face in Mara's skirt, her whole body trembling. "Too many strangers," she whispered into the fabric.
-<!-- is Too many strangers what a child would say? Would they reflect like that? Would they reflect at all?
- -->
+As she took her second step, a neighbor's sudden, loud laugh shattered the magical quiet. Liska flinched, her spell of wonder broken. The yard was no longer just a path to the beetle; it was again a place of strange shadows and unfamiliar faces. A wave of fear of the unknown hits her. Her desire to touch the beetle warred with her unease. She jumped back to Mama and hid behind her leg.
+<!-- But no deep dysregulation yet, she's just spooked but recovers and tries -->
 
 ## Act 3: Attempts to Solve - Facing the Problem & Inner Turmoil
 
 ### Beat 3.1: Unskilled Attempt(s)
+<!-- it's a bit repetitive with the core incident. But we need more than one attempts here. She tries couple of different, inventive, interesting and fun approaches, then fails and dysregulates -->
+Liska peeked out from behind Mara. The orange beetle still glowed on 
+her friend's paw, and oh, how she wanted to touch that living light! 
+She forced herself to let go of Mama's skirt. Her paws felt cold 
+without that anchor. She managed one brave step forward before [something] made her flinch. This wasn't like crossing the 
+yard on a normal day. Every shadow might hide something new. Every 
+sound seemed too loud.
 
-<!-- No fallout means no co-regulation. That now should be merged into Recovery beat. -->
-Mara's warm paw settled on Liska's head, gently stroking between her ears. "I'm right here, little one," she murmured. "The yard is still our yard, just dressed up fancy for tonight." Liska's breathing slowed to match her mother's steady rhythm, though her grip on the skirt remained firm.
-<!-- misses intentional connection, admitting and validating the feeling. Dismisses child's emotion instead. -->
-
-<!-- These now become her first unskilled attempts without dysregulation before. -->
-Liska peeked out from behind Mara. The orange beetle still glowed on her friend's paw, and oh, how she wanted to touch that living light! She forced herself to let go of Mama's skirt. Her paws felt cold without that anchor. She managed one brave step forward before a neighbor's loud laugh made her flinch. This wasn't like crossing the yard on a normal day. Every shadow might hide something new. Every sound seemed too loud.
-
-"Maybe if I go really fast," Liska whispered to herself. She took a deep breath and darted forward, weaving between the festival-goers like she was playing chase. She made it halfway - past the water barrel, around Mrs. Pepper's herb garden. But then a stranger stepped directly in her path, tall as a tree and smelling of unfamiliar spices. He was just adjusting his festival mask, but to Liska he loomed like a giant. Her courage crumbled.
+"Maybe if I go really fast," she whispered to herself. She took a deep breath and darted forward, weaving between the festival-goers. She made it halfway to the blanket, but then a tall stranger adjusting his festival mask stepped directly in her path. To Liska, he loomed like a giant. Her courage crumbled completely. The need for her safe anchor with Mama was now stronger than the pull of the glowing beetle.
 
 ### Beat 3.2: Low Point (Emotional & Practical Setback)
-
-She fled back to Mara, stretching her hands up asking for a lift, climbing right up into her mother's arms, hugging her like koala and pressing her face against her neck. "I can't do it!" The words came out as a sob. "The yard is too different and full of things I don't know!" Her tail wrapped around herself like a shield. She felt like a very small kit in a very large world.
-<!-- not bad, but definitely too much analysis for a dysregulated 4-5yo -->
+<!-- not bad, but definitely too much analysis for a dysregulated 
+4-5yo -->
+She fled back to Mara, stretching her hands up asking for a lift, 
+climbing right up into her mother's arms, hugging her like koala and 
+pressing her face against her neck. "I can't do it!" The words came out as a sob. "The yard is too different and full of things I don't know!" Her tail wrapped around herself like a shield. She felt like a very small kit in a very large, unfamiliar world.
 
 ### Beat 3.3: Recovery
+Mara (murmuring): "So scary." (Simple, validating, naming the core feeling).
 
-<!-- Deeper co-regulation, validating the feeling. -->
-Mara kneels, pulling Liska into a firm, warm hug. "The yard feels different tonight, doesn't it?" she says softly. "All the new sounds and faces. It's okay to feel [wobbly]." She waits, letting Liska feel her steady breath.
+Mara holds Liska, stroking her back firmly, waiting for the sobs to quiet into shaky breaths.
 
-<!-- "feel wobbly" sounds very strange to me. Doesn't translatea t all into anything I recognize in Russian like a child would describe their feeling. -->
+<!-- maybe some more specific endearing reasons. Read what's in the yard, come up with what she would miss the most so it's fun to read, make her miss that. Crickets are good. -->
+Liska (muffled into Mara's shoulder): "The shadows are wrong. And I can't hear the crickets." (This gives Liska agency, allowing her to articulate her specific reasons for being scared, making her an active participant in her own recovery).
+
+Mara: "I know, little one. It all feels mixed up tonight." (She agrees and validates Liska's specific observations, confirming that her perception is real, not something to be dismissed).
 
 ### Beat 3.4: Solution Discovery
 
-<!-- should be an interesting micro-narrative -->
-Mara tells Liska: "I want to tell you a story. Before you were born, we cared for a tiny, snow-white fox cub. He loved being with us; our laps were his favorite place. But he was also so curious about the big, rustling garden outside, full of new sounds and strange creatures he'd never met. Mara's voice grew warm with memory. "One day, he saw a butterfly land in our garden. He wanted to see it up close so terribly that his curiosity grew bigger than his fear. 
-<!-- his curiosity grew bigger than his fear.  
-we did not yet establish anywhere that he had fear.
--->
+"You know," Mara says, her voice a soft rumble. "Your name has a secret story tucked inside it. It’s a story about something small and white and very, very brave."
 
-He crept out, one tiny paw at a time. When he finally reached that butterfly, his whole body glowed with pride. After that, each day he ventured a little farther. He learned that being brave didn't mean not feeling scared - it meant letting curiosity be just a whisker stronger than fear."
+Liska sniffled, pulling back just enough to see her mother's face. "A story? About who?"
 
-She touched Liska's nose gently. "When you were born with your snow-white fur, we knew exactly what to name you. Liska - little fox. Because we could see that same spark in your eyes. The curiosity that would one day be stronger than any fear."
+"About a tiny, snow-white fox cub we cared for, long before you were born," Mara began, her eyes distant with memory. "He loved being with us, safe in our laps. But he was also so very curious about the big, rustling garden outside."
 
+Liska thought about the big, rustling yard. "Was he scared? Of the garden?"
 
-Liska's eyes widened. She looked at her white paws, then at the distant glow of the beetles, then back at Mara. "I'm... I'm named after a brave fox?"
+"He was," Mara confirmed. "It was full of new sounds and strange shadows he'd never seen. But one day, he saw a beautiful butterfly float over the wall and land on a flower. And he wanted to see it up close more than anything."
 
-"You *are* the brave fox, my love. You just sometimes forget."
-<!-- This specific phrase is wrong. We are not trying to undermine her identity. She is not the fox. She is a snow leopard girl. So we should not directly make her identify as the fox. We want to establish the association that she can be like the fox, brave as that fox, but not that she is the fox. -->
+"Did he go see it?" Liska whispered, her own fear momentarily forgotten.
+
+"He did. His curiosity grew bigger than his fear. He crept out, one tiny, careful paw-step at a time. And when he finally reached that butterfly, his whole body seemed to glow with pride. After that, he crept a little farther every day until he explored the whole garden."
+
+Liska looked down at her own white paws, then back at her mother, a question dawning in her eyes. "But... why is that *my* story?"
+
+Mara touched Liska's nose gently. "Because when you were born with your snow-white fur, you looked exactly like him. We saw that same spark of curiosity in your eyes. The curiosity that would one day be stronger than any fear. So we named you Liska — our little fox
+
+Liska's eyes widened. She looked at her white paws, then at the 
+distant glow of the beetles, then back at Mara. "I'm... I'm named 
+after a brave fox?"
 
 Liska sat very still, processing this new knowledge. She whispered her name to herself: "Liska. Little fox." Something warm unfurled in her chest, like a flower opening. The yard hadn't changed, but somehow knowing she carried bravery in her very name made the shadows seem less dark.
 
@@ -141,12 +151,13 @@ Mara hugs her. "I'm so proud of my brave little Liska." The new  skill and ident
 ### Beat 5.2: Making it Right / Integration / New Status Quo
 
 <!-- she should tell them something else that help them to be brave and to console them they didn't approach the show by giving them shells. -->
-As families began gathering their things, Liska noticed something she hadn't before. The yard was full of other little ones clinging to their parents, overwhelmed by the festival's bigness. She remembered how alone she'd felt in her fear. Quietly, she began collecting the glow beetle scales that had fallen on the blanket - tiny points of fading light. She padded over to a young kit who was crying softly against his father's leg and held out a scale. "Look," she whispered, "you can hold a piece of magic. It makes the dark less scary." The kit's tears slowed as he stared at the gift.
+As families began gathering their things, Liska noticed something she hadn't before. She hadn't been the only one who felt scared. The yard was full of other little ones clinging to their parents, overwhelmed by the festival's bigness. She remembered how alone she'd felt in her fear. Quietly, she began collecting the glow beetle scales that had fallen on the blanket - tiny points of fading light. She padded over to a young kit who was crying softly against his father's leg and held out a scale. The kit looked at her with wide, teary eyes.
 
-<!-- "Look," she whispered, "you can hold a piece of magic. It makes the dark less scary." The kit's tears slowed as he stared at the gift.
+<!-- Specific words should be better, less analytical, feel like those 5yo wise surprising insigts. Also not about the dark, but unfamiliarity -->
+"Look," she whispered, "you can hold a piece of magic. It makes the dark less scary." 
 
-I really like the parts of her seeing many other kittens scared and helping them. Maybe not with those exact words. Maybe not analytically processing their emotion.
- -->
+<!-- The kit held out a shaky paw and hesitantly took the scale. Something good happened -->
+
 
 The yard was still full of strangers, but now she moved among them with the easy confidence of a little fox who knew her own territory. When Mara called that it was time to go home, she came - but walking, not running.
 

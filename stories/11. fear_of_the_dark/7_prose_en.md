@@ -88,13 +88,13 @@ The next evening, Liska asked, "Maamaa, I'm scared of that shadow. Help me?"
 
 Mama helped her link her thumbs together, and a wobbly butterfly appeared on the wall.
 
-Mama lit the oil lamp.
+Mama lit the candle.
 
 "Look, the shadow from your watering can looks like an elephant. I bet his trunk is ticklish! Wanna tickle it?"
 
 Liska made her butterfly circle the trunk once... twice... and... zipped in to bop it on the snoot!
 
-In the flickering lamp-light, the trunk-shadow shook with what looked like giggles. A tiny *SNORT* came out of Liska. The trunk, it seemed, wanted to play.
+In the flickering candlelight, the trunk-shadow shook with what looked like giggles. A tiny *SNORT* came out of Liska. The trunk, it seemed, wanted to play.
 
 Suddenly, a new thought sparked inside her: *Ooh! I can PLAY with them!*
 
