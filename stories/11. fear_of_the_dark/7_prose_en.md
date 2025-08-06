@@ -8,9 +8,9 @@ One morning, Mama and Liska squeezed something HUGE through the bedroom door.
 
 "Just... a... little... more!" Mama grunted, pushing the heavy pot.
 
-Liska planted her feet, grabbed a giant leaf, and tugged with a mighty little "Hnngh!".
+Liska planted her feet, grabbed a giant leaf, and tugged with a mighty little "IEEEH!".
 
-With a final push — SKREEECH! — in came their new monstera plant, its leaves full of holes, just like Swiss cheese.
+With a final push — PHEEW! — in came their new monstera plant, its leaves full of holes, just like Swiss cheese.
 
 Her tiny pink nose poked through a leaf-hole.
 
@@ -88,13 +88,13 @@ The next evening, Liska asked, "Maamaa, I'm scared of that shadow. Help me?"
 
 Mama helped her link her thumbs together, and a wobbly butterfly appeared on the wall.
 
-Mama looked around.
+Mama lit the oil lamp.
 
 "Look, the shadow from your watering can looks like an elephant. I bet his trunk is ticklish! Wanna tickle it?"
 
 Liska made her butterfly circle the trunk once... twice... and... zipped in to bop it on the snoot!
 
-The trunk-shadow shook with what looked like giggles, and a tiny *SNORT* came out of Liska. It looked like it wanted to play.
+In the flickering lamp-light, the trunk-shadow shook with what looked like giggles. A tiny *SNORT* came out of Liska. The trunk, it seemed, wanted to play.
 
 Suddenly, a new thought sparked inside her: *Ooh! I can PLAY with them!*
 
@@ -130,9 +130,7 @@ Nothing happened. No grabbing. Just her shadow paw on the shadow leaf. Her own p
 
 ### Beat 5.1: Reflection & Learning
 <!-- is this beat making it too long? Developmentally it serves the purpose, to show mastery of the skill. But I'm not sure whether it just feels repetitive and makes the story boring. -->
-Then Liska looked down at Slothy. "Oh, you're scared too?" she whispered, hugging him. "It's okay. We just do the flower-soup breath. In... and out."
-
-"And now let's play!"
+Then Liska looked down at Slothy. "Oh, you're scared too?" she whispered, hugging him. "It's okay. We just do the flower-soup breath. In... and out. And now let's play!"
 
 She held Slothy up and brought his shadow right up to the claw-shaped shadow. She moved it closer... closer... and suddenly gave the shadow claw a little high-five! *pat*!
 
