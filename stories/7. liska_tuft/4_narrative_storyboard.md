@@ -152,6 +152,7 @@ Bedtime. The tent smelled wrong - like other cubs and strange blankets. The blan
 
 The lonely feeling didn't creep up this time - it crashed over her like a huge wave. Bigger than this morning. Bigger than anything. Because now it was real. She was really, truly alone in the dark.
 
+<!-- So yeah as written above we have an issue here that the story first had a fallout and a low point with two recoveries but now it doesn't anymore so we put the low point into the moment where she's still home. But then the actual low point, it seems, would happen when she's actually at the camp. When the long list actually hits. It needs a proper brainstorm and redesign of what would actually happen to a child. would they dysregulate more from anticipation of loneliness or from actual loneliness? Then we'll need to think whether that fits into the structure because right now the whole all tapped thing is kind of a response to a dysregulation. But if you don't have a dysregulation, there is not a strong reason to like for that much of teaching. So basically, the story does not fit right now into the structure that well. And we need to figure out what to do about it. -->
 Tears rolled down her face as she curled into a tight ball. "I want my mama," she whimpered into the flat pillow.
 
 ### Beat 4.3: Resolve Tested → Learned Skill → Persistence
