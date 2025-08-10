@@ -10,7 +10,7 @@ One morning, Mama and Liska squeezed something HUGE through the bedroom door.
 
 Liska planted her feet, grabbed a giant leaf, and tugged with a mighty little "IEEEH!".
 
-With a final push — PHEEW! — in came their new monstera plant, its leaves full of holes, just like Swiss cheese.
+With a final push, in came their new monstera plant, its leaves full of holes, just like Swiss cheese.
 
 Her tiny pink nose poked through a leaf-hole.
 
@@ -90,7 +90,7 @@ Mama helped her link her thumbs together, and a wobbly butterfly appeared on the
 
 Mama lit the candle.
 
-"Look, the shadow from your watering can looks like an elephant. I bet his trunk is ticklish! Wanna tickle it?"
+Look, your watering can’s shadow looks like an elephant. I bet its trunk is ticklish! Wanna tickle it"
 
 Liska made her butterfly circle the trunk once... twice... and... zipped in to bop it on the snoot!
 
@@ -142,7 +142,7 @@ Mama, watching from the doorway, smiled.
 
 "Wow, you were so afraid of that spiky shadow, but you still found a way to play with it!"
 
-Liska snuggled into her mother’s paw and purred softly: "I love you, mom"
+Liska snuggled into her mother’s paw and purred softly: "I love you, mom."
 
 ### Beat 5.3: Concluding Thought
 
