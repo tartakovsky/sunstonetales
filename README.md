@@ -1,0 +1,3 @@
+- Images are stored in **/images/** using git LFS
+- PDF is rendered using Markdown PDF extension
+- DOCX is rendered using Pandoc + extract-media param
