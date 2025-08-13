@@ -90,7 +90,7 @@ Mama helped her link her thumbs together, and a wobbly butterfly appeared on the
 
 Mama lit the candle.
 
-Look, your watering can’s shadow looks like an elephant. I bet its trunk is ticklish! Wanna tickle it"
+Look, your watering can’s shadow looks like an elephant. I bet its trunk is ticklish! Wanna tickle it?"
 
 Liska made her butterfly circle the trunk once... twice... and... zipped in to bop it on the snoot!
 
