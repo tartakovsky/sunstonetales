@@ -1,6 +1,6 @@
 liska landing draft when free
 
-- Welcome to Sunbeam Tales, a city of something-something where something-something
+- Welcome to Sunstone Tales, a city of something-something where something-something
 
 Liska is very prominent big picture
 
