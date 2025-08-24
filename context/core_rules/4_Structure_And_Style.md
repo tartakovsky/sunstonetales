@@ -309,6 +309,36 @@ Never include these elements in any story:
     *   **Avoid**: `tremendous`, `ethereal`, `melancholy`, `minuscule`, `crimson`, `tepid`.
 *   **Pacing Rule**: Maximum 2 consecutive paragraphs without tension, humor, or character action. Edit for conciseness, cut anything that slows the pace.
 
+### **3.1 Voice Guidelines for 4-6 Year Old Storybooks**
+
+Use 90% active voice in the text
+
+Use 10% passive voice for the following situations:
+- Mystery/suspense - when hiding the actor creates intrigue ("The cookies were stolen!")
+- Character focus - when emphasizing what happens to someone matters more than who does it ("The princess was rescued")
+- Unknown actors - when the doer is unclear or irrelevant to the story ("The door was opened")
+- Gentle tone - when softening blame or consequences ("The toy was broken")
+- Atmosphere building - when setting mood is more important than specific actions ("The forest was filled with magical sounds")
+- Historical context - when describing past events where the actor is less important ("The castle was built long ago")
+
+### **3.2 Vocabulary Development**
+
+*   **Advanced Word Allocation**: 3-5% of total words can be slightly more complex than typical 4-5 year old vocabulary. This equals approximately 1 advanced word per 1-2 pages.
+*   **Selection Criteria**: Choose words that:
+    *   Expand emotional or sensory vocabulary meaningfully
+    *   Are easily understood through context or visual illustration
+    *   Connect to the story's core themes or character development
+    *   Sound appealing when read aloud
+*   **Integration Method**: Advanced words must be:
+    *   Surrounded by familiar language for context support
+    *   Reinforced through character actions or illustrations
+    *   Used naturally within the narrative flow, never forced
+*   **Examples of Appropriate Advanced Words**:
+    *   **Emotional**: "bewildered," "determined," "anxious"
+    *   **Sensory**: "glistening," "velvety," "melodic"
+    *   **Descriptive**: "enormous," "miniature," "peculiar"
+    *   **Action**: "whispered," "scurried," "emerged"
+
 ### **4. Literary Devices**
 
 *   **Story Titles**: Must be descriptive, specific, and memorable. They should convey both meaning and a specific situation.

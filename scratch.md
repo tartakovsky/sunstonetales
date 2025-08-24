@@ -1,110 +1,39 @@
-Liska and the Shadow Game
+The family house was bathed in early morning golden light streaming through the windows. The air was warm and cozy. In the back garden, there was a special sunny corner where the family often curled up together, creating a sense of safety and happiness.
 
-One morning, Mama and Liska squeezed something HUGE through the bedroom door. 
+Liska sat in the sunny corner, focused intently on finishing a small, thick belt. It was made of three braided strands. Woven into it were her greatest treasures: a small, rainbow 'courage stone' her father had given her. A tuft of her own white baby-fur that her mother had saved and tied with a silver thread. And a tiny, hardened clay tablet bearing her own first paw-print. Her very first mark on the world. "There," she whispered. "Now you're all safe together."
 
-"Just... a... little... more!" Mama grunted, pushing the heavy pot.
+Her treasure-braid was finally done, tied snug around her waist. It felt like a warm hug. She bounced on her paws, a happy little wiggle starting in her tail. She had to show Papa and Mama RIGHT NOW!
 
-Liska planted her feet, grabbed a giant leaf, and tugged with a mighty little "IEEEH!".
+Liska bounded into the main room and stopped. Papa stood by the window, tail stiff. Mama sat far away, face turned to the wall. Tension between them. This was unusual and unsettling for her.
 
-With a final push — PHEEW! — in came their new monstera plant, its leaves full of holes, just like Swiss cheese.
+Liska hesitated, then heard her father's voice, a low rumble, "I just don't understand why." Her mother's voice was a sharp whisper from across the room, "I can't talk about this now." The conflict was now undeniable.
 
-Her tiny pink nose poked through a leaf-hole.
+Liska's ears drooped. Her happy wiggle died. She felt a little squeeze in her chest - confused and sad. But she shook her head and gripped her treasure-braid tighter. She could fix this!
 
-"A cheese plant!" Liska said. "I name you Mr. Cheesy!" 
+Liska approached her father with her belt. Holding it up, she made a simple bid for connection: "Papa, look what I made." He glanced over, offered a distracted, "That's nice, sweetie," and turned away, his mind still on the argument. The failure to connect stung.
 
----
+Unwilling to give up, Liska stepped right in front of Papa, lifting the braid higher. "No, Papa, *look*," she insisted, her voice trembling slightly. "It's you, and Mama, and me. It's us." Papa finally looked at her, but his eyes were still stormy. He put his paw gently over hers. "Liska, sweetie, not right now. Mama and I need a quiet moment." No reassurance, just the soft push away. Liska's heart crumbled.
 
-That afternoon, Liska played with Mr. Cheesy's shadow. 
+Liska ran to the hallway and collapsed into the tiniest ball she could make. Her whole body shook with big, gulpy sobs that came from deep in her belly. She pressed her face into her paws, treasure-braid clutched tight against her chest. She wanted to disappear into the floor, to become invisible, to stop feeling this terrible hurt.
 
-"High-five!" she giggled, slapping her palm against a leaf-shadow on the wall. 
+Her father, Daric, saw her curled into a tight, trembling ball in the hallway. The sight pierced his own upset. He walked over, sat on the floor beside her, and placed a heavy, warm paw on her back. He waited until her trembling subsided, then said softly, "Mama and I... we're feeling big, angry feelings. But our love for you, Liska, is always bigger than any angry. We love you very much." He gave her a gentle squeeze, then added, "We just need to finish talking. Can you wait for us?" He then got up and returned to the main room.
 
-The wind moved the plant's leaves, and the shadow moved away. A happy *SQUEEEE!* burst from Liska as she chased it for another high-five.
+Alone again, Liska clutched her braid tight. The stone felt solid like Papa. The fur felt soft like Mama. The clay felt warm like home. She thought about their family paw pile - how they'd stack all their paws together and laugh. Her tears stopped. Her eyes got bright with determination. She knew exactly what to do!
 
-As night fell, Mama tucked Liska in tight as a cinnamon roll, her stuffed sloth, Slothy, snuggled under her arm. A *WHOOSH* of wind made Mr. Cheesy's shadow stretch and swing.
+Liska marched back into the room, braid clutched in one paw. She planted herself between her parents and declared: "LOOK! It's us! The stone is Papa! The tuft is Mama! And the paw print is me!"
 
-Suddenly, the leaf-shadows grew longer... and sharper... until they didn't look like leaves anymore. Now they looked like claws!
+Her parents just stared. The room went so quiet Liska could hear her own heartbeat thumping like tiny rabbit feet.
 
----
+Before they could speak, Liska grabbed Mama's paw. Then Papa's paw. She pulled them together with all her might and placed her own small paw on top. "Paw pile," she commanded. She pressed down firmly, then let the pile spring back up. "Us. Together," she said, her voice small but stubborn.
 
-Liska's eyes widened. *It's just Mr. Cheesy.* She hugged Slothy and pulled the blanket over her head. "Go away," she whispered. "You're just a plant."
+Her parents looked at their paws, then at each other, and then down at her. Something melted in their eyes. In a rush of warm fur, they both knelt and pulled her into a tight, safe hug, right in the middle. "We're sorry we worried you," her mother whispered into her fur.
 
-But under the blanket, her head filled with scary thoughts: What if the shadow crept closer? What if it touched her? What if— 
+A huge, happy sigh whooshed out of Liska. They sealed their hug with their special Triple Kiss - all three noses touching in the middle, making a perfect triangle of love. Warm breath, soft whiskers, and the feeling of everything being right again.
 
-A quick, loud thumping started in her chest: BA-DUM, BA-DUM. BA-DUM, BA-DUM.
+They sat together in a heap in the sunny corner, Liska the warm filling in a purring parent sandwich. She looked down at their paws, still stacked together. "I made us remember," she said quietly, feeling proud. Papa nuzzled her ear. "Yes, little one. You helped us remember what matters most."
 
-She threw the blanket off, tumbled out of bed and scampered out of the room. 
+Later, Liska was half-dozing in the sunny corner when she heard her parents talking softly. "I'm sorry I was so sharp," said Father. Mother's voice was warm. "And I'm sorry I went so quiet." Their tails twined together as they spoke.
 
-"MAMA!" she cried. "The shadow has CLAWS and it wants to GRAB ME!"
+The next morning, Liska saw Papa bring Mama her favorite tea. He touched her shoulder gently as he set it down. Mama looked up with crinkly, happy eyes. The air smelled like cinnamon and felt warm again. Liska bounced between them, her treasure-braid swinging. 
 
-Mama scooped her up.
-
-"Oh, sweet kitten, you're so scared," she said softly.
-
-She carried her back to the bedroom and they peeked inside.
-
-"You're right," Mama said. "That shadow does look a little spiky."
-
-Liska nodded, leaving tears and maybe a little snot on Mama's nightgown. 
-
-As Mama tucked Liska back into bed, she held up her paws in the moonlight, folding them until their shadow became a butterfly on the wall.
-
-She made it fly closer to the plant. Then around its claw-shaped shadow. 
-
-Liska watched, her eyes wide. The shadow butterfly was... beautiful? Not scary? 
-
-"It's like they're playing," she whispered. 
-
-The next evening, Liska asked, "Maamaa, I'm scared of that shadow. Help me?"
-
-"Of course, kitten. How does your body feel?"
-
-"My heart is going thump-thump, thump-thump," Liska said.
-
-"Then let's help it calm down. Breathe in like you smell a flower, and breathe out like you cool down hot soup." Liska did a slow *SNIFF* in... and a long *WHOOOSH* out.
-
-"Mama," she said, "remember the butterfly you made? I wanna do it too."
-
-Mama helped her link her thumbs together, and a wobbly butterfly appeared on the wall.
-
-Mama lit the candle.
-
-"Look, the shadow from your watering can looks like an elephant. I bet his trunk is ticklish! Wanna tickle it?"
-
-Liska made her butterfly circle the trunk once... twice... and... zipped in to bop it on the snoot!
-
-In the flickering candlelight, the trunk-shadow shook with what looked like giggles. A tiny *SNORT* came out of Liska. The trunk, it seemed, wanted to play.
-
-Suddenly, a new thought sparked inside her: *Ooh! I can PLAY with them!*
-
----
-
-Later that night, Mr. Cheesy's shadow again stretched across the wall. Liska's heart began to thump, but this time she knew what to do. She squeezed Slothy so hard, she imagined his fluff might come out. She smelled the flower, *SNIIIFF*, and cooled the soup, *WHOOOOSH*. 
-
-Then, slowly, like a brave little snail, she stood up. She lifted one shaky paw and its shadow appeared on the wall. Small and wobbly, but THERE. 
-
-It was almost touching the shadow claws. Liska's heart thumped faster and her paw froze. 
-
-"Come on, shadow paw," she whispered. "You're mine. Be brave."
-
-She pushed her paw forward until her shadow paw softly touched the plant shadow, and...
-
-Nothing happened. No grabbing. Just her shadow paw on the shadow leaf. Her own paw was safe.
-
-"You're not scary," she said. "You're just... another shadow! You can't DO anything!" 
-
-<!-- is this beat making it too long? Developmentally it serves the purpose, to show mastery of the skill. But I'm not sure whether it just feels repetitive and makes the story boring. -->
-Then Liska looked down at Slothy. "Oh, you're scared too?" she whispered, hugging him. "It's okay. We just do the flower-soup breath. In... and out. And now let's play!"
-
-She held Slothy up and brought his shadow right up to the claw-shaped shadow. She moved it closer... closer... and suddenly gave the shadow claw a little high-five! *pat*!
-
-And there wasn't a claw after all. Just a shadow of her friend, Mr. Cheesy, wiggling in the wind.
-
-Mama, watching from the doorway, smiled.
-
-"Wow, you were so afraid of that spiky shadow, but you still found a way to play with it!"
-
-Liska snuggled into her mother's paw and purred softly: "I love you, mom"
-
-She turned back to the shadows. 
-
-"Good night, Mr. Cheesy," she whispered. "Tomorrow, we'll play again."
+Liska touched each treasure on her braid - stone, fur, clay. Together was better. Always together.

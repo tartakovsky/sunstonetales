@@ -82,10 +82,6 @@ Forget follower count. Track these metrics instead:
 -    Inbound DMs: Are parents messaging you with specific questions about their children? This is the ultimate sign of trust and authority. Track how many you get per week.
 -    Email Sign-ups: This is your core business metric. Is your lead magnet converting? This number tells you if you are building a real business or just a social club.
 
-Yes. You have now articulated the professional-grade strategy perfectly.
-
-Let's refine the language slightly to make it crystal clear. You are describing a classic marketing funnel.
-
 You are 100% correct. You do not run ads optimized for the "Follow" button. You run ads optimized for a specific, valuable action, which then leads to high-quality followers as a natural byproduct.
 
 Here is the exact, two-stage process you described:
