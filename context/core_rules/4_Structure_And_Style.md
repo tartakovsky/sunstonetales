@@ -415,10 +415,10 @@ This section defines the technical page structure for a standard picture book.
 
 *   **Front matter**
     *   Front Cover
-    *   [L] Inside Front Cover = Front Endpaper
-    *   [R] Page 1 - Half-Title. Only the name of the book
+    *   [L] Inside Front Cover = Front Endpaper = Empty
+    *   [R] Page 1 - Full title. Author name, illustration, publisher logo, etc
     *   [L] Page 2 - Copyright, ISBN, etc
-    *   [R] Page 3 - Full title. Author name, illustration, publisher logo, etc
+    *   [R] Page 3 - Parental Guide
 
 *   **Content: 14 spreads = 28 pages for story and illustrations**
     *   [L] Page 4 - Story starts
@@ -426,6 +426,6 @@ This section defines the technical page structure for a standard picture book.
     *   [R] Page 31 - Last page of the story
 
 *   **End matter**
-    *   [L] Page 32 - End page, ‘Котец’ in my case
-    *   [R] Inside Back Cover = Back Endpaper
+    *   [L] Page 32 - End page = Empty for Amazon QR code
+    *   [R] Inside Back Cover = Back Endpaper = Empty
     *   Back Cover
