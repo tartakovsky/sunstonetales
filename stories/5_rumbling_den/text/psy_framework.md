@@ -67,11 +67,8 @@
 ## Framework 3: Narrative Implementation (The "How")
 
 **Environmental Description Setup:**
-<!-- - *The sunbeam looked tired, like it had stayed up all night and couldn't be bothered to be yellow anymore.* -->
 - *The space between Mama and Papa had become 'No-Cubs-Land', guarded by invisible grumpy monsters.*
-<!-- - *Her sunny corner, usually the best place for a nap, now felt like a bed made of grumpy hedgehogs.* -->
 - *The air that usually smelled like cinnamon and safety now felt sharp and wrong*
-<!-- - *Even the familiar walls seemed to lean away from each other* -->
 
 **Character's Physical Experience:**
 - *Liska's happy wiggle died like a flame going out, her tail dropping to the floor*
