@@ -93,11 +93,18 @@ Mara (murmuring): "So scary." (Simple, validating, naming the core feeling).
 Mara holds Liska, stroking her back firmly, waiting for the sobs to quiet into shaky breaths.
 
 <!-- maybe some more specific endearing reasons. Read what's in the yard, come up with what she would miss the most so it's fun to read, make her miss that. Crickets are good. -->
-Liska (muffled into Mara's shoulder): "The shadows are wrong. And I can't hear the crickets." (This gives Liska agency, allowing her to articulate her specific reasons for being scared, making her an active participant in her own recovery).
+Liska (muffled into Mara's shoulder): "The shadows are wrong. And I can't hear the crickets." 
 
-Mara: "I know, little one. It all feels mixed up tonight." (She agrees and validates Liska's specific observations, confirming that her perception is real, not something to be dismissed).
+<!-- (This gives Liska agency, allowing her to articulate her specific reasons for being scared, making her an active participant in her own recovery). -->
+
+Mara: "I know, little one. It all feels mixed up tonight." 
+
+<!-- (She agrees and validates Liska's specific observations, confirming that her perception is real, not something to be dismissed). -->
 
 ### Beat 3.4: Solution Discovery
+
+<!-- So there is absolutely no way we have a chance of fitting this story about the fox into this story. I guess we need to make it a separate story completely. Instead of telling the whole story about the fox, she might say, "Remember the story about your namesake?" or something like that.  But then we need to find a way to discover a solution here.-->
+
 
 "You know," Mara says, her voice a soft rumble. "Your name has a secret story tucked inside it. It’s a story about something small and white and very, very brave."
 

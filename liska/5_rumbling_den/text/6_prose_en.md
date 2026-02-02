@@ -19,7 +19,7 @@ Finally, she gave the braid one last, tight tug, and everything was snug.
 #### Page 2
 <!-- Image: Close up of the braid with treasures -->
 
-<!-- Too long, but very good. -->
+<!-- Too long, but very good. Keep it like this -->
 First, she gently touched the rainbow stone. "Papa gave you to me," she said, "to help me be brave."
 
 Next, she tickled her nose with the tuft of snow-white baby-fur. "Mama saved you from when I was tiny," she whispered, "because she loves me very, very much."
@@ -52,7 +52,9 @@ The room was so quiet, Liska could hear a bee buzzing outside the window.
 
 #### Page 4
 <!-- Image: Liska miffed, ears a bit down. More confused than sad. -->
-A happy little hum in Liska’s chest went quiet. Her tail, which had been swishing with excitement, gave a confused thump-thump against her legs and then fell still. Why didn't they look at her?
+A happy little hum in Liska’s chest went quiet. Her tail, which had been swishing with excitement, gave a confused thump-thump against her legs and then fell still. 
+
+Why didn't they look at her?
 
 <!-- CRITIQUE: Not bad, But it only shows cat-specific imagery and the tail action, which is cute but not relatable to human child. So it would be nice to use body tails and emotional experiences that are relatable. -->
 
@@ -64,11 +66,14 @@ A happy little hum in Liska’s chest went quiet. Her tail, which had been swish
 
 #### Page 5
 <!-- Image: Liska and Papa. She holds out her braid hesitantly. Papa doesn't pay attention -->
+
 She padded over to Papa and held up her braid. "Papa, look what I made."
 
-He glanced down. "That's nice, sweetie." His eyes were already looking back out the window. Liska flinched, as if pricked by a thorn.
+He glanced down. "That's nice, sweetie." His eyes were already looking back out the window. 
 
+Liska flinched, as if pricked by a thorn.
 <!-- CRITIQUE: The simile "as if pricked by a thorn" is another tired cliché for emotional pain. It tells the reader Liska is hurt instead of showing it through a more unique, physical reaction. -->
+
 
 #### Page 6
 
@@ -127,11 +132,9 @@ Liska stood, took his big paw, and led him to her sunny corner. She settled hers
 #### Page 14
 <!-- Image: Liska still sad, looks at the braid on the floor, touches it -->
 
-For a long moment, Liska just sat there, tracing the treasures on her braid with one paw. 
+For a long moment, Liska just sat there, tracing the treasures on her braid with one paw, moving them around.
 
 She placed the soft fur on top of the solid stone. Then she balanced her little clay mark on the very top. A tiny treasure-tower. 
-
-<!-- CRITIQUE: The action of stacking the treasures feels coincidental and lacks engagement. It's a very quiet, internal moment that conveniently leads to the solution without much active problem-solving from the character. -->
 
 #### Page 15
 <!-- Image: Liska, thinking expression, thought bubble, paw pile in them -->
@@ -207,61 +210,28 @@ They sealed their hug with their special Triple Kiss—all three noses touching 
 
 ---
 
+#### Page 25
+
 ## Act 5: Resolution & Conclusion - Integrating the Growth
 
 ### Beat 5.1: Reflection & Learning
 #### Page 24
-<!-- Image: Sunny corner, they lie together as a sandwich, paws in a paw pile -->
-
-<!-- CRITIQUE: The time skip ("Later") is jarring and breaks the narrative flow from the emotional peak of the climax. The story should transition more smoothly into this resolution scene. The "family sandwich" image itself is effective and endearing. 
-
-- ANSWER: Agree
--->
-
-Later they sat in a heap in the sunny corner, Liska the warm filling in a purring family sandwich.
+Still all tangled up in their hug, Liska took a big, shivery breath. The scary feeling slid away. Her purr came back, small and warm.
 
 #### Page 25
-<!-- Image: idk what facial expression Liska has, but should be something thoughtful. Papa nuzzles her ear. They are sitting up to differ from the previous scene? -->
-
-<!-- CRITIQUE: The dialogue here is too didactic. "I made us remember" is an overly self-aware statement for a young child. Papa's response reinforces the feeling of a lesson being taught to the reader. It also misses the opportunity for process praise, instead focusing on the outcome. 
-
-- ANSWER: Not sure I agree here, but something to think about. I kind of agree that it's on the edge of being overly self-aware. My child at 5 can say it, but yeah. But also pay attention that the whole bit here is about reflexion, so there should be some way for a character to understand what they did.
--->
-<!-- CRITIQUE: I agree with the original critique. Liska's statement is too cognitively advanced. Papa's response is personal praise ("You helped us"), not process praise, and it sounds like a moral being delivered to the reader. -->
-She looked at their paws, all stacked in a pile.
-
-"I made us remember," she said quietly, and a little purr rumbled in her throat.
-
-Papa nuzzled her ear. "Yes, little one. You helped us remember what matters most."
+She looked at Mama. She looked at Papa. “Your voices got crunchy,” she said, and tapped their paws together. “Paw pile fixes it.”
 
 ### Beat 5.2: Making it Right / Integration / New Status Quo
 #### Page 26
-<!-- Image: Liska in the sunny corner of the garder. Looks at father and mother talking. -->
-<!-- CRITIQUE: Another unnecessary "Later" and a repetition of the "sunny corner" setting. This creates a sluggish and repetitive feel in the resolution. While modeling the parental apology is good, Liska's role is entirely passive (overhearing), which weakens her agency at the end of the story. 
+She tugged Mama, then Papa, pulling their tangle of fur out into the garden.
 
-- ANSWER: Agree
--->
-
-Later, from her sunny corner, Liska watched her parents talking softly.
-
-"I'm sorry I was grumpy," said Papa.
-
-"And I'm sorry I was cold," Mama's voice replied, soft again.
+They settled in a heap in their sunny corner, Liska the warm filling in a purring family sandwich.
 
 #### Page 27
-<!-- Image: Mother sits on the cushions near the pond. Father brings her a cup, touches her shoulder, they look each other in the eyes, happy -->
+"I'm sorry I was grumpy," said Papa.
 
-She saw Papa bring Mama her favorite tea. As he set it down, he touched Mama's shoulder, and Mama looked up with crinkly, happy eyes.
-
-<!-- CRITIQUE: The story's focus shifts completely to the parents, making Liska a spectator in her own story. This ending fails to center the protagonist's experience and growth. -->
-
+"And I'm sorry I was cold," said Mama, her voice soft again.
 
 ### Beat 5.3: Concluding Thought
 #### Page 28
-<!-- Image: Liska touching the braid on her waist, looking at it, content expression -->
-<!-- CRITIQUE: The ending is weak because it summarizes the entire story. Another time skip ("The next morning"), the final repetition of "Stone, fur, clay," and an explicit statement of the theme ("brave enough to bring them all together"). This is telling at its most blatant and uses personal praise ("brave") against the established guidelines. The story should end on an emotional, resonant image, not a summary. 
-
-- ANSWER: I'm not sure I agree that it should not end on a summary. To me, it kinda sounds like a conclusion should be a summary, tying it all together. But something to think about again.
--->
-<!-- CRITIQUE: This ending is entirely didactic. It explicitly tells the reader the moral of the story. The phrase "brave enough to bring them all together" is personal praise ("brave") and summarizes the plot instead of leaving the reader with a resonant image or feeling. It undermines the entire narrative by boiling it down to a simplistic lesson. -->
-The next morning, Liska played in the garden. Her treasure-braid swung at her side. Stone, fur, clay. Her family. And her, brave enough to bring them all together.
+Liska looked at the braid, then at their paws. Today she was like that braid. The one that held the whole family together.
