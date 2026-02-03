@@ -52,11 +52,10 @@ The room was so quiet, Liska could hear a bee buzzing outside the window.
 
 #### Page 4
 <!-- Image: Liska miffed, ears a bit down. More confused than sad. -->
-A happy little hum in Liska’s chest went quiet. Her tail, which had been swishing with excitement, gave a confused thump-thump against her legs and then fell still. 
+A happy little hum in Liska’s chest went quiet. Her tail gave a confused thump-thump and fell still. Even her blinking forgot how to blink for a second.
+
 
 Why didn't they look at her?
-
-<!-- CRITIQUE: Not bad, But it only shows cat-specific imagery and the tail action, which is cute but not relatable to human child. So it would be nice to use body tails and emotional experiences that are relatable. -->
 
 ---
 
@@ -71,8 +70,7 @@ She padded over to Papa and held up her braid. "Papa, look what I made."
 
 He glanced down. "That's nice, sweetie." His eyes were already looking back out the window. 
 
-Liska flinched, as if pricked by a thorn.
-<!-- CRITIQUE: The simile "as if pricked by a thorn" is another tired cliché for emotional pain. It tells the reader Liska is hurt instead of showing it through a more unique, physical reaction. -->
+Liska blinked once, slow. Her smile slid right off her face.
 
 
 #### Page 6
@@ -87,14 +85,12 @@ Papa looked at her, but his face was tight and serious. He put a paw gently over
 
 His paw pushed hers softly away.
 
-<!-- CRITIQUE: This is functional but lacks any specific detail to make it memorable. The interaction is generic. -->
+A hot prickle of tears stung her eyes, and her chest felt too tight to breathe.
 
 ### Beat 3.2: Low Point
 
 #### Page 8
 <!-- Image: -->
-
-<!-- One line of her feelings/body tells before she runs away -->
 
 She fled to the hallway. She sank to the floor and wrapped her arms around her knees, making herself as small as possible. 
 
@@ -105,16 +101,12 @@ The treasure-braid felt heavy and useless in her lap.
 ### Beat 3.3: Recovery
 
 #### Page 9
-<!-- I'm not sure that just sitting there quietly is a good thing to do. Maybe it is, but we'll need to check developmentally whether that's how he should have co-regulated—sitting quietly or talking or whatever.. -->
-
-A moment later, she felt a heavy, warm paw on her back. It was Papa. He sat down close, his body a big, warm, safe presence, until her sharp sobs softened into quiet hiccups.
-
-<!-- CRITIQUE: The description is laden with generic adjectives ("heavy, warm, big, safe"). The phrase "his body a big, warm, safe presence" explicitly tells the reader the feeling of safety instead of evoking it through Liska's perspective. -->
+A heavy, warm paw settled on her back. It was Papa. He gathered her into his chest, and Liska buried herself in his fur like it was a deep, warm burrow. He held her tight until the shaking stopped.
 
 #### Page 10
 <!-- Image: -->
 
-"I see you are very sad," he said softly. "Mama and I... we are arguing. But it is not your fault, little one, we love you." 
+"Oh, my kitten, you are so sad," he said softly. "Mama and I... we are arguing. But it is not your fault, little one, we love you." 
 
 He squeezed her gently. "Mama and I need to finish talking. Can you wait for us?" 
 
@@ -134,7 +126,7 @@ Liska stood, took his big paw, and led him to her sunny corner. She settled hers
 
 For a long moment, Liska just sat there, tracing the treasures on her braid with one paw, moving them around.
 
-She placed the soft fur on top of the solid stone. Then she balanced her little clay mark on the very top. A tiny treasure-tower. 
+She placed the soft fur on top of the solid stone. Then she balanced her little clay mark on the very top. A tiny treasure-tower. Then...
 
 #### Page 15
 <!-- Image: Liska, thinking expression, thought bubble, paw pile in them -->
@@ -163,13 +155,12 @@ She walked right between her parents, stood as tall as she could, and held up th
 #### Page 18
 <!-- Image: Parents look each other in the eye? Liska frozen with expectant/anxious expression? -->
 
-Her parents just stared. 
-
 For a scary second, nothing happened.
 
-<!-- Describe anxiousness onset -->
+Her eyes darted back and forth. Papa here. Mama there. Papa here. Mama... way over there.
 
-<!-- then "Need them to be together!" thought that pushes her into action -->
+*They just... too far apart!* Liska thought. *I have to put them back!*
+
 
 ### Beat 4.3: Resolve Tested -> Learned Skill -> Persistence
 #### Page 19
@@ -199,14 +190,11 @@ Something in parents' eyes melted. In a rush of warm fur, they both knelt and pu
 #### Page 23
 <!-- Image: their faces together in a triple kiss -->
 
-<!-- CRITIQUE: The "Triple Kiss" is a charming, specific detail. However, the final line, "and the feeling of everything being right again," is telling the reader the emotional state instead of letting them infer it from the sensory details of the kiss. 
+Then came the best part.
 
-- ANSWER: Agree
+They smooshed together for their special Triple Kiss: all three noses touching in the middle. 
 
--->
-
-<!-- A bit abrupt, needs lead-in line -->
-They sealed their hug with their special Triple Kiss—all three noses touching in the middle. Warm breath, soft whiskers, and the feeling of everything being right again.
+Warm breath, soft whiskers, and the feeling of everything being right again.
 
 ---
 
