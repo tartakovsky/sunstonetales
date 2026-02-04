@@ -24,11 +24,15 @@ She stopped.
 
 The room was so quiet, Liska could hear a bee buzzing outside the window.
 
-A happy little hum in Liska’s chest went quiet. Her tail, which had been swishing with excitement, gave a confused thump-thump against her legs and then fell still. Why didn't they look at her?
+A happy little hum in Liska’s chest went quiet. Her tail gave a confused thump-thump and fell still. Even her blinking forgot how to blink for a second.
+
+Why didn't they look at her?
 
 She padded over to Papa and held up her braid. "Papa, look what I made."
 
-He glanced down. "That's nice, sweetie." His eyes were already looking back out the window. Liska flinched, as if pricked by a thorn.
+He glanced down. "That's nice, sweetie." His eyes were already looking back out the window. 
+
+Liska blinked once, slow. Her smile slid right off her face.
 
 She stepped right in front of him, blocking his view and lifting the braid higher. "No, Papa, *look*," she insisted, her voice trembling. "It's you, and Mama, and me. It's us."
 
@@ -36,15 +40,17 @@ Papa looked at her, but his face was tight and serious. He put a paw gently over
 
 His paw pushed hers softly away.
 
+A hot prickle of tears stung her eyes, and her chest felt too tight to breathe.
+
 She fled to the hallway. She sank to the floor and wrapped her arms around her knees, making herself as small as possible. 
 
 *Are they mad at ME?* she thought.
 
 The treasure-braid felt heavy and useless in her lap.
 
-A moment later, she felt a heavy, warm paw on her back. It was Papa. He sat down close, his body a big, warm, safe presence, until her sharp sobs softened into quiet hiccups.
+A heavy, warm paw settled on her back. It was Papa. He gathered her into his chest, and Liska buried herself in his fur like it was a deep, warm burrow. He held her tight until the shaking stopped.
 
-"I see you are very sad," he said softly. "Mama and I... we are arguing. But it is not your fault, little one, we love you." 
+"Oh, my kitten, you are so sad," he said softly. "Mama and I... we are arguing. But it is not your fault, little one, we love you." 
 
 He squeezed her gently. "Mama and I need to finish talking. Can you wait for us?" 
 
@@ -54,9 +60,9 @@ Liska nodded.
 
 Liska stood, took his big paw, and led him to her sunny corner. She settled herself into the pillows, and Papa tucked them in around her before walking back into the house.
 
-For a long moment, Liska just sat there, tracing the treasures on her braid with one paw. 
+For a long moment, Liska just sat there, tracing the treasures on her braid with one paw, moving them around.
 
-She placed the soft fur on top of the solid stone. Then she balanced her little clay mark on the very top. A tiny treasure-tower. 
+She placed the soft fur on top of the solid stone. Then she balanced her little clay mark on the very top. A tiny treasure-tower. Then...
 
 Her ears perked up. It looked just like... their family paw pile! How they'd stack all their paws together and laugh. 
 
@@ -66,9 +72,11 @@ She snatched the braid up, scrambled to her paws, and marched back into the room
 
 She walked right between her parents, stood as tall as she could, and held up the braid. "LOOK!" she declared. "It's us! The stone is Papa! The tuft is Mama! And the paw print is me! All together! Look!"
 
-Her parents just stared. 
-
 For a scary second, nothing happened.
+
+Her eyes darted back and forth. Papa here. Mama there. Papa here. Mama... way over there.
+
+*They just... too far apart!* Liska thought. *I have to put them back!*
 
 Then, she took a tiny, shaky breath, and grabbed Papa's paw. She grunted and pulled him toward Mama with all her might. 
 
@@ -80,22 +88,22 @@ Something in parents' eyes melted. In a rush of warm fur, they both knelt and pu
 
 "We're so sorry we worried you," Mama whispered into her fur.
 
-They sealed their hug with their special Triple Kiss—all three noses touching in the middle. Warm breath, soft whiskers, and the feeling of everything being right again.
+Then came the best part.
 
-Later they sat in a heap in the sunny corner, Liska the warm filling in a purring family sandwich.
+They smooshed together for their special Triple Kiss: all three noses touching in the middle. 
 
-She looked at their paws, all stacked in a pile.
+Warm breath, soft whiskers, and the feeling of everything being right again.
 
-"I made us remember," she said quietly, and a little purr rumbled in her throat.
+Still all tangled up in their hug, Liska took a big, shivery breath. The scary feeling slid away. Her purr came back, small and warm.
 
-Papa nuzzled her ear. "Yes, little one. You helped us remember what matters most."
+She looked at Mama. She looked at Papa. “Your voices got crunchy,” she said, and tapped their paws together. “Paw pile fixes it.”
 
-Later, from her sunny corner, Liska watched her parents talking softly.
+She tugged Mama, then Papa, pulling their tangle of fur out into the garden.
+
+They settled in a heap in their sunny corner, Liska the warm filling in a purring family sandwich.
 
 "I'm sorry I was grumpy," said Papa.
 
-"And I'm sorry I was cold," Mama's voice replied, soft again.
+"And I'm sorry I was cold," said Mama, her voice soft again.
 
-She saw Papa bring Mama her favorite tea. As he set it down, he touched Mama's shoulder, and Mama looked up with crinkly, happy eyes.
-
-The next morning, Liska played in the garden. Her treasure-braid swung at her side. Stone, fur, clay. Her family. And her, brave enough to bring them all together.
+Liska looked at the braid, then at their paws. Today she was like that braid. The one that held the whole family together.

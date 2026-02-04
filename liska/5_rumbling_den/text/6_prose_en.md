@@ -6,11 +6,11 @@
 <!-- Image: Liska sits down in the sunny corner. Engaged, positive, concentrated expression. Blep on her face. Weaving the braid. Small treasures on it.  -->
 
 <!-- RU: Одним солнечным утром, сидя в своем любимом уголке сада, Лиска укрощала дикую упрямую косичку. -->
-One sunny morning, in her favorite corner of the garden Liska was taming a wild, stubborn braid. 
+One sunny morning, in her favorite garden corner, Liska was taming a stubborn braid.
 
-Her tiny tongue stuck out just a little as she wove her favorite treasures into it.
+Her tiny tongue stuck out as she wove her favorite treasures into it.
 
-Finally, she gave the braid one last, tight tug, and everything was snug.
+She gave the braid one last tug, and everything was snug.
 
 ## Act 2: The Challenge Begins
 
@@ -20,17 +20,17 @@ Finally, she gave the braid one last, tight tug, and everything was snug.
 <!-- Image: Close up of the braid with treasures -->
 
 <!-- Too long, but very good. Keep it like this -->
-First, she gently touched the rainbow stone. "Papa gave you to me," she said, "to help me be brave."
+First, she touched the rainbow stone. "Papa gave you to me," she said, "to help me be brave."
 
-Next, she tickled her nose with the tuft of snow-white baby-fur. "Mama saved you from when I was tiny," she whispered, "because she loves me very, very much."
+Next, she tickled her nose with the tuft of snow-white baby-fur. "Mama saved you from when I was tiny," she whispered, "because she loves me so very, very much."
 
-And last, she pointed a claw at the tiny clay tablet. "This one," she said proudly, "is me! My first mark."
+And last, she pointed to the tiny clay tablet. "And this," she said proudly, "is me! My first mark."
 
-She remembered Papa and Mama pressing their paws over hers as she made it. It was like pile of paws.
+She remembered Papa and Mama pressing their paws over hers as she made it. A pile of paws!
 
-"There. Now you're all together."
+"There. Now you're all together," said Liska.
 
-She had to show Papa and Mama RIGHT NOW!
+She had to show Mama and Papa *right now*!
 
 ---
 
@@ -39,21 +39,20 @@ She had to show Papa and Mama RIGHT NOW!
 #### Page 3
 <!-- Image: Liska in the doorway, stopped, wide eyes, unpleasant surprise. Father and mother stiff -->
 
-She bounded into the main room, but Papa, who always turned at the sound of her paws, didn’t move. Mama, who always had a smile waiting, kept her face turned to the wall.
+She bounded into the main room, but Papa, who always turned at the sound of her paws, didn’t move. Mama, who always had a smile waiting, kept her face to the wall.
 
-She stopped.
+Liska stopped.
 
-*Something's wrong,* a little voice whispered in her head.
+*Something's wrong,* she thought.
 
-The room was so quiet, Liska could hear a bee buzzing outside the window.
+The room was so quiet, she could hear a bee buzzing outside.
 
 
 ### Beat 2.3: The Core Incident
 
 #### Page 4
 <!-- Image: Liska miffed, ears a bit down. More confused than sad. -->
-A happy little hum in Liska’s chest went quiet. Her tail gave a confused thump-thump and fell still. Even her blinking forgot how to blink for a second.
-
+The happy hum in her chest went quiet. Her tail gave a confused thump-thump and fell still. 
 
 Why didn't they look at her?
 
@@ -68,7 +67,7 @@ Why didn't they look at her?
 
 She padded over to Papa and held up her braid. "Papa, look what I made."
 
-He glanced down. "That's nice, sweetie." His eyes were already looking back out the window. 
+He glanced down. "That's nice, sweetie." His eyes went back to the window.
 
 Liska blinked once, slow. Her smile slid right off her face.
 
@@ -76,7 +75,7 @@ Liska blinked once, slow. Her smile slid right off her face.
 #### Page 6
 
 <!-- Image: Liska stands in front of father. Determined expression. Holds the braid up to his face. Talks to him.  -->
-She stepped right in front of him, blocking his view and lifting the braid higher. "No, Papa, *look*," she insisted, her voice trembling. "It's you, and Mama, and me. It's us."
+She stepped right in front of him, lifting the braid higher. "No, Papa, *look*," she insisted, her voice trembling. "It's you, and Mama, and me. It's us."
 
 #### Page 7
 <!-- Image: Papa holds her paw with two paws, lookes her in the eyes, frowns, says not right now / mixed with father holds her by the shoulders, turning her away, slightly pushing her back -->
@@ -85,23 +84,21 @@ Papa looked at her, but his face was tight and serious. He put a paw gently over
 
 His paw pushed hers softly away.
 
-A hot prickle of tears stung her eyes, and her chest felt too tight to breathe.
+Hot tears stung her eyes. Her chest felt too tight to breathe.
 
 ### Beat 3.2: Low Point
 
 #### Page 8
 <!-- Image: -->
 
-She fled to the hallway. She sank to the floor and wrapped her arms around her knees, making herself as small as possible. 
+She fled to the hallway, sank to the floor and hugged her knees, making herself as small as possible. 
 
 *Are they mad at ME?* she thought.
-
-The treasure-braid felt heavy and useless in her lap.
 
 ### Beat 3.3: Recovery
 
 #### Page 9
-A heavy, warm paw settled on her back. It was Papa. He gathered her into his chest, and Liska buried herself in his fur like it was a deep, warm burrow. He held her tight until the shaking stopped.
+A heavy, warm paw settled on her back. Papa gathered her into his chest, and Liska buried herself in his fur like a deep, warm burrow. He held her tight until the shaking stopped.
 
 #### Page 10
 <!-- Image: -->
@@ -117,7 +114,7 @@ Liska nodded.
 
 "Thank you," Papa said softly. "Where would be a cozy spot for you to wait?"
 
-Liska stood, took his big paw, and led him to her sunny corner. She settled herself into the pillows, and Papa tucked them in around her before walking back into the house.
+Liska led him to her sunny corner. She settled into the pillows, and Papa tucked them around her before walking back inside.
 
 
 ### Beat 3.4: Re-evaluation
@@ -126,17 +123,17 @@ Liska stood, took his big paw, and led him to her sunny corner. She settled hers
 
 For a long moment, Liska just sat there, tracing the treasures on her braid with one paw, moving them around.
 
-She placed the soft fur on top of the solid stone. Then she balanced her little clay mark on the very top. A tiny treasure-tower. Then...
+She placed the soft fur on the solid stone. Then balanced her clay mark on top. A tiny treasure-tower. Then...
 
 #### Page 15
 <!-- Image: Liska, thinking expression, thought bubble, paw pile in them -->
 
-Her ears perked up. It looked just like... their family paw pile! How they'd stack all their paws together and laugh. 
+Her ears perked up. It looked just like... their family paw pile! How they'd stack their paws together and laugh. 
 
 #### Page 16
 <!-- Image: Liska's expression changes from thoughtful to determined. She gets up. -->
 
-She looked from her own small paw to the treasure-braid. Then she looked toward the doorway, where her parents were. 
+She looked at her paw, then the braid, then the doorway...
 
 She snatched the braid up, scrambled to her paws, and marched back into the room.
 
@@ -157,16 +154,16 @@ She walked right between her parents, stood as tall as she could, and held up th
 
 For a scary second, nothing happened.
 
-Her eyes darted back and forth. Papa here. Mama there. Papa here. Mama... way over there.
+Her eyes darted back and forth. Papa here. Mama there... wa-a-ay over there.
 
-*They just... too far apart!* Liska thought. *I have to put them back!*
+*Too far apart!* Liska thought. *I have to put them back!*
 
 
 ### Beat 4.3: Resolve Tested -> Learned Skill -> Persistence
 #### Page 19
 <!-- Image: Liska pulling Papa's paw with effort toward mother -->
 
-Then, she took a tiny, shaky breath, and grabbed Papa's paw. She grunted and pulled him toward Mama with all her might. 
+She took a shaky breath, grabbed Papa's paw, and pulled him toward Mama with all her might. 
 
 #### Page 20
 <!-- Image: Liska pulled Papa toward Mama. Now she grabbed Mama's paw. Holds both their paws, puts them one on top the other, holding parent's wrists. Parents look each other in the eye -->
@@ -182,7 +179,7 @@ Then she grabbed Mama's paw. She joined their paws and placed her own little paw
 #### Page 22
 <!-- Image: Parents kneeling down, both hugging Liska. Mama's face buried into Liska's top of the head. Relief and joy on Liska's face -->
 
-Something in parents' eyes melted. In a rush of warm fur, they both knelt and pulled her into a tight, safe hug.
+Something in their eyes melted. In a rush of warm fur, they knelt and pulled her into a tight, safe hug.
 
 "We're so sorry we worried you," Mama whispered into her fur.
 
@@ -190,9 +187,7 @@ Something in parents' eyes melted. In a rush of warm fur, they both knelt and pu
 #### Page 23
 <!-- Image: their faces together in a triple kiss -->
 
-Then came the best part.
-
-They smooshed together for their special Triple Kiss: all three noses touching in the middle. 
+Then came the best part: they smooshed their faces together for their special Triple Kiss, noses touching.
 
 Warm breath, soft whiskers, and the feeling of everything being right again.
 
@@ -204,22 +199,21 @@ Warm breath, soft whiskers, and the feeling of everything being right again.
 
 ### Beat 5.1: Reflection & Learning
 #### Page 24
-Still all tangled up in their hug, Liska took a big, shivery breath. The scary feeling slid away. Her purr came back, small and warm.
+After a moment, Liska looked up. “Your voices got crunchy,” she said, tapping their paws. “Paw pile fixes it.”
 
 #### Page 25
-She looked at Mama. She looked at Papa. “Your voices got crunchy,” she said, and tapped their paws together. “Paw pile fixes it.”
+She tugged them, pulling their tangle of fur into her sunny corner.
 
 ### Beat 5.2: Making it Right / Integration / New Status Quo
 #### Page 26
-She tugged Mama, then Papa, pulling their tangle of fur out into the garden.
-
-They settled in a heap in their sunny corner, Liska the warm filling in a purring family sandwich.
+There, they settled in a heap, Liska the warm filling in a purring family sandwich.
 
 #### Page 27
 "I'm sorry I was grumpy," said Papa.
 
 "And I'm sorry I was cold," said Mama, her voice soft again.
 
+
 ### Beat 5.3: Concluding Thought
 #### Page 28
-Liska looked at the braid, then at their paws. Today she was like that braid. The one that held the whole family together.
+Liska looked at the braid, then at their paws. Today she was like that braid, holding the family together.
