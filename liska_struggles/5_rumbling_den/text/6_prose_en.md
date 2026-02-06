@@ -199,7 +199,7 @@ Warm breath, soft whiskers, and the feeling of everything being right again.
 
 ### Beat 5.1: Reflection & Learning
 #### Page 24
-After a moment, Liska looked up. “Your voices got crunchy,” she said, tapping their paws. “Paw pile fixes it.”
+After a moment, Liska looked up. “Your voices got grumpy,” she said, tapping their paws. “Paw pile fixes it.”
 
 #### Page 25
 She tugged them, pulling their tangle of fur into her sunny corner.

@@ -1,109 +1,101 @@
-One sunny morning, in her favorite corner of the garden Liska was taming a wild, stubborn braid. 
+Однажды солнечным утром, в своём любимом уголке сада, Лиска укрощала упрямую косичку.
 
-Her tiny tongue stuck out just a little as she wove her favorite treasures into it.
+Высунув язычок, она вплетала в неё свои любимые сокровища.
 
-Finally, she gave the braid one last, tight tug, and everything was snug.
+Она в последний раз подтянула косичку — и всё улеглось на свои места.
 
-First, she gently touched the rainbow stone. "Papa gave you to me," she said, "to help me be brave."
+Сначала она потрогала радужный камешек. «Тебя мне подарил папа, — сказала она, — чтобы я была смелой».
 
-Next, she tickled her nose with the tuft of snow-white baby-fur. "Mama saved you from when I was tiny," she whispered, "because she loves me very, very much."
+Потом пощекотала носик белоснежным пушком. «А тебя мама сохранила с тех пор, как я была совсем крошкой, — прошептала она, — потому что она очень-очень меня любит».
 
-And last, she pointed a claw at the tiny clay tablet. "This one," she said proudly, "is me! My first mark."
+И наконец она указала на маленькую глиняную табличку. «А это, — гордо сказала она, — я! Мой первый след».
 
-She remembered Papa and Mama pressing their paws over hers as she made it. It was like pile of paws.
+Она вспомнила, как папа и мама накрывали её лапки своими, когда она его делала. Целая куча лап!
 
-"There. Now you're all together."
+«Вот. Теперь вы все вместе», — сказала Лиска.
 
-She had to show Papa and Mama RIGHT NOW!
+Нужно было показать это маме и папе *прямо сейчас*!
 
-She bounded into the main room, but Papa, who always turned at the sound of her paws, didn’t move. Mama, who always had a smile waiting, kept her face turned to the wall.
+Она вбежала в большую комнату, но папа, который всегда оборачивался на стук её лапок, не повернулся. Мама, у которой всегда была наготове улыбка, смотрела в стену.
 
-She stopped.
+Лиска замерла.
 
-*Something's wrong,* a little voice whispered in her head.
+*Что-то не так,* подумала она.
 
-The room was so quiet, Liska could hear a bee buzzing outside the window.
+В комнате было так тихо, что даже пылинки, кажется, боялись пошевелиться.
 
-A happy little hum in Liska’s chest went quiet. Her tail gave a confused thump-thump and fell still. Even her blinking forgot how to blink for a second.
+Весёлое урчание в груди стихло. Хвостик растерянно бух‑бух — и затих.
 
-Why didn't they look at her?
+«Почему они на меня не смотрят?» — подумала Лиска.
 
-She padded over to Papa and held up her braid. "Papa, look what I made."
+Она подбежала к папе и протянула косичку. «Папа, глянь, что я сделала».
 
-He glanced down. "That's nice, sweetie." His eyes were already looking back out the window. 
+Он взглянул на нее. «Красиво, малышка». И снова посмотрел в окно.
 
-Liska blinked once, slow. Her smile slid right off her face.
+Лиска моргнула, медленно-медленно. Улыбка тихонько сползла с её мордочки и спряталась.
 
-She stepped right in front of him, blocking his view and lifting the braid higher. "No, Papa, *look*," she insisted, her voice trembling. "It's you, and Mama, and me. It's us."
+Она встала прямо перед лицом папы и подняла косичку выше. «Нет, папа, *посмотри*, — настояла она дрожащим голосом. — Это ты, и мама, и я. Это мы».
 
-Papa looked at her, but his face was tight and serious. He put a paw gently over hers. "Liska, sweetie, not right now." 
+Папа посмотрел на неё, но лицо у него было напряжённое и серьёзное. Он мягко накрыл её лапку своей. «Лиска, малышка, не сейчас». 
 
-His paw pushed hers softly away.
+Он мягко отодвинул её лапку.
 
-A hot prickle of tears stung her eyes, and her chest felt too tight to breathe.
+Глаза Лиски защипало от слёз, а в груди стало тесно‑тесно, как в слишком маленьком домике.
 
-She fled to the hallway. She sank to the floor and wrapped her arms around her knees, making herself as small as possible. 
+Лиска выбежала в коридор, плюхнулась на пол и свернулась клубочком — может, если стать совсем маленькой, грусть её не найдёт?
 
-*Are they mad at ME?* she thought.
+«Они на *меня* сердятся?» — подумала она.
 
-The treasure-braid felt heavy and useless in her lap.
+Тяжёлая, тёплая лапа легла ей на спину. Папа прижал её к груди, и Лиска зарылась в его шерсть, как в глубокую тёплую нору. Папа держал её крепко, пока дрожь не ушла.
 
-A heavy, warm paw settled on her back. It was Papa. He gathered her into his chest, and Liska buried herself in his fur like it was a deep, warm burrow. He held her tight until the shaking stopped.
+"Ох, котёнок, тебе так грустно, — тихо сказал он. — Мы с мамой... мы спорим. Но ты тут ни при чём, малышка, мы тебя любим». 
 
-"Oh, my kitten, you are so sad," he said softly. "Mama and I... we are arguing. But it is not your fault, little one, we love you." 
+Папа прижал ее еще крепче. «Нам с мамой нужно договорить. Сможешь нас подождать?» 
 
-He squeezed her gently. "Mama and I need to finish talking. Can you wait for us?" 
+Лиска кивнула.
 
-Liska nodded.
+«Спасибо», — тихо сказал папа. — «Где тебе будет уютнее всего?»
 
-"Thank you," Papa said softly. "Where would be a cozy spot for you to wait?"
+Лиска отвела его в свой солнечный уголок. Она устроилась на подушках, папа подоткнул их так, чтобы ей было удобно, и вернулся в комнату к маме.
 
-Liska stood, took his big paw, and led him to her sunny corner. She settled herself into the pillows, and Papa tucked them in around her before walking back into the house.
+Какое-то время Лиска просто сидела и перебирала сокровища на косичке, двигая их туда‑сюда.
 
-For a long moment, Liska just sat there, tracing the treasures on her braid with one paw, moving them around.
+Она положила мягкий пушок на твёрдый камешек. Потом поставила сверху свою глиняную табличку. Получилась маленькая башенка из сокровищ. И ещё...
 
-She placed the soft fur on top of the solid stone. Then she balanced her little clay mark on the very top. A tiny treasure-tower. Then...
+Лиска навострила ушки. Башня выглядела совсем как... их семейная куча лап! Лапа на лапу, лапа на лапу!
 
-Her ears perked up. It looked just like... their family paw pile! How they'd stack all their paws together and laugh. 
+Она посмотрела на свою лапку, потом на косичку, потом на дверь...
 
-She looked from her own small paw to the treasure-braid. Then she looked toward the doorway, where her parents were. 
+Схватила косичку, вскочила на лапы и решительно пошла обратно в комнату.
 
-She snatched the braid up, scrambled to her paws, and marched back into the room.
+Она встала прямо между мамой и папой, вытянулась во весь рост и подняла косичку высоко-высоко. «СМОТРИТЕ!» — сказала она. — «Это мы! Камешек — папа! Пушок — мама! А отпечаток лапы — я! Вместе! Смотрите же!»
 
-She walked right between her parents, stood as tall as she could, and held up the braid. "LOOK!" she declared. "It's us! The stone is Papa! The tuft is Mama! And the paw print is me! All together! Look!"
+На страшную секунду время, кажется, забыло идти.
 
-For a scary second, nothing happened.
+Её глаза забегали туда‑сюда. Папа здесь. Мама там. Мама... во-о-он там. Так далеко.
 
-Her eyes darted back and forth. Papa here. Mama there. Papa here. Mama... way over there.
+*Слишком далеко!* — подумала Лиска. — *Нужно их пододвинуть обратно!*
 
-*They just... too far apart!* Liska thought. *I have to put them back!*
+Она сделала дрожащий вдох, схватила папину лапу и изо всех сил потянула его к маме.  
 
-Then, she took a tiny, shaky breath, and grabbed Papa's paw. She grunted and pulled him toward Mama with all her might. 
+Потом она схватила мамину лапу. Соединила их лапы и положила свою маленькую лапку сверху.
 
-Then she grabbed Mama's paw. She joined their paws and placed her own little paw right on top.
+«Куча лап», — скомандовала она маленьким, но упрямым голосом. — «Мы. Все вместе».
 
-"Paw pile," she commanded, her voice small but stubborn. "Us. Together."
+В их глазах потеплело. Они присели и обняли её так крепко, как будто боялись отпустить.
 
-Something in parents' eyes melted. In a rush of warm fur, they both knelt and pulled her into a tight, safe hug.
+«Прости, что мы тебя напугали», — прошептала мама.
 
-"We're so sorry we worried you," Mama whispered into her fur.
+А потом они прижались носами для своего особого Тройного Поцелуя: *мм‑м‑муах*!
 
-Then came the best part.
+Тёплое дыхание, мягкие усы — и чувство, что всё снова стало хорошо.
 
-They smooshed together for their special Triple Kiss: all three noses touching in the middle. 
+Немного помолчав, Лиска подняла мордочку. «У вас голоса стали колючие, как колючие ёжики», — сказала она, похлопывая их по лапам. — «Но куча лап всегда поможет!».
 
-Warm breath, soft whiskers, and the feeling of everything being right again.
+Лиска потянула их за лапы и утащила этот семейный клубок шерсти в сад.
 
-Still all tangled up in their hug, Liska took a big, shivery breath. The scary feeling slid away. Her purr came back, small and warm.
+Там они устроились кучей в своём солнечном уголке: Лиска как тёплая начинка в урчащем семейном бутерброде.
 
-She looked at Mama. She looked at Papa. “Your voices got crunchy,” she said, and tapped their paws together. “Paw pile fixes it.”
+«Прости, что я рассердился», — сказал папа. «И ты прости, что я была резкой», — сказала мама, и голос у неё снова стал мягким.
 
-She tugged Mama, then Papa, pulling their tangle of fur out into the garden.
-
-They settled in a heap in their sunny corner, Liska the warm filling in a purring family sandwich.
-
-"I'm sorry I was grumpy," said Papa.
-
-"And I'm sorry I was cold," said Mama, her voice soft again.
-
-Liska looked at the braid, then at their paws. Today she was like that braid. The one that held the whole family together.
+Лиска посмотрела на свою косичку, потом на их лапы. Сегодня она была как эта косичка — крепко держала их вместе.
