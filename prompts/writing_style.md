@@ -1,22 +1,10 @@
-# Liska Adventures — Writing Guide
+# Liska Stories — Writing Guide
 
 ## Story Identity
 
-Liska Adventures are adventure stories for children aged 4-6, read aloud by parents. Each story combines a physical adventure (quest, exploration, problem to solve) with an emotional thread that emerges naturally from the journey. Liska feels emotions naturally but moves through them quickly — she's the one who notices and helps others with theirs. Distribute emotional weight across the cast, not just the protagonist. The deeper emotional threads come from friends, situations, or the people they meet along the way.
+Stories for children aged 4-6, read aloud by parents. They can be adventure stories, emotionally-focused stories, or both. All stories are grounded in developmental psychology for ages 4-6 and follow best practices — children drive solutions, emotions are validated not dismissed, consequences are natural not punitive, growth is shown through action not explained through dialogue.
 
-## Story Structure
-
-Use established adventure story structures as a foundation — Hero's Journey, quest narratives, three-act structure, or similar proven frameworks. Don't invent rigid systems; pick what fits the story. The key requirements:
-
-- Forward momentum. Every scene moves the adventure forward.
-- Tension, mystery, and foreshadowing to keep attention.
-- Cliffhangers between story segments for read-aloud pacing.
-- Each story has both a physical goal (find something, get somewhere, solve a problem) and an emotional dimension that emerges naturally from the adventure.
-- Theme emerges from action, never from lectures.
-
-## Developmental Psychology Layer
-
-These are adventure stories grounded in developmental psychology for ages 4-6. Emotional learning happens through modeling — characters demonstrate healthy ways to navigate situations naturally, not because the plot forces a lesson. Follow best practices from developmental psychology: children drive solutions (adults guide, not fix), emotions are validated not dismissed, consequences are natural not punitive, and growth is shown through action not explained through dialogue. This layer should be present but invisible — woven into good storytelling, never didactic.
+Every story should strengthen the bond between the parent reading and the child listening. Showcase warm, real relationships — moments that make them want to be closer. See `adventure_story.md` and `psychological_story.md` for type-specific guidance.
 
 ## Prose Style
 
@@ -29,6 +17,18 @@ These are adventure stories grounded in developmental psychology for ages 4-6. E
 ## Format
 
 - **Total length**: ~700 words per story.
+
+## Humor & Fun
+
+The stories should be genuinely funny for both children and adults. Some things to keep in mind, you don't need to always follow them:
+
+- Exaggeration and physical comedy — full-body reactions to small things, dramatic overreaction.
+- Absurd similes and comparisons, the weirder the better.
+- Child-logic — flawless reasoning from incorrect premises, literal interpretations of figurative speech.
+- Dry and wry humor and understatement, irony.
+- Invented words, neologisms, creative mispronunciations, naming things by function.
+- Child-like word mangling.
+- Sound effects and onomatopoeia.
 
 ## Forbidden Tropes
 
@@ -48,6 +48,10 @@ Stories are written in English first, then adapted (not literally translated) in
 **Internal thoughts:**
 - **English**: Italics, no quotes. `*I can do this*, she thought.`
 - **Russian**: Guillemets. `«Я смогу», — подумала она.`
+
+## World & Setting
+
+The stories take place in a low-fantasy, late-medieval world. No magic, no anthropomorphism of inanimate objects. See `setting.md` for details.
 
 ## Characters
 
