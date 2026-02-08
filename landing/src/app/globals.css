@@ -86,7 +86,7 @@
 :root[data-theme="dark"] {
   --radius: 0.5rem;
   --background: oklch(0.16 0.012 78);
-  --foreground: oklch(0.96 0.02 78);
+  --foreground: oklch(0.98 0.015 78);
   --muted: oklch(0.24 0.015 78);
   --muted-foreground: oklch(0.72 0.008 78);
   --popover: oklch(0.18 0.012 78);
@@ -124,7 +124,7 @@
   :root:not([data-theme="light"]) {
     --radius: 0.5rem;
     --background: oklch(0.16 0.012 78);
-    --foreground: oklch(0.96 0.02 78);
+    --foreground: oklch(0.98 0.015 78);
     --muted: oklch(0.24 0.015 78);
     --muted-foreground: oklch(0.72 0.008 78);
     --popover: oklch(0.18 0.012 78);
