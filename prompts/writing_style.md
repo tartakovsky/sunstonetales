@@ -12,6 +12,7 @@ Every story should strengthen the bond between the parent reading and the child 
 - Write from a child's perspective — small things feel huge. A puddle is an ocean, a high shelf is a mountain. Problems should be real from a child's eye level.
 - Write natural, idiomatic language — the way people actually speak to children. It should flow when read aloud.
 - Vary sentence length for rhythm. Use simple connectors (and, but, so, then) for flow.
+- Never use negation as a setup for the real statement. "She didn't run — she walked," "The water wasn't a hole. It was a mirror," "Not scary, but beautiful" — all weak. Say what IS, vividly.
 - ~10% of vocabulary can be slightly advanced words that expand the child's language through context. The rest should be simple and common for 4-6 year olds.
 
 ## Format

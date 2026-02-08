@@ -1,0 +1,90 @@
+# Liska and Her Name
+
+Liska burst into the bedroom like something was on fire.
+
+"Mama! A man at the market said liski got into his kitchen!" She climbed onto the sleeping mat and grabbed Mara's arm with both paws. "I have NEVER been in his kitchen!"
+
+Mara's whiskers twitched. She pulled the blanket over Liska's legs and smoothed the fur between her ears. 
+
+"Are you sure you weren't in his kitchen?" 
+
+Liska's jaw dropped. "MAMA!" 
+
+Mara grinned. "You do get into everything else."
+
+"But he was not talking about you, kitten. Liski means little foxes.
+
+Liska's eyes went wide. 
+
+"You named me after something that *gets into kitchens*?!" she asked incredulously.
+
+Mara laughed, lay down beside her and dimmed the oil lamp to a warm glow. 
+
+"Let me tell you a story."
+
+Liska pulled Slothy tight against her chest and nodded.
+
+"It was the coldest night of the whole winter. Snow everywhere — so thick you couldn't see past your own nose..."
+
+---
+
+The cub pressed its belly to the snow and shivered.
+
+Everything was white. White ground, white sky, white flakes tumbling so thick the world ended three tail-lengths away. Snowdrifts came up past its chest, and each step meant sinking in, pulling free, sinking in again.
+
+Then the cub smelled something. Not snow-smell, which was nothing-smell. Something warm and dark and rich. Its nose twitched. It followed the scent through the drifts until a shape appeared.
+
+A tall stone thing, straight as a cliff, with white clouds breathing out of its top. And lower down — a flat shiny surface with warm light trapped behind it. The light was the color of summer. The cub sat in the snow and stared.
+
+
+Something moved behind the shiny surface. A shadow. Enormous.
+
+The cub bolted. It scrambled behind a snow-covered log and crouched there, heart hammering, breath coming in tiny white puffs. But the cold found it fast. The wind bit through its fur and the cub's whole body started to shake.
+
+It peeked back. The golden light was still there. The shadow was gone.
+
+The cub crept closer. One paw, then another, leaving a stitching of tiny prints. It pressed its nose against the shiny surface and felt warmth leak through. Oh, that warmth. Its eyes half-closed.
+
+The shadow came back. Right there, right on the other side. The cub scrambled backward and a branch dumped a whole armload of snow on its head. It sat in the pile, blinking, wearing snow like a hat.
+
+---
+
+Liska pulled the blanket up to her nose. "Was it okay?"
+
+"Just listen," Mara whispered.
+
+---
+
+The cub shook the snow off. Its paws were numb. Its ears ached. The warm place was right there.
+
+A creaking sound. Part of the stone thing swung open, and warm air rushed out so fast the cub's whiskers fluttered. In the opening stood one of the enormous creatures, soft-footed and tall. It crouched down slowly and set something on the ground. A small bowl, steaming. The smell was so good the cub's whole body leaned forward before its legs decided to move.
+
+The creature backed away and sat. Perfectly still.
+
+The cub waited. The creature waited.
+
+One step toward the bowl. Then another. Its nose touched the rim. Warm milk. The cub's tongue darted out, and the taste filled its whole mouth with something it had no name for — only that it was good, and safe, and it wanted more.
+
+While it drank, the ground changed from snow to smooth stone. The wind stopped. Warmth wrapped around it like a second coat. The cub looked up — it was inside the warm place. The creature sat nearby, watching with soft dark eyes. Not reaching. Just there.
+
+The cub licked the last drop from the bowl, turned in a circle three times, and curled up on the warm stone floor. Its tail wrapped over its nose.
+
+The smallest thing in the biggest winter, and it had found its way in.
+
+---
+
+The bedroom was quiet.
+
+"The fox stayed with us all winter," Mara said. "Every day it explored a little farther — under the chairs, behind the cupboard, up the stairs. Brave and curious, even though everything was so much bigger than it was." She brushed her nose against Liska's forehead. "Then you were born, with your white fur and those big eyes that wanted to look at everything at once. And your father said — "
+
+"What did he say?"
+
+"He said, 'She looks just like our little fox.'"
+
+Liska lay still. She looked down at her own white paws, then back up.
+
+"So I'm named after someone brave?"
+
+Mara pulled the blanket to her chin. "You're named after someone curious. The brave part you're doing all on your own."
+
+Liska held Slothy against her cheek and closed her eyes. Under the blanket, her tail curled and uncurled once, slowly, like a fox settling into a warm place it had finally found.
