@@ -225,7 +225,7 @@ export function StoryReader({ children, title, backHref, backLabel }: StoryReade
           inset: 0;
           z-index: 50;
           background: var(--background);
-          color: var(--foreground);
+          color: var(--muted-foreground);
           font-family: Georgia, "Times New Roman", serif;
           -webkit-text-size-adjust: none;
           text-size-adjust: none;
@@ -259,7 +259,7 @@ export function StoryReader({ children, title, backHref, backLabel }: StoryReade
         }
 
         .reader-back:hover {
-          color: var(--foreground);
+          color: var(--muted-foreground);
         }
 
         .reader-back-text {
@@ -269,7 +269,7 @@ export function StoryReader({ children, title, backHref, backLabel }: StoryReade
         /* Center: title (desktop only) */
         .reader-title {
           font-size: 0.8rem;
-          color: var(--foreground);
+          color: var(--muted-foreground);
           white-space: nowrap;
           overflow: hidden;
           text-overflow: ellipsis;
@@ -293,7 +293,7 @@ export function StoryReader({ children, title, backHref, backLabel }: StoryReade
           background: none;
           border: 1px solid var(--border);
           border-radius: 9999px;
-          color: var(--foreground);
+          color: var(--muted-foreground);
           width: 1.75rem;
           height: 1.75rem;
           cursor: pointer;
@@ -371,7 +371,7 @@ export function StoryReader({ children, title, backHref, backLabel }: StoryReade
           font-size: 18px;
           line-height: 1.7;
           min-height: 0;
-          color: var(--foreground);
+          color: var(--muted-foreground);
         }
 
         .reader-text.full {
