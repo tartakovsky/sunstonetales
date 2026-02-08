@@ -198,24 +198,3 @@
     @apply border-red-200/80 bg-red-50/60;
   }
 }
-
-/* Two-pane story layout: image left, text beside on desktop */
-@media (min-width: 1024px) {
-  .story-content img {
-    float: left;
-    clear: left;
-    width: 45%;
-    margin-right: 5%;
-    margin-bottom: 1.5rem;
-  }
-}
-
-.story-content hr {
-  clear: both;
-  border: none;
-  margin: 2.5rem 0;
-}
-
-.story-content img {
-  border-radius: 0.75rem;
-}

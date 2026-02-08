@@ -5,6 +5,7 @@ import type { Metadata } from "next";
 
 import { stories } from "@/content/stories";
 import { locales, type Locale } from "@/lib/i18n";
+import { StoryReader } from "@/components/story/story-reader";
 
 interface StoryPageParams {
   locale: string;
@@ -68,32 +69,23 @@ export default async function StoryPage({
   const Story = mod.default;
 
   return (
-    <main className="bg-background pt-16 pb-16 md:pt-24 md:pb-24">
-      <div className="container-padding-x mx-auto max-w-7xl">
-        <article className="mx-auto max-w-4xl">
-          <header className="mb-10 flex flex-col gap-3">
-            <h1 className="heading-lg text-foreground">
-              {localeEntry.meta.title}
-            </h1>
-            <p className="text-muted-foreground text-lg/8 text-pretty">
-              {localeEntry.meta.description}
-            </p>
-          </header>
+    <>
+      <StoryReader
+        title={localeEntry.meta.title}
+        backHref={`/${locale}/stories`}
+        backLabel={locale === "ru" ? "Истории" : "Stories"}
+      >
+        <Story />
+      </StoryReader>
 
-          <div className="story-content">
-            <Story />
-          </div>
-
-          {localeEntry.meta.jsonLd ? (
-            <script
-              type="application/ld+json"
-              dangerouslySetInnerHTML={{
-                __html: JSON.stringify(localeEntry.meta.jsonLd),
-              }}
-            />
-          ) : null}
-        </article>
-      </div>
-    </main>
+      {localeEntry.meta.jsonLd ? (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(localeEntry.meta.jsonLd),
+          }}
+        />
+      ) : null}
+    </>
   );
 }
