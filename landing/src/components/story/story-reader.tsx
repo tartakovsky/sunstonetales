@@ -380,6 +380,7 @@ export function StoryReader({ children, title, backHref, backLabel }: StoryReade
 
         .reader-text p {
           margin-bottom: 0.85em;
+          color: inherit;
         }
 
         .reader-text img {
