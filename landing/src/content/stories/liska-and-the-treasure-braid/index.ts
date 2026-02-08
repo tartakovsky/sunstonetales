@@ -5,7 +5,7 @@ export const story: StoryEntry = {
   meta: {
     slug: "liska-and-the-treasure-braid",
     category: "big-feelings",
-    categorySlug: "liska_struggles",
+    categorySlug: "liska-big-emotions",
   },
   locales: {
     ru: { meta: ruMeta, load: () => import("./ru/story.mdx") },

@@ -13,32 +13,33 @@ import { Button } from "@/components/ui/button";
 
 interface Spread {
   imageHtml: string | null;
+  imageSrc: string | null;
   textHtml: string;
 }
 
 function parseSpreads(container: HTMLElement): Spread[] {
   const spreads: Spread[] = [];
-  let current: { imageHtml: string | null; parts: string[] } | null = null;
+  let current: { imageHtml: string | null; imageSrc: string | null; parts: string[] } | null = null;
 
   for (const node of Array.from(container.children)) {
     const el = node as HTMLElement;
-    const img = el.tagName === "IMG" ? el : el.querySelector("img");
+    const img = el.tagName === "IMG" ? (el as HTMLImageElement) : el.querySelector("img");
 
     if (img) {
-      if (current) spreads.push({ imageHtml: current.imageHtml, textHtml: current.parts.join("") });
-      current = { imageHtml: el.outerHTML, parts: [] };
+      if (current) spreads.push({ imageHtml: current.imageHtml, imageSrc: current.imageSrc, textHtml: current.parts.join("") });
+      current = { imageHtml: el.outerHTML, imageSrc: img.src, parts: [] };
     } else {
       const html = el.outerHTML;
       if (!html.trim()) continue;
       if (!current) {
-        current = { imageHtml: null, parts: [html] };
+        current = { imageHtml: null, imageSrc: null, parts: [html] };
       } else {
         current.parts.push(html);
       }
     }
   }
 
-  if (current) spreads.push({ imageHtml: current.imageHtml, textHtml: current.parts.join("") });
+  if (current) spreads.push({ imageHtml: current.imageHtml, imageSrc: current.imageSrc, textHtml: current.parts.join("") });
 
   if (spreads.length > 1 && spreads[0] && !spreads[0].imageHtml && spreads[1]) {
     spreads[1].textHtml = spreads[0].textHtml + spreads[1].textHtml;
@@ -66,6 +67,19 @@ export function StoryReader({ children, title, backHref, backLabel }: StoryReade
     const parsed = parseSpreads(contentRef.current);
     setSpreads(parsed);
   }, []);
+
+  // Preload adjacent images (2 ahead, 1 behind)
+  useEffect(() => {
+    if (spreads.length === 0) return;
+    const toPreload = [current - 1, current + 1, current + 2];
+    for (const idx of toPreload) {
+      const src = spreads[idx]?.imageSrc;
+      if (src) {
+        const img = new Image();
+        img.src = src;
+      }
+    }
+  }, [current, spreads]);
 
   const go = useCallback(
     (dir: 1 | -1) => {

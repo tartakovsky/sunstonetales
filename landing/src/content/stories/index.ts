@@ -19,5 +19,5 @@ export const stories: StoryEntry[] = [
 
 export const categoryLabels: Record<string, Record<string, string>> = {
   liska_adventures: { en: "Liska's Adventures", ru: "Приключения Лиски" },
-  liska_struggles: { en: "Liska's Big Feelings", ru: "Большие чувства Лиски" },
+  "liska-big-emotions": { en: "Liska's Big Feelings", ru: "Большие чувства Лиски" },
 };
