@@ -1,5 +1,5 @@
 import type { StoryEntry } from "./types";
-import { story as liskaAndHerName } from "./liska-and-her-name";
+import { story as whyLiskaIsNamedLiska } from "./why-liska-is-named-liska";
 import { story as liskaAndGoodMemories } from "./liska-and-good-memories";
 import { story as liskaSavesForKebab } from "./liska-saves-for-kebab";
 import { story as liskaAndTheToothyAdventure } from "./liska-and-the-toothy-adventure";
@@ -8,7 +8,7 @@ import { story as liskaAndTheGameOfShadows } from "./liska-and-the-game-of-shado
 import { story as liskaAndTheTreasureBraid } from "./liska-and-the-treasure-braid";
 
 export const stories: StoryEntry[] = [
-  liskaAndHerName,
+  whyLiskaIsNamedLiska,
   liskaAndGoodMemories,
   liskaSavesForKebab,
   liskaAndTheToothyAdventure,
