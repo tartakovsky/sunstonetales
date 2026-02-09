@@ -69,6 +69,8 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
   const [spreads, setSpreads] = useState<Spread[]>([]);
   const [current, setCurrent] = useState(0);
   const touchStartRef = useRef({ x: 0, y: 0 });
+  const barRef = useRef<HTMLDivElement>(null);
+  const lastSelectionRef = useRef<{ startOffset: number; endOffset: number } | null>(null);
 
   // Annotation system
   const { annotations, create, update, remove, getHighlightedHtml } = useAnnotations(storySlug, locale);
@@ -105,33 +107,61 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
     [textEl],
   );
 
-  // Mobile: tap a color in the fixed bottom bar → read selection at that moment → create annotation
-  // No listeners during selection = zero interference with native selection UI
+  // Mobile: selectionchange toggles DOM attribute on the bar (no React state, no re-render)
+  // Offsets stored in a ref so button handlers can use them even after selection collapses
+  useEffect(() => {
+    if (window.matchMedia("(pointer: fine)").matches) return;
+    if (!textEl) return;
+
+    function onSelectionChange() {
+      const sel = getSelectionOffsets(textEl!);
+      if (sel) {
+        lastSelectionRef.current = { startOffset: sel.startOffset, endOffset: sel.endOffset };
+        barRef.current?.setAttribute("data-has-selection", "true");
+      } else {
+        barRef.current?.setAttribute("data-has-selection", "false");
+      }
+    }
+
+    document.addEventListener("selectionchange", onSelectionChange);
+    return () => document.removeEventListener("selectionchange", onSelectionChange);
+  }, [textEl]);
+
+  // Mobile: snapshot selection on pointerdown (before tap collapses it)
+  const snapshotSelection = useCallback(() => {
+    if (!textEl) return;
+    const sel = getSelectionOffsets(textEl);
+    if (sel) lastSelectionRef.current = { startOffset: sel.startOffset, endOffset: sel.endOffset };
+  }, [textEl]);
+
   const onMobileColorPick = useCallback(
     async (color: "red" | "yellow" | "green" | "blue") => {
-      if (!textEl) return;
-      const sel = getSelectionOffsets(textEl);
-      if (!sel) return;
+      const offsets = lastSelectionRef.current;
+      if (!offsets) return;
       await create({
         spreadIdx: current,
-        startOffset: sel.startOffset,
-        endOffset: sel.endOffset,
+        startOffset: offsets.startOffset,
+        endOffset: offsets.endOffset,
         color,
       });
+      lastSelectionRef.current = null;
+      barRef.current?.setAttribute("data-has-selection", "false");
       window.getSelection()?.removeAllRanges();
     },
-    [textEl, current, create],
+    [current, create],
   );
 
   const onMobileComment = useCallback(() => {
-    if (!textEl) return;
-    const sel = getSelectionOffsets(textEl);
-    if (!sel) return;
+    const offsets = lastSelectionRef.current;
+    if (!offsets || !textEl) return;
+    const rect = window.getSelection()?.getRangeAt(0)?.getBoundingClientRect();
     setCommentPopover({
-      rect: sel.rect,
-      startOffset: sel.startOffset,
-      endOffset: sel.endOffset,
+      rect: rect || new DOMRect(window.innerWidth / 2, window.innerHeight / 2, 0, 0),
+      startOffset: offsets.startOffset,
+      endOffset: offsets.endOffset,
     });
+    lastSelectionRef.current = null;
+    barRef.current?.setAttribute("data-has-selection", "false");
   }, [textEl]);
 
   useEffect(() => {
@@ -301,8 +331,8 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
 
       {spreads.length > 0 && spread && (
         <div className="reader-root">
-          {/* Top bar — 3-column grid: back | title | nav */}
-          <div className="reader-bar">
+          {/* Top bar — 3-column grid: back | title | nav (or annotation buttons on mobile) */}
+          <div className="reader-bar" ref={barRef}>
             <Link href={backHref} className="reader-back">
               <ArrowLeft className="size-4" />
               <span className="reader-back-text">{backLabel}</span>
@@ -329,6 +359,51 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
                 className="reader-bar-btn"
               >
                 <ChevronRight className="size-4" />
+              </button>
+            </div>
+
+            {/* Mobile annotation buttons — shown via CSS when data-has-selection="true" */}
+            <div className="reader-annotate">
+              {(
+                [
+                  { name: "yellow" as const, bg: "rgba(234, 179, 8, 0.85)" },
+                  { name: "red" as const, bg: "rgba(239, 68, 68, 0.85)" },
+                  { name: "green" as const, bg: "rgba(34, 197, 94, 0.85)" },
+                ] as const
+              ).map((c) => (
+                <button
+                  key={c.name}
+                  type="button"
+                  onPointerDown={snapshotSelection}
+                  onClick={() => onMobileColorPick(c.name)}
+                  style={{
+                    width: 26,
+                    height: 26,
+                    borderRadius: "50%",
+                    border: "2px solid transparent",
+                    background: c.bg,
+                    cursor: "pointer",
+                    WebkitTapHighlightColor: "transparent",
+                  }}
+                  aria-label={`Highlight ${c.name}`}
+                />
+              ))}
+              <button
+                type="button"
+                onPointerDown={snapshotSelection}
+                onClick={onMobileComment}
+                style={{
+                  background: "none",
+                  border: "none",
+                  color: "var(--muted-foreground)",
+                  cursor: "pointer",
+                  padding: 2,
+                  display: "flex",
+                  WebkitTapHighlightColor: "transparent",
+                }}
+                aria-label="Add comment"
+              >
+                <MessageSquare size={18} />
               </button>
             </div>
           </div>
@@ -426,33 +501,6 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
             </div>
           )}
 
-          {/* Mobile: fixed bottom bar — always rendered, reads selection on tap */}
-          <div className="reader-mobile-bar">
-            {(
-              [
-                { name: "yellow" as const, bg: "rgba(234, 179, 8, 0.85)" },
-                { name: "red" as const, bg: "rgba(239, 68, 68, 0.85)" },
-                { name: "green" as const, bg: "rgba(34, 197, 94, 0.85)" },
-              ] as const
-            ).map((c) => (
-              <button
-                key={c.name}
-                type="button"
-                onClick={() => onMobileColorPick(c.name)}
-                className="reader-mobile-color"
-                style={{ background: c.bg }}
-                aria-label={`Highlight ${c.name}`}
-              />
-            ))}
-            <button
-              type="button"
-              onClick={onMobileComment}
-              className="reader-mobile-comment"
-              aria-label="Add comment"
-            >
-              <MessageSquare size={18} />
-            </button>
-          </div>
         </div>
       )}
 
@@ -681,44 +729,21 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
           }
         }
 
-        /* ── Mobile annotation bar ── */
-        .reader-mobile-bar {
-          display: flex;
+        /* ── Mobile annotation buttons in top bar ── */
+        .reader-annotate {
+          display: none;
           align-items: center;
-          justify-content: center;
-          gap: 12px;
-          padding: 8px 0;
-          border-top: 1px solid var(--border);
-          flex-shrink: 0;
+          gap: 8px;
+          justify-self: end;
         }
 
-        .reader-mobile-color {
-          width: 28px;
-          height: 28px;
-          border-radius: 50%;
-          border: 2px solid transparent;
-          cursor: pointer;
-          -webkit-tap-highlight-color: transparent;
-        }
-
-        .reader-mobile-color:active {
-          transform: scale(0.9);
-        }
-
-        .reader-mobile-comment {
-          background: none;
-          border: none;
-          color: var(--muted-foreground);
-          cursor: pointer;
-          padding: 4px;
-          display: flex;
-          -webkit-tap-highlight-color: transparent;
-        }
-
-        /* Hide mobile bar on desktop */
-        @media (hover: hover) and (pointer: fine) {
-          .reader-mobile-bar {
+        /* On touch devices: hide nav, show annotate when text is selected */
+        @media not all and (hover: hover) and (pointer: fine) {
+          .reader-bar[data-has-selection="true"] .reader-nav {
             display: none;
+          }
+          .reader-bar[data-has-selection="true"] .reader-annotate {
+            display: flex;
           }
         }
 
