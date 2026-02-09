@@ -8,7 +8,7 @@ import {
   type ReactNode,
 } from "react";
 import Link from "next/link";
-import { ChevronLeft, ChevronRight, ArrowLeft } from "lucide-react";
+import { ChevronLeft, ChevronRight, ArrowLeft, MessageSquare } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useAnnotations } from "./annotations/use-annotations";
 import { getSelectionOffsets } from "./annotations/use-text-selection";
@@ -105,36 +105,33 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
     [textEl],
   );
 
-  // Mobile: show toolbar after selection settles (no preventDefault, native UI untouched)
-  useEffect(() => {
-    if (window.matchMedia("(pointer: fine)").matches) return;
+  // Mobile: tap a color in the fixed bottom bar → read selection at that moment → create annotation
+  // No listeners during selection = zero interference with native selection UI
+  const onMobileColorPick = useCallback(
+    async (color: "red" | "yellow" | "green" | "blue") => {
+      if (!textEl) return;
+      const sel = getSelectionOffsets(textEl);
+      if (!sel) return;
+      await create({
+        spreadIdx: current,
+        startOffset: sel.startOffset,
+        endOffset: sel.endOffset,
+        color,
+      });
+      window.getSelection()?.removeAllRanges();
+    },
+    [textEl, current, create],
+  );
+
+  const onMobileComment = useCallback(() => {
     if (!textEl) return;
-
-    let timeout: ReturnType<typeof setTimeout>;
-    function checkSelection() {
-      clearTimeout(timeout);
-      timeout = setTimeout(() => {
-        if (!textEl) return;
-        const sel = getSelectionOffsets(textEl);
-        if (!sel) return;
-        setTooltip({
-          rect: sel.rect,
-          startOffset: sel.startOffset,
-          endOffset: sel.endOffset,
-        });
-      }, 350);
-    }
-
-    // touchend catches long-press selection completion
-    textEl.addEventListener("touchend", checkSelection);
-    // selectionchange catches handle adjustments
-    document.addEventListener("selectionchange", checkSelection);
-
-    return () => {
-      textEl.removeEventListener("touchend", checkSelection);
-      document.removeEventListener("selectionchange", checkSelection);
-      clearTimeout(timeout);
-    };
+    const sel = getSelectionOffsets(textEl);
+    if (!sel) return;
+    setCommentPopover({
+      rect: sel.rect,
+      startOffset: sel.startOffset,
+      endOffset: sel.endOffset,
+    });
   }, [textEl]);
 
   useEffect(() => {
@@ -428,6 +425,34 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
               </Button>
             </div>
           )}
+
+          {/* Mobile: fixed bottom bar — always rendered, reads selection on tap */}
+          <div className="reader-mobile-bar">
+            {(
+              [
+                { name: "yellow" as const, bg: "rgba(234, 179, 8, 0.85)" },
+                { name: "red" as const, bg: "rgba(239, 68, 68, 0.85)" },
+                { name: "green" as const, bg: "rgba(34, 197, 94, 0.85)" },
+              ] as const
+            ).map((c) => (
+              <button
+                key={c.name}
+                type="button"
+                onClick={() => onMobileColorPick(c.name)}
+                className="reader-mobile-color"
+                style={{ background: c.bg }}
+                aria-label={`Highlight ${c.name}`}
+              />
+            ))}
+            <button
+              type="button"
+              onClick={onMobileComment}
+              className="reader-mobile-comment"
+              aria-label="Add comment"
+            >
+              <MessageSquare size={18} />
+            </button>
+          </div>
         </div>
       )}
 
@@ -653,6 +678,47 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
 
           .reader-hover-zone:hover button {
             opacity: 1 !important;
+          }
+        }
+
+        /* ── Mobile annotation bar ── */
+        .reader-mobile-bar {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          gap: 12px;
+          padding: 8px 0;
+          border-top: 1px solid var(--border);
+          flex-shrink: 0;
+        }
+
+        .reader-mobile-color {
+          width: 28px;
+          height: 28px;
+          border-radius: 50%;
+          border: 2px solid transparent;
+          cursor: pointer;
+          -webkit-tap-highlight-color: transparent;
+        }
+
+        .reader-mobile-color:active {
+          transform: scale(0.9);
+        }
+
+        .reader-mobile-comment {
+          background: none;
+          border: none;
+          color: var(--muted-foreground);
+          cursor: pointer;
+          padding: 4px;
+          display: flex;
+          -webkit-tap-highlight-color: transparent;
+        }
+
+        /* Hide mobile bar on desktop */
+        @media (hover: hover) and (pointer: fine) {
+          .reader-mobile-bar {
+            display: none;
           }
         }
 
