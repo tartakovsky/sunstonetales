@@ -4,9 +4,7 @@ import type { Annotation } from "./types";
  * Inject <mark> tags into an HTML string based on annotations for a given spread.
  * Offsets are character positions in the plain-text content (tags stripped).
  *
- * Works by mapping plain-text char indices to positions in the HTML string,
- * then inserting <mark>...</mark> at the right spots. Handles annotations
- * that span across HTML tags naturally.
+ * Uses DOMParser to properly handle HTML entities and tag boundaries.
  */
 export function applyHighlights(
   html: string,
@@ -19,53 +17,55 @@ export function applyHighlights(
 
   if (matching.length === 0) return html;
 
-  // Build a map: plainTextIndex → htmlIndex
-  // Walk the HTML string, track when we're inside a tag vs text content
-  const textToHtml: number[] = []; // textToHtml[plainIdx] = position in html string
-  let inTag = false;
-  let textIdx = 0;
+  const doc = new DOMParser().parseFromString(html, "text/html");
+  const container = doc.body;
 
-  for (let i = 0; i < html.length; i++) {
-    if (html[i] === "<") {
-      inTag = true;
-      continue;
-    }
-    if (html[i] === ">") {
-      inTag = false;
-      continue;
-    }
-    if (!inTag) {
-      textToHtml[textIdx] = i;
-      textIdx++;
-    }
+  // Collect all text nodes with their plain-text offset ranges
+  const textNodes: { node: Text; start: number; end: number }[] = [];
+  const walker = doc.createTreeWalker(container, NodeFilter.SHOW_TEXT);
+  let offset = 0;
+  let node: Text | null;
+  while ((node = walker.nextNode() as Text | null)) {
+    const len = node.textContent?.length ?? 0;
+    textNodes.push({ node, start: offset, end: offset + len });
+    offset += len;
   }
-  // Sentinel: position after last text char (for end offsets at the very end)
-  textToHtml[textIdx] = html.length;
 
-  // Insert marks in reverse order to preserve positions
-  let result = html;
+  // Apply annotations in reverse order to keep earlier nodes stable
   for (let i = matching.length - 1; i >= 0; i--) {
     const ann = matching[i]!;
-    const start = ann.startOffset;
-    const end = ann.endOffset;
+    const annStart = Math.max(0, ann.startOffset);
+    const annEnd = Math.min(offset, ann.endOffset);
+    if (annStart >= annEnd) continue;
 
-    // Clamp to available text
-    if (start >= textIdx || end <= 0) continue;
-    const clampedStart = Math.max(0, start);
-    const clampedEnd = Math.min(textIdx, end);
+    // Find all text nodes that overlap this annotation
+    for (let t = textNodes.length - 1; t >= 0; t--) {
+      const tn = textNodes[t]!;
+      const overlapStart = Math.max(annStart, tn.start);
+      const overlapEnd = Math.min(annEnd, tn.end);
+      if (overlapStart >= overlapEnd) continue;
 
-    const htmlStart = textToHtml[clampedStart];
-    const htmlEnd = textToHtml[clampedEnd];
-    if (htmlStart === undefined || htmlEnd === undefined) continue;
+      const localStart = overlapStart - tn.start;
+      const localEnd = overlapEnd - tn.start;
 
-    const attrs = `data-annotation-id="${ann.id}" data-color="${ann.color}"${ann.comment ? ' data-has-comment="true"' : ""}`;
-    result =
-      result.slice(0, htmlStart) +
-      `<mark ${attrs}>` +
-      result.slice(htmlStart, htmlEnd) +
-      "</mark>" +
-      result.slice(htmlEnd);
+      // Split the text node to isolate the highlighted range
+      const textNode = tn.node;
+      const before = textNode.textContent!.slice(0, localStart);
+      const middle = textNode.textContent!.slice(localStart, localEnd);
+      const after = textNode.textContent!.slice(localEnd);
+
+      const mark = doc.createElement("mark");
+      mark.setAttribute("data-annotation-id", ann.id);
+      mark.setAttribute("data-color", ann.color);
+      if (ann.comment) mark.setAttribute("data-has-comment", "true");
+      mark.textContent = middle;
+
+      const parent = textNode.parentNode!;
+      if (after) parent.insertBefore(doc.createTextNode(after), textNode.nextSibling);
+      parent.insertBefore(mark, textNode.nextSibling);
+      textNode.textContent = before;
+    }
   }
 
-  return result;
+  return container.innerHTML;
 }

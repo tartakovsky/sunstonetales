@@ -11,7 +11,7 @@ import Link from "next/link";
 import { ChevronLeft, ChevronRight, ArrowLeft } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useAnnotations } from "./annotations/use-annotations";
-import { useTextSelection } from "./annotations/use-text-selection";
+import { getSelectionOffsets } from "./annotations/use-text-selection";
 import { AnnotationTooltip } from "./annotations/annotation-tooltip";
 import { CommentPopover } from "./annotations/comment-popover";
 import type { Annotation } from "./annotations/types";
@@ -72,9 +72,8 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
 
   // Annotation system
   const { annotations, create, update, remove, getHighlightedHtml } = useAnnotations(storySlug, locale);
-  const { selection, clearSelection } = useTextSelection(textEl);
 
-  // Tooltip state — offsets are snapshotted so they survive browser selection collapse
+  // Tooltip state — offsets snapshotted at creation time
   const [tooltip, setTooltip] = useState<{
     rect: DOMRect;
     startOffset?: number;
@@ -89,16 +88,22 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
     initialComment?: string | undefined;
   } | null>(null);
 
-  // Show tooltip when text is selected — snapshot offsets immediately
-  useEffect(() => {
-    if (selection && !commentPopover) {
+  // Right-click on selected text → show annotation tooltip instead of browser menu
+  const onContextMenu = useCallback(
+    (e: React.MouseEvent) => {
+      if (!textEl) return;
+      const sel = getSelectionOffsets(textEl);
+      if (!sel) return; // No selection — let browser show default context menu
+
+      e.preventDefault();
       setTooltip({
-        rect: selection.rect,
-        startOffset: selection.startOffset,
-        endOffset: selection.endOffset,
+        rect: sel.rect,
+        startOffset: sel.startOffset,
+        endOffset: sel.endOffset,
       });
-    }
-  }, [selection, commentPopover]);
+    },
+    [textEl],
+  );
 
   useEffect(() => {
     if (!contentRef.current) return;
@@ -119,6 +124,11 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
     }
   }, [current, spreads]);
 
+  const dismissAnnotationUI = useCallback(() => {
+    setTooltip(null);
+    setCommentPopover(null);
+  }, []);
+
   const go = useCallback(
     (dir: 1 | -1) => {
       setCurrent((c) => {
@@ -126,19 +136,15 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
         if (next < 0 || next >= spreads.length) return c;
         return next;
       });
-      setTooltip(null);
-      setCommentPopover(null);
-      clearSelection();
+      dismissAnnotationUI();
     },
-    [spreads.length, clearSelection],
+    [spreads.length, dismissAnnotationUI],
   );
 
   useEffect(() => {
     function onKey(e: KeyboardEvent) {
       if (e.key === "Escape") {
-        setTooltip(null);
-        setCommentPopover(null);
-        clearSelection();
+        dismissAnnotationUI();
         return;
       }
       if (e.key === "ArrowRight" || e.key === " ") {
@@ -152,7 +158,7 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
     }
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [go, clearSelection]);
+  }, [go, dismissAnnotationUI]);
 
   // Handle clicks on existing highlights
   const onTextClick = useCallback(
@@ -196,10 +202,9 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
         });
       }
       setTooltip(null);
-      clearSelection();
       window.getSelection()?.removeAllRanges();
     },
-    [tooltip, current, create, update, clearSelection],
+    [tooltip, current, create, update],
   );
 
   const handleOpenComment = useCallback(() => {
@@ -231,10 +236,9 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
       }
       setCommentPopover(null);
       setTooltip(null);
-      clearSelection();
       window.getSelection()?.removeAllRanges();
     },
-    [commentPopover, current, create, update, clearSelection],
+    [commentPopover, current, create, update],
   );
 
   const handleDelete = useCallback(async () => {
@@ -242,8 +246,8 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
       await remove(tooltip.existingAnnotation.id);
     }
     setTooltip(null);
-    clearSelection();
-  }, [tooltip, remove, clearSelection]);
+    window.getSelection()?.removeAllRanges();
+  }, [tooltip, remove]);
 
   const spread = spreads[current];
   const canPrev = current > 0;
@@ -327,6 +331,7 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
               className={`reader-text ${spread.imageHtml ? "" : "full"}`}
               dangerouslySetInnerHTML={{ __html: highlightedTextHtml }}
               onClick={onTextClick}
+              onContextMenu={onContextMenu}
             />
           </div>
 
@@ -339,10 +344,7 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
               onColorPick={handleColorPick}
               onComment={handleOpenComment}
               onDelete={tooltip.existingAnnotation ? handleDelete : undefined}
-              onClose={() => {
-                setTooltip(null);
-                clearSelection();
-              }}
+              onClose={() => setTooltip(null)}
             />
           )}
 
