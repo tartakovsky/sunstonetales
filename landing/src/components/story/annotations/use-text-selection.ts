@@ -23,36 +23,32 @@ export function useTextSelection(containerRef: RefObject<HTMLElement | null>) {
 
       const range = sel.getRangeAt(0);
 
-      // Make sure selection is inside our container
-      if (!container.contains(range.commonAncestorContainer)) return null;
+      // Check if selection intersects our container at all
+      if (!container.contains(sel.anchorNode) && !container.contains(sel.focusNode)) return null;
 
-      // Walk all text nodes to compute global char offsets
-      const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT);
-      let charCount = 0;
-      let startOffset = -1;
-      let endOffset = -1;
-      let textNode: Text | null;
-
-      while ((textNode = walker.nextNode() as Text | null)) {
-        // Check if this node contains the start of the range
-        if (textNode === range.startContainer) {
-          startOffset = charCount + range.startOffset;
-        }
-        // Check if this node contains the end of the range
-        if (textNode === range.endContainer) {
-          endOffset = charCount + range.endOffset;
-        }
-        charCount += textNode.length;
+      // Clamp range to container boundaries when selection extends outside
+      const clamped = range.cloneRange();
+      if (!container.contains(range.startContainer)) {
+        clamped.setStartBefore(container.firstChild!);
+      }
+      if (!container.contains(range.endContainer)) {
+        clamped.setEndAfter(container.lastChild!);
       }
 
-      if (startOffset === -1 || endOffset === -1 || startOffset === endOffset) return null;
+      // Compute plain-text offsets using Range.toString().length
+      // This handles both text-node and element-level range boundaries
+      const pre = document.createRange();
+      pre.setStart(container, 0);
+      pre.setEnd(clamped.startContainer, clamped.startOffset);
+      const startOffset = pre.toString().length;
+      pre.setEnd(clamped.endContainer, clamped.endOffset);
+      const endOffset = pre.toString().length;
 
-      // Ensure start < end
-      if (startOffset > endOffset) [startOffset, endOffset] = [endOffset, startOffset];
+      if (startOffset === endOffset) return null;
 
       return {
-        startOffset,
-        endOffset,
+        startOffset: Math.min(startOffset, endOffset),
+        endOffset: Math.max(startOffset, endOffset),
         text: sel.toString(),
         rect: range.getBoundingClientRect(),
       };

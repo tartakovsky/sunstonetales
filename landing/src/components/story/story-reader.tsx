@@ -583,13 +583,13 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
 
           .reader-hover-left {
             left: 0;
-            width: 25%;
+            width: 3.5rem;
             justify-content: center;
           }
 
           .reader-hover-right {
             right: 0;
-            width: 25%;
+            width: 3.5rem;
             justify-content: center;
           }
 
