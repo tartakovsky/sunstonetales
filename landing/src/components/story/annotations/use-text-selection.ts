@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useCallback, type RefObject } from "react";
+import { useState, useEffect, useCallback } from "react";
 
 export interface TextSelection {
   startOffset: number;
@@ -13,12 +13,11 @@ export interface TextSelection {
  * Tracks text selection within a container element.
  * Computes plain-text character offsets (tags stripped) for anchoring.
  */
-export function useTextSelection(containerRef: RefObject<HTMLElement | null>) {
+export function useTextSelection(container: HTMLElement | null) {
   const [selection, setSelection] = useState<TextSelection | null>(null);
 
   const computeOffsets = useCallback(
     (sel: Selection): TextSelection | null => {
-      const container = containerRef.current;
       if (!container || sel.isCollapsed) return null;
 
       const range = sel.getRangeAt(0);
@@ -53,7 +52,7 @@ export function useTextSelection(containerRef: RefObject<HTMLElement | null>) {
         rect: range.getBoundingClientRect(),
       };
     },
-    [containerRef],
+    [container],
   );
 
   const clearSelection = useCallback(() => {
@@ -61,7 +60,6 @@ export function useTextSelection(containerRef: RefObject<HTMLElement | null>) {
   }, []);
 
   useEffect(() => {
-    const container = containerRef.current;
     if (!container) return;
 
     // Desktop: show tooltip on mouseup after selection
@@ -95,7 +93,7 @@ export function useTextSelection(containerRef: RefObject<HTMLElement | null>) {
       container.removeEventListener("mouseup", onMouseUp);
       document.removeEventListener("selectionchange", onSelectionChange);
     };
-  }, [containerRef, computeOffsets]);
+  }, [container, computeOffsets]);
 
   return { selection, clearSelection };
 }

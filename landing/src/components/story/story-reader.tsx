@@ -65,14 +65,14 @@ interface StoryReaderProps {
 
 export function StoryReader({ children, title, backHref, backLabel, storySlug, locale }: StoryReaderProps) {
   const contentRef = useRef<HTMLDivElement>(null);
-  const textRef = useRef<HTMLDivElement>(null);
+  const [textEl, setTextEl] = useState<HTMLDivElement | null>(null);
   const [spreads, setSpreads] = useState<Spread[]>([]);
   const [current, setCurrent] = useState(0);
   const touchStartRef = useRef({ x: 0, y: 0 });
 
   // Annotation system
   const { annotations, create, update, remove, getHighlightedHtml } = useAnnotations(storySlug, locale);
-  const { selection, clearSelection } = useTextSelection(textRef);
+  const { selection, clearSelection } = useTextSelection(textEl);
 
   // Tooltip state
   const [tooltip, setTooltip] = useState<{
@@ -313,7 +313,7 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
               />
             )}
             <div
-              ref={textRef}
+              ref={setTextEl}
               className={`reader-text ${spread.imageHtml ? "" : "full"}`}
               dangerouslySetInnerHTML={{ __html: highlightedTextHtml }}
               onClick={onTextClick}
@@ -583,13 +583,13 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
 
           .reader-hover-left {
             left: 0;
-            width: 3.5rem;
+            width: 25%;
             justify-content: center;
           }
 
           .reader-hover-right {
             right: 0;
-            width: 3.5rem;
+            width: 25%;
             justify-content: center;
           }
 
