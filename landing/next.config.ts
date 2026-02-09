@@ -20,7 +20,7 @@ const nextConfig: NextConfig = {
   // Silence "workspace root" warnings when multiple lockfiles exist elsewhere.
   outputFileTracingRoot: __dirname,
 
-  // Scroll behavior managed manually in the story reader
+  // Scroll restoration handled by the story reader component
   experimental: {
     scrollRestoration: true,
   },
