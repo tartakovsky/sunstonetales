@@ -7,10 +7,11 @@ interface CommentPopoverProps {
   rect: DOMRect;
   initialComment?: string | undefined;
   onSave: (comment: string) => void;
+  onDelete?: (() => void) | undefined;
   onClose: () => void;
 }
 
-export function CommentPopover({ rect, initialComment, onSave, onClose }: CommentPopoverProps) {
+export function CommentPopover({ rect, initialComment, onSave, onDelete, onClose }: CommentPopoverProps) {
   const [text, setText] = useState(initialComment || "");
   const popoverRef = useRef<HTMLDivElement>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
@@ -95,6 +96,24 @@ export function CommentPopover({ rect, initialComment, onSave, onClose }: Commen
         }}
       />
       <div style={{ display: "flex", justifyContent: "flex-end", gap: 6 }}>
+        {onDelete && (
+          <button
+            type="button"
+            onClick={onDelete}
+            style={{
+              padding: "4px 12px",
+              borderRadius: 6,
+              border: "1px solid rgba(239, 68, 68, 0.4)",
+              background: "transparent",
+              color: "rgba(239, 68, 68, 0.85)",
+              fontSize: 13,
+              cursor: "pointer",
+              marginRight: "auto",
+            }}
+          >
+            Delete
+          </button>
+        )}
         <button
           type="button"
           onClick={onClose}
@@ -117,8 +136,8 @@ export function CommentPopover({ rect, initialComment, onSave, onClose }: Commen
             padding: "4px 12px",
             borderRadius: 6,
             border: "none",
-            background: "rgba(234, 179, 8, 0.85)",
-            color: "#1a1a1a",
+            background: "rgba(59, 130, 246, 0.85)",
+            color: "#fff",
             fontSize: 13,
             fontWeight: 600,
             cursor: "pointer",

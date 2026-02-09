@@ -14,7 +14,7 @@ interface AnnotationTooltipProps {
   rect: DOMRect;
   existingColor?: string | undefined;
   existingAnnotationId?: string | undefined;
-  onColorPick: (color: "red" | "yellow" | "green") => void;
+  onColorPick: (color: "red" | "yellow" | "green" | "blue") => void;
   onComment: () => void;
   onDelete?: (() => void) | undefined;
   onClose: () => void;

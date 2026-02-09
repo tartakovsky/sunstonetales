@@ -5,7 +5,7 @@ export interface Annotation {
   spreadIdx: number;
   startOffset: number;
   endOffset: number;
-  color: "red" | "yellow" | "green";
+  color: "red" | "yellow" | "green" | "blue";
   comment: string | null;
   createdAt: string;
 }

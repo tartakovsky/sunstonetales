@@ -105,13 +105,13 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
     [textEl],
   );
 
-  // Mobile: show toolbar when selection settles (no preventDefault, native UI untouched)
+  // Mobile: show toolbar after selection settles (no preventDefault, native UI untouched)
   useEffect(() => {
     if (window.matchMedia("(pointer: fine)").matches) return;
     if (!textEl) return;
 
     let timeout: ReturnType<typeof setTimeout>;
-    function onSelectionChange() {
+    function checkSelection() {
       clearTimeout(timeout);
       timeout = setTimeout(() => {
         if (!textEl) return;
@@ -122,12 +122,17 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
           startOffset: sel.startOffset,
           endOffset: sel.endOffset,
         });
-      }, 300);
+      }, 350);
     }
 
-    document.addEventListener("selectionchange", onSelectionChange);
+    // touchend catches long-press selection completion
+    textEl.addEventListener("touchend", checkSelection);
+    // selectionchange catches handle adjustments
+    document.addEventListener("selectionchange", checkSelection);
+
     return () => {
-      document.removeEventListener("selectionchange", onSelectionChange);
+      textEl.removeEventListener("touchend", checkSelection);
+      document.removeEventListener("selectionchange", checkSelection);
       clearTimeout(timeout);
     };
   }, [textEl]);
@@ -217,7 +222,7 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
 
   // Annotation actions — use snapshotted offsets from tooltip, not live selection
   const handleColorPick = useCallback(
-    async (color: "red" | "yellow" | "green") => {
+    async (color: "red" | "yellow" | "green" | "blue") => {
       if (tooltip?.existingAnnotation) {
         await update(tooltip.existingAnnotation.id, { color });
       } else if (tooltip?.startOffset != null && tooltip?.endOffset != null) {
@@ -257,7 +262,7 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
           spreadIdx: current,
           startOffset: commentPopover.startOffset,
           endOffset: commentPopover.endOffset,
-          color: "yellow",
+          color: "blue",
           comment,
         });
       }
@@ -275,6 +280,14 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
     setTooltip(null);
     window.getSelection()?.removeAllRanges();
   }, [tooltip, remove]);
+
+  const handleDeleteFromComment = useCallback(async () => {
+    if (commentPopover?.annotationId) {
+      await remove(commentPopover.annotationId);
+    }
+    setCommentPopover(null);
+    setTooltip(null);
+  }, [commentPopover, remove]);
 
   const spread = spreads[current];
   const canPrev = current > 0;
@@ -381,6 +394,7 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
               rect={commentPopover.rect}
               initialComment={commentPopover.initialComment}
               onSave={handleSaveComment}
+              onDelete={commentPopover.annotationId ? handleDeleteFromComment : undefined}
               onClose={() => setCommentPopover(null)}
             />
           )}
@@ -597,6 +611,11 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
         }
         .reader-text mark[data-color="green"] {
           background: rgba(34, 197, 94, 0.3);
+          border-radius: 2px;
+          cursor: pointer;
+        }
+        .reader-text mark[data-color="blue"] {
+          background: rgba(59, 130, 246, 0.3);
           border-radius: 2px;
           cursor: pointer;
         }
