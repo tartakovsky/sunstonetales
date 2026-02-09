@@ -672,6 +672,9 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
         }
 
         /* ── Annotation highlights ── */
+        .reader-text mark {
+          color: inherit;
+        }
         .reader-text mark[data-color="red"] {
           background: rgba(239, 68, 68, 0.3);
           border-radius: 2px;
