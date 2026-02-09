@@ -1,7 +1,9 @@
 import type React from "react";
 
+import Image from "next/image";
 import Link from "next/link";
 
+import { AspectRatio } from "@/components/ui/aspect-ratio";
 import { stories, categoryLabels } from "@/content/stories";
 import type { Locale } from "@/lib/i18n";
 
@@ -24,7 +26,7 @@ export default async function StoriesIndexPage({
   return (
     <main className="bg-background section-padding-y">
       <div className="container-padding-x mx-auto max-w-7xl">
-        <div className="mx-auto flex max-w-4xl flex-col gap-10">
+        <div className="mx-auto flex flex-col gap-10">
           <header className="flex flex-col gap-4">
             <h1 className="heading-lg text-foreground">
               {locale === "ru" ? "Истории" : "Stories"}
@@ -36,7 +38,7 @@ export default async function StoriesIndexPage({
             </p>
           </header>
 
-          <section className="flex flex-col gap-4" aria-label="Stories">
+          <section className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3" aria-label="Stories">
             {available.map((s) => {
               const localeMeta = s.locales[locale]?.meta;
               if (!localeMeta) return null;
@@ -48,18 +50,37 @@ export default async function StoriesIndexPage({
                 <Link
                   key={s.meta.slug}
                   href={`${prefix}/stories/${s.meta.categorySlug}/${s.meta.slug}`}
-                  className="rounded-xl border bg-card p-5 transition-colors hover:bg-accent"
+                  className="group flex flex-col gap-4 rounded-xl border bg-card p-4 text-card-foreground transition-colors hover:bg-accent"
                 >
+                  <div className="relative overflow-hidden rounded-lg border">
+                    <AspectRatio ratio={8 / 10}>
+                      {typeof localeMeta.coverImage === "string" &&
+                      localeMeta.coverImage.length > 0 ? (
+                        <Image
+                          src={localeMeta.coverImage}
+                          alt={localeMeta.title}
+                          fill
+                          className="object-cover"
+                          sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
+                        />
+                      ) : (
+                        <div className="flex h-full w-full items-center justify-center bg-muted">
+                          <span className="text-4xl">📖</span>
+                        </div>
+                      )}
+                    </AspectRatio>
+                  </div>
+
                   <div className="flex flex-col gap-2">
-                    <div className="text-muted-foreground text-sm">
+                    <div className="text-xs font-medium text-muted-foreground">
                       {catLabel} · {localeMeta.date}
                     </div>
-                    <div className="text-foreground text-xl font-semibold">
+                    <h3 className="text-lg font-semibold text-foreground">
                       {localeMeta.title}
-                    </div>
-                    <div className="text-muted-foreground">
+                    </h3>
+                    <p className="text-sm leading-6 text-muted-foreground line-clamp-3">
                       {localeMeta.description}
-                    </div>
+                    </p>
                   </div>
                 </Link>
               );
