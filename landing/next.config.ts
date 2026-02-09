@@ -17,9 +17,6 @@ const nextConfig: NextConfig = {
   // Required for standalone output on Railway
   output: "standalone",
 
-  // Ensure postgres driver is bundled correctly for standalone
-  serverExternalPackages: ["postgres"],
-
   // Silence "workspace root" warnings when multiple lockfiles exist elsewhere.
   outputFileTracingRoot: __dirname,
 
