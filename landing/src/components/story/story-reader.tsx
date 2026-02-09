@@ -88,15 +88,13 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
     initialComment?: string | undefined;
   } | null>(null);
 
-  // Right-click on selected text → show annotation tooltip instead of browser menu
+  // Desktop: right-click on selected text → annotation tooltip
   const onContextMenu = useCallback(
     (e: React.MouseEvent) => {
-      // Only intercept on desktop — don't hijack mobile long-press
       if (!window.matchMedia("(pointer: fine)").matches) return;
       if (!textEl) return;
       const sel = getSelectionOffsets(textEl);
-      if (!sel) return; // No selection — let browser show default context menu
-
+      if (!sel) return;
       e.preventDefault();
       setTooltip({
         rect: sel.rect,
@@ -106,6 +104,33 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
     },
     [textEl],
   );
+
+  // Mobile: show toolbar when selection settles (no preventDefault, native UI untouched)
+  useEffect(() => {
+    if (window.matchMedia("(pointer: fine)").matches) return;
+    if (!textEl) return;
+
+    let timeout: ReturnType<typeof setTimeout>;
+    function onSelectionChange() {
+      clearTimeout(timeout);
+      timeout = setTimeout(() => {
+        if (!textEl) return;
+        const sel = getSelectionOffsets(textEl);
+        if (!sel) return;
+        setTooltip({
+          rect: sel.rect,
+          startOffset: sel.startOffset,
+          endOffset: sel.endOffset,
+        });
+      }, 300);
+    }
+
+    document.addEventListener("selectionchange", onSelectionChange);
+    return () => {
+      document.removeEventListener("selectionchange", onSelectionChange);
+      clearTimeout(timeout);
+    };
+  }, [textEl]);
 
   useEffect(() => {
     if (!contentRef.current) return;
