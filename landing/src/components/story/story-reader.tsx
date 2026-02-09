@@ -10,6 +10,11 @@ import {
 import Link from "next/link";
 import { ChevronLeft, ChevronRight, ArrowLeft } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { useAnnotations } from "./annotations/use-annotations";
+import { useTextSelection } from "./annotations/use-text-selection";
+import { AnnotationTooltip } from "./annotations/annotation-tooltip";
+import { CommentPopover } from "./annotations/comment-popover";
+import type { Annotation } from "./annotations/types";
 
 interface Spread {
   imageHtml: string | null;
@@ -54,13 +59,38 @@ interface StoryReaderProps {
   title: string;
   backHref: string;
   backLabel: string;
+  storySlug: string;
+  locale: string;
 }
 
-export function StoryReader({ children, title, backHref, backLabel }: StoryReaderProps) {
+export function StoryReader({ children, title, backHref, backLabel, storySlug, locale }: StoryReaderProps) {
   const contentRef = useRef<HTMLDivElement>(null);
+  const textRef = useRef<HTMLDivElement>(null);
   const [spreads, setSpreads] = useState<Spread[]>([]);
   const [current, setCurrent] = useState(0);
   const touchStartRef = useRef({ x: 0, y: 0 });
+
+  // Annotation system
+  const { annotations, create, update, remove, getHighlightedHtml } = useAnnotations(storySlug, locale);
+  const { selection, clearSelection } = useTextSelection(textRef);
+
+  // Tooltip state
+  const [tooltip, setTooltip] = useState<{
+    rect: DOMRect;
+    existingAnnotation?: Annotation;
+  } | null>(null);
+  const [commentPopover, setCommentPopover] = useState<{
+    rect: DOMRect;
+    annotationId?: string | undefined;
+    initialComment?: string | undefined;
+  } | null>(null);
+
+  // Show tooltip when text is selected
+  useEffect(() => {
+    if (selection && !commentPopover) {
+      setTooltip({ rect: selection.rect });
+    }
+  }, [selection, commentPopover]);
 
   useEffect(() => {
     if (!contentRef.current) return;
@@ -88,12 +118,21 @@ export function StoryReader({ children, title, backHref, backLabel }: StoryReade
         if (next < 0 || next >= spreads.length) return c;
         return next;
       });
+      setTooltip(null);
+      setCommentPopover(null);
+      clearSelection();
     },
-    [spreads.length],
+    [spreads.length, clearSelection],
   );
 
   useEffect(() => {
     function onKey(e: KeyboardEvent) {
+      if (e.key === "Escape") {
+        setTooltip(null);
+        setCommentPopover(null);
+        clearSelection();
+        return;
+      }
       if (e.key === "ArrowRight" || e.key === " ") {
         e.preventDefault();
         go(1);
@@ -105,11 +144,103 @@ export function StoryReader({ children, title, backHref, backLabel }: StoryReade
     }
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [go]);
+  }, [go, clearSelection]);
+
+  // Handle clicks on existing highlights
+  const onTextClick = useCallback(
+    (e: React.MouseEvent) => {
+      const mark = (e.target as HTMLElement).closest("mark[data-annotation-id]");
+      if (!mark) return;
+
+      const annotationId = mark.getAttribute("data-annotation-id");
+      const ann = annotations.find((a) => a.id === annotationId);
+      if (!ann) return;
+
+      const rect = mark.getBoundingClientRect();
+
+      // If it has a comment, show the comment popover
+      if (ann.comment) {
+        setCommentPopover({
+          rect,
+          annotationId: ann.id,
+          initialComment: ann.comment,
+        });
+        setTooltip(null);
+      } else {
+        // Show tooltip for editing
+        setTooltip({ rect, existingAnnotation: ann });
+      }
+    },
+    [annotations],
+  );
+
+  // Annotation actions
+  const handleColorPick = useCallback(
+    async (color: "red" | "yellow" | "green") => {
+      if (tooltip?.existingAnnotation) {
+        await update(tooltip.existingAnnotation.id, { color });
+      } else if (selection) {
+        await create({
+          spreadIdx: current,
+          startOffset: selection.startOffset,
+          endOffset: selection.endOffset,
+          color,
+        });
+      }
+      setTooltip(null);
+      clearSelection();
+      window.getSelection()?.removeAllRanges();
+    },
+    [tooltip, selection, current, create, update, clearSelection],
+  );
+
+  const handleOpenComment = useCallback(() => {
+    const rect = tooltip?.rect || selection?.rect;
+    if (!rect) return;
+
+    setCommentPopover({
+      rect,
+      annotationId: tooltip?.existingAnnotation?.id,
+      initialComment: tooltip?.existingAnnotation?.comment || "",
+    });
+    setTooltip(null);
+  }, [tooltip, selection]);
+
+  const handleSaveComment = useCallback(
+    async (comment: string) => {
+      if (commentPopover?.annotationId) {
+        await update(commentPopover.annotationId, { comment });
+      } else if (selection) {
+        await create({
+          spreadIdx: current,
+          startOffset: selection.startOffset,
+          endOffset: selection.endOffset,
+          color: "yellow",
+          comment,
+        });
+      }
+      setCommentPopover(null);
+      setTooltip(null);
+      clearSelection();
+      window.getSelection()?.removeAllRanges();
+    },
+    [commentPopover, selection, current, create, update, clearSelection],
+  );
+
+  const handleDelete = useCallback(async () => {
+    if (tooltip?.existingAnnotation) {
+      await remove(tooltip.existingAnnotation.id);
+    }
+    setTooltip(null);
+    clearSelection();
+  }, [tooltip, remove, clearSelection]);
 
   const spread = spreads[current];
   const canPrev = current > 0;
   const canNext = current < spreads.length - 1;
+
+  // Apply highlights to current spread text
+  const highlightedTextHtml = spread ? getHighlightedHtml(spread.textHtml, current) : "";
 
   return (
     <>
@@ -182,10 +313,38 @@ export function StoryReader({ children, title, backHref, backLabel }: StoryReade
               />
             )}
             <div
+              ref={textRef}
               className={`reader-text ${spread.imageHtml ? "" : "full"}`}
-              dangerouslySetInnerHTML={{ __html: spread.textHtml }}
+              dangerouslySetInnerHTML={{ __html: highlightedTextHtml }}
+              onClick={onTextClick}
             />
           </div>
+
+          {/* Annotation tooltip */}
+          {tooltip && (
+            <AnnotationTooltip
+              rect={tooltip.rect}
+              existingColor={tooltip.existingAnnotation?.color}
+              existingAnnotationId={tooltip.existingAnnotation?.id}
+              onColorPick={handleColorPick}
+              onComment={handleOpenComment}
+              onDelete={tooltip.existingAnnotation ? handleDelete : undefined}
+              onClose={() => {
+                setTooltip(null);
+                clearSelection();
+              }}
+            />
+          )}
+
+          {/* Comment popover */}
+          {commentPopover && (
+            <CommentPopover
+              rect={commentPopover.rect}
+              initialComment={commentPopover.initialComment}
+              onSave={handleSaveComment}
+              onClose={() => setCommentPopover(null)}
+            />
+          )}
 
           {/* Desktop hover zones */}
           {canPrev && (
@@ -384,6 +543,26 @@ export function StoryReader({ children, title, backHref, backLabel }: StoryReade
 
         .reader-text img {
           display: none;
+        }
+
+        /* ── Annotation highlights ── */
+        .reader-text mark[data-color="red"] {
+          background: rgba(239, 68, 68, 0.3);
+          border-radius: 2px;
+          cursor: pointer;
+        }
+        .reader-text mark[data-color="yellow"] {
+          background: rgba(234, 179, 8, 0.3);
+          border-radius: 2px;
+          cursor: pointer;
+        }
+        .reader-text mark[data-color="green"] {
+          background: rgba(34, 197, 94, 0.3);
+          border-radius: 2px;
+          cursor: pointer;
+        }
+        .reader-text mark[data-has-comment="true"] {
+          border-bottom: 2px dotted currentColor;
         }
 
         /* ── Desktop hover zones ── */

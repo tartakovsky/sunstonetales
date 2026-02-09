@@ -74,6 +74,8 @@ export default async function StoryPage({
         title={localeEntry.meta.title}
         backHref={`/${locale}/stories`}
         backLabel={locale === "ru" ? "Истории" : "Stories"}
+        storySlug={slug}
+        locale={locale}
       >
         <Story />
       </StoryReader>
