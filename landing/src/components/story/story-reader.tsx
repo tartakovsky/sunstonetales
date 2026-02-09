@@ -74,21 +74,29 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
   const { annotations, create, update, remove, getHighlightedHtml } = useAnnotations(storySlug, locale);
   const { selection, clearSelection } = useTextSelection(textEl);
 
-  // Tooltip state
+  // Tooltip state — offsets are snapshotted so they survive browser selection collapse
   const [tooltip, setTooltip] = useState<{
     rect: DOMRect;
+    startOffset?: number;
+    endOffset?: number;
     existingAnnotation?: Annotation;
   } | null>(null);
   const [commentPopover, setCommentPopover] = useState<{
     rect: DOMRect;
+    startOffset?: number;
+    endOffset?: number;
     annotationId?: string | undefined;
     initialComment?: string | undefined;
   } | null>(null);
 
-  // Show tooltip when text is selected
+  // Show tooltip when text is selected — snapshot offsets immediately
   useEffect(() => {
     if (selection && !commentPopover) {
-      setTooltip({ rect: selection.rect });
+      setTooltip({
+        rect: selection.rect,
+        startOffset: selection.startOffset,
+        endOffset: selection.endOffset,
+      });
     }
   }, [selection, commentPopover]);
 
@@ -174,16 +182,16 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
     [annotations],
   );
 
-  // Annotation actions
+  // Annotation actions — use snapshotted offsets from tooltip, not live selection
   const handleColorPick = useCallback(
     async (color: "red" | "yellow" | "green") => {
       if (tooltip?.existingAnnotation) {
         await update(tooltip.existingAnnotation.id, { color });
-      } else if (selection) {
+      } else if (tooltip?.startOffset != null && tooltip?.endOffset != null) {
         await create({
           spreadIdx: current,
-          startOffset: selection.startOffset,
-          endOffset: selection.endOffset,
+          startOffset: tooltip.startOffset,
+          endOffset: tooltip.endOffset,
           color,
         });
       }
@@ -191,30 +199,32 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
       clearSelection();
       window.getSelection()?.removeAllRanges();
     },
-    [tooltip, selection, current, create, update, clearSelection],
+    [tooltip, current, create, update, clearSelection],
   );
 
   const handleOpenComment = useCallback(() => {
-    const rect = tooltip?.rect || selection?.rect;
+    const rect = tooltip?.rect;
     if (!rect) return;
 
     setCommentPopover({
       rect,
+      ...(tooltip?.startOffset != null && { startOffset: tooltip.startOffset }),
+      ...(tooltip?.endOffset != null && { endOffset: tooltip.endOffset }),
       annotationId: tooltip?.existingAnnotation?.id,
       initialComment: tooltip?.existingAnnotation?.comment || "",
     });
     setTooltip(null);
-  }, [tooltip, selection]);
+  }, [tooltip]);
 
   const handleSaveComment = useCallback(
     async (comment: string) => {
       if (commentPopover?.annotationId) {
         await update(commentPopover.annotationId, { comment });
-      } else if (selection) {
+      } else if (commentPopover?.startOffset != null && commentPopover?.endOffset != null) {
         await create({
           spreadIdx: current,
-          startOffset: selection.startOffset,
-          endOffset: selection.endOffset,
+          startOffset: commentPopover.startOffset,
+          endOffset: commentPopover.endOffset,
           color: "yellow",
           comment,
         });
@@ -224,7 +234,7 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
       clearSelection();
       window.getSelection()?.removeAllRanges();
     },
-    [commentPopover, selection, current, create, update, clearSelection],
+    [commentPopover, current, create, update, clearSelection],
   );
 
   const handleDelete = useCallback(async () => {

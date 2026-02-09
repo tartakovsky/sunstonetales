@@ -67,12 +67,9 @@ export function useTextSelection(container: HTMLElement | null) {
       // Small delay to let browser finalize the selection
       setTimeout(() => {
         const sel = window.getSelection();
-        if (!sel || sel.isCollapsed) {
-          setSelection(null);
-          return;
-        }
+        if (!sel || sel.isCollapsed) return;
         const result = computeOffsets(sel);
-        setSelection(result);
+        if (result) setSelection(result);
       }, 10);
     }
 
