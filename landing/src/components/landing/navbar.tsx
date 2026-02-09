@@ -4,7 +4,6 @@ import type React from "react";
 
 import Link from "next/link";
 
-import { Button } from "@/components/ui/button";
 import { LanguageToggle } from "@/components/story/language-toggle";
 
 interface NavbarProps {
@@ -23,23 +22,7 @@ export function Navbar({ locale }: NavbarProps): React.JSX.Element {
           </Link>
         </div>
 
-        <div className="flex items-center justify-end gap-1">
-          <Link href={`${prefix}/stories`}>
-            <Button
-              variant="ghost"
-              className="h-9 px-3 text-sm md:h-10 md:px-4 md:text-base"
-            >
-              {locale === "ru" ? "Истории" : "Stories"}
-            </Button>
-          </Link>
-          <Link href={`${prefix}/about`}>
-            <Button
-              variant="ghost"
-              className="h-9 px-3 text-sm md:h-10 md:px-4 md:text-base"
-            >
-              {locale === "ru" ? "О нас" : "About"}
-            </Button>
-          </Link>
+        <div className="flex items-center justify-end">
           <LanguageToggle />
         </div>
       </div>
