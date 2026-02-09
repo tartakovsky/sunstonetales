@@ -91,6 +91,8 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
   // Right-click on selected text → show annotation tooltip instead of browser menu
   const onContextMenu = useCallback(
     (e: React.MouseEvent) => {
+      // Only intercept on desktop — don't hijack mobile long-press
+      if (!window.matchMedia("(pointer: fine)").matches) return;
       if (!textEl) return;
       const sel = getSelectionOffsets(textEl);
       if (!sel) return; // No selection — let browser show default context menu
