@@ -754,13 +754,23 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
         @media (max-aspect-ratio: 1/1) {
           .reader-spread {
             grid-template-columns: 1fr;
-            grid-template-rows: 40% 1fr;
-            padding: 0.5rem;
+            grid-template-rows: auto 1fr;
+            padding: 0 1.25rem;
             gap: 0.5rem;
+          }
+          .reader-image {
+            aspect-ratio: 4 / 5;
+            max-height: 45vh;
+            border-radius: 0 0 0.75rem 0.75rem;
+          }
+          .reader-image img {
+            object-fit: cover;
+            width: 100% !important;
+            height: 100% !important;
           }
           .reader-text {
             font-size: 16px;
-            padding: 0.25rem 0.6rem;
+            padding: 0.25rem 0;
           }
         }
       `}</style>
