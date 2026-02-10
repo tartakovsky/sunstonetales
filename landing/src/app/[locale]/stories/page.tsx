@@ -17,11 +17,6 @@ export default async function StoriesIndexPage({
   const prefix = locale === "ru" ? "/ru" : "";
 
   const available = stories.filter((s) => s.locales[locale] !== undefined);
-  available.sort((a, b) => {
-    const da = a.locales[locale]?.meta.date ?? "";
-    const db = b.locales[locale]?.meta.date ?? "";
-    return da < db ? 1 : -1;
-  });
 
   return (
     <main className="bg-background section-padding-y">

@@ -5,18 +5,18 @@ import { story as liskaSavesForKebab } from "./liska-saves-for-kebab";
 import { story as liskaAndTheToothyAdventure } from "./liska-and-the-toothy-adventure";
 import { story as liskaAndTheOuchyTail } from "./liska-and-the-ouchy-tail";
 import { story as liskaAndTheGameOfShadows } from "./liska-and-the-game-of-shadows";
-import { story as liskaAndTheTreasureBraid } from "./liska-and-the-treasure-braid";
+import { story as liskaAndTheGrumpyVoices } from "./liska-and-the-treasure-braid";
 import { story as liskaAndTheWishingCave } from "./liska-and-the-wishing-cave";
 
 export const stories: StoryEntry[] = [
   liskaAndTheWishingCave,
   whyLiskaIsNamedLiska,
-  liskaAndGoodMemories,
-  liskaSavesForKebab,
-  liskaAndTheToothyAdventure,
-  liskaAndTheOuchyTail,
   liskaAndTheGameOfShadows,
-  liskaAndTheTreasureBraid,
+  liskaAndGoodMemories,
+  liskaAndTheToothyAdventure,
+  liskaSavesForKebab,
+  liskaAndTheOuchyTail,
+  liskaAndTheGrumpyVoices,
 ];
 
 export const categoryLabels: Record<string, Record<string, string>> = {

@@ -3,7 +3,7 @@ import { meta as ruMeta } from "./ru/meta";
 
 export const story: StoryEntry = {
   meta: {
-    slug: "liska-and-the-treasure-braid",
+    slug: "liska-and-the-grumpy-voices",
     category: "big-feelings",
     categorySlug: "liska-big-emotions",
   },
