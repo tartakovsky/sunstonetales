@@ -529,7 +529,6 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
           grid-template-columns: 1fr auto 1fr;
           align-items: center;
           padding: 0 0.75rem;
-          border-bottom: 1px solid var(--border);
           z-index: 60;
           font-family: system-ui, -apple-system, sans-serif;
           -webkit-tap-highlight-color: transparent;
@@ -623,7 +622,7 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
           grid-template-columns: 1fr 1fr;
           align-items: stretch;
           min-height: 0;
-          padding: 0.75rem;
+          padding: 0 0.75rem 0.75rem;
           gap: 0.75rem;
         }
 
