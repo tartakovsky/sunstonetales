@@ -759,14 +759,10 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
             gap: 0.5rem;
           }
           .reader-image {
+            width: 100%;
             aspect-ratio: 4 / 5;
             max-height: 45vh;
-            border-radius: 0 0 0.75rem 0.75rem;
-          }
-          .reader-image img {
-            object-fit: cover;
-            width: 100% !important;
-            height: 100% !important;
+            border-radius: 0;
           }
           .reader-text {
             font-size: 16px;
