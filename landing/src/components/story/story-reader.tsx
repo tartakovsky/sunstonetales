@@ -200,6 +200,25 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
     [spreads.length, dismissAnnotationUI],
   );
 
+  const onSwipeStart = useCallback((e: React.TouchEvent) => {
+    const touch = e.touches[0];
+    if (!touch) return;
+    touchStartRef.current = { x: touch.clientX, y: touch.clientY };
+  }, []);
+
+  const onSwipeEnd = useCallback(
+    (e: React.TouchEvent) => {
+      const touch = e.changedTouches[0];
+      if (!touch) return;
+      const dx = touch.clientX - touchStartRef.current.x;
+      const dy = touch.clientY - touchStartRef.current.y;
+      if (Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+        go(dx < 0 ? 1 : -1);
+      }
+    },
+    [go],
+  );
+
   useEffect(() => {
     function onKey(e: KeyboardEvent) {
       if (e.key === "Escape") {
@@ -416,26 +435,8 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
               <div
                 className="reader-image"
                 dangerouslySetInnerHTML={{ __html: spread.imageHtml }}
-                onTouchStart={(e) => {
-                  const touch = e.touches[0];
-                  if (!touch) return;
-                  touchStartRef.current = {
-                    x: touch.clientX,
-                    y: touch.clientY,
-                  };
-                }}
-                onTouchEnd={(e) => {
-                  const touch = e.changedTouches[0];
-                  if (!touch) return;
-                  const dx = touch.clientX - touchStartRef.current.x;
-                  const dy = touch.clientY - touchStartRef.current.y;
-                  if (
-                    Math.abs(dx) > 60 &&
-                    Math.abs(dx) > Math.abs(dy) * 1.5
-                  ) {
-                    go(dx < 0 ? 1 : -1);
-                  }
-                }}
+                onTouchStart={onSwipeStart}
+                onTouchEnd={onSwipeEnd}
               />
             )}
             <div
@@ -444,6 +445,8 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
               dangerouslySetInnerHTML={{ __html: highlightedTextHtml }}
               onClick={onTextClick}
               onContextMenu={onContextMenu}
+              onTouchStart={onSwipeStart}
+              onTouchEnd={onSwipeEnd}
             />
           </div>
 
@@ -762,7 +765,7 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
             width: 100%;
             aspect-ratio: 4 / 5;
             max-height: 45vh;
-            border-radius: 0;
+            border-radius: 0.75rem;
           }
           .reader-text {
             font-size: 16px;
