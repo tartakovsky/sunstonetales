@@ -16,7 +16,7 @@ export function StoryGrid({ locale }: StoryGridProps): React.JSX.Element {
   const available = stories.filter((s) => s.locales[locale] !== undefined);
 
   return (
-    <div className="grid grid-cols-2 gap-4 sm:gap-6 lg:grid-cols-3">
+    <div className="grid grid-cols-1 gap-6 min-[480px]:grid-cols-2 lg:grid-cols-3">
       {available.map((story) => {
         const localeMeta = story.locales[locale]?.meta;
         if (!localeMeta) return null;
