@@ -196,8 +196,9 @@ export function StoryReader({ children, title, backHref, backLabel, storySlug, l
         return next;
       });
       dismissAnnotationUI();
+      if (textEl) textEl.scrollTop = 0;
     },
-    [spreads.length, dismissAnnotationUI],
+    [spreads.length, dismissAnnotationUI, textEl],
   );
 
   const onSwipeStart = useCallback((e: React.TouchEvent) => {
