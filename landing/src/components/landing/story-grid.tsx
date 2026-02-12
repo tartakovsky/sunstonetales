@@ -26,7 +26,7 @@ export function StoryGrid({ locale }: StoryGridProps): React.JSX.Element {
           </h2>
         </div>
 
-        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid grid-cols-2 gap-4 sm:gap-6 lg:grid-cols-3">
           {available.map((story) => {
             const localeMeta = story.locales[locale]?.meta;
             if (!localeMeta) return null;
@@ -66,7 +66,7 @@ export function StoryGrid({ locale }: StoryGridProps): React.JSX.Element {
                   <h3 className="text-lg font-semibold text-foreground">
                     {localeMeta.title}
                   </h3>
-                  <p className="text-sm leading-6 text-muted-foreground line-clamp-3">
+                  <p className="text-sm leading-6 text-muted-foreground">
                     {localeMeta.description}
                   </p>
                 </div>

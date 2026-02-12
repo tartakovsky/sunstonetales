@@ -1,6 +1,8 @@
 import type React from "react";
 import type { Metadata } from "next";
 
+import { YandexMetricaProvider } from "next-yandex-metrica";
+
 import { Navbar } from "@/components/landing/navbar";
 import { Footer } from "@/components/landing/footer";
 import { locales, type Locale } from "@/lib/i18n";
@@ -29,9 +31,20 @@ export default async function LocaleLayout({
   return (
     <html lang={lang}>
       <body className="min-h-dvh bg-background">
-        <Navbar locale={lang} />
-        {children}
-        <Footer />
+        <YandexMetricaProvider
+          tagID={106793905}
+          initParameters={{
+            clickmap: true,
+            trackLinks: true,
+            accurateTrackBounce: true,
+            webvisor: true,
+          }}
+          router="app"
+        >
+          <Navbar locale={lang} />
+          {children}
+          <Footer />
+        </YandexMetricaProvider>
       </body>
     </html>
   );
