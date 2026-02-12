@@ -5,6 +5,7 @@ import { YandexMetricaProvider } from "next-yandex-metrica";
 
 import { Navbar } from "@/components/landing/navbar";
 import { Footer } from "@/components/landing/footer";
+import { ServiceWorkerRegister } from "@/components/sw-register";
 import { locales, type Locale } from "@/lib/i18n";
 
 export const metadata: Metadata = {
@@ -12,6 +13,9 @@ export const metadata: Metadata = {
   title: "Sunstone Tales",
   description:
     "Bedtime stories where real feelings meet real adventures. Developmentally grounded stories for ages 3-7, read aloud together.",
+  other: {
+    "apple-mobile-web-app-capable": "yes",
+  },
 };
 
 export function generateStaticParams(): { locale: string }[] {
@@ -41,6 +45,7 @@ export default async function LocaleLayout({
           }}
           router="app"
         >
+          <ServiceWorkerRegister />
           <Navbar locale={lang} />
           {children}
           <Footer />
